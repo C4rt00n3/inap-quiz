@@ -1,0 +1,127 @@
+{
+  "title": "Quiz - Atendente de Farmácia",
+  "subject": "Saúde",
+  "lesson": "Aula 3 - Doenças Frequentes",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "A tosse é um mecanismo de:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a", "text": "Defesa do organismo"},
+        {"id": "b", "text": "Digestão"},
+        {"id": "c", "text": "Circulação"},
+        {"id": "d", "text": "Produção de hormônios"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "A prisão de ventre também é chamada de:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a", "text": "Constipação"},
+        {"id": "b", "text": "Gastrite"},
+        {"id": "c", "text": "Asma"},
+        {"id": "d", "text": "Anemia"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "As micoses são causadas por:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a", "text": "Fungos"},
+        {"id": "b", "text": "Bactérias"},
+        {"id": "c", "text": "Vírus"},
+        {"id": "d", "text": "Protozoários"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "Frieiras são:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a", "text": "Tipo de micose"},
+        {"id": "b", "text": "Tipo de vírus"},
+        {"id": "c", "text": "Tipo de bactéria"},
+        {"id": "d", "text": "Tipo de alergia"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "A dor de cabeça também é chamada de:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a", "text": "Cefaleia"},
+        {"id": "b", "text": "Hipertensão"},
+        {"id": "c", "text": "Asma"},
+        {"id": "d", "text": "Gastrite"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q6",
+      "statement": "Uma causa comum de dor de cabeça é:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a", "text": "Estresse"},
+        {"id": "b", "text": "Excesso de água"},
+        {"id": "c", "text": "Muito descanso"},
+        {"id": "d", "text": "Baixo consumo de oxigênio"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Para prevenir micoses é importante:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a", "text": "Manter boa higiene"},
+        {"id": "b", "text": "Evitar banho"},
+        {"id": "c", "text": "Compartilhar toalhas"},
+        {"id": "d", "text": "Usar sapatos molhados"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "A tosse produtiva apresenta:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a", "text": "Catarro"},
+        {"id": "b", "text": "Sangue"},
+        {"id": "c", "text": "Ar"},
+        {"id": "d", "text": "Nada"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q9",
+      "statement": "Uma boa hidratação ajuda a:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a", "text": "Melhorar sintomas de tosse"},
+        {"id": "b", "text": "Piorar doenças"},
+        {"id": "c", "text": "Diminuir respiração"},
+        {"id": "d", "text": "Aumentar febre"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q10",
+      "statement": "O atendente deve orientar o cliente a:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a", "text": "Seguir orientação médica"},
+        {"id": "b", "text": "Tomar qualquer remédio"},
+        {"id": "c", "text": "Misturar medicamentos"},
+        {"id": "d", "text": "Ignorar sintomas"}
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

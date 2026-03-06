@@ -1,0 +1,127 @@
+{
+  "title": "Quiz - Atendente de Farmácia",
+  "subject": "Farmácia",
+  "lesson": "Aula 7 - Atendimento ao Cliente",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Um bom atendimento começa com:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a","text": "Cumprimentar o cliente"},
+        {"id": "b","text": "Ignorar o cliente"},
+        {"id": "c","text": "Falar alto"},
+        {"id": "d","text": "Virar as costas"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Ouvir o cliente é importante para:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a","text": "Entender sua necessidade"},
+        {"id": "b","text": "Ignorar pedidos"},
+        {"id": "c","text": "Falar mais"},
+        {"id": "d","text": "Evitar vendas"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Empatia significa:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a","text": "Colocar-se no lugar do outro"},
+        {"id": "b","text": "Ignorar pessoas"},
+        {"id": "c","text": "Falar rápido"},
+        {"id": "d","text": "Evitar clientes"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "Boa comunicação deve ser:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a","text": "Clara e educada"},
+        {"id": "b","text": "Confusa"},
+        {"id": "c","text": "Grosseira"},
+        {"id": "d","text": "Silenciosa"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "Reclamações devem ser:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a","text": "Ouvidas com atenção"},
+        {"id": "b","text": "Ignoradas"},
+        {"id": "c","text": "Ridicularizadas"},
+        {"id": "d","text": "Rejeitadas"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q6",
+      "statement": "Um cliente satisfeito tende a:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a","text": "Voltar à farmácia"},
+        {"id": "b","text": "Nunca mais voltar"},
+        {"id": "c","text": "Evitar o local"},
+        {"id": "d","text": "Reclamar sempre"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "O atendente deve manter:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a","text": "Postura profissional"},
+        {"id": "b","text": "Desorganização"},
+        {"id": "c","text": "Desinteresse"},
+        {"id": "d","text": "Falta de respeito"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Sorrir durante o atendimento demonstra:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a","text": "Cordialidade"},
+        {"id": "b","text": "Desprezo"},
+        {"id": "c","text": "Impaciência"},
+        {"id": "d","text": "Indiferença"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q9",
+      "statement": "Respeito ao cliente é:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a","text": "Fundamental no atendimento"},
+        {"id": "b","text": "Opcional"},
+        {"id": "c","text": "Desnecessário"},
+        {"id": "d","text": "Raro"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q10",
+      "statement": "O objetivo do atendimento é:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a","text": "Ajudar e orientar o cliente"},
+        {"id": "b","text": "Ignorar dúvidas"},
+        {"id": "c","text": "Criar confusão"},
+        {"id": "d","text": "Evitar perguntas"}
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

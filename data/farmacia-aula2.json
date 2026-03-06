@@ -1,0 +1,127 @@
+{
+  "title": "Quiz - Atendente de Farmácia",
+  "subject": "Saúde",
+  "lesson": "Aula 2 - Anatomia Humana",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "A anatomia humana estuda:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a", "text": "A estrutura do corpo humano"},
+        {"id": "b", "text": "Apenas doenças"},
+        {"id": "c", "text": "Apenas medicamentos"},
+        {"id": "d", "text": "Apenas exercícios"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "O sistema circulatório é responsável por:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a", "text": "Transportar sangue pelo corpo"},
+        {"id": "b", "text": "Produzir hormônios"},
+        {"id": "c", "text": "Realizar digestão"},
+        {"id": "d", "text": "Controlar músculos"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "O coração pertence ao sistema:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a", "text": "Circulatório"},
+        {"id": "b", "text": "Digestivo"},
+        {"id": "c", "text": "Respiratório"},
+        {"id": "d", "text": "Nervoso"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "O sistema respiratório está relacionado com:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a", "text": "Respiração"},
+        {"id": "b", "text": "Digestão"},
+        {"id": "c", "text": "Circulação"},
+        {"id": "d", "text": "Locomoção"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "Os pulmões são responsáveis por:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a", "text": "Troca de gases"},
+        {"id": "b", "text": "Digestão"},
+        {"id": "c", "text": "Produção de sangue"},
+        {"id": "d", "text": "Produção de hormônios"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q6",
+      "statement": "O sistema digestivo é responsável por:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a", "text": "Processar alimentos"},
+        {"id": "b", "text": "Controlar respiração"},
+        {"id": "c", "text": "Transportar sangue"},
+        {"id": "d", "text": "Controlar nervos"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "O cérebro pertence ao sistema:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a", "text": "Nervoso"},
+        {"id": "b", "text": "Digestivo"},
+        {"id": "c", "text": "Circulatório"},
+        {"id": "d", "text": "Respiratório"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "O sistema nervoso controla:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a", "text": "As funções do corpo"},
+        {"id": "b", "text": "Apenas digestão"},
+        {"id": "c", "text": "Apenas circulação"},
+        {"id": "d", "text": "Apenas respiração"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q9",
+      "statement": "Os ossos fazem parte do sistema:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a", "text": "Esquelético"},
+        {"id": "b", "text": "Respiratório"},
+        {"id": "c", "text": "Digestivo"},
+        {"id": "d", "text": "Circulatório"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q10",
+      "statement": "O corpo humano é formado por vários:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a", "text": "Sistemas"},
+        {"id": "b", "text": "Máquinas"},
+        {"id": "c", "text": "Motores"},
+        {"id": "d", "text": "Circuitos"}
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

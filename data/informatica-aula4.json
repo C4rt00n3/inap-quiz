@@ -1,0 +1,127 @@
+{
+  "title": "Quiz - Introdução à Informática",
+  "subject": "Informática",
+  "lesson": "Aula 4 - Internet",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "A internet é:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a", "text": "Uma rede mundial de computadores"},
+        {"id": "b", "text": "Um programa"},
+        {"id": "c", "text": "Um hardware"},
+        {"id": "d", "text": "Um antivírus"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Para acessar sites usamos:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a", "text": "Navegador"},
+        {"id": "b", "text": "Processador"},
+        {"id": "c", "text": "Memória RAM"},
+        {"id": "d", "text": "HD"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Qual destes é um navegador?",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a", "text": "Google Chrome"},
+        {"id": "b", "text": "Windows"},
+        {"id": "c", "text": "Linux"},
+        {"id": "d", "text": "Excel"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "Um site é identificado por:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a", "text": "URL"},
+        {"id": "b", "text": "RAM"},
+        {"id": "c", "text": "CPU"},
+        {"id": "d", "text": "BIOS"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "WWW significa:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a", "text": "World Wide Web"},
+        {"id": "b", "text": "World Web Window"},
+        {"id": "c", "text": "Wide World Window"},
+        {"id": "d", "text": "Web World Wide"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q6",
+      "statement": "Qual destes é um serviço da internet?",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a", "text": "E-mail"},
+        {"id": "b", "text": "Mouse"},
+        {"id": "c", "text": "Teclado"},
+        {"id": "d", "text": "Monitor"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Download significa:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a", "text": "Baixar arquivos"},
+        {"id": "b", "text": "Apagar arquivos"},
+        {"id": "c", "text": "Editar arquivos"},
+        {"id": "d", "text": "Criar arquivos"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Upload significa:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a", "text": "Enviar arquivos"},
+        {"id": "b", "text": "Apagar arquivos"},
+        {"id": "c", "text": "Formatar computador"},
+        {"id": "d", "text": "Editar arquivos"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q9",
+      "statement": "Pesquisar na internet pode ser feito com:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a", "text": "Google"},
+        {"id": "b", "text": "Word"},
+        {"id": "c", "text": "Excel"},
+        {"id": "d", "text": "Paint"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q10",
+      "statement": "A internet permite:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a", "text": "Compartilhar informações"},
+        {"id": "b", "text": "Apenas jogar"},
+        {"id": "c", "text": "Somente imprimir"},
+        {"id": "d", "text": "Somente armazenar"}
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

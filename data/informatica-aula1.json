@@ -1,0 +1,127 @@
+{
+  "title": "Quiz - Introdução à Informática",
+  "subject": "Informática",
+  "lesson": "Aula 1 - Conceitos Básicos de Informática",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "O que é informática?",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a", "text": "Ciência que estuda o tratamento automático da informação"},
+        {"id": "b", "text": "Uso exclusivo da internet"},
+        {"id": "c", "text": "Apenas o estudo de hardware"},
+        {"id": "d", "text": "Programa de computador"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Qual equipamento é considerado o cérebro do computador?",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a", "text": "Monitor"},
+        {"id": "b", "text": "CPU"},
+        {"id": "c", "text": "Teclado"},
+        {"id": "d", "text": "Mouse"}
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q3",
+      "statement": "Qual dispositivo é usado para digitar textos no computador?",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a", "text": "Mouse"},
+        {"id": "b", "text": "Monitor"},
+        {"id": "c", "text": "Teclado"},
+        {"id": "d", "text": "Impressora"}
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q4",
+      "statement": "O monitor é um dispositivo de:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a", "text": "Entrada"},
+        {"id": "b", "text": "Processamento"},
+        {"id": "c", "text": "Saída"},
+        {"id": "d", "text": "Armazenamento"}
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Qual dispositivo permite mover o cursor na tela?",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a", "text": "Mouse"},
+        {"id": "b", "text": "Monitor"},
+        {"id": "c", "text": "Impressora"},
+        {"id": "d", "text": "Scanner"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q6",
+      "statement": "Qual componente executa cálculos e processa dados?",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a", "text": "Processador"},
+        {"id": "b", "text": "Mouse"},
+        {"id": "c", "text": "Teclado"},
+        {"id": "d", "text": "Monitor"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Qual dispositivo imprime documentos?",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a", "text": "Impressora"},
+        {"id": "b", "text": "Mouse"},
+        {"id": "c", "text": "Monitor"},
+        {"id": "d", "text": "HD"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Qual destes é um dispositivo de armazenamento?",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a", "text": "HD"},
+        {"id": "b", "text": "Mouse"},
+        {"id": "c", "text": "Teclado"},
+        {"id": "d", "text": "Monitor"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q9",
+      "statement": "Qual dispositivo pode armazenar e transportar arquivos?",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a", "text": "Pendrive"},
+        {"id": "b", "text": "Monitor"},
+        {"id": "c", "text": "Mouse"},
+        {"id": "d", "text": "Teclado"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q10",
+      "statement": "Qual componente armazena dados temporariamente durante o uso do computador?",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a", "text": "Memória RAM"},
+        {"id": "b", "text": "Impressora"},
+        {"id": "c", "text": "Mouse"},
+        {"id": "d", "text": "Scanner"}
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

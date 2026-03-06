@@ -1,0 +1,127 @@
+{
+  "title": "Quiz - Atendente de Farmácia",
+  "subject": "Farmácia",
+  "lesson": "Aula 10 - Ética Profissional",
+  "questions": [
+    {
+      "id":"q1",
+      "statement":"Ética profissional significa:",
+      "difficulty":"facil",
+      "options":[
+        {"id":"a","text":"Agir com responsabilidade e respeito"},
+        {"id":"b","text":"Ignorar regras"},
+        {"id":"c","text":"Buscar lucro apenas"},
+        {"id":"d","text":"Desrespeitar clientes"}
+      ],
+      "correctOptionId":"a"
+    },
+    {
+      "id":"q2",
+      "statement":"Sigilo profissional significa:",
+      "difficulty":"medio",
+      "options":[
+        {"id":"a","text":"Guardar informações do cliente"},
+        {"id":"b","text":"Divulgar dados"},
+        {"id":"c","text":"Contar para colegas"},
+        {"id":"d","text":"Publicar na internet"}
+      ],
+      "correctOptionId":"a"
+    },
+    {
+      "id":"q3",
+      "statement":"O atendente deve respeitar:",
+      "difficulty":"facil",
+      "options":[
+        {"id":"a","text":"Clientes e colegas"},
+        {"id":"b","text":"Somente gerentes"},
+        {"id":"c","text":"Somente médicos"},
+        {"id":"d","text":"Ninguém"}
+      ],
+      "correctOptionId":"a"
+    },
+    {
+      "id":"q4",
+      "statement":"Postura profissional inclui:",
+      "difficulty":"facil",
+      "options":[
+        {"id":"a","text":"Educação"},
+        {"id":"b","text":"Grosseria"},
+        {"id":"c","text":"Desinteresse"},
+        {"id":"d","text":"Desorganização"}
+      ],
+      "correctOptionId":"a"
+    },
+    {
+      "id":"q5",
+      "statement":"Cumprir normas da farmácia é:",
+      "difficulty":"medio",
+      "options":[
+        {"id":"a","text":"Obrigatório"},
+        {"id":"b","text":"Opcional"},
+        {"id":"c","text":"Desnecessário"},
+        {"id":"d","text":"Raro"}
+      ],
+      "correctOptionId":"a"
+    },
+    {
+      "id":"q6",
+      "statement":"Tratar clientes com respeito demonstra:",
+      "difficulty":"facil",
+      "options":[
+        {"id":"a","text":"Profissionalismo"},
+        {"id":"b","text":"Fraqueza"},
+        {"id":"c","text":"Desorganização"},
+        {"id":"d","text":"Desinteresse"}
+      ],
+      "correctOptionId":"a"
+    },
+    {
+      "id":"q7",
+      "statement":"Mentir ao cliente é:",
+      "difficulty":"medio",
+      "options":[
+        {"id":"a","text":"Antiético"},
+        {"id":"b","text":"Aceitável"},
+        {"id":"c","text":"Normal"},
+        {"id":"d","text":"Obrigatório"}
+      ],
+      "correctOptionId":"a"
+    },
+    {
+      "id":"q8",
+      "statement":"Responsabilidade profissional inclui:",
+      "difficulty":"medio",
+      "options":[
+        {"id":"a","text":"Seguir procedimentos"},
+        {"id":"b","text":"Ignorar regras"},
+        {"id":"c","text":"Desrespeitar colegas"},
+        {"id":"d","text":"Criar conflitos"}
+      ],
+      "correctOptionId":"a"
+    },
+    {
+      "id":"q9",
+      "statement":"Pontualidade no trabalho demonstra:",
+      "difficulty":"facil",
+      "options":[
+        {"id":"a","text":"Compromisso"},
+        {"id":"b","text":"Desinteresse"},
+        {"id":"c","text":"Desorganização"},
+        {"id":"d","text":"Indisciplina"}
+      ],
+      "correctOptionId":"a"
+    },
+    {
+      "id":"q10",
+      "statement":"Ética no trabalho melhora:",
+      "difficulty":"facil",
+      "options":[
+        {"id":"a","text":"Ambiente profissional"},
+        {"id":"b","text":"Conflitos"},
+        {"id":"c","text":"Problemas"},
+        {"id":"d","text":"Desordem"}
+      ],
+      "correctOptionId":"a"
+    }
+  ]
+}

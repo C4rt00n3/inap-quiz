@@ -1,0 +1,127 @@
+{
+  "title": "Quiz - Introdução à Informática",
+  "subject": "Informática",
+  "lesson": "Aula 6 - E-mail",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "E-mail é utilizado para:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a", "text": "Enviar mensagens eletrônicas"},
+        {"id": "b", "text": "Criar programas"},
+        {"id": "c", "text": "Instalar jogos"},
+        {"id": "d", "text": "Formatar computador"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Exemplo de serviço de e-mail:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a", "text": "Gmail"},
+        {"id": "b", "text": "Excel"},
+        {"id": "c", "text": "Windows"},
+        {"id": "d", "text": "Linux"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Anexo em e-mail significa:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a", "text": "Arquivo enviado junto com a mensagem"},
+        {"id": "b", "text": "Mensagem apagada"},
+        {"id": "c", "text": "Mensagem bloqueada"},
+        {"id": "d", "text": "Mensagem privada"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "A caixa de entrada contém:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a", "text": "Mensagens recebidas"},
+        {"id": "b", "text": "Mensagens apagadas"},
+        {"id": "c", "text": "Programas"},
+        {"id": "d", "text": "Arquivos do sistema"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "Spam é:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a", "text": "Mensagem indesejada"},
+        {"id": "b", "text": "Mensagem urgente"},
+        {"id": "c", "text": "Mensagem privada"},
+        {"id": "d", "text": "Mensagem segura"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q6",
+      "statement": "Para enviar um e-mail é necessário:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a", "text": "Endereço de e-mail do destinatário"},
+        {"id": "b", "text": "Número de telefone"},
+        {"id": "c", "text": "CPF"},
+        {"id": "d", "text": "Endereço residencial"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "O campo assunto serve para:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a", "text": "Descrever o tema da mensagem"},
+        {"id": "b", "text": "Adicionar senha"},
+        {"id": "c", "text": "Excluir mensagem"},
+        {"id": "d", "text": "Bloquear e-mail"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Responder um e-mail significa:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a", "text": "Enviar resposta ao remetente"},
+        {"id": "b", "text": "Excluir mensagem"},
+        {"id": "c", "text": "Encerrar conta"},
+        {"id": "d", "text": "Salvar arquivo"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q9",
+      "statement": "Encaminhar um e-mail significa:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a", "text": "Enviar mensagem recebida para outra pessoa"},
+        {"id": "b", "text": "Excluir mensagem"},
+        {"id": "c", "text": "Editar mensagem"},
+        {"id": "d", "text": "Apagar conta"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q10",
+      "statement": "Boa prática ao usar e-mail é:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a", "text": "Evitar abrir anexos desconhecidos"},
+        {"id": "b", "text": "Abrir todos os anexos"},
+        {"id": "c", "text": "Compartilhar senha"},
+        {"id": "d", "text": "Ignorar segurança"}
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

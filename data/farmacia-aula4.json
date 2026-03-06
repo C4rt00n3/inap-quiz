@@ -1,0 +1,127 @@
+{
+  "title": "Quiz - Atendente de Farmácia",
+  "subject": "Farmácia",
+  "lesson": "Aula 4 - Armazenamento de Medicamentos",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Medicamentos devem ser armazenados em locais:",
+      "difficulty": "facil",
+      "options": [
+        {"id":"a","text":"Limpos e organizados"},
+        {"id":"b","text":"Molhados"},
+        {"id":"c","text":"Ao sol"},
+        {"id":"d","text":"No chão"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "A exposição ao calor pode:",
+      "difficulty": "medio",
+      "options": [
+        {"id":"a","text":"Melhorar o medicamento"},
+        {"id":"b","text":"Alterar sua eficácia"},
+        {"id":"c","text":"Não causar efeito"},
+        {"id":"d","text":"Aumentar validade"}
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q3",
+      "statement": "Medicamentos devem ficar longe de:",
+      "difficulty": "facil",
+      "options": [
+        {"id":"a","text":"Umidade"},
+        {"id":"b","text":"Prateleiras"},
+        {"id":"c","text":"Caixas"},
+        {"id":"d","text":"Organização"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "O controle de estoque ajuda a:",
+      "difficulty": "medio",
+      "options": [
+        {"id":"a","text":"Evitar falta de medicamentos"},
+        {"id":"b","text":"Criar bagunça"},
+        {"id":"c","text":"Diminuir vendas"},
+        {"id":"d","text":"Misturar produtos"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "Medicamentos vencidos devem ser:",
+      "difficulty": "facil",
+      "options": [
+        {"id":"a","text":"Descartados corretamente"},
+        {"id":"b","text":"Vendidos com desconto"},
+        {"id":"c","text":"Misturados ao estoque"},
+        {"id":"d","text":"Guardados indefinidamente"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q6",
+      "statement": "Medicamentos refrigerados devem ser guardados:",
+      "difficulty": "medio",
+      "options": [
+        {"id":"a","text":"Na geladeira apropriada"},
+        {"id":"b","text":"No freezer"},
+        {"id":"c","text":"Ao sol"},
+        {"id":"d","text":"Na prateleira comum"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "A organização das prateleiras facilita:",
+      "difficulty": "facil",
+      "options": [
+        {"id":"a","text":"Localização dos medicamentos"},
+        {"id":"b","text":"Desorganização"},
+        {"id":"c","text":"Confusão"},
+        {"id":"d","text":"Erros"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Produtos devem ser organizados por:",
+      "difficulty": "medio",
+      "options": [
+        {"id":"a","text":"Categoria e validade"},
+        {"id":"b","text":"Cor"},
+        {"id":"c","text":"Tamanho"},
+        {"id":"d","text":"Formato"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q9",
+      "statement": "Temperatura inadequada pode:",
+      "difficulty": "medio",
+      "options": [
+        {"id":"a","text":"Comprometer o medicamento"},
+        {"id":"b","text":"Melhorar eficácia"},
+        {"id":"c","text":"Aumentar validade"},
+        {"id":"d","text":"Não causar efeito"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q10",
+      "statement": "Controle de validade é importante para:",
+      "difficulty": "facil",
+      "options": [
+        {"id":"a","text":"Segurança do paciente"},
+        {"id":"b","text":"Aumentar preço"},
+        {"id":"c","text":"Reduzir vendas"},
+        {"id":"d","text":"Criar estoque"}
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

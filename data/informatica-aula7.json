@@ -1,0 +1,127 @@
+{
+  "title": "Quiz - Introdução à Informática",
+  "subject": "Informática",
+  "lesson": "Aula 7 - Navegadores",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Um navegador serve para:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a", "text": "Acessar sites na internet"},
+        {"id": "b", "text": "Criar programas"},
+        {"id": "c", "text": "Editar imagens"},
+        {"id": "d", "text": "Instalar hardware"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Qual destes é um navegador?",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a", "text": "Mozilla Firefox"},
+        {"id": "b", "text": "Excel"},
+        {"id": "c", "text": "Word"},
+        {"id": "d", "text": "PowerPoint"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "A barra de endereço serve para:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a", "text": "Digitar o endereço do site"},
+        {"id": "b", "text": "Salvar arquivos"},
+        {"id": "c", "text": "Criar pastas"},
+        {"id": "d", "text": "Enviar e-mails"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "Favoritos servem para:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a", "text": "Salvar sites para acesso rápido"},
+        {"id": "b", "text": "Excluir páginas"},
+        {"id": "c", "text": "Criar vírus"},
+        {"id": "d", "text": "Apagar histórico"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "Atualizar página significa:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a", "text": "Recarregar o site"},
+        {"id": "b", "text": "Apagar site"},
+        {"id": "c", "text": "Salvar página"},
+        {"id": "d", "text": "Fechar navegador"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q6",
+      "statement": "Abrir nova aba permite:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a", "text": "Abrir outro site no mesmo navegador"},
+        {"id": "b", "text": "Desligar internet"},
+        {"id": "c", "text": "Excluir histórico"},
+        {"id": "d", "text": "Fechar navegador"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "O histórico do navegador mostra:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a", "text": "Sites visitados"},
+        {"id": "b", "text": "Arquivos do computador"},
+        {"id": "c", "text": "Programas instalados"},
+        {"id": "d", "text": "Configurações do sistema"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Modo anônimo serve para:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a", "text": "Navegar sem salvar histórico"},
+        {"id": "b", "text": "Excluir vírus"},
+        {"id": "c", "text": "Acelerar internet"},
+        {"id": "d", "text": "Formatar computador"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q9",
+      "statement": "Um navegador precisa de:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a", "text": "Internet para acessar sites"},
+        {"id": "b", "text": "Scanner"},
+        {"id": "c", "text": "Impressora"},
+        {"id": "d", "text": "Mouse gamer"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q10",
+      "statement": "Fechar aba significa:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a", "text": "Encerrar uma página aberta"},
+        {"id": "b", "text": "Apagar navegador"},
+        {"id": "c", "text": "Apagar internet"},
+        {"id": "d", "text": "Excluir sistema"}
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

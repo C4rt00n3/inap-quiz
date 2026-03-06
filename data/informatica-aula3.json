@@ -1,0 +1,127 @@
+{
+  "title": "Quiz - Introdução à Informática",
+  "subject": "Informática",
+  "lesson": "Aula 3 - Sistema Operacional",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "O que é um sistema operacional?",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a", "text": "Programa que gerencia o computador"},
+        {"id": "b", "text": "Um tipo de hardware"},
+        {"id": "c", "text": "Apenas um aplicativo"},
+        {"id": "d", "text": "Um antivírus"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Qual destes é um sistema operacional?",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a", "text": "Windows"},
+        {"id": "b", "text": "Excel"},
+        {"id": "c", "text": "Word"},
+        {"id": "d", "text": "PowerPoint"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "O sistema operacional permite:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a", "text": "Interação entre usuário e computador"},
+        {"id": "b", "text": "Apenas impressão"},
+        {"id": "c", "text": "Somente armazenamento"},
+        {"id": "d", "text": "Somente navegação"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "O Linux é um:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a", "text": "Sistema operacional"},
+        {"id": "b", "text": "Hardware"},
+        {"id": "c", "text": "Processador"},
+        {"id": "d", "text": "Editor de texto"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "O macOS pertence à empresa:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a", "text": "Apple"},
+        {"id": "b", "text": "Microsoft"},
+        {"id": "c", "text": "Google"},
+        {"id": "d", "text": "IBM"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q6",
+      "statement": "O sistema operacional controla:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a", "text": "Hardware e software"},
+        {"id": "b", "text": "Apenas teclado"},
+        {"id": "c", "text": "Somente internet"},
+        {"id": "d", "text": "Somente mouse"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "A área principal do Windows é chamada de:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a", "text": "Área de trabalho"},
+        {"id": "b", "text": "Painel de controle"},
+        {"id": "c", "text": "Navegador"},
+        {"id": "d", "text": "Sistema"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Arquivos e programas podem ser organizados em:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a", "text": "Pastas"},
+        {"id": "b", "text": "Memórias"},
+        {"id": "c", "text": "Circuitos"},
+        {"id": "d", "text": "Processos"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q9",
+      "statement": "O botão Iniciar serve para:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a", "text": "Acessar programas e configurações"},
+        {"id": "b", "text": "Desligar monitor"},
+        {"id": "c", "text": "Apagar arquivos automaticamente"},
+        {"id": "d", "text": "Abrir internet diretamente"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q10",
+      "statement": "Um exemplo de sistema operacional móvel é:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a", "text": "Android"},
+        {"id": "b", "text": "Excel"},
+        {"id": "c", "text": "Word"},
+        {"id": "d", "text": "PowerPoint"}
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

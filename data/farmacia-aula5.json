@@ -1,0 +1,127 @@
+{
+  "title": "Quiz - Atendente de Farmácia",
+  "subject": "Farmácia",
+  "lesson": "Aula 5 - Medicamentos Controlados",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Medicamentos controlados são aqueles que:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a","text": "Podem ser vendidos livremente"},
+        {"id": "b","text": "Precisam de receita médica para venda"},
+        {"id": "c","text": "São vendidos em supermercados"},
+        {"id": "d","text": "Não possuem controle"}
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q2",
+      "statement": "Qual tarja indica medicamento de controle mais rigoroso?",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a","text": "Tarja preta"},
+        {"id": "b","text": "Tarja verde"},
+        {"id": "c","text": "Tarja azul"},
+        {"id": "d","text": "Sem tarja"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Medicamentos com tarja vermelha indicam:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a","text": "Venda livre"},
+        {"id": "b","text": "Necessidade de receita médica"},
+        {"id": "c","text": "Produto natural"},
+        {"id": "d","text": "Produto veterinário"}
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Quem deve conferir receitas médicas na farmácia?",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a","text": "Farmacêutico"},
+        {"id": "b","text": "Cliente"},
+        {"id": "c","text": "Entregador"},
+        {"id": "d","text": "Caixa"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "Receitas médicas devem ser:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a","text": "Guardadas corretamente"},
+        {"id": "b","text": "Jogadas fora"},
+        {"id": "c","text": "Ignoradas"},
+        {"id": "d","text": "Devolvidas sempre"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q6",
+      "statement": "Medicamentos controlados devem ficar:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a","text": "Separados e sob controle"},
+        {"id": "b","text": "Misturados com outros"},
+        {"id": "c","text": "Na vitrine"},
+        {"id": "d","text": "No caixa"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "A venda irregular de medicamentos controlados pode causar:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a","text": "Problemas legais"},
+        {"id": "b","text": "Descontos"},
+        {"id": "c","text": "Promoções"},
+        {"id": "d","text": "Nada"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Quem regulamenta medicamentos no Brasil?",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a","text": "ANVISA"},
+        {"id": "b","text": "INSS"},
+        {"id": "c","text": "IBGE"},
+        {"id": "d","text": "Detran"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q9",
+      "statement": "Receitas devem conter:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a","text": "Nome do paciente e médico"},
+        {"id": "b","text": "Apenas o medicamento"},
+        {"id": "c","text": "Somente assinatura"},
+        {"id": "d","text": "Nada obrigatório"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q10",
+      "statement": "O atendente deve sempre:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a","text": "Seguir as normas da farmácia"},
+        {"id": "b","text": "Ignorar regras"},
+        {"id": "c","text": "Vender sem receita"},
+        {"id": "d","text": "Alterar prescrições"}
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

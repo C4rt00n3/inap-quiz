@@ -1,0 +1,127 @@
+{
+  "title": "Quiz - Introdução à Informática",
+  "subject": "Informática",
+  "lesson": "Aula 5 - Segurança na Internet",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Segurança na internet serve para:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a", "text": "Proteger dados e informações"},
+        {"id": "b", "text": "Apenas navegar mais rápido"},
+        {"id": "c", "text": "Criar programas"},
+        {"id": "d", "text": "Imprimir arquivos"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Um vírus de computador pode:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a", "text": "Prejudicar o funcionamento do computador"},
+        {"id": "b", "text": "Melhorar a velocidade do computador"},
+        {"id": "c", "text": "Criar arquivos automaticamente"},
+        {"id": "d", "text": "Atualizar programas"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Um antivírus serve para:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a", "text": "Detectar e remover vírus"},
+        {"id": "b", "text": "Criar vírus"},
+        {"id": "c", "text": "Editar documentos"},
+        {"id": "d", "text": "Instalar jogos"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "Senha segura deve ser:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a", "text": "Difícil de adivinhar"},
+        {"id": "b", "text": "Apenas números simples"},
+        {"id": "c", "text": "Data de nascimento"},
+        {"id": "d", "text": "Nome do usuário"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "Phishing é:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a", "text": "Tentativa de roubo de dados pela internet"},
+        {"id": "b", "text": "Atualização de software"},
+        {"id": "c", "text": "Download de arquivos"},
+        {"id": "d", "text": "Compartilhamento de fotos"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q6",
+      "statement": "É recomendado atualizar programas porque:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a", "text": "Corrige falhas de segurança"},
+        {"id": "b", "text": "Apaga arquivos"},
+        {"id": "c", "text": "Desliga o computador"},
+        {"id": "d", "text": "Impede uso da internet"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Compartilhar senha na internet é:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a", "text": "Perigoso"},
+        {"id": "b", "text": "Seguro"},
+        {"id": "c", "text": "Obrigatório"},
+        {"id": "d", "text": "Recomendado"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Firewall serve para:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a", "text": "Proteger a rede contra acessos não autorizados"},
+        {"id": "b", "text": "Criar documentos"},
+        {"id": "c", "text": "Editar fotos"},
+        {"id": "d", "text": "Aumentar memória"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q9",
+      "statement": "Evitar clicar em links desconhecidos ajuda a:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a", "text": "Evitar golpes"},
+        {"id": "b", "text": "Acelerar internet"},
+        {"id": "c", "text": "Melhorar hardware"},
+        {"id": "d", "text": "Instalar programas"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q10",
+      "statement": "Manter o antivírus atualizado é:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a", "text": "Importante para segurança"},
+        {"id": "b", "text": "Desnecessário"},
+        {"id": "c", "text": "Opcional"},
+        {"id": "d", "text": "Proibido"}
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

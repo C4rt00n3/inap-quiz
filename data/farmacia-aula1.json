@@ -1,0 +1,127 @@
+{
+  "title": "Quiz - Atendente de Farmácia",
+  "subject": "Saúde",
+  "lesson": "Aula 1 - Introdução ao Curso",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Qual é uma das funções do atendente de farmácia?",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a", "text": "Auxiliar no atendimento ao cliente"},
+        {"id": "b", "text": "Realizar cirurgias"},
+        {"id": "c", "text": "Prescrever medicamentos"},
+        {"id": "d", "text": "Diagnosticar doenças"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "O atendente de farmácia deve sempre:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a", "text": "Ignorar dúvidas do cliente"},
+        {"id": "b", "text": "Manter postura profissional"},
+        {"id": "c", "text": "Indicar qualquer medicamento"},
+        {"id": "d", "text": "Substituir o médico"}
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q3",
+      "statement": "A organização da farmácia é importante porque:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a", "text": "Facilita encontrar medicamentos"},
+        {"id": "b", "text": "Dificulta o atendimento"},
+        {"id": "c", "text": "Evita vendas"},
+        {"id": "d", "text": "Não tem importância"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "A ética profissional envolve:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a", "text": "Respeito e responsabilidade"},
+        {"id": "b", "text": "Desorganização"},
+        {"id": "c", "text": "Mentir ao cliente"},
+        {"id": "d", "text": "Ignorar normas"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "O atendente de farmácia trabalha principalmente com:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a", "text": "Medicamentos e clientes"},
+        {"id": "b", "text": "Máquinas industriais"},
+        {"id": "c", "text": "Veículos"},
+        {"id": "d", "text": "Ferramentas mecânicas"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q6",
+      "statement": "A comunicação com o cliente deve ser:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a", "text": "Clara e educada"},
+        {"id": "b", "text": "Confusa"},
+        {"id": "c", "text": "Ignorada"},
+        {"id": "d", "text": "Agressiva"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "O atendimento de qualidade envolve:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a", "text": "Atenção ao cliente"},
+        {"id": "b", "text": "Desinteresse"},
+        {"id": "c", "text": "Pressa"},
+        {"id": "d", "text": "Falta de cuidado"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "A responsabilidade do atendente inclui:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a", "text": "Seguir orientações da farmácia"},
+        {"id": "b", "text": "Ignorar regras"},
+        {"id": "c", "text": "Criar receitas"},
+        {"id": "d", "text": "Substituir farmacêuticos"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q9",
+      "statement": "O respeito ao cliente é:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a", "text": "Fundamental"},
+        {"id": "b", "text": "Opcional"},
+        {"id": "c", "text": "Desnecessário"},
+        {"id": "d", "text": "Irrelevante"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q10",
+      "statement": "O trabalho em equipe na farmácia é importante para:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a", "text": "Melhorar o atendimento"},
+        {"id": "b", "text": "Gerar confusão"},
+        {"id": "c", "text": "Diminuir vendas"},
+        {"id": "d", "text": "Atrasar serviços"}
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

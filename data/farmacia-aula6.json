@@ -1,0 +1,127 @@
+{
+  "title": "Quiz - Atendente de Farmácia",
+  "subject": "Farmácia",
+  "lesson": "Aula 6 - Higiene e Organização",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "A higiene na farmácia é importante para:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a","text": "Manter o ambiente seguro"},
+        {"id": "b","text": "Aumentar preços"},
+        {"id": "c","text": "Diminuir vendas"},
+        {"id": "d","text": "Evitar clientes"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Medicamentos devem ser organizados:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a","text": "Por categorias"},
+        {"id": "b","text": "Misturados"},
+        {"id": "c","text": "Sem ordem"},
+        {"id": "d","text": "No chão"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Produtos vencidos devem ser:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a","text": "Descartados corretamente"},
+        {"id": "b","text": "Vendidos com desconto"},
+        {"id": "c","text": "Misturados com outros"},
+        {"id": "d","text": "Reutilizados"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "O uso de uniforme ajuda em:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a","text": "Identificação e higiene"},
+        {"id": "b","text": "Desorganização"},
+        {"id": "c","text": "Confusão"},
+        {"id": "d","text": "Nenhuma função"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "Limpeza do ambiente deve ser:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a","text": "Regular"},
+        {"id": "b","text": "Rara"},
+        {"id": "c","text": "Desnecessária"},
+        {"id": "d","text": "Somente mensal"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q6",
+      "statement": "Armazenamento correto evita:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a","text": "Danos aos medicamentos"},
+        {"id": "b","text": "Organização"},
+        {"id": "c","text": "Controle"},
+        {"id": "d","text": "Qualidade"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Temperatura inadequada pode:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a","text": "Alterar o medicamento"},
+        {"id": "b","text": "Melhorar o produto"},
+        {"id": "c","text": "Não causar efeito"},
+        {"id": "d","text": "Diminuir preço"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Estoque deve ser controlado para:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a","text": "Evitar falta de produtos"},
+        {"id": "b","text": "Criar bagunça"},
+        {"id": "c","text": "Desorganizar vendas"},
+        {"id": "d","text": "Perder medicamentos"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q9",
+      "statement": "Produtos devem ser armazenados:",
+      "difficulty": "medio",
+      "options": [
+        {"id": "a","text": "Longe de calor excessivo"},
+        {"id": "b","text": "Ao sol"},
+        {"id": "c","text": "No chão"},
+        {"id": "d","text": "Ao ar livre"}
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q10",
+      "statement": "Boa organização melhora:",
+      "difficulty": "facil",
+      "options": [
+        {"id": "a","text": "O atendimento"},
+        {"id": "b","text": "A confusão"},
+        {"id": "c","text": "O atraso"},
+        {"id": "d","text": "Os erros"}
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

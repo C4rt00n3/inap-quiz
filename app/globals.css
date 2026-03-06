@@ -1,0 +1,52 @@
+﻿:root {
+  color-scheme: dark;
+
+  --font-family-base: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+
+  --color-bg-page: #070b14;
+  --color-bg-elevated: #0d1424;
+  --color-bg-soft: #111b2f;
+  --color-bg-card: #101a2f;
+  --color-bg-card-alt: #13203a;
+  --color-bg-chip: #1a2a49;
+
+  --color-text-primary: #f4f8ff;
+  --color-text-secondary: #c4d1ea;
+  --color-text-muted: #94a8cc;
+  --color-text-heading: #ffffff;
+
+  --color-border: #23385f;
+  --color-border-strong: #2d4a79;
+
+  --color-accent: #63a1ff;
+  --color-accent-strong: #3b82f6;
+  --color-on-accent: #f8fbff;
+  --color-mask-solid: #ffffff;
+
+  --color-shadow-rgb: 5 10 22;
+  --color-accent-rgb: 99 161 255;
+  --color-highlight-rgb: 126 231 255;
+
+  --gradient-page:
+    radial-gradient(circle at 8% -10%, rgb(var(--color-accent-rgb) / 0.24), transparent 34%),
+    radial-gradient(circle at 92% 0%, rgb(var(--color-highlight-rgb) / 0.16), transparent 35%),
+    linear-gradient(180deg, #070b14 0%, #090f1d 44%, #0a1224 100%);
+  --gradient-card: linear-gradient(165deg, var(--color-bg-card) 0%, var(--color-bg-card-alt) 100%);
+  --gradient-accent: linear-gradient(140deg, #4a8cff, #2f6de7);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: var(--color-bg-page);
+  color: var(--color-text-primary);
+  font-family: var(--font-family-base);
+}
