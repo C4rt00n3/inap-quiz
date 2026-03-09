@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Internet Versao 4 - Intermediario",
+  "subject": "Internet",
+  "lesson": "Aula 6 - Disco Virtual",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou disco virtual. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "armazenamento de arquivos na nuvem"
+        },
+        {
+          "id": "b",
+          "text": "transferencia da nuvem para dispositivo"
+        },
+        {
+          "id": "c",
+          "text": "envio de arquivo para nuvem"
+        },
+        {
+          "id": "d",
+          "text": "permissao de acesso para outros usuarios"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou upload. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "permissao de acesso para outros usuarios"
+        },
+        {
+          "id": "b",
+          "text": "armazenamento de arquivos na nuvem"
+        },
+        {
+          "id": "c",
+          "text": "envio de arquivo para nuvem"
+        },
+        {
+          "id": "d",
+          "text": "transferencia da nuvem para dispositivo"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou download. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "envio de arquivo para nuvem"
+        },
+        {
+          "id": "b",
+          "text": "transferencia da nuvem para dispositivo"
+        },
+        {
+          "id": "c",
+          "text": "permissao de acesso para outros usuarios"
+        },
+        {
+          "id": "d",
+          "text": "armazenamento de arquivos na nuvem"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou compartilhamento. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "envio de arquivo para nuvem"
+        },
+        {
+          "id": "b",
+          "text": "transferencia da nuvem para dispositivo"
+        },
+        {
+          "id": "c",
+          "text": "permissao de acesso para outros usuarios"
+        },
+        {
+          "id": "d",
+          "text": "armazenamento de arquivos na nuvem"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou sincronizacao. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "envio de arquivo para nuvem"
+        },
+        {
+          "id": "b",
+          "text": "armazenamento de arquivos na nuvem"
+        },
+        {
+          "id": "c",
+          "text": "atualizacao automatica entre dispositivos"
+        },
+        {
+          "id": "d",
+          "text": "transferencia da nuvem para dispositivo"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q6",
+      "statement": "Durante uma rotina de estudo, a equipe citou backup. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "transferencia da nuvem para dispositivo"
+        },
+        {
+          "id": "b",
+          "text": "armazenamento de arquivos na nuvem"
+        },
+        {
+          "id": "c",
+          "text": "copia de seguranca para recuperacao"
+        },
+        {
+          "id": "d",
+          "text": "envio de arquivo para nuvem"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: armazenamento de arquivos na nuvem. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "download"
+        },
+        {
+          "id": "b",
+          "text": "compartilhamento"
+        },
+        {
+          "id": "c",
+          "text": "disco virtual"
+        },
+        {
+          "id": "d",
+          "text": "upload"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: envio de arquivo para nuvem. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "disco virtual"
+        },
+        {
+          "id": "b",
+          "text": "compartilhamento"
+        },
+        {
+          "id": "c",
+          "text": "upload"
+        },
+        {
+          "id": "d",
+          "text": "download"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: transferencia da nuvem para dispositivo. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "compartilhamento"
+        },
+        {
+          "id": "b",
+          "text": "disco virtual"
+        },
+        {
+          "id": "c",
+          "text": "download"
+        },
+        {
+          "id": "d",
+          "text": "upload"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: permissao de acesso para outros usuarios. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "compartilhamento"
+        },
+        {
+          "id": "b",
+          "text": "upload"
+        },
+        {
+          "id": "c",
+          "text": "disco virtual"
+        },
+        {
+          "id": "d",
+          "text": "download"
+        }
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

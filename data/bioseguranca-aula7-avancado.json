@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Biosseguranca - Avancado",
+  "subject": "Biosseguranca",
+  "lesson": "Aula 7 - Controle Microbiano",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar esterilizacao de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "reducao de microrganismos patogenicos"
+        },
+        {
+          "id": "b",
+          "text": "controle por calor, radiacao ou filtracao"
+        },
+        {
+          "id": "c",
+          "text": "eliminacao de todas as formas viaveis de microrganismos"
+        },
+        {
+          "id": "d",
+          "text": "aplicacao de agente quimico em tecido vivo"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q2",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar desinfeccao de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "eliminacao de todas as formas viaveis de microrganismos"
+        },
+        {
+          "id": "b",
+          "text": "aplicacao de agente quimico em tecido vivo"
+        },
+        {
+          "id": "c",
+          "text": "controle por calor, radiacao ou filtracao"
+        },
+        {
+          "id": "d",
+          "text": "reducao de microrganismos patogenicos"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q3",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar antissepsia de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "aplicacao de agente quimico em tecido vivo"
+        },
+        {
+          "id": "b",
+          "text": "controle por calor, radiacao ou filtracao"
+        },
+        {
+          "id": "c",
+          "text": "reducao de microrganismos patogenicos"
+        },
+        {
+          "id": "d",
+          "text": "eliminacao de todas as formas viaveis de microrganismos"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar metodo fisico de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "reducao de microrganismos patogenicos"
+        },
+        {
+          "id": "b",
+          "text": "eliminacao de todas as formas viaveis de microrganismos"
+        },
+        {
+          "id": "c",
+          "text": "controle por calor, radiacao ou filtracao"
+        },
+        {
+          "id": "d",
+          "text": "aplicacao de agente quimico em tecido vivo"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar metodo quimico de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "aplicacao de agente quimico em tecido vivo"
+        },
+        {
+          "id": "b",
+          "text": "controle por desinfetantes e antissepticos"
+        },
+        {
+          "id": "c",
+          "text": "eliminacao de todas as formas viaveis de microrganismos"
+        },
+        {
+          "id": "d",
+          "text": "reducao de microrganismos patogenicos"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q6",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar tempo de contato de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "reducao de microrganismos patogenicos"
+        },
+        {
+          "id": "b",
+          "text": "periodo necessario para eficacia do agente"
+        },
+        {
+          "id": "c",
+          "text": "aplicacao de agente quimico em tecido vivo"
+        },
+        {
+          "id": "d",
+          "text": "eliminacao de todas as formas viaveis de microrganismos"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q7",
+      "statement": "Para tomada de decisao, considere a descricao: eliminacao de todas as formas viaveis de microrganismos. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "esterilizacao"
+        },
+        {
+          "id": "b",
+          "text": "desinfeccao"
+        },
+        {
+          "id": "c",
+          "text": "antissepsia"
+        },
+        {
+          "id": "d",
+          "text": "metodo fisico"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Para tomada de decisao, considere a descricao: reducao de microrganismos patogenicos. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "esterilizacao"
+        },
+        {
+          "id": "b",
+          "text": "antissepsia"
+        },
+        {
+          "id": "c",
+          "text": "metodo fisico"
+        },
+        {
+          "id": "d",
+          "text": "desinfeccao"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q9",
+      "statement": "Para tomada de decisao, considere a descricao: aplicacao de agente quimico em tecido vivo. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "antissepsia"
+        },
+        {
+          "id": "b",
+          "text": "desinfeccao"
+        },
+        {
+          "id": "c",
+          "text": "esterilizacao"
+        },
+        {
+          "id": "d",
+          "text": "metodo fisico"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q10",
+      "statement": "Para tomada de decisao, considere a descricao: controle por calor, radiacao ou filtracao. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "desinfeccao"
+        },
+        {
+          "id": "b",
+          "text": "metodo fisico"
+        },
+        {
+          "id": "c",
+          "text": "antissepsia"
+        },
+        {
+          "id": "d",
+          "text": "esterilizacao"
+        }
+      ],
+      "correctOptionId": "b"
+    }
+  ]
+}

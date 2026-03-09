@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Internet Versao 4 - Intermediario",
+  "subject": "Internet",
+  "lesson": "Aula 2 - E-mail no Gmail",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou email. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "arquivo enviado junto com mensagem"
+        },
+        {
+          "id": "b",
+          "text": "mensagem eletronica enviada pela internet"
+        },
+        {
+          "id": "c",
+          "text": "endereco para quem a mensagem sera enviada"
+        },
+        {
+          "id": "d",
+          "text": "servico de email do Google"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou Gmail. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "endereco para quem a mensagem sera enviada"
+        },
+        {
+          "id": "b",
+          "text": "mensagem eletronica enviada pela internet"
+        },
+        {
+          "id": "c",
+          "text": "servico de email do Google"
+        },
+        {
+          "id": "d",
+          "text": "arquivo enviado junto com mensagem"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou anexo. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "servico de email do Google"
+        },
+        {
+          "id": "b",
+          "text": "endereco para quem a mensagem sera enviada"
+        },
+        {
+          "id": "c",
+          "text": "arquivo enviado junto com mensagem"
+        },
+        {
+          "id": "d",
+          "text": "mensagem eletronica enviada pela internet"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou campo destinatario. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "servico de email do Google"
+        },
+        {
+          "id": "b",
+          "text": "endereco para quem a mensagem sera enviada"
+        },
+        {
+          "id": "c",
+          "text": "arquivo enviado junto com mensagem"
+        },
+        {
+          "id": "d",
+          "text": "mensagem eletronica enviada pela internet"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou assunto. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "mensagem eletronica enviada pela internet"
+        },
+        {
+          "id": "b",
+          "text": "arquivo enviado junto com mensagem"
+        },
+        {
+          "id": "c",
+          "text": "servico de email do Google"
+        },
+        {
+          "id": "d",
+          "text": "resumo do tema da mensagem"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Durante uma rotina de estudo, a equipe citou protocolo de email. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "conjunto de regras para envio e recebimento"
+        },
+        {
+          "id": "b",
+          "text": "arquivo enviado junto com mensagem"
+        },
+        {
+          "id": "c",
+          "text": "mensagem eletronica enviada pela internet"
+        },
+        {
+          "id": "d",
+          "text": "servico de email do Google"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: mensagem eletronica enviada pela internet. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "email"
+        },
+        {
+          "id": "b",
+          "text": "campo destinatario"
+        },
+        {
+          "id": "c",
+          "text": "Gmail"
+        },
+        {
+          "id": "d",
+          "text": "anexo"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: servico de email do Google. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "email"
+        },
+        {
+          "id": "b",
+          "text": "Gmail"
+        },
+        {
+          "id": "c",
+          "text": "anexo"
+        },
+        {
+          "id": "d",
+          "text": "campo destinatario"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: arquivo enviado junto com mensagem. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gmail"
+        },
+        {
+          "id": "b",
+          "text": "anexo"
+        },
+        {
+          "id": "c",
+          "text": "campo destinatario"
+        },
+        {
+          "id": "d",
+          "text": "email"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: endereco para quem a mensagem sera enviada. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "email"
+        },
+        {
+          "id": "b",
+          "text": "Gmail"
+        },
+        {
+          "id": "c",
+          "text": "anexo"
+        },
+        {
+          "id": "d",
+          "text": "campo destinatario"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

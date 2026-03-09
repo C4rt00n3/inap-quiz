@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Internet Versao 4 - Avancado",
+  "subject": "Internet",
+  "lesson": "Aula 2 - E-mail no Gmail",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar email de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "mensagem eletronica enviada pela internet"
+        },
+        {
+          "id": "b",
+          "text": "endereco para quem a mensagem sera enviada"
+        },
+        {
+          "id": "c",
+          "text": "servico de email do Google"
+        },
+        {
+          "id": "d",
+          "text": "arquivo enviado junto com mensagem"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Gmail de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "servico de email do Google"
+        },
+        {
+          "id": "b",
+          "text": "endereco para quem a mensagem sera enviada"
+        },
+        {
+          "id": "c",
+          "text": "mensagem eletronica enviada pela internet"
+        },
+        {
+          "id": "d",
+          "text": "arquivo enviado junto com mensagem"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar anexo de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "endereco para quem a mensagem sera enviada"
+        },
+        {
+          "id": "b",
+          "text": "arquivo enviado junto com mensagem"
+        },
+        {
+          "id": "c",
+          "text": "servico de email do Google"
+        },
+        {
+          "id": "d",
+          "text": "mensagem eletronica enviada pela internet"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar campo destinatario de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "endereco para quem a mensagem sera enviada"
+        },
+        {
+          "id": "b",
+          "text": "mensagem eletronica enviada pela internet"
+        },
+        {
+          "id": "c",
+          "text": "arquivo enviado junto com mensagem"
+        },
+        {
+          "id": "d",
+          "text": "servico de email do Google"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar assunto de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "mensagem eletronica enviada pela internet"
+        },
+        {
+          "id": "b",
+          "text": "resumo do tema da mensagem"
+        },
+        {
+          "id": "c",
+          "text": "servico de email do Google"
+        },
+        {
+          "id": "d",
+          "text": "arquivo enviado junto com mensagem"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q6",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar protocolo de email de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "arquivo enviado junto com mensagem"
+        },
+        {
+          "id": "b",
+          "text": "servico de email do Google"
+        },
+        {
+          "id": "c",
+          "text": "conjunto de regras para envio e recebimento"
+        },
+        {
+          "id": "d",
+          "text": "mensagem eletronica enviada pela internet"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q7",
+      "statement": "Para tomada de decisao, considere a descricao: mensagem eletronica enviada pela internet. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "anexo"
+        },
+        {
+          "id": "b",
+          "text": "campo destinatario"
+        },
+        {
+          "id": "c",
+          "text": "email"
+        },
+        {
+          "id": "d",
+          "text": "Gmail"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q8",
+      "statement": "Para tomada de decisao, considere a descricao: servico de email do Google. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "anexo"
+        },
+        {
+          "id": "b",
+          "text": "Gmail"
+        },
+        {
+          "id": "c",
+          "text": "email"
+        },
+        {
+          "id": "d",
+          "text": "campo destinatario"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Para tomada de decisao, considere a descricao: arquivo enviado junto com mensagem. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "email"
+        },
+        {
+          "id": "b",
+          "text": "anexo"
+        },
+        {
+          "id": "c",
+          "text": "Gmail"
+        },
+        {
+          "id": "d",
+          "text": "campo destinatario"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q10",
+      "statement": "Para tomada de decisao, considere a descricao: endereco para quem a mensagem sera enviada. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "campo destinatario"
+        },
+        {
+          "id": "b",
+          "text": "Gmail"
+        },
+        {
+          "id": "c",
+          "text": "anexo"
+        },
+        {
+          "id": "d",
+          "text": "email"
+        }
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

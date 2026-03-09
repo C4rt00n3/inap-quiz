@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Internet Versao 4 - Intermediario",
+  "subject": "Internet",
+  "lesson": "Aula 4 - Buscando Informacoes na Internet",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou mecanismo de busca. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "origem com credibilidade verificavel"
+        },
+        {
+          "id": "b",
+          "text": "grau de aderencia ao que foi buscado"
+        },
+        {
+          "id": "c",
+          "text": "sistema que indexa e retorna paginas relevantes"
+        },
+        {
+          "id": "d",
+          "text": "termo usado para iniciar pesquisa"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou palavra-chave. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "grau de aderencia ao que foi buscado"
+        },
+        {
+          "id": "b",
+          "text": "termo usado para iniciar pesquisa"
+        },
+        {
+          "id": "c",
+          "text": "sistema que indexa e retorna paginas relevantes"
+        },
+        {
+          "id": "d",
+          "text": "origem com credibilidade verificavel"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou relevancia. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "grau de aderencia ao que foi buscado"
+        },
+        {
+          "id": "b",
+          "text": "origem com credibilidade verificavel"
+        },
+        {
+          "id": "c",
+          "text": "sistema que indexa e retorna paginas relevantes"
+        },
+        {
+          "id": "d",
+          "text": "termo usado para iniciar pesquisa"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou fonte confiavel. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "origem com credibilidade verificavel"
+        },
+        {
+          "id": "b",
+          "text": "grau de aderencia ao que foi buscado"
+        },
+        {
+          "id": "c",
+          "text": "termo usado para iniciar pesquisa"
+        },
+        {
+          "id": "d",
+          "text": "sistema que indexa e retorna paginas relevantes"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou operador de busca. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "grau de aderencia ao que foi buscado"
+        },
+        {
+          "id": "b",
+          "text": "comando que melhora precisao da pesquisa"
+        },
+        {
+          "id": "c",
+          "text": "termo usado para iniciar pesquisa"
+        },
+        {
+          "id": "d",
+          "text": "sistema que indexa e retorna paginas relevantes"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q6",
+      "statement": "Durante uma rotina de estudo, a equipe citou validacao de informacao. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "grau de aderencia ao que foi buscado"
+        },
+        {
+          "id": "b",
+          "text": "checagem de dados em fontes diferentes"
+        },
+        {
+          "id": "c",
+          "text": "sistema que indexa e retorna paginas relevantes"
+        },
+        {
+          "id": "d",
+          "text": "termo usado para iniciar pesquisa"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: sistema que indexa e retorna paginas relevantes. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "mecanismo de busca"
+        },
+        {
+          "id": "b",
+          "text": "palavra-chave"
+        },
+        {
+          "id": "c",
+          "text": "fonte confiavel"
+        },
+        {
+          "id": "d",
+          "text": "relevancia"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: termo usado para iniciar pesquisa. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "fonte confiavel"
+        },
+        {
+          "id": "b",
+          "text": "relevancia"
+        },
+        {
+          "id": "c",
+          "text": "mecanismo de busca"
+        },
+        {
+          "id": "d",
+          "text": "palavra-chave"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: grau de aderencia ao que foi buscado. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "mecanismo de busca"
+        },
+        {
+          "id": "b",
+          "text": "relevancia"
+        },
+        {
+          "id": "c",
+          "text": "palavra-chave"
+        },
+        {
+          "id": "d",
+          "text": "fonte confiavel"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: origem com credibilidade verificavel. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "fonte confiavel"
+        },
+        {
+          "id": "b",
+          "text": "relevancia"
+        },
+        {
+          "id": "c",
+          "text": "palavra-chave"
+        },
+        {
+          "id": "d",
+          "text": "mecanismo de busca"
+        }
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Introducao a Informatica - Intermediario",
+  "subject": "Informatica",
+  "lesson": "Aula 3 - Sistema Operacional",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou kernel. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "fluxo de execucao dentro de processo"
+        },
+        {
+          "id": "b",
+          "text": "programa em execucao com contexto proprio"
+        },
+        {
+          "id": "c",
+          "text": "nucleo que gerencia recursos do sistema"
+        },
+        {
+          "id": "d",
+          "text": "distribuicao de tempo de CPU"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou processo. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "fluxo de execucao dentro de processo"
+        },
+        {
+          "id": "b",
+          "text": "programa em execucao com contexto proprio"
+        },
+        {
+          "id": "c",
+          "text": "nucleo que gerencia recursos do sistema"
+        },
+        {
+          "id": "d",
+          "text": "distribuicao de tempo de CPU"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou thread. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "distribuicao de tempo de CPU"
+        },
+        {
+          "id": "b",
+          "text": "programa em execucao com contexto proprio"
+        },
+        {
+          "id": "c",
+          "text": "fluxo de execucao dentro de processo"
+        },
+        {
+          "id": "d",
+          "text": "nucleo que gerencia recursos do sistema"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou escalonamento. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "nucleo que gerencia recursos do sistema"
+        },
+        {
+          "id": "b",
+          "text": "distribuicao de tempo de CPU"
+        },
+        {
+          "id": "c",
+          "text": "fluxo de execucao dentro de processo"
+        },
+        {
+          "id": "d",
+          "text": "programa em execucao com contexto proprio"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou memoria virtual. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "fluxo de execucao dentro de processo"
+        },
+        {
+          "id": "b",
+          "text": "extensao logica da RAM via disco"
+        },
+        {
+          "id": "c",
+          "text": "nucleo que gerencia recursos do sistema"
+        },
+        {
+          "id": "d",
+          "text": "programa em execucao com contexto proprio"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q6",
+      "statement": "Durante uma rotina de estudo, a equipe citou sistema de arquivos. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "fluxo de execucao dentro de processo"
+        },
+        {
+          "id": "b",
+          "text": "organizacao e armazenamento de dados"
+        },
+        {
+          "id": "c",
+          "text": "nucleo que gerencia recursos do sistema"
+        },
+        {
+          "id": "d",
+          "text": "programa em execucao com contexto proprio"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: nucleo que gerencia recursos do sistema. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "thread"
+        },
+        {
+          "id": "b",
+          "text": "escalonamento"
+        },
+        {
+          "id": "c",
+          "text": "kernel"
+        },
+        {
+          "id": "d",
+          "text": "processo"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: programa em execucao com contexto proprio. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "thread"
+        },
+        {
+          "id": "b",
+          "text": "processo"
+        },
+        {
+          "id": "c",
+          "text": "kernel"
+        },
+        {
+          "id": "d",
+          "text": "escalonamento"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: fluxo de execucao dentro de processo. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "kernel"
+        },
+        {
+          "id": "b",
+          "text": "thread"
+        },
+        {
+          "id": "c",
+          "text": "processo"
+        },
+        {
+          "id": "d",
+          "text": "escalonamento"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: distribuicao de tempo de CPU. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "kernel"
+        },
+        {
+          "id": "b",
+          "text": "escalonamento"
+        },
+        {
+          "id": "c",
+          "text": "processo"
+        },
+        {
+          "id": "d",
+          "text": "thread"
+        }
+      ],
+      "correctOptionId": "b"
+    }
+  ]
+}

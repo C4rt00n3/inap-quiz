@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Introducao a Informatica - Intermediario",
+  "subject": "Informatica",
+  "lesson": "Aula 4 - Internet",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou internet. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "protocolo orientado a conexao"
+        },
+        {
+          "id": "b",
+          "text": "sistema que traduz dominio em IP"
+        },
+        {
+          "id": "c",
+          "text": "rede mundial que conecta multiplas redes"
+        },
+        {
+          "id": "d",
+          "text": "servico de paginas web sobre a internet"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou WWW. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "sistema que traduz dominio em IP"
+        },
+        {
+          "id": "b",
+          "text": "servico de paginas web sobre a internet"
+        },
+        {
+          "id": "c",
+          "text": "rede mundial que conecta multiplas redes"
+        },
+        {
+          "id": "d",
+          "text": "protocolo orientado a conexao"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou DNS. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "sistema que traduz dominio em IP"
+        },
+        {
+          "id": "b",
+          "text": "protocolo orientado a conexao"
+        },
+        {
+          "id": "c",
+          "text": "rede mundial que conecta multiplas redes"
+        },
+        {
+          "id": "d",
+          "text": "servico de paginas web sobre a internet"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou TCP. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "protocolo orientado a conexao"
+        },
+        {
+          "id": "b",
+          "text": "sistema que traduz dominio em IP"
+        },
+        {
+          "id": "c",
+          "text": "servico de paginas web sobre a internet"
+        },
+        {
+          "id": "d",
+          "text": "rede mundial que conecta multiplas redes"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou UDP. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "sistema que traduz dominio em IP"
+        },
+        {
+          "id": "b",
+          "text": "protocolo sem garantia de entrega"
+        },
+        {
+          "id": "c",
+          "text": "servico de paginas web sobre a internet"
+        },
+        {
+          "id": "d",
+          "text": "rede mundial que conecta multiplas redes"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q6",
+      "statement": "Durante uma rotina de estudo, a equipe citou HTTP. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "sistema que traduz dominio em IP"
+        },
+        {
+          "id": "b",
+          "text": "protocolo de transferencia de hipertexto"
+        },
+        {
+          "id": "c",
+          "text": "rede mundial que conecta multiplas redes"
+        },
+        {
+          "id": "d",
+          "text": "servico de paginas web sobre a internet"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: rede mundial que conecta multiplas redes. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "internet"
+        },
+        {
+          "id": "b",
+          "text": "WWW"
+        },
+        {
+          "id": "c",
+          "text": "TCP"
+        },
+        {
+          "id": "d",
+          "text": "DNS"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: servico de paginas web sobre a internet. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "TCP"
+        },
+        {
+          "id": "b",
+          "text": "DNS"
+        },
+        {
+          "id": "c",
+          "text": "internet"
+        },
+        {
+          "id": "d",
+          "text": "WWW"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: sistema que traduz dominio em IP. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "internet"
+        },
+        {
+          "id": "b",
+          "text": "DNS"
+        },
+        {
+          "id": "c",
+          "text": "WWW"
+        },
+        {
+          "id": "d",
+          "text": "TCP"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: protocolo orientado a conexao. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "TCP"
+        },
+        {
+          "id": "b",
+          "text": "DNS"
+        },
+        {
+          "id": "c",
+          "text": "WWW"
+        },
+        {
+          "id": "d",
+          "text": "internet"
+        }
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

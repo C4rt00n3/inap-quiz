@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Internet Versao 4 - Avancado",
+  "subject": "Internet",
+  "lesson": "Aula 5 - Personalizar e Controlar o Chrome",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar configuracoes de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "atalhos salvos para acesso rapido"
+        },
+        {
+          "id": "b",
+          "text": "registro de paginas acessadas"
+        },
+        {
+          "id": "c",
+          "text": "ajustes de comportamento do navegador"
+        },
+        {
+          "id": "d",
+          "text": "controle de dados de navegacao"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q2",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar historico de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "controle de dados de navegacao"
+        },
+        {
+          "id": "b",
+          "text": "atalhos salvos para acesso rapido"
+        },
+        {
+          "id": "c",
+          "text": "ajustes de comportamento do navegador"
+        },
+        {
+          "id": "d",
+          "text": "registro de paginas acessadas"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q3",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar favoritos de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "registro de paginas acessadas"
+        },
+        {
+          "id": "b",
+          "text": "controle de dados de navegacao"
+        },
+        {
+          "id": "c",
+          "text": "atalhos salvos para acesso rapido"
+        },
+        {
+          "id": "d",
+          "text": "ajustes de comportamento do navegador"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q4",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar privacidade de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "atalhos salvos para acesso rapido"
+        },
+        {
+          "id": "b",
+          "text": "ajustes de comportamento do navegador"
+        },
+        {
+          "id": "c",
+          "text": "registro de paginas acessadas"
+        },
+        {
+          "id": "d",
+          "text": "controle de dados de navegacao"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q5",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar perfil de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "ajustes de comportamento do navegador"
+        },
+        {
+          "id": "b",
+          "text": "atalhos salvos para acesso rapido"
+        },
+        {
+          "id": "c",
+          "text": "registro de paginas acessadas"
+        },
+        {
+          "id": "d",
+          "text": "conjunto de preferencias do usuario"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar extensao de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "registro de paginas acessadas"
+        },
+        {
+          "id": "b",
+          "text": "atalhos salvos para acesso rapido"
+        },
+        {
+          "id": "c",
+          "text": "recurso adicional instalado no navegador"
+        },
+        {
+          "id": "d",
+          "text": "ajustes de comportamento do navegador"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q7",
+      "statement": "Para tomada de decisao, considere a descricao: ajustes de comportamento do navegador. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "privacidade"
+        },
+        {
+          "id": "b",
+          "text": "configuracoes"
+        },
+        {
+          "id": "c",
+          "text": "historico"
+        },
+        {
+          "id": "d",
+          "text": "favoritos"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q8",
+      "statement": "Para tomada de decisao, considere a descricao: registro de paginas acessadas. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "historico"
+        },
+        {
+          "id": "b",
+          "text": "privacidade"
+        },
+        {
+          "id": "c",
+          "text": "configuracoes"
+        },
+        {
+          "id": "d",
+          "text": "favoritos"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q9",
+      "statement": "Para tomada de decisao, considere a descricao: atalhos salvos para acesso rapido. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "favoritos"
+        },
+        {
+          "id": "b",
+          "text": "privacidade"
+        },
+        {
+          "id": "c",
+          "text": "configuracoes"
+        },
+        {
+          "id": "d",
+          "text": "historico"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q10",
+      "statement": "Para tomada de decisao, considere a descricao: controle de dados de navegacao. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "historico"
+        },
+        {
+          "id": "b",
+          "text": "privacidade"
+        },
+        {
+          "id": "c",
+          "text": "favoritos"
+        },
+        {
+          "id": "d",
+          "text": "configuracoes"
+        }
+      ],
+      "correctOptionId": "b"
+    }
+  ]
+}

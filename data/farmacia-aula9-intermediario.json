@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Atendente de Farmacia - Intermediario",
+  "subject": "Farmacia",
+  "lesson": "Aula 9 - Transporte da Vitima",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou avaliacao primaria. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "estabilizar suspeita de fratura antes de mover"
+        },
+        {
+          "id": "b",
+          "text": "verificar consciencia, respiracao e circulacao"
+        },
+        {
+          "id": "c",
+          "text": "equipamento preferencial para transporte"
+        },
+        {
+          "id": "d",
+          "text": "movimentar sem agravar lesoes"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou transporte seguro. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "estabilizar suspeita de fratura antes de mover"
+        },
+        {
+          "id": "b",
+          "text": "equipamento preferencial para transporte"
+        },
+        {
+          "id": "c",
+          "text": "movimentar sem agravar lesoes"
+        },
+        {
+          "id": "d",
+          "text": "verificar consciencia, respiracao e circulacao"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou maca. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "estabilizar suspeita de fratura antes de mover"
+        },
+        {
+          "id": "b",
+          "text": "equipamento preferencial para transporte"
+        },
+        {
+          "id": "c",
+          "text": "movimentar sem agravar lesoes"
+        },
+        {
+          "id": "d",
+          "text": "verificar consciencia, respiracao e circulacao"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou imobilizacao. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "movimentar sem agravar lesoes"
+        },
+        {
+          "id": "b",
+          "text": "estabilizar suspeita de fratura antes de mover"
+        },
+        {
+          "id": "c",
+          "text": "equipamento preferencial para transporte"
+        },
+        {
+          "id": "d",
+          "text": "verificar consciencia, respiracao e circulacao"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou posicao lateral. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "equipamento preferencial para transporte"
+        },
+        {
+          "id": "b",
+          "text": "movimentar sem agravar lesoes"
+        },
+        {
+          "id": "c",
+          "text": "verificar consciencia, respiracao e circulacao"
+        },
+        {
+          "id": "d",
+          "text": "posicionar inconsciente respirando sem trauma suspeito"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Durante uma rotina de estudo, a equipe citou controle de choque. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "verificar consciencia, respiracao e circulacao"
+        },
+        {
+          "id": "b",
+          "text": "movimentar sem agravar lesoes"
+        },
+        {
+          "id": "c",
+          "text": "medidas para manter perfusao e estabilidade"
+        },
+        {
+          "id": "d",
+          "text": "equipamento preferencial para transporte"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: verificar consciencia, respiracao e circulacao. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "transporte seguro"
+        },
+        {
+          "id": "b",
+          "text": "avaliacao primaria"
+        },
+        {
+          "id": "c",
+          "text": "imobilizacao"
+        },
+        {
+          "id": "d",
+          "text": "maca"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: movimentar sem agravar lesoes. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "imobilizacao"
+        },
+        {
+          "id": "b",
+          "text": "avaliacao primaria"
+        },
+        {
+          "id": "c",
+          "text": "transporte seguro"
+        },
+        {
+          "id": "d",
+          "text": "maca"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: equipamento preferencial para transporte. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "maca"
+        },
+        {
+          "id": "b",
+          "text": "transporte seguro"
+        },
+        {
+          "id": "c",
+          "text": "avaliacao primaria"
+        },
+        {
+          "id": "d",
+          "text": "imobilizacao"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: estabilizar suspeita de fratura antes de mover. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "maca"
+        },
+        {
+          "id": "b",
+          "text": "avaliacao primaria"
+        },
+        {
+          "id": "c",
+          "text": "transporte seguro"
+        },
+        {
+          "id": "d",
+          "text": "imobilizacao"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

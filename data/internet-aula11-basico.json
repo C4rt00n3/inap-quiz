@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Internet Versao 4 - Basico",
+  "subject": "Internet",
+  "lesson": "Aula 11 - Baixando Aplicativos e Seguranca",
+  "level": "Basico",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Qual alternativa define corretamente loja oficial?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "correcao e melhoria de seguranca"
+        },
+        {
+          "id": "b",
+          "text": "acesso solicitado pelo aplicativo"
+        },
+        {
+          "id": "c",
+          "text": "software malicioso"
+        },
+        {
+          "id": "d",
+          "text": "fonte recomendada para baixar aplicativos"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q2",
+      "statement": "Qual alternativa define corretamente permissao de app?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "correcao e melhoria de seguranca"
+        },
+        {
+          "id": "b",
+          "text": "acesso solicitado pelo aplicativo"
+        },
+        {
+          "id": "c",
+          "text": "software malicioso"
+        },
+        {
+          "id": "d",
+          "text": "fonte recomendada para baixar aplicativos"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q3",
+      "statement": "Qual alternativa define corretamente malware?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "software malicioso"
+        },
+        {
+          "id": "b",
+          "text": "correcao e melhoria de seguranca"
+        },
+        {
+          "id": "c",
+          "text": "acesso solicitado pelo aplicativo"
+        },
+        {
+          "id": "d",
+          "text": "fonte recomendada para baixar aplicativos"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "Qual alternativa define corretamente atualizacao?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "software malicioso"
+        },
+        {
+          "id": "b",
+          "text": "correcao e melhoria de seguranca"
+        },
+        {
+          "id": "c",
+          "text": "fonte recomendada para baixar aplicativos"
+        },
+        {
+          "id": "d",
+          "text": "acesso solicitado pelo aplicativo"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q5",
+      "statement": "Qual alternativa define corretamente antivirus?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "acesso solicitado pelo aplicativo"
+        },
+        {
+          "id": "b",
+          "text": "software malicioso"
+        },
+        {
+          "id": "c",
+          "text": "fonte recomendada para baixar aplicativos"
+        },
+        {
+          "id": "d",
+          "text": "ferramenta de deteccao e bloqueio de ameacas"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Qual alternativa define corretamente backup?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "acesso solicitado pelo aplicativo"
+        },
+        {
+          "id": "b",
+          "text": "software malicioso"
+        },
+        {
+          "id": "c",
+          "text": "fonte recomendada para baixar aplicativos"
+        },
+        {
+          "id": "d",
+          "text": "copia de seguranca antes de alteracoes"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q7",
+      "statement": "Qual conceito corresponde a descricao: fonte recomendada para baixar aplicativos?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "permissao de app"
+        },
+        {
+          "id": "b",
+          "text": "atualizacao"
+        },
+        {
+          "id": "c",
+          "text": "malware"
+        },
+        {
+          "id": "d",
+          "text": "loja oficial"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q8",
+      "statement": "Qual conceito corresponde a descricao: acesso solicitado pelo aplicativo?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "atualizacao"
+        },
+        {
+          "id": "b",
+          "text": "malware"
+        },
+        {
+          "id": "c",
+          "text": "permissao de app"
+        },
+        {
+          "id": "d",
+          "text": "loja oficial"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q9",
+      "statement": "Qual conceito corresponde a descricao: software malicioso?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "atualizacao"
+        },
+        {
+          "id": "b",
+          "text": "loja oficial"
+        },
+        {
+          "id": "c",
+          "text": "malware"
+        },
+        {
+          "id": "d",
+          "text": "permissao de app"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Qual conceito corresponde a descricao: correcao e melhoria de seguranca?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "permissao de app"
+        },
+        {
+          "id": "b",
+          "text": "loja oficial"
+        },
+        {
+          "id": "c",
+          "text": "atualizacao"
+        },
+        {
+          "id": "d",
+          "text": "malware"
+        }
+      ],
+      "correctOptionId": "c"
+    }
+  ]
+}

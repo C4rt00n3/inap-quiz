@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Biosseguranca - Avancado",
+  "subject": "Biosseguranca",
+  "lesson": "Aula 2 - Cuidados Basicos",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar classe de risco 1 de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "agente biologico de baixo risco"
+        },
+        {
+          "id": "b",
+          "text": "agente de alto risco individual e coletivo"
+        },
+        {
+          "id": "c",
+          "text": "agente com risco moderado e tratamento disponivel"
+        },
+        {
+          "id": "d",
+          "text": "agente de alto risco individual"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar classe de risco 2 de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "agente com risco moderado e tratamento disponivel"
+        },
+        {
+          "id": "b",
+          "text": "agente de alto risco individual e coletivo"
+        },
+        {
+          "id": "c",
+          "text": "agente biologico de baixo risco"
+        },
+        {
+          "id": "d",
+          "text": "agente de alto risco individual"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar classe de risco 3 de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "agente de alto risco individual e coletivo"
+        },
+        {
+          "id": "b",
+          "text": "agente de alto risco individual"
+        },
+        {
+          "id": "c",
+          "text": "agente com risco moderado e tratamento disponivel"
+        },
+        {
+          "id": "d",
+          "text": "agente biologico de baixo risco"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar classe de risco 4 de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "agente de alto risco individual e coletivo"
+        },
+        {
+          "id": "b",
+          "text": "agente biologico de baixo risco"
+        },
+        {
+          "id": "c",
+          "text": "agente de alto risco individual"
+        },
+        {
+          "id": "d",
+          "text": "agente com risco moderado e tratamento disponivel"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar EPI de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "agente biologico de baixo risco"
+        },
+        {
+          "id": "b",
+          "text": "equipamento de protecao individual"
+        },
+        {
+          "id": "c",
+          "text": "agente com risco moderado e tratamento disponivel"
+        },
+        {
+          "id": "d",
+          "text": "agente de alto risco individual"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q6",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar higiene profissional de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "agente de alto risco individual"
+        },
+        {
+          "id": "b",
+          "text": "agente com risco moderado e tratamento disponivel"
+        },
+        {
+          "id": "c",
+          "text": "rotinas para reduzir contaminacao"
+        },
+        {
+          "id": "d",
+          "text": "agente biologico de baixo risco"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q7",
+      "statement": "Para tomada de decisao, considere a descricao: agente biologico de baixo risco. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "classe de risco 3"
+        },
+        {
+          "id": "b",
+          "text": "classe de risco 4"
+        },
+        {
+          "id": "c",
+          "text": "classe de risco 1"
+        },
+        {
+          "id": "d",
+          "text": "classe de risco 2"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q8",
+      "statement": "Para tomada de decisao, considere a descricao: agente com risco moderado e tratamento disponivel. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "classe de risco 3"
+        },
+        {
+          "id": "b",
+          "text": "classe de risco 2"
+        },
+        {
+          "id": "c",
+          "text": "classe de risco 1"
+        },
+        {
+          "id": "d",
+          "text": "classe de risco 4"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Para tomada de decisao, considere a descricao: agente de alto risco individual. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "classe de risco 1"
+        },
+        {
+          "id": "b",
+          "text": "classe de risco 3"
+        },
+        {
+          "id": "c",
+          "text": "classe de risco 2"
+        },
+        {
+          "id": "d",
+          "text": "classe de risco 4"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q10",
+      "statement": "Para tomada de decisao, considere a descricao: agente de alto risco individual e coletivo. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "classe de risco 4"
+        },
+        {
+          "id": "b",
+          "text": "classe de risco 2"
+        },
+        {
+          "id": "c",
+          "text": "classe de risco 3"
+        },
+        {
+          "id": "d",
+          "text": "classe de risco 1"
+        }
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

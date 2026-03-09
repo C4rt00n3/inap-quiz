@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Internet Versao 4 - Basico",
+  "subject": "Internet",
+  "lesson": "Aula 8 - Redes Sociais Facebook II",
+  "level": "Basico",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Qual alternativa define corretamente privacidade?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "controle de quem ve suas publicacoes"
+        },
+        {
+          "id": "b",
+          "text": "reporte de conteudo inadequado"
+        },
+        {
+          "id": "c",
+          "text": "restricao de contato de outro usuario"
+        },
+        {
+          "id": "d",
+          "text": "medidas para evitar invasao"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Qual alternativa define corretamente bloqueio?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "medidas para evitar invasao"
+        },
+        {
+          "id": "b",
+          "text": "restricao de contato de outro usuario"
+        },
+        {
+          "id": "c",
+          "text": "controle de quem ve suas publicacoes"
+        },
+        {
+          "id": "d",
+          "text": "reporte de conteudo inadequado"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q3",
+      "statement": "Qual alternativa define corretamente denuncia?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "reporte de conteudo inadequado"
+        },
+        {
+          "id": "b",
+          "text": "restricao de contato de outro usuario"
+        },
+        {
+          "id": "c",
+          "text": "medidas para evitar invasao"
+        },
+        {
+          "id": "d",
+          "text": "controle de quem ve suas publicacoes"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "Qual alternativa define corretamente seguranca de conta?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "reporte de conteudo inadequado"
+        },
+        {
+          "id": "b",
+          "text": "medidas para evitar invasao"
+        },
+        {
+          "id": "c",
+          "text": "restricao de contato de outro usuario"
+        },
+        {
+          "id": "d",
+          "text": "controle de quem ve suas publicacoes"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q5",
+      "statement": "Qual alternativa define corretamente autenticacao em duas etapas?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "restricao de contato de outro usuario"
+        },
+        {
+          "id": "b",
+          "text": "controle de quem ve suas publicacoes"
+        },
+        {
+          "id": "c",
+          "text": "reporte de conteudo inadequado"
+        },
+        {
+          "id": "d",
+          "text": "camada extra para login seguro"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Qual alternativa define corretamente golpe digital?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "controle de quem ve suas publicacoes"
+        },
+        {
+          "id": "b",
+          "text": "reporte de conteudo inadequado"
+        },
+        {
+          "id": "c",
+          "text": "restricao de contato de outro usuario"
+        },
+        {
+          "id": "d",
+          "text": "fraude realizada por perfil ou mensagem"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q7",
+      "statement": "Qual conceito corresponde a descricao: controle de quem ve suas publicacoes?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "seguranca de conta"
+        },
+        {
+          "id": "b",
+          "text": "denuncia"
+        },
+        {
+          "id": "c",
+          "text": "privacidade"
+        },
+        {
+          "id": "d",
+          "text": "bloqueio"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q8",
+      "statement": "Qual conceito corresponde a descricao: restricao de contato de outro usuario?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "denuncia"
+        },
+        {
+          "id": "b",
+          "text": "privacidade"
+        },
+        {
+          "id": "c",
+          "text": "seguranca de conta"
+        },
+        {
+          "id": "d",
+          "text": "bloqueio"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q9",
+      "statement": "Qual conceito corresponde a descricao: reporte de conteudo inadequado?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "denuncia"
+        },
+        {
+          "id": "b",
+          "text": "privacidade"
+        },
+        {
+          "id": "c",
+          "text": "bloqueio"
+        },
+        {
+          "id": "d",
+          "text": "seguranca de conta"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q10",
+      "statement": "Qual conceito corresponde a descricao: medidas para evitar invasao?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "seguranca de conta"
+        },
+        {
+          "id": "b",
+          "text": "denuncia"
+        },
+        {
+          "id": "c",
+          "text": "privacidade"
+        },
+        {
+          "id": "d",
+          "text": "bloqueio"
+        }
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

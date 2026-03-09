@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Biosseguranca - Basico",
+  "subject": "Biosseguranca",
+  "lesson": "Aula 10 - Servicos de Saude e EPC",
+  "level": "Basico",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Qual alternativa define corretamente EPC?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "cabine que protege operador, produto e ambiente"
+        },
+        {
+          "id": "b",
+          "text": "equipamento de protecao coletiva"
+        },
+        {
+          "id": "c",
+          "text": "equipamento para descontaminacao imediata"
+        },
+        {
+          "id": "d",
+          "text": "filtro de alta eficiencia para particulas"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q2",
+      "statement": "Qual alternativa define corretamente CSB?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "cabine que protege operador, produto e ambiente"
+        },
+        {
+          "id": "b",
+          "text": "filtro de alta eficiencia para particulas"
+        },
+        {
+          "id": "c",
+          "text": "equipamento de protecao coletiva"
+        },
+        {
+          "id": "d",
+          "text": "equipamento para descontaminacao imediata"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Qual alternativa define corretamente filtro HEPA?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "cabine que protege operador, produto e ambiente"
+        },
+        {
+          "id": "b",
+          "text": "equipamento de protecao coletiva"
+        },
+        {
+          "id": "c",
+          "text": "equipamento para descontaminacao imediata"
+        },
+        {
+          "id": "d",
+          "text": "filtro de alta eficiencia para particulas"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q4",
+      "statement": "Qual alternativa define corretamente chuveiro de emergencia?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "cabine que protege operador, produto e ambiente"
+        },
+        {
+          "id": "b",
+          "text": "equipamento para descontaminacao imediata"
+        },
+        {
+          "id": "c",
+          "text": "filtro de alta eficiencia para particulas"
+        },
+        {
+          "id": "d",
+          "text": "equipamento de protecao coletiva"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q5",
+      "statement": "Qual alternativa define corretamente sinalizacao?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "filtro de alta eficiencia para particulas"
+        },
+        {
+          "id": "b",
+          "text": "equipamento de protecao coletiva"
+        },
+        {
+          "id": "c",
+          "text": "cabine que protege operador, produto e ambiente"
+        },
+        {
+          "id": "d",
+          "text": "informacoes visuais sobre risco e conduta"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Qual alternativa define corretamente transporte de amostras?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "equipamento de protecao coletiva"
+        },
+        {
+          "id": "b",
+          "text": "movimentacao segura com embalagem adequada"
+        },
+        {
+          "id": "c",
+          "text": "cabine que protege operador, produto e ambiente"
+        },
+        {
+          "id": "d",
+          "text": "filtro de alta eficiencia para particulas"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q7",
+      "statement": "Qual conceito corresponde a descricao: equipamento de protecao coletiva?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "EPC"
+        },
+        {
+          "id": "b",
+          "text": "CSB"
+        },
+        {
+          "id": "c",
+          "text": "filtro HEPA"
+        },
+        {
+          "id": "d",
+          "text": "chuveiro de emergencia"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Qual conceito corresponde a descricao: cabine que protege operador, produto e ambiente?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "CSB"
+        },
+        {
+          "id": "b",
+          "text": "filtro HEPA"
+        },
+        {
+          "id": "c",
+          "text": "EPC"
+        },
+        {
+          "id": "d",
+          "text": "chuveiro de emergencia"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q9",
+      "statement": "Qual conceito corresponde a descricao: filtro de alta eficiencia para particulas?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "filtro HEPA"
+        },
+        {
+          "id": "b",
+          "text": "CSB"
+        },
+        {
+          "id": "c",
+          "text": "chuveiro de emergencia"
+        },
+        {
+          "id": "d",
+          "text": "EPC"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q10",
+      "statement": "Qual conceito corresponde a descricao: equipamento para descontaminacao imediata?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "filtro HEPA"
+        },
+        {
+          "id": "b",
+          "text": "CSB"
+        },
+        {
+          "id": "c",
+          "text": "EPC"
+        },
+        {
+          "id": "d",
+          "text": "chuveiro de emergencia"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

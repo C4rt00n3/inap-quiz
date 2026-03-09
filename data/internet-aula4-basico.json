@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Internet Versao 4 - Basico",
+  "subject": "Internet",
+  "lesson": "Aula 4 - Buscando Informacoes na Internet",
+  "level": "Basico",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Qual alternativa define corretamente mecanismo de busca?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "termo usado para iniciar pesquisa"
+        },
+        {
+          "id": "b",
+          "text": "grau de aderencia ao que foi buscado"
+        },
+        {
+          "id": "c",
+          "text": "sistema que indexa e retorna paginas relevantes"
+        },
+        {
+          "id": "d",
+          "text": "origem com credibilidade verificavel"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q2",
+      "statement": "Qual alternativa define corretamente palavra-chave?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "grau de aderencia ao que foi buscado"
+        },
+        {
+          "id": "b",
+          "text": "origem com credibilidade verificavel"
+        },
+        {
+          "id": "c",
+          "text": "sistema que indexa e retorna paginas relevantes"
+        },
+        {
+          "id": "d",
+          "text": "termo usado para iniciar pesquisa"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q3",
+      "statement": "Qual alternativa define corretamente relevancia?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "termo usado para iniciar pesquisa"
+        },
+        {
+          "id": "b",
+          "text": "sistema que indexa e retorna paginas relevantes"
+        },
+        {
+          "id": "c",
+          "text": "origem com credibilidade verificavel"
+        },
+        {
+          "id": "d",
+          "text": "grau de aderencia ao que foi buscado"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q4",
+      "statement": "Qual alternativa define corretamente fonte confiavel?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "origem com credibilidade verificavel"
+        },
+        {
+          "id": "b",
+          "text": "sistema que indexa e retorna paginas relevantes"
+        },
+        {
+          "id": "c",
+          "text": "grau de aderencia ao que foi buscado"
+        },
+        {
+          "id": "d",
+          "text": "termo usado para iniciar pesquisa"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "Qual alternativa define corretamente operador de busca?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "sistema que indexa e retorna paginas relevantes"
+        },
+        {
+          "id": "b",
+          "text": "comando que melhora precisao da pesquisa"
+        },
+        {
+          "id": "c",
+          "text": "grau de aderencia ao que foi buscado"
+        },
+        {
+          "id": "d",
+          "text": "termo usado para iniciar pesquisa"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q6",
+      "statement": "Qual alternativa define corretamente validacao de informacao?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "termo usado para iniciar pesquisa"
+        },
+        {
+          "id": "b",
+          "text": "sistema que indexa e retorna paginas relevantes"
+        },
+        {
+          "id": "c",
+          "text": "checagem de dados em fontes diferentes"
+        },
+        {
+          "id": "d",
+          "text": "grau de aderencia ao que foi buscado"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q7",
+      "statement": "Qual conceito corresponde a descricao: sistema que indexa e retorna paginas relevantes?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "fonte confiavel"
+        },
+        {
+          "id": "b",
+          "text": "palavra-chave"
+        },
+        {
+          "id": "c",
+          "text": "mecanismo de busca"
+        },
+        {
+          "id": "d",
+          "text": "relevancia"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q8",
+      "statement": "Qual conceito corresponde a descricao: termo usado para iniciar pesquisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "relevancia"
+        },
+        {
+          "id": "b",
+          "text": "palavra-chave"
+        },
+        {
+          "id": "c",
+          "text": "mecanismo de busca"
+        },
+        {
+          "id": "d",
+          "text": "fonte confiavel"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Qual conceito corresponde a descricao: grau de aderencia ao que foi buscado?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "relevancia"
+        },
+        {
+          "id": "b",
+          "text": "mecanismo de busca"
+        },
+        {
+          "id": "c",
+          "text": "palavra-chave"
+        },
+        {
+          "id": "d",
+          "text": "fonte confiavel"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q10",
+      "statement": "Qual conceito corresponde a descricao: origem com credibilidade verificavel?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "relevancia"
+        },
+        {
+          "id": "b",
+          "text": "mecanismo de busca"
+        },
+        {
+          "id": "c",
+          "text": "fonte confiavel"
+        },
+        {
+          "id": "d",
+          "text": "palavra-chave"
+        }
+      ],
+      "correctOptionId": "c"
+    }
+  ]
+}

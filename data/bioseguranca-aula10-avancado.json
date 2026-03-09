@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Biosseguranca - Avancado",
+  "subject": "Biosseguranca",
+  "lesson": "Aula 10 - Servicos de Saude e EPC",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar EPC de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "equipamento de protecao coletiva"
+        },
+        {
+          "id": "b",
+          "text": "cabine que protege operador, produto e ambiente"
+        },
+        {
+          "id": "c",
+          "text": "equipamento para descontaminacao imediata"
+        },
+        {
+          "id": "d",
+          "text": "filtro de alta eficiencia para particulas"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar CSB de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "filtro de alta eficiencia para particulas"
+        },
+        {
+          "id": "b",
+          "text": "cabine que protege operador, produto e ambiente"
+        },
+        {
+          "id": "c",
+          "text": "equipamento de protecao coletiva"
+        },
+        {
+          "id": "d",
+          "text": "equipamento para descontaminacao imediata"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q3",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar filtro HEPA de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "cabine que protege operador, produto e ambiente"
+        },
+        {
+          "id": "b",
+          "text": "equipamento para descontaminacao imediata"
+        },
+        {
+          "id": "c",
+          "text": "filtro de alta eficiencia para particulas"
+        },
+        {
+          "id": "d",
+          "text": "equipamento de protecao coletiva"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q4",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar chuveiro de emergencia de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "equipamento de protecao coletiva"
+        },
+        {
+          "id": "b",
+          "text": "equipamento para descontaminacao imediata"
+        },
+        {
+          "id": "c",
+          "text": "cabine que protege operador, produto e ambiente"
+        },
+        {
+          "id": "d",
+          "text": "filtro de alta eficiencia para particulas"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q5",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar sinalizacao de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "informacoes visuais sobre risco e conduta"
+        },
+        {
+          "id": "b",
+          "text": "filtro de alta eficiencia para particulas"
+        },
+        {
+          "id": "c",
+          "text": "equipamento de protecao coletiva"
+        },
+        {
+          "id": "d",
+          "text": "cabine que protege operador, produto e ambiente"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q6",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar transporte de amostras de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "movimentacao segura com embalagem adequada"
+        },
+        {
+          "id": "b",
+          "text": "equipamento de protecao coletiva"
+        },
+        {
+          "id": "c",
+          "text": "filtro de alta eficiencia para particulas"
+        },
+        {
+          "id": "d",
+          "text": "cabine que protege operador, produto e ambiente"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Para tomada de decisao, considere a descricao: equipamento de protecao coletiva. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "chuveiro de emergencia"
+        },
+        {
+          "id": "b",
+          "text": "CSB"
+        },
+        {
+          "id": "c",
+          "text": "filtro HEPA"
+        },
+        {
+          "id": "d",
+          "text": "EPC"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q8",
+      "statement": "Para tomada de decisao, considere a descricao: cabine que protege operador, produto e ambiente. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "CSB"
+        },
+        {
+          "id": "b",
+          "text": "EPC"
+        },
+        {
+          "id": "c",
+          "text": "filtro HEPA"
+        },
+        {
+          "id": "d",
+          "text": "chuveiro de emergencia"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q9",
+      "statement": "Para tomada de decisao, considere a descricao: filtro de alta eficiencia para particulas. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "filtro HEPA"
+        },
+        {
+          "id": "b",
+          "text": "EPC"
+        },
+        {
+          "id": "c",
+          "text": "chuveiro de emergencia"
+        },
+        {
+          "id": "d",
+          "text": "CSB"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q10",
+      "statement": "Para tomada de decisao, considere a descricao: equipamento para descontaminacao imediata. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "CSB"
+        },
+        {
+          "id": "b",
+          "text": "chuveiro de emergencia"
+        },
+        {
+          "id": "c",
+          "text": "filtro HEPA"
+        },
+        {
+          "id": "d",
+          "text": "EPC"
+        }
+      ],
+      "correctOptionId": "b"
+    }
+  ]
+}

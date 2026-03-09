@@ -4,12 +4,13 @@ type QuizHeaderProps = {
   title: string;
   subject: string;
   lesson: string;
+  level: string;
 };
 
 /**
  * Displays the test title and basic metadata.
  */
-export function QuizHeader({ title, subject, lesson }: QuizHeaderProps) {
+export function QuizHeader({ title, subject, lesson, level }: QuizHeaderProps) {
   return (
     <header className={styles.header}>
       <span className={styles.kicker}>Teste Educacional</span>
@@ -22,6 +23,10 @@ export function QuizHeader({ title, subject, lesson }: QuizHeaderProps) {
         <div className={styles.metaItem}>
           <span className={styles.metaLabel}>Aula</span>
           <strong>{lesson}</strong>
+        </div>
+        <div className={styles.metaItem}>
+          <span className={styles.metaLabel}>Nivel</span>
+          <strong>{level}</strong>
         </div>
       </div>
     </header>

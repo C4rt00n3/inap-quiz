@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Biosseguranca - Intermediario",
+  "subject": "Biosseguranca",
+  "lesson": "Aula 6 - Virus e Fungos",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou virus. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "agente acelular que depende de celula hospedeira"
+        },
+        {
+          "id": "b",
+          "text": "estrutura de dispersao de fungos"
+        },
+        {
+          "id": "c",
+          "text": "organismo eucarionte que pode ser oportunista"
+        },
+        {
+          "id": "d",
+          "text": "rota importante de transmissao"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou fungo. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "rota importante de transmissao"
+        },
+        {
+          "id": "b",
+          "text": "agente acelular que depende de celula hospedeira"
+        },
+        {
+          "id": "c",
+          "text": "organismo eucarionte que pode ser oportunista"
+        },
+        {
+          "id": "d",
+          "text": "estrutura de dispersao de fungos"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou esporo. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "organismo eucarionte que pode ser oportunista"
+        },
+        {
+          "id": "b",
+          "text": "estrutura de dispersao de fungos"
+        },
+        {
+          "id": "c",
+          "text": "rota importante de transmissao"
+        },
+        {
+          "id": "d",
+          "text": "agente acelular que depende de celula hospedeira"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou via respiratoria. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "organismo eucarionte que pode ser oportunista"
+        },
+        {
+          "id": "b",
+          "text": "estrutura de dispersao de fungos"
+        },
+        {
+          "id": "c",
+          "text": "rota importante de transmissao"
+        },
+        {
+          "id": "d",
+          "text": "agente acelular que depende de celula hospedeira"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou controle ambiental. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "organismo eucarionte que pode ser oportunista"
+        },
+        {
+          "id": "b",
+          "text": "agente acelular que depende de celula hospedeira"
+        },
+        {
+          "id": "c",
+          "text": "medidas de ventilacao e limpeza"
+        },
+        {
+          "id": "d",
+          "text": "estrutura de dispersao de fungos"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q6",
+      "statement": "Durante uma rotina de estudo, a equipe citou patogenicidade. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "estrutura de dispersao de fungos"
+        },
+        {
+          "id": "b",
+          "text": "agente acelular que depende de celula hospedeira"
+        },
+        {
+          "id": "c",
+          "text": "capacidade de causar doenca"
+        },
+        {
+          "id": "d",
+          "text": "organismo eucarionte que pode ser oportunista"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: agente acelular que depende de celula hospedeira. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "esporo"
+        },
+        {
+          "id": "b",
+          "text": "via respiratoria"
+        },
+        {
+          "id": "c",
+          "text": "virus"
+        },
+        {
+          "id": "d",
+          "text": "fungo"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: organismo eucarionte que pode ser oportunista. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "virus"
+        },
+        {
+          "id": "b",
+          "text": "via respiratoria"
+        },
+        {
+          "id": "c",
+          "text": "fungo"
+        },
+        {
+          "id": "d",
+          "text": "esporo"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: estrutura de dispersao de fungos. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "via respiratoria"
+        },
+        {
+          "id": "b",
+          "text": "virus"
+        },
+        {
+          "id": "c",
+          "text": "esporo"
+        },
+        {
+          "id": "d",
+          "text": "fungo"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: rota importante de transmissao. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "via respiratoria"
+        },
+        {
+          "id": "b",
+          "text": "fungo"
+        },
+        {
+          "id": "c",
+          "text": "virus"
+        },
+        {
+          "id": "d",
+          "text": "esporo"
+        }
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Introducao a Informatica - Basico",
+  "subject": "Informatica",
+  "lesson": "Aula 6 - E-mail",
+  "level": "Basico",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Qual alternativa define corretamente SMTP?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "protocolo de download local de mensagens"
+        },
+        {
+          "id": "b",
+          "text": "protocolo com sincronizacao no servidor"
+        },
+        {
+          "id": "c",
+          "text": "protocolo de envio de emails"
+        },
+        {
+          "id": "d",
+          "text": "politica de autorizacao de envio por dominio"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q2",
+      "statement": "Qual alternativa define corretamente IMAP?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "protocolo de download local de mensagens"
+        },
+        {
+          "id": "b",
+          "text": "politica de autorizacao de envio por dominio"
+        },
+        {
+          "id": "c",
+          "text": "protocolo de envio de emails"
+        },
+        {
+          "id": "d",
+          "text": "protocolo com sincronizacao no servidor"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q3",
+      "statement": "Qual alternativa define corretamente POP3?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "protocolo com sincronizacao no servidor"
+        },
+        {
+          "id": "b",
+          "text": "protocolo de envio de emails"
+        },
+        {
+          "id": "c",
+          "text": "politica de autorizacao de envio por dominio"
+        },
+        {
+          "id": "d",
+          "text": "protocolo de download local de mensagens"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q4",
+      "statement": "Qual alternativa define corretamente SPF?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "protocolo de download local de mensagens"
+        },
+        {
+          "id": "b",
+          "text": "protocolo com sincronizacao no servidor"
+        },
+        {
+          "id": "c",
+          "text": "politica de autorizacao de envio por dominio"
+        },
+        {
+          "id": "d",
+          "text": "protocolo de envio de emails"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Qual alternativa define corretamente DKIM?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "protocolo de envio de emails"
+        },
+        {
+          "id": "b",
+          "text": "protocolo de download local de mensagens"
+        },
+        {
+          "id": "c",
+          "text": "assinatura para integridade de mensagem"
+        },
+        {
+          "id": "d",
+          "text": "protocolo com sincronizacao no servidor"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q6",
+      "statement": "Qual alternativa define corretamente DMARC?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "protocolo de download local de mensagens"
+        },
+        {
+          "id": "b",
+          "text": "protocolo de envio de emails"
+        },
+        {
+          "id": "c",
+          "text": "protocolo com sincronizacao no servidor"
+        },
+        {
+          "id": "d",
+          "text": "politica de autenticacao e tratamento"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q7",
+      "statement": "Qual conceito corresponde a descricao: protocolo de envio de emails?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "SMTP"
+        },
+        {
+          "id": "b",
+          "text": "SPF"
+        },
+        {
+          "id": "c",
+          "text": "POP3"
+        },
+        {
+          "id": "d",
+          "text": "IMAP"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Qual conceito corresponde a descricao: protocolo com sincronizacao no servidor?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "POP3"
+        },
+        {
+          "id": "b",
+          "text": "SMTP"
+        },
+        {
+          "id": "c",
+          "text": "IMAP"
+        },
+        {
+          "id": "d",
+          "text": "SPF"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q9",
+      "statement": "Qual conceito corresponde a descricao: protocolo de download local de mensagens?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "POP3"
+        },
+        {
+          "id": "b",
+          "text": "SMTP"
+        },
+        {
+          "id": "c",
+          "text": "IMAP"
+        },
+        {
+          "id": "d",
+          "text": "SPF"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q10",
+      "statement": "Qual conceito corresponde a descricao: politica de autorizacao de envio por dominio?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "SMTP"
+        },
+        {
+          "id": "b",
+          "text": "SPF"
+        },
+        {
+          "id": "c",
+          "text": "IMAP"
+        },
+        {
+          "id": "d",
+          "text": "POP3"
+        }
+      ],
+      "correctOptionId": "b"
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Atendente de Farmacia - Avancado",
+  "subject": "Farmacia",
+  "lesson": "Aula 4 - Industria Farmaceutica",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar medicamento de referencia de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "grupo de unidades produzido sob mesmas condicoes"
+        },
+        {
+          "id": "b",
+          "text": "produto com mesmo principio ativo e marca propria"
+        },
+        {
+          "id": "c",
+          "text": "produto bioequivalente ao referencia sem marca comercial"
+        },
+        {
+          "id": "d",
+          "text": "produto com eficacia e seguranca comprovadas"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q2",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar medicamento generico de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "produto com mesmo principio ativo e marca propria"
+        },
+        {
+          "id": "b",
+          "text": "grupo de unidades produzido sob mesmas condicoes"
+        },
+        {
+          "id": "c",
+          "text": "produto bioequivalente ao referencia sem marca comercial"
+        },
+        {
+          "id": "d",
+          "text": "produto com eficacia e seguranca comprovadas"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q3",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar medicamento similar de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "produto bioequivalente ao referencia sem marca comercial"
+        },
+        {
+          "id": "b",
+          "text": "grupo de unidades produzido sob mesmas condicoes"
+        },
+        {
+          "id": "c",
+          "text": "produto com eficacia e seguranca comprovadas"
+        },
+        {
+          "id": "d",
+          "text": "produto com mesmo principio ativo e marca propria"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q4",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar lote de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "produto com mesmo principio ativo e marca propria"
+        },
+        {
+          "id": "b",
+          "text": "produto bioequivalente ao referencia sem marca comercial"
+        },
+        {
+          "id": "c",
+          "text": "produto com eficacia e seguranca comprovadas"
+        },
+        {
+          "id": "d",
+          "text": "grupo de unidades produzido sob mesmas condicoes"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q5",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar registro sanitario de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "produto bioequivalente ao referencia sem marca comercial"
+        },
+        {
+          "id": "b",
+          "text": "produto com mesmo principio ativo e marca propria"
+        },
+        {
+          "id": "c",
+          "text": "autorizacao oficial para comercializacao"
+        },
+        {
+          "id": "d",
+          "text": "produto com eficacia e seguranca comprovadas"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q6",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar farmacovigilancia de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "produto com eficacia e seguranca comprovadas"
+        },
+        {
+          "id": "b",
+          "text": "produto com mesmo principio ativo e marca propria"
+        },
+        {
+          "id": "c",
+          "text": "produto bioequivalente ao referencia sem marca comercial"
+        },
+        {
+          "id": "d",
+          "text": "monitoramento de eventos adversos apos venda"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q7",
+      "statement": "Para tomada de decisao, considere a descricao: produto com eficacia e seguranca comprovadas. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "lote"
+        },
+        {
+          "id": "b",
+          "text": "medicamento de referencia"
+        },
+        {
+          "id": "c",
+          "text": "medicamento generico"
+        },
+        {
+          "id": "d",
+          "text": "medicamento similar"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q8",
+      "statement": "Para tomada de decisao, considere a descricao: produto bioequivalente ao referencia sem marca comercial. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "medicamento de referencia"
+        },
+        {
+          "id": "b",
+          "text": "lote"
+        },
+        {
+          "id": "c",
+          "text": "medicamento generico"
+        },
+        {
+          "id": "d",
+          "text": "medicamento similar"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q9",
+      "statement": "Para tomada de decisao, considere a descricao: produto com mesmo principio ativo e marca propria. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "medicamento de referencia"
+        },
+        {
+          "id": "b",
+          "text": "medicamento generico"
+        },
+        {
+          "id": "c",
+          "text": "lote"
+        },
+        {
+          "id": "d",
+          "text": "medicamento similar"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q10",
+      "statement": "Para tomada de decisao, considere a descricao: grupo de unidades produzido sob mesmas condicoes. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "medicamento similar"
+        },
+        {
+          "id": "b",
+          "text": "lote"
+        },
+        {
+          "id": "c",
+          "text": "medicamento de referencia"
+        },
+        {
+          "id": "d",
+          "text": "medicamento generico"
+        }
+      ],
+      "correctOptionId": "b"
+    }
+  ]
+}

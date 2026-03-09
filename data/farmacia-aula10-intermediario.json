@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Atendente de Farmacia - Intermediario",
+  "subject": "Farmacia",
+  "lesson": "Aula 10 - Asfixia e Emergencias",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou asfixia. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "tecnica para expulsar corpo estranho"
+        },
+        {
+          "id": "b",
+          "text": "insuficiencia de oxigenacao por obstrucao ou falha respiratoria"
+        },
+        {
+          "id": "c",
+          "text": "bloqueio parcial ou total da passagem de ar"
+        },
+        {
+          "id": "d",
+          "text": "coloracao azulada por baixa oxigenacao"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou obstrucao de vias aereas. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "coloracao azulada por baixa oxigenacao"
+        },
+        {
+          "id": "b",
+          "text": "bloqueio parcial ou total da passagem de ar"
+        },
+        {
+          "id": "c",
+          "text": "tecnica para expulsar corpo estranho"
+        },
+        {
+          "id": "d",
+          "text": "insuficiencia de oxigenacao por obstrucao ou falha respiratoria"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou cianose. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "insuficiencia de oxigenacao por obstrucao ou falha respiratoria"
+        },
+        {
+          "id": "b",
+          "text": "tecnica para expulsar corpo estranho"
+        },
+        {
+          "id": "c",
+          "text": "coloracao azulada por baixa oxigenacao"
+        },
+        {
+          "id": "d",
+          "text": "bloqueio parcial ou total da passagem de ar"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou manobra de desobstrucao. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "insuficiencia de oxigenacao por obstrucao ou falha respiratoria"
+        },
+        {
+          "id": "b",
+          "text": "coloracao azulada por baixa oxigenacao"
+        },
+        {
+          "id": "c",
+          "text": "bloqueio parcial ou total da passagem de ar"
+        },
+        {
+          "id": "d",
+          "text": "tecnica para expulsar corpo estranho"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou afogamento. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "comprometimento respiratorio por submersao"
+        },
+        {
+          "id": "b",
+          "text": "insuficiencia de oxigenacao por obstrucao ou falha respiratoria"
+        },
+        {
+          "id": "c",
+          "text": "coloracao azulada por baixa oxigenacao"
+        },
+        {
+          "id": "d",
+          "text": "bloqueio parcial ou total da passagem de ar"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q6",
+      "statement": "Durante uma rotina de estudo, a equipe citou urgencia. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "coloracao azulada por baixa oxigenacao"
+        },
+        {
+          "id": "b",
+          "text": "bloqueio parcial ou total da passagem de ar"
+        },
+        {
+          "id": "c",
+          "text": "insuficiencia de oxigenacao por obstrucao ou falha respiratoria"
+        },
+        {
+          "id": "d",
+          "text": "situacao que exige acao rapida para evitar agravamento"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: insuficiencia de oxigenacao por obstrucao ou falha respiratoria. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "manobra de desobstrucao"
+        },
+        {
+          "id": "b",
+          "text": "obstrucao de vias aereas"
+        },
+        {
+          "id": "c",
+          "text": "asfixia"
+        },
+        {
+          "id": "d",
+          "text": "cianose"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: bloqueio parcial ou total da passagem de ar. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "manobra de desobstrucao"
+        },
+        {
+          "id": "b",
+          "text": "asfixia"
+        },
+        {
+          "id": "c",
+          "text": "obstrucao de vias aereas"
+        },
+        {
+          "id": "d",
+          "text": "cianose"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: coloracao azulada por baixa oxigenacao. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "asfixia"
+        },
+        {
+          "id": "b",
+          "text": "obstrucao de vias aereas"
+        },
+        {
+          "id": "c",
+          "text": "cianose"
+        },
+        {
+          "id": "d",
+          "text": "manobra de desobstrucao"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: tecnica para expulsar corpo estranho. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "asfixia"
+        },
+        {
+          "id": "b",
+          "text": "manobra de desobstrucao"
+        },
+        {
+          "id": "c",
+          "text": "obstrucao de vias aereas"
+        },
+        {
+          "id": "d",
+          "text": "cianose"
+        }
+      ],
+      "correctOptionId": "b"
+    }
+  ]
+}

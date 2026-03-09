@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Biosseguranca - Avancado",
+  "subject": "Biosseguranca",
+  "lesson": "Aula 6 - Virus e Fungos",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar virus de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "organismo eucarionte que pode ser oportunista"
+        },
+        {
+          "id": "b",
+          "text": "rota importante de transmissao"
+        },
+        {
+          "id": "c",
+          "text": "estrutura de dispersao de fungos"
+        },
+        {
+          "id": "d",
+          "text": "agente acelular que depende de celula hospedeira"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q2",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar fungo de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "rota importante de transmissao"
+        },
+        {
+          "id": "b",
+          "text": "organismo eucarionte que pode ser oportunista"
+        },
+        {
+          "id": "c",
+          "text": "agente acelular que depende de celula hospedeira"
+        },
+        {
+          "id": "d",
+          "text": "estrutura de dispersao de fungos"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q3",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar esporo de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "organismo eucarionte que pode ser oportunista"
+        },
+        {
+          "id": "b",
+          "text": "estrutura de dispersao de fungos"
+        },
+        {
+          "id": "c",
+          "text": "rota importante de transmissao"
+        },
+        {
+          "id": "d",
+          "text": "agente acelular que depende de celula hospedeira"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar via respiratoria de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "organismo eucarionte que pode ser oportunista"
+        },
+        {
+          "id": "b",
+          "text": "estrutura de dispersao de fungos"
+        },
+        {
+          "id": "c",
+          "text": "rota importante de transmissao"
+        },
+        {
+          "id": "d",
+          "text": "agente acelular que depende de celula hospedeira"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar controle ambiental de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "estrutura de dispersao de fungos"
+        },
+        {
+          "id": "b",
+          "text": "organismo eucarionte que pode ser oportunista"
+        },
+        {
+          "id": "c",
+          "text": "medidas de ventilacao e limpeza"
+        },
+        {
+          "id": "d",
+          "text": "agente acelular que depende de celula hospedeira"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q6",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar patogenicidade de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "capacidade de causar doenca"
+        },
+        {
+          "id": "b",
+          "text": "organismo eucarionte que pode ser oportunista"
+        },
+        {
+          "id": "c",
+          "text": "agente acelular que depende de celula hospedeira"
+        },
+        {
+          "id": "d",
+          "text": "estrutura de dispersao de fungos"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Para tomada de decisao, considere a descricao: agente acelular que depende de celula hospedeira. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "fungo"
+        },
+        {
+          "id": "b",
+          "text": "virus"
+        },
+        {
+          "id": "c",
+          "text": "esporo"
+        },
+        {
+          "id": "d",
+          "text": "via respiratoria"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q8",
+      "statement": "Para tomada de decisao, considere a descricao: organismo eucarionte que pode ser oportunista. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "via respiratoria"
+        },
+        {
+          "id": "b",
+          "text": "esporo"
+        },
+        {
+          "id": "c",
+          "text": "virus"
+        },
+        {
+          "id": "d",
+          "text": "fungo"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q9",
+      "statement": "Para tomada de decisao, considere a descricao: estrutura de dispersao de fungos. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "via respiratoria"
+        },
+        {
+          "id": "b",
+          "text": "esporo"
+        },
+        {
+          "id": "c",
+          "text": "virus"
+        },
+        {
+          "id": "d",
+          "text": "fungo"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q10",
+      "statement": "Para tomada de decisao, considere a descricao: rota importante de transmissao. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "virus"
+        },
+        {
+          "id": "b",
+          "text": "esporo"
+        },
+        {
+          "id": "c",
+          "text": "via respiratoria"
+        },
+        {
+          "id": "d",
+          "text": "fungo"
+        }
+      ],
+      "correctOptionId": "c"
+    }
+  ]
+}

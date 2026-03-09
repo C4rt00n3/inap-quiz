@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Internet Versao 4 - Basico",
+  "subject": "Internet",
+  "lesson": "Aula 5 - Personalizar e Controlar o Chrome",
+  "level": "Basico",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Qual alternativa define corretamente configuracoes?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "atalhos salvos para acesso rapido"
+        },
+        {
+          "id": "b",
+          "text": "registro de paginas acessadas"
+        },
+        {
+          "id": "c",
+          "text": "ajustes de comportamento do navegador"
+        },
+        {
+          "id": "d",
+          "text": "controle de dados de navegacao"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q2",
+      "statement": "Qual alternativa define corretamente historico?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "atalhos salvos para acesso rapido"
+        },
+        {
+          "id": "b",
+          "text": "registro de paginas acessadas"
+        },
+        {
+          "id": "c",
+          "text": "ajustes de comportamento do navegador"
+        },
+        {
+          "id": "d",
+          "text": "controle de dados de navegacao"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q3",
+      "statement": "Qual alternativa define corretamente favoritos?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "atalhos salvos para acesso rapido"
+        },
+        {
+          "id": "b",
+          "text": "controle de dados de navegacao"
+        },
+        {
+          "id": "c",
+          "text": "registro de paginas acessadas"
+        },
+        {
+          "id": "d",
+          "text": "ajustes de comportamento do navegador"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "Qual alternativa define corretamente privacidade?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "registro de paginas acessadas"
+        },
+        {
+          "id": "b",
+          "text": "controle de dados de navegacao"
+        },
+        {
+          "id": "c",
+          "text": "ajustes de comportamento do navegador"
+        },
+        {
+          "id": "d",
+          "text": "atalhos salvos para acesso rapido"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q5",
+      "statement": "Qual alternativa define corretamente perfil?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "ajustes de comportamento do navegador"
+        },
+        {
+          "id": "b",
+          "text": "registro de paginas acessadas"
+        },
+        {
+          "id": "c",
+          "text": "conjunto de preferencias do usuario"
+        },
+        {
+          "id": "d",
+          "text": "atalhos salvos para acesso rapido"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q6",
+      "statement": "Qual alternativa define corretamente extensao?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "registro de paginas acessadas"
+        },
+        {
+          "id": "b",
+          "text": "atalhos salvos para acesso rapido"
+        },
+        {
+          "id": "c",
+          "text": "recurso adicional instalado no navegador"
+        },
+        {
+          "id": "d",
+          "text": "ajustes de comportamento do navegador"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q7",
+      "statement": "Qual conceito corresponde a descricao: ajustes de comportamento do navegador?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "configuracoes"
+        },
+        {
+          "id": "b",
+          "text": "historico"
+        },
+        {
+          "id": "c",
+          "text": "favoritos"
+        },
+        {
+          "id": "d",
+          "text": "privacidade"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Qual conceito corresponde a descricao: registro de paginas acessadas?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "privacidade"
+        },
+        {
+          "id": "b",
+          "text": "historico"
+        },
+        {
+          "id": "c",
+          "text": "configuracoes"
+        },
+        {
+          "id": "d",
+          "text": "favoritos"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Qual conceito corresponde a descricao: atalhos salvos para acesso rapido?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "privacidade"
+        },
+        {
+          "id": "b",
+          "text": "historico"
+        },
+        {
+          "id": "c",
+          "text": "favoritos"
+        },
+        {
+          "id": "d",
+          "text": "configuracoes"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Qual conceito corresponde a descricao: controle de dados de navegacao?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "historico"
+        },
+        {
+          "id": "b",
+          "text": "favoritos"
+        },
+        {
+          "id": "c",
+          "text": "privacidade"
+        },
+        {
+          "id": "d",
+          "text": "configuracoes"
+        }
+      ],
+      "correctOptionId": "c"
+    }
+  ]
+}

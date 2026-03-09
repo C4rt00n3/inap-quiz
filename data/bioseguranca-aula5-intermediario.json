@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Biosseguranca - Intermediario",
+  "subject": "Biosseguranca",
+  "lesson": "Aula 5 - Epidemiologia",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou epidemiologia. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "total de casos existentes em um periodo"
+        },
+        {
+          "id": "b",
+          "text": "estudo da distribuicao de doencas na populacao"
+        },
+        {
+          "id": "c",
+          "text": "numero de casos novos em periodo definido"
+        },
+        {
+          "id": "d",
+          "text": "sequencia de eventos que permite a doenca"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou incidencia. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "sequencia de eventos que permite a doenca"
+        },
+        {
+          "id": "b",
+          "text": "total de casos existentes em um periodo"
+        },
+        {
+          "id": "c",
+          "text": "numero de casos novos em periodo definido"
+        },
+        {
+          "id": "d",
+          "text": "estudo da distribuicao de doencas na populacao"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou prevalencia. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "total de casos existentes em um periodo"
+        },
+        {
+          "id": "b",
+          "text": "estudo da distribuicao de doencas na populacao"
+        },
+        {
+          "id": "c",
+          "text": "numero de casos novos em periodo definido"
+        },
+        {
+          "id": "d",
+          "text": "sequencia de eventos que permite a doenca"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou cadeia de transmissao. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "total de casos existentes em um periodo"
+        },
+        {
+          "id": "b",
+          "text": "sequencia de eventos que permite a doenca"
+        },
+        {
+          "id": "c",
+          "text": "numero de casos novos em periodo definido"
+        },
+        {
+          "id": "d",
+          "text": "estudo da distribuicao de doencas na populacao"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou hospedeiro suscetivel. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "total de casos existentes em um periodo"
+        },
+        {
+          "id": "b",
+          "text": "individuo com chance de adoecer"
+        },
+        {
+          "id": "c",
+          "text": "numero de casos novos em periodo definido"
+        },
+        {
+          "id": "d",
+          "text": "estudo da distribuicao de doencas na populacao"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q6",
+      "statement": "Durante uma rotina de estudo, a equipe citou vigilancia. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "numero de casos novos em periodo definido"
+        },
+        {
+          "id": "b",
+          "text": "estudo da distribuicao de doencas na populacao"
+        },
+        {
+          "id": "c",
+          "text": "monitoramento continuo de agravos em saude"
+        },
+        {
+          "id": "d",
+          "text": "total de casos existentes em um periodo"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: estudo da distribuicao de doencas na populacao. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "prevalencia"
+        },
+        {
+          "id": "b",
+          "text": "epidemiologia"
+        },
+        {
+          "id": "c",
+          "text": "incidencia"
+        },
+        {
+          "id": "d",
+          "text": "cadeia de transmissao"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: numero de casos novos em periodo definido. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "prevalencia"
+        },
+        {
+          "id": "b",
+          "text": "incidencia"
+        },
+        {
+          "id": "c",
+          "text": "cadeia de transmissao"
+        },
+        {
+          "id": "d",
+          "text": "epidemiologia"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: total de casos existentes em um periodo. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "epidemiologia"
+        },
+        {
+          "id": "b",
+          "text": "incidencia"
+        },
+        {
+          "id": "c",
+          "text": "prevalencia"
+        },
+        {
+          "id": "d",
+          "text": "cadeia de transmissao"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: sequencia de eventos que permite a doenca. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "cadeia de transmissao"
+        },
+        {
+          "id": "b",
+          "text": "prevalencia"
+        },
+        {
+          "id": "c",
+          "text": "epidemiologia"
+        },
+        {
+          "id": "d",
+          "text": "incidencia"
+        }
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

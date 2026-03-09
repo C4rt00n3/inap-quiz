@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Internet Versao 4 - Intermediario",
+  "subject": "Internet",
+  "lesson": "Aula 3 - Funcionalidades do Google",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou YouTube. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "ferramenta de traducao de idiomas"
+        },
+        {
+          "id": "b",
+          "text": "servico de mapas e rotas"
+        },
+        {
+          "id": "c",
+          "text": "plataforma de compartilhamento de videos"
+        },
+        {
+          "id": "d",
+          "text": "agregador de noticias"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou Google Maps. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "ferramenta de traducao de idiomas"
+        },
+        {
+          "id": "b",
+          "text": "servico de mapas e rotas"
+        },
+        {
+          "id": "c",
+          "text": "plataforma de compartilhamento de videos"
+        },
+        {
+          "id": "d",
+          "text": "agregador de noticias"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou Google Tradutor. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "agregador de noticias"
+        },
+        {
+          "id": "b",
+          "text": "servico de mapas e rotas"
+        },
+        {
+          "id": "c",
+          "text": "ferramenta de traducao de idiomas"
+        },
+        {
+          "id": "d",
+          "text": "plataforma de compartilhamento de videos"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou Google Noticias. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "plataforma de compartilhamento de videos"
+        },
+        {
+          "id": "b",
+          "text": "agregador de noticias"
+        },
+        {
+          "id": "c",
+          "text": "ferramenta de traducao de idiomas"
+        },
+        {
+          "id": "d",
+          "text": "servico de mapas e rotas"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou Google Shopping. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "ferramenta de traducao de idiomas"
+        },
+        {
+          "id": "b",
+          "text": "busca de produtos e comparacao"
+        },
+        {
+          "id": "c",
+          "text": "plataforma de compartilhamento de videos"
+        },
+        {
+          "id": "d",
+          "text": "servico de mapas e rotas"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q6",
+      "statement": "Durante uma rotina de estudo, a equipe citou filtro de busca. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "ferramenta de traducao de idiomas"
+        },
+        {
+          "id": "b",
+          "text": "recurso para refinar resultados"
+        },
+        {
+          "id": "c",
+          "text": "plataforma de compartilhamento de videos"
+        },
+        {
+          "id": "d",
+          "text": "servico de mapas e rotas"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: plataforma de compartilhamento de videos. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Google Tradutor"
+        },
+        {
+          "id": "b",
+          "text": "Google Noticias"
+        },
+        {
+          "id": "c",
+          "text": "YouTube"
+        },
+        {
+          "id": "d",
+          "text": "Google Maps"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: servico de mapas e rotas. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Google Tradutor"
+        },
+        {
+          "id": "b",
+          "text": "Google Maps"
+        },
+        {
+          "id": "c",
+          "text": "YouTube"
+        },
+        {
+          "id": "d",
+          "text": "Google Noticias"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: ferramenta de traducao de idiomas. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "YouTube"
+        },
+        {
+          "id": "b",
+          "text": "Google Tradutor"
+        },
+        {
+          "id": "c",
+          "text": "Google Maps"
+        },
+        {
+          "id": "d",
+          "text": "Google Noticias"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: agregador de noticias. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "YouTube"
+        },
+        {
+          "id": "b",
+          "text": "Google Noticias"
+        },
+        {
+          "id": "c",
+          "text": "Google Maps"
+        },
+        {
+          "id": "d",
+          "text": "Google Tradutor"
+        }
+      ],
+      "correctOptionId": "b"
+    }
+  ]
+}

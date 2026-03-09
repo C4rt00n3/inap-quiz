@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Atendente de Farmacia - Basico",
+  "subject": "Farmacia",
+  "lesson": "Aula 8 - Primeiros Socorros",
+  "level": "Basico",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Qual alternativa define corretamente avaliacao de cena?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "analise inicial de seguranca antes do atendimento"
+        },
+        {
+          "id": "b",
+          "text": "reanimacao cardiopulmonar em parada cardiorrespiratoria"
+        },
+        {
+          "id": "c",
+          "text": "perda de sangue que exige controle rapido"
+        },
+        {
+          "id": "d",
+          "text": "estabilizacao de area lesionada"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Qual alternativa define corretamente hemorragia?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "estabilizacao de area lesionada"
+        },
+        {
+          "id": "b",
+          "text": "perda de sangue que exige controle rapido"
+        },
+        {
+          "id": "c",
+          "text": "analise inicial de seguranca antes do atendimento"
+        },
+        {
+          "id": "d",
+          "text": "reanimacao cardiopulmonar em parada cardiorrespiratoria"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q3",
+      "statement": "Qual alternativa define corretamente RCP?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "reanimacao cardiopulmonar em parada cardiorrespiratoria"
+        },
+        {
+          "id": "b",
+          "text": "perda de sangue que exige controle rapido"
+        },
+        {
+          "id": "c",
+          "text": "estabilizacao de area lesionada"
+        },
+        {
+          "id": "d",
+          "text": "analise inicial de seguranca antes do atendimento"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "Qual alternativa define corretamente imobilizacao?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "reanimacao cardiopulmonar em parada cardiorrespiratoria"
+        },
+        {
+          "id": "b",
+          "text": "estabilizacao de area lesionada"
+        },
+        {
+          "id": "c",
+          "text": "perda de sangue que exige controle rapido"
+        },
+        {
+          "id": "d",
+          "text": "analise inicial de seguranca antes do atendimento"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q5",
+      "statement": "Qual alternativa define corretamente queimadura?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "perda de sangue que exige controle rapido"
+        },
+        {
+          "id": "b",
+          "text": "analise inicial de seguranca antes do atendimento"
+        },
+        {
+          "id": "c",
+          "text": "reanimacao cardiopulmonar em parada cardiorrespiratoria"
+        },
+        {
+          "id": "d",
+          "text": "lesao por calor, quimico, eletricidade ou radiacao"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Qual alternativa define corretamente acionamento de emergencia?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "analise inicial de seguranca antes do atendimento"
+        },
+        {
+          "id": "b",
+          "text": "reanimacao cardiopulmonar em parada cardiorrespiratoria"
+        },
+        {
+          "id": "c",
+          "text": "perda de sangue que exige controle rapido"
+        },
+        {
+          "id": "d",
+          "text": "contato imediato com servico especializado"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q7",
+      "statement": "Qual conceito corresponde a descricao: analise inicial de seguranca antes do atendimento?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "imobilizacao"
+        },
+        {
+          "id": "b",
+          "text": "RCP"
+        },
+        {
+          "id": "c",
+          "text": "avaliacao de cena"
+        },
+        {
+          "id": "d",
+          "text": "hemorragia"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q8",
+      "statement": "Qual conceito corresponde a descricao: perda de sangue que exige controle rapido?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "RCP"
+        },
+        {
+          "id": "b",
+          "text": "avaliacao de cena"
+        },
+        {
+          "id": "c",
+          "text": "imobilizacao"
+        },
+        {
+          "id": "d",
+          "text": "hemorragia"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q9",
+      "statement": "Qual conceito corresponde a descricao: reanimacao cardiopulmonar em parada cardiorrespiratoria?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "RCP"
+        },
+        {
+          "id": "b",
+          "text": "avaliacao de cena"
+        },
+        {
+          "id": "c",
+          "text": "hemorragia"
+        },
+        {
+          "id": "d",
+          "text": "imobilizacao"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q10",
+      "statement": "Qual conceito corresponde a descricao: estabilizacao de area lesionada?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "imobilizacao"
+        },
+        {
+          "id": "b",
+          "text": "RCP"
+        },
+        {
+          "id": "c",
+          "text": "avaliacao de cena"
+        },
+        {
+          "id": "d",
+          "text": "hemorragia"
+        }
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

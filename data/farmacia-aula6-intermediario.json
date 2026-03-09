@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Atendente de Farmacia - Intermediario",
+  "subject": "Farmacia",
+  "lesson": "Aula 6 - Aplicacao de Medicamentos",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou via oral. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "administracao por boca"
+        },
+        {
+          "id": "b",
+          "text": "administracao no tecido subcutaneo"
+        },
+        {
+          "id": "c",
+          "text": "administracao no musculo"
+        },
+        {
+          "id": "d",
+          "text": "medidas para evitar contaminacao"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou via intramuscular. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "medidas para evitar contaminacao"
+        },
+        {
+          "id": "b",
+          "text": "administracao por boca"
+        },
+        {
+          "id": "c",
+          "text": "administracao no musculo"
+        },
+        {
+          "id": "d",
+          "text": "administracao no tecido subcutaneo"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou via subcutanea. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "administracao no musculo"
+        },
+        {
+          "id": "b",
+          "text": "administracao no tecido subcutaneo"
+        },
+        {
+          "id": "c",
+          "text": "medidas para evitar contaminacao"
+        },
+        {
+          "id": "d",
+          "text": "administracao por boca"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou assepsia. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "administracao no musculo"
+        },
+        {
+          "id": "b",
+          "text": "administracao no tecido subcutaneo"
+        },
+        {
+          "id": "c",
+          "text": "medidas para evitar contaminacao"
+        },
+        {
+          "id": "d",
+          "text": "administracao por boca"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou validade. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "administracao no musculo"
+        },
+        {
+          "id": "b",
+          "text": "administracao por boca"
+        },
+        {
+          "id": "c",
+          "text": "prazo de uso seguro do medicamento"
+        },
+        {
+          "id": "d",
+          "text": "administracao no tecido subcutaneo"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q6",
+      "statement": "Durante uma rotina de estudo, a equipe citou armazenamento. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "administracao no tecido subcutaneo"
+        },
+        {
+          "id": "b",
+          "text": "administracao por boca"
+        },
+        {
+          "id": "c",
+          "text": "manter em local seco, ventilado e protegido da luz"
+        },
+        {
+          "id": "d",
+          "text": "administracao no musculo"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: administracao por boca. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "via subcutanea"
+        },
+        {
+          "id": "b",
+          "text": "assepsia"
+        },
+        {
+          "id": "c",
+          "text": "via oral"
+        },
+        {
+          "id": "d",
+          "text": "via intramuscular"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: administracao no musculo. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "via oral"
+        },
+        {
+          "id": "b",
+          "text": "assepsia"
+        },
+        {
+          "id": "c",
+          "text": "via intramuscular"
+        },
+        {
+          "id": "d",
+          "text": "via subcutanea"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: administracao no tecido subcutaneo. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "assepsia"
+        },
+        {
+          "id": "b",
+          "text": "via oral"
+        },
+        {
+          "id": "c",
+          "text": "via subcutanea"
+        },
+        {
+          "id": "d",
+          "text": "via intramuscular"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: medidas para evitar contaminacao. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "assepsia"
+        },
+        {
+          "id": "b",
+          "text": "via intramuscular"
+        },
+        {
+          "id": "c",
+          "text": "via oral"
+        },
+        {
+          "id": "d",
+          "text": "via subcutanea"
+        }
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Biosseguranca - Intermediario",
+  "subject": "Biosseguranca",
+  "lesson": "Aula 8 - Normas de Biosseguranca",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou norma geral. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "condutas de limpeza pessoal e ambiente"
+        },
+        {
+          "id": "b",
+          "text": "setor com controle rigido de acesso"
+        },
+        {
+          "id": "c",
+          "text": "regra para proteger equipe e ambiente"
+        },
+        {
+          "id": "d",
+          "text": "desvio do procedimento padrao"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou nao conformidade. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "setor com controle rigido de acesso"
+        },
+        {
+          "id": "b",
+          "text": "regra para proteger equipe e ambiente"
+        },
+        {
+          "id": "c",
+          "text": "desvio do procedimento padrao"
+        },
+        {
+          "id": "d",
+          "text": "condutas de limpeza pessoal e ambiente"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou higiene laboratorial. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "regra para proteger equipe e ambiente"
+        },
+        {
+          "id": "b",
+          "text": "desvio do procedimento padrao"
+        },
+        {
+          "id": "c",
+          "text": "condutas de limpeza pessoal e ambiente"
+        },
+        {
+          "id": "d",
+          "text": "setor com controle rigido de acesso"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou area analitica. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "desvio do procedimento padrao"
+        },
+        {
+          "id": "b",
+          "text": "setor com controle rigido de acesso"
+        },
+        {
+          "id": "c",
+          "text": "regra para proteger equipe e ambiente"
+        },
+        {
+          "id": "d",
+          "text": "condutas de limpeza pessoal e ambiente"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou rastreabilidade. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "registro de etapas, materiais e responsaveis"
+        },
+        {
+          "id": "b",
+          "text": "regra para proteger equipe e ambiente"
+        },
+        {
+          "id": "c",
+          "text": "condutas de limpeza pessoal e ambiente"
+        },
+        {
+          "id": "d",
+          "text": "desvio do procedimento padrao"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q6",
+      "statement": "Durante uma rotina de estudo, a equipe citou cultura de seguranca. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "condutas de limpeza pessoal e ambiente"
+        },
+        {
+          "id": "b",
+          "text": "compromisso coletivo com prevencao"
+        },
+        {
+          "id": "c",
+          "text": "desvio do procedimento padrao"
+        },
+        {
+          "id": "d",
+          "text": "regra para proteger equipe e ambiente"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: regra para proteger equipe e ambiente. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "area analitica"
+        },
+        {
+          "id": "b",
+          "text": "norma geral"
+        },
+        {
+          "id": "c",
+          "text": "higiene laboratorial"
+        },
+        {
+          "id": "d",
+          "text": "nao conformidade"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: desvio do procedimento padrao. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "area analitica"
+        },
+        {
+          "id": "b",
+          "text": "nao conformidade"
+        },
+        {
+          "id": "c",
+          "text": "norma geral"
+        },
+        {
+          "id": "d",
+          "text": "higiene laboratorial"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: condutas de limpeza pessoal e ambiente. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "area analitica"
+        },
+        {
+          "id": "b",
+          "text": "norma geral"
+        },
+        {
+          "id": "c",
+          "text": "higiene laboratorial"
+        },
+        {
+          "id": "d",
+          "text": "nao conformidade"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: setor com controle rigido de acesso. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "area analitica"
+        },
+        {
+          "id": "b",
+          "text": "higiene laboratorial"
+        },
+        {
+          "id": "c",
+          "text": "norma geral"
+        },
+        {
+          "id": "d",
+          "text": "nao conformidade"
+        }
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

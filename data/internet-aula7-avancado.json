@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Internet Versao 4 - Avancado",
+  "subject": "Internet",
+  "lesson": "Aula 7 - Redes Sociais Facebook I",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar perfil de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "fluxo de publicacoes na rede social"
+        },
+        {
+          "id": "b",
+          "text": "conteudo postado no perfil"
+        },
+        {
+          "id": "c",
+          "text": "pagina pessoal com dados do usuario"
+        },
+        {
+          "id": "d",
+          "text": "vinculo entre contas para interacao"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q2",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar feed de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "pagina pessoal com dados do usuario"
+        },
+        {
+          "id": "b",
+          "text": "vinculo entre contas para interacao"
+        },
+        {
+          "id": "c",
+          "text": "conteudo postado no perfil"
+        },
+        {
+          "id": "d",
+          "text": "fluxo de publicacoes na rede social"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q3",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar amizade de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "vinculo entre contas para interacao"
+        },
+        {
+          "id": "b",
+          "text": "conteudo postado no perfil"
+        },
+        {
+          "id": "c",
+          "text": "fluxo de publicacoes na rede social"
+        },
+        {
+          "id": "d",
+          "text": "pagina pessoal com dados do usuario"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar publicacao de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "fluxo de publicacoes na rede social"
+        },
+        {
+          "id": "b",
+          "text": "pagina pessoal com dados do usuario"
+        },
+        {
+          "id": "c",
+          "text": "conteudo postado no perfil"
+        },
+        {
+          "id": "d",
+          "text": "vinculo entre contas para interacao"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar comentario de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "vinculo entre contas para interacao"
+        },
+        {
+          "id": "b",
+          "text": "resposta textual a uma publicacao"
+        },
+        {
+          "id": "c",
+          "text": "pagina pessoal com dados do usuario"
+        },
+        {
+          "id": "d",
+          "text": "fluxo de publicacoes na rede social"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q6",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar curtida de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "fluxo de publicacoes na rede social"
+        },
+        {
+          "id": "b",
+          "text": "interacao de aprovacao de conteudo"
+        },
+        {
+          "id": "c",
+          "text": "vinculo entre contas para interacao"
+        },
+        {
+          "id": "d",
+          "text": "pagina pessoal com dados do usuario"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q7",
+      "statement": "Para tomada de decisao, considere a descricao: pagina pessoal com dados do usuario. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "perfil"
+        },
+        {
+          "id": "b",
+          "text": "feed"
+        },
+        {
+          "id": "c",
+          "text": "amizade"
+        },
+        {
+          "id": "d",
+          "text": "publicacao"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Para tomada de decisao, considere a descricao: fluxo de publicacoes na rede social. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "perfil"
+        },
+        {
+          "id": "b",
+          "text": "amizade"
+        },
+        {
+          "id": "c",
+          "text": "publicacao"
+        },
+        {
+          "id": "d",
+          "text": "feed"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q9",
+      "statement": "Para tomada de decisao, considere a descricao: vinculo entre contas para interacao. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "amizade"
+        },
+        {
+          "id": "b",
+          "text": "feed"
+        },
+        {
+          "id": "c",
+          "text": "perfil"
+        },
+        {
+          "id": "d",
+          "text": "publicacao"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q10",
+      "statement": "Para tomada de decisao, considere a descricao: conteudo postado no perfil. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "feed"
+        },
+        {
+          "id": "b",
+          "text": "publicacao"
+        },
+        {
+          "id": "c",
+          "text": "amizade"
+        },
+        {
+          "id": "d",
+          "text": "perfil"
+        }
+      ],
+      "correctOptionId": "b"
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Atendente de Farmacia - Basico",
+  "subject": "Farmacia",
+  "lesson": "Aula 4 - Industria Farmaceutica",
+  "level": "Basico",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Qual alternativa define corretamente medicamento de referencia?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "produto bioequivalente ao referencia sem marca comercial"
+        },
+        {
+          "id": "b",
+          "text": "produto com mesmo principio ativo e marca propria"
+        },
+        {
+          "id": "c",
+          "text": "produto com eficacia e seguranca comprovadas"
+        },
+        {
+          "id": "d",
+          "text": "grupo de unidades produzido sob mesmas condicoes"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q2",
+      "statement": "Qual alternativa define corretamente medicamento generico?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "produto com mesmo principio ativo e marca propria"
+        },
+        {
+          "id": "b",
+          "text": "grupo de unidades produzido sob mesmas condicoes"
+        },
+        {
+          "id": "c",
+          "text": "produto com eficacia e seguranca comprovadas"
+        },
+        {
+          "id": "d",
+          "text": "produto bioequivalente ao referencia sem marca comercial"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q3",
+      "statement": "Qual alternativa define corretamente medicamento similar?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "produto bioequivalente ao referencia sem marca comercial"
+        },
+        {
+          "id": "b",
+          "text": "produto com eficacia e seguranca comprovadas"
+        },
+        {
+          "id": "c",
+          "text": "grupo de unidades produzido sob mesmas condicoes"
+        },
+        {
+          "id": "d",
+          "text": "produto com mesmo principio ativo e marca propria"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q4",
+      "statement": "Qual alternativa define corretamente lote?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "grupo de unidades produzido sob mesmas condicoes"
+        },
+        {
+          "id": "b",
+          "text": "produto com eficacia e seguranca comprovadas"
+        },
+        {
+          "id": "c",
+          "text": "produto com mesmo principio ativo e marca propria"
+        },
+        {
+          "id": "d",
+          "text": "produto bioequivalente ao referencia sem marca comercial"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "Qual alternativa define corretamente registro sanitario?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "produto com eficacia e seguranca comprovadas"
+        },
+        {
+          "id": "b",
+          "text": "autorizacao oficial para comercializacao"
+        },
+        {
+          "id": "c",
+          "text": "produto com mesmo principio ativo e marca propria"
+        },
+        {
+          "id": "d",
+          "text": "produto bioequivalente ao referencia sem marca comercial"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q6",
+      "statement": "Qual alternativa define corretamente farmacovigilancia?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "produto bioequivalente ao referencia sem marca comercial"
+        },
+        {
+          "id": "b",
+          "text": "produto com eficacia e seguranca comprovadas"
+        },
+        {
+          "id": "c",
+          "text": "monitoramento de eventos adversos apos venda"
+        },
+        {
+          "id": "d",
+          "text": "produto com mesmo principio ativo e marca propria"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q7",
+      "statement": "Qual conceito corresponde a descricao: produto com eficacia e seguranca comprovadas?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "lote"
+        },
+        {
+          "id": "b",
+          "text": "medicamento generico"
+        },
+        {
+          "id": "c",
+          "text": "medicamento de referencia"
+        },
+        {
+          "id": "d",
+          "text": "medicamento similar"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q8",
+      "statement": "Qual conceito corresponde a descricao: produto bioequivalente ao referencia sem marca comercial?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "medicamento similar"
+        },
+        {
+          "id": "b",
+          "text": "medicamento generico"
+        },
+        {
+          "id": "c",
+          "text": "medicamento de referencia"
+        },
+        {
+          "id": "d",
+          "text": "lote"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Qual conceito corresponde a descricao: produto com mesmo principio ativo e marca propria?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "medicamento similar"
+        },
+        {
+          "id": "b",
+          "text": "medicamento de referencia"
+        },
+        {
+          "id": "c",
+          "text": "medicamento generico"
+        },
+        {
+          "id": "d",
+          "text": "lote"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q10",
+      "statement": "Qual conceito corresponde a descricao: grupo de unidades produzido sob mesmas condicoes?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "medicamento similar"
+        },
+        {
+          "id": "b",
+          "text": "medicamento de referencia"
+        },
+        {
+          "id": "c",
+          "text": "lote"
+        },
+        {
+          "id": "d",
+          "text": "medicamento generico"
+        }
+      ],
+      "correctOptionId": "c"
+    }
+  ]
+}

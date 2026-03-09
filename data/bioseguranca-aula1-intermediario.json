@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Biosseguranca - Intermediario",
+  "subject": "Biosseguranca",
+  "lesson": "Aula 1 - Biologia e Area da Biosseguranca",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou biosseguranca. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "protecao direta com EPI e boas praticas"
+        },
+        {
+          "id": "b",
+          "text": "conjunto de normas para prevenir e reduzir riscos"
+        },
+        {
+          "id": "c",
+          "text": "medidas para impedir disseminacao de agentes"
+        },
+        {
+          "id": "d",
+          "text": "protecao estrutural do ambiente"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou contencao. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "medidas para impedir disseminacao de agentes"
+        },
+        {
+          "id": "b",
+          "text": "conjunto de normas para prevenir e reduzir riscos"
+        },
+        {
+          "id": "c",
+          "text": "protecao direta com EPI e boas praticas"
+        },
+        {
+          "id": "d",
+          "text": "protecao estrutural do ambiente"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou barreira primaria. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "medidas para impedir disseminacao de agentes"
+        },
+        {
+          "id": "b",
+          "text": "conjunto de normas para prevenir e reduzir riscos"
+        },
+        {
+          "id": "c",
+          "text": "protecao estrutural do ambiente"
+        },
+        {
+          "id": "d",
+          "text": "protecao direta com EPI e boas praticas"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou barreira secundaria. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "protecao estrutural do ambiente"
+        },
+        {
+          "id": "b",
+          "text": "conjunto de normas para prevenir e reduzir riscos"
+        },
+        {
+          "id": "c",
+          "text": "medidas para impedir disseminacao de agentes"
+        },
+        {
+          "id": "d",
+          "text": "protecao direta com EPI e boas praticas"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou treinamento. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "medidas para impedir disseminacao de agentes"
+        },
+        {
+          "id": "b",
+          "text": "conjunto de normas para prevenir e reduzir riscos"
+        },
+        {
+          "id": "c",
+          "text": "capacitacao continua da equipe"
+        },
+        {
+          "id": "d",
+          "text": "protecao direta com EPI e boas praticas"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q6",
+      "statement": "Durante uma rotina de estudo, a equipe citou risco ocupacional. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "conjunto de normas para prevenir e reduzir riscos"
+        },
+        {
+          "id": "b",
+          "text": "medidas para impedir disseminacao de agentes"
+        },
+        {
+          "id": "c",
+          "text": "protecao direta com EPI e boas praticas"
+        },
+        {
+          "id": "d",
+          "text": "chance de exposicao a perigo no trabalho"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: conjunto de normas para prevenir e reduzir riscos. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "barreira primaria"
+        },
+        {
+          "id": "b",
+          "text": "barreira secundaria"
+        },
+        {
+          "id": "c",
+          "text": "contencao"
+        },
+        {
+          "id": "d",
+          "text": "biosseguranca"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: medidas para impedir disseminacao de agentes. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "barreira primaria"
+        },
+        {
+          "id": "b",
+          "text": "contencao"
+        },
+        {
+          "id": "c",
+          "text": "barreira secundaria"
+        },
+        {
+          "id": "d",
+          "text": "biosseguranca"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: protecao direta com EPI e boas praticas. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "contencao"
+        },
+        {
+          "id": "b",
+          "text": "biosseguranca"
+        },
+        {
+          "id": "c",
+          "text": "barreira primaria"
+        },
+        {
+          "id": "d",
+          "text": "barreira secundaria"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: protecao estrutural do ambiente. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "barreira secundaria"
+        },
+        {
+          "id": "b",
+          "text": "biosseguranca"
+        },
+        {
+          "id": "c",
+          "text": "contencao"
+        },
+        {
+          "id": "d",
+          "text": "barreira primaria"
+        }
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

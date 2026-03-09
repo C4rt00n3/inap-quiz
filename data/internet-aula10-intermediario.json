@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Internet Versao 4 - Intermediario",
+  "subject": "Internet",
+  "lesson": "Aula 10 - Redes Sociais III",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou identidade digital. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "informacoes que identificam uma pessoa"
+        },
+        {
+          "id": "b",
+          "text": "imagem e historico do usuario na internet"
+        },
+        {
+          "id": "c",
+          "text": "percepcao publica sobre comportamento digital"
+        },
+        {
+          "id": "d",
+          "text": "controle legal sobre uso da propria imagem"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou reputacao online. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "controle legal sobre uso da propria imagem"
+        },
+        {
+          "id": "b",
+          "text": "percepcao publica sobre comportamento digital"
+        },
+        {
+          "id": "c",
+          "text": "informacoes que identificam uma pessoa"
+        },
+        {
+          "id": "d",
+          "text": "imagem e historico do usuario na internet"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou direito de imagem. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "imagem e historico do usuario na internet"
+        },
+        {
+          "id": "b",
+          "text": "informacoes que identificam uma pessoa"
+        },
+        {
+          "id": "c",
+          "text": "controle legal sobre uso da propria imagem"
+        },
+        {
+          "id": "d",
+          "text": "percepcao publica sobre comportamento digital"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou dados pessoais. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "imagem e historico do usuario na internet"
+        },
+        {
+          "id": "b",
+          "text": "controle legal sobre uso da propria imagem"
+        },
+        {
+          "id": "c",
+          "text": "percepcao publica sobre comportamento digital"
+        },
+        {
+          "id": "d",
+          "text": "informacoes que identificam uma pessoa"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou exposicao excessiva. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "publicacao de dados alem do necessario"
+        },
+        {
+          "id": "b",
+          "text": "imagem e historico do usuario na internet"
+        },
+        {
+          "id": "c",
+          "text": "controle legal sobre uso da propria imagem"
+        },
+        {
+          "id": "d",
+          "text": "percepcao publica sobre comportamento digital"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q6",
+      "statement": "Durante uma rotina de estudo, a equipe citou comportamento etico. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "controle legal sobre uso da propria imagem"
+        },
+        {
+          "id": "b",
+          "text": "percepcao publica sobre comportamento digital"
+        },
+        {
+          "id": "c",
+          "text": "imagem e historico do usuario na internet"
+        },
+        {
+          "id": "d",
+          "text": "respeito e responsabilidade nas interacoes"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: imagem e historico do usuario na internet. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "dados pessoais"
+        },
+        {
+          "id": "b",
+          "text": "reputacao online"
+        },
+        {
+          "id": "c",
+          "text": "identidade digital"
+        },
+        {
+          "id": "d",
+          "text": "direito de imagem"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: percepcao publica sobre comportamento digital. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "dados pessoais"
+        },
+        {
+          "id": "b",
+          "text": "identidade digital"
+        },
+        {
+          "id": "c",
+          "text": "reputacao online"
+        },
+        {
+          "id": "d",
+          "text": "direito de imagem"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: controle legal sobre uso da propria imagem. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "identidade digital"
+        },
+        {
+          "id": "b",
+          "text": "reputacao online"
+        },
+        {
+          "id": "c",
+          "text": "direito de imagem"
+        },
+        {
+          "id": "d",
+          "text": "dados pessoais"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: informacoes que identificam uma pessoa. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "identidade digital"
+        },
+        {
+          "id": "b",
+          "text": "dados pessoais"
+        },
+        {
+          "id": "c",
+          "text": "reputacao online"
+        },
+        {
+          "id": "d",
+          "text": "direito de imagem"
+        }
+      ],
+      "correctOptionId": "b"
+    }
+  ]
+}

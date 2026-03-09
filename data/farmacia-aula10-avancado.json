@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Atendente de Farmacia - Avancado",
+  "subject": "Farmacia",
+  "lesson": "Aula 10 - Asfixia e Emergencias",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar asfixia de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "insuficiencia de oxigenacao por obstrucao ou falha respiratoria"
+        },
+        {
+          "id": "b",
+          "text": "bloqueio parcial ou total da passagem de ar"
+        },
+        {
+          "id": "c",
+          "text": "tecnica para expulsar corpo estranho"
+        },
+        {
+          "id": "d",
+          "text": "coloracao azulada por baixa oxigenacao"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar obstrucao de vias aereas de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "coloracao azulada por baixa oxigenacao"
+        },
+        {
+          "id": "b",
+          "text": "bloqueio parcial ou total da passagem de ar"
+        },
+        {
+          "id": "c",
+          "text": "insuficiencia de oxigenacao por obstrucao ou falha respiratoria"
+        },
+        {
+          "id": "d",
+          "text": "tecnica para expulsar corpo estranho"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q3",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar cianose de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "bloqueio parcial ou total da passagem de ar"
+        },
+        {
+          "id": "b",
+          "text": "tecnica para expulsar corpo estranho"
+        },
+        {
+          "id": "c",
+          "text": "coloracao azulada por baixa oxigenacao"
+        },
+        {
+          "id": "d",
+          "text": "insuficiencia de oxigenacao por obstrucao ou falha respiratoria"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q4",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar manobra de desobstrucao de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "insuficiencia de oxigenacao por obstrucao ou falha respiratoria"
+        },
+        {
+          "id": "b",
+          "text": "tecnica para expulsar corpo estranho"
+        },
+        {
+          "id": "c",
+          "text": "bloqueio parcial ou total da passagem de ar"
+        },
+        {
+          "id": "d",
+          "text": "coloracao azulada por baixa oxigenacao"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q5",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar afogamento de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "comprometimento respiratorio por submersao"
+        },
+        {
+          "id": "b",
+          "text": "coloracao azulada por baixa oxigenacao"
+        },
+        {
+          "id": "c",
+          "text": "insuficiencia de oxigenacao por obstrucao ou falha respiratoria"
+        },
+        {
+          "id": "d",
+          "text": "bloqueio parcial ou total da passagem de ar"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q6",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar urgencia de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "situacao que exige acao rapida para evitar agravamento"
+        },
+        {
+          "id": "b",
+          "text": "insuficiencia de oxigenacao por obstrucao ou falha respiratoria"
+        },
+        {
+          "id": "c",
+          "text": "coloracao azulada por baixa oxigenacao"
+        },
+        {
+          "id": "d",
+          "text": "bloqueio parcial ou total da passagem de ar"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Para tomada de decisao, considere a descricao: insuficiencia de oxigenacao por obstrucao ou falha respiratoria. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "manobra de desobstrucao"
+        },
+        {
+          "id": "b",
+          "text": "obstrucao de vias aereas"
+        },
+        {
+          "id": "c",
+          "text": "cianose"
+        },
+        {
+          "id": "d",
+          "text": "asfixia"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q8",
+      "statement": "Para tomada de decisao, considere a descricao: bloqueio parcial ou total da passagem de ar. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "obstrucao de vias aereas"
+        },
+        {
+          "id": "b",
+          "text": "asfixia"
+        },
+        {
+          "id": "c",
+          "text": "cianose"
+        },
+        {
+          "id": "d",
+          "text": "manobra de desobstrucao"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q9",
+      "statement": "Para tomada de decisao, considere a descricao: coloracao azulada por baixa oxigenacao. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "cianose"
+        },
+        {
+          "id": "b",
+          "text": "asfixia"
+        },
+        {
+          "id": "c",
+          "text": "manobra de desobstrucao"
+        },
+        {
+          "id": "d",
+          "text": "obstrucao de vias aereas"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q10",
+      "statement": "Para tomada de decisao, considere a descricao: tecnica para expulsar corpo estranho. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "obstrucao de vias aereas"
+        },
+        {
+          "id": "b",
+          "text": "manobra de desobstrucao"
+        },
+        {
+          "id": "c",
+          "text": "cianose"
+        },
+        {
+          "id": "d",
+          "text": "asfixia"
+        }
+      ],
+      "correctOptionId": "b"
+    }
+  ]
+}

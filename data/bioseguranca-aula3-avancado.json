@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Biosseguranca - Avancado",
+  "subject": "Biosseguranca",
+  "lesson": "Aula 3 - Riscos Ocupacionais e Mapa de Risco",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar perigo de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "representacao grafica dos riscos por ambiente"
+        },
+        {
+          "id": "b",
+          "text": "ruido, calor, frio, vibracao ou radiacao"
+        },
+        {
+          "id": "c",
+          "text": "fonte com potencial de causar dano"
+        },
+        {
+          "id": "d",
+          "text": "probabilidade de exposicao ao perigo"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q2",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar risco de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "probabilidade de exposicao ao perigo"
+        },
+        {
+          "id": "b",
+          "text": "ruido, calor, frio, vibracao ou radiacao"
+        },
+        {
+          "id": "c",
+          "text": "representacao grafica dos riscos por ambiente"
+        },
+        {
+          "id": "d",
+          "text": "fonte com potencial de causar dano"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar mapa de risco de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "fonte com potencial de causar dano"
+        },
+        {
+          "id": "b",
+          "text": "probabilidade de exposicao ao perigo"
+        },
+        {
+          "id": "c",
+          "text": "representacao grafica dos riscos por ambiente"
+        },
+        {
+          "id": "d",
+          "text": "ruido, calor, frio, vibracao ou radiacao"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q4",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar risco fisico de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "fonte com potencial de causar dano"
+        },
+        {
+          "id": "b",
+          "text": "representacao grafica dos riscos por ambiente"
+        },
+        {
+          "id": "c",
+          "text": "probabilidade de exposicao ao perigo"
+        },
+        {
+          "id": "d",
+          "text": "ruido, calor, frio, vibracao ou radiacao"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q5",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar risco quimico de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "representacao grafica dos riscos por ambiente"
+        },
+        {
+          "id": "b",
+          "text": "exposicao a gases, vapores e substancias"
+        },
+        {
+          "id": "c",
+          "text": "fonte com potencial de causar dano"
+        },
+        {
+          "id": "d",
+          "text": "probabilidade de exposicao ao perigo"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q6",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar risco biologico de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "exposicao a microrganismos patogenicos"
+        },
+        {
+          "id": "b",
+          "text": "representacao grafica dos riscos por ambiente"
+        },
+        {
+          "id": "c",
+          "text": "fonte com potencial de causar dano"
+        },
+        {
+          "id": "d",
+          "text": "probabilidade de exposicao ao perigo"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Para tomada de decisao, considere a descricao: fonte com potencial de causar dano. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "perigo"
+        },
+        {
+          "id": "b",
+          "text": "risco fisico"
+        },
+        {
+          "id": "c",
+          "text": "mapa de risco"
+        },
+        {
+          "id": "d",
+          "text": "risco"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Para tomada de decisao, considere a descricao: probabilidade de exposicao ao perigo. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "perigo"
+        },
+        {
+          "id": "b",
+          "text": "mapa de risco"
+        },
+        {
+          "id": "c",
+          "text": "risco"
+        },
+        {
+          "id": "d",
+          "text": "risco fisico"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q9",
+      "statement": "Para tomada de decisao, considere a descricao: representacao grafica dos riscos por ambiente. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "mapa de risco"
+        },
+        {
+          "id": "b",
+          "text": "risco"
+        },
+        {
+          "id": "c",
+          "text": "risco fisico"
+        },
+        {
+          "id": "d",
+          "text": "perigo"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q10",
+      "statement": "Para tomada de decisao, considere a descricao: ruido, calor, frio, vibracao ou radiacao. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "mapa de risco"
+        },
+        {
+          "id": "b",
+          "text": "risco"
+        },
+        {
+          "id": "c",
+          "text": "perigo"
+        },
+        {
+          "id": "d",
+          "text": "risco fisico"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

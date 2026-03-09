@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Introducao a Informatica - Basico",
+  "subject": "Informatica",
+  "lesson": "Aula 1 - Conceitos Basicos de Informatica",
+  "level": "Basico",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Qual alternativa define corretamente informatica?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "tratamento automatico de dados e informacoes"
+        },
+        {
+          "id": "b",
+          "text": "registro bruto sem contexto"
+        },
+        {
+          "id": "c",
+          "text": "dado interpretado em contexto"
+        },
+        {
+          "id": "d",
+          "text": "unidade formada por 8 bits"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Qual alternativa define corretamente dado?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "registro bruto sem contexto"
+        },
+        {
+          "id": "b",
+          "text": "unidade formada por 8 bits"
+        },
+        {
+          "id": "c",
+          "text": "tratamento automatico de dados e informacoes"
+        },
+        {
+          "id": "d",
+          "text": "dado interpretado em contexto"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Qual alternativa define corretamente informacao?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "registro bruto sem contexto"
+        },
+        {
+          "id": "b",
+          "text": "tratamento automatico de dados e informacoes"
+        },
+        {
+          "id": "c",
+          "text": "unidade formada por 8 bits"
+        },
+        {
+          "id": "d",
+          "text": "dado interpretado em contexto"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q4",
+      "statement": "Qual alternativa define corretamente byte?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "unidade formada por 8 bits"
+        },
+        {
+          "id": "b",
+          "text": "registro bruto sem contexto"
+        },
+        {
+          "id": "c",
+          "text": "tratamento automatico de dados e informacoes"
+        },
+        {
+          "id": "d",
+          "text": "dado interpretado em contexto"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "Qual alternativa define corretamente hardware?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "parte fisica do computador"
+        },
+        {
+          "id": "b",
+          "text": "registro bruto sem contexto"
+        },
+        {
+          "id": "c",
+          "text": "dado interpretado em contexto"
+        },
+        {
+          "id": "d",
+          "text": "tratamento automatico de dados e informacoes"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q6",
+      "statement": "Qual alternativa define corretamente software?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "programas executados no computador"
+        },
+        {
+          "id": "b",
+          "text": "dado interpretado em contexto"
+        },
+        {
+          "id": "c",
+          "text": "registro bruto sem contexto"
+        },
+        {
+          "id": "d",
+          "text": "tratamento automatico de dados e informacoes"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Qual conceito corresponde a descricao: tratamento automatico de dados e informacoes?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "informacao"
+        },
+        {
+          "id": "b",
+          "text": "dado"
+        },
+        {
+          "id": "c",
+          "text": "informatica"
+        },
+        {
+          "id": "d",
+          "text": "byte"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q8",
+      "statement": "Qual conceito corresponde a descricao: registro bruto sem contexto?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "informatica"
+        },
+        {
+          "id": "b",
+          "text": "informacao"
+        },
+        {
+          "id": "c",
+          "text": "dado"
+        },
+        {
+          "id": "d",
+          "text": "byte"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q9",
+      "statement": "Qual conceito corresponde a descricao: dado interpretado em contexto?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "dado"
+        },
+        {
+          "id": "b",
+          "text": "byte"
+        },
+        {
+          "id": "c",
+          "text": "informacao"
+        },
+        {
+          "id": "d",
+          "text": "informatica"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Qual conceito corresponde a descricao: unidade formada por 8 bits?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "informacao"
+        },
+        {
+          "id": "b",
+          "text": "informatica"
+        },
+        {
+          "id": "c",
+          "text": "byte"
+        },
+        {
+          "id": "d",
+          "text": "dado"
+        }
+      ],
+      "correctOptionId": "c"
+    }
+  ]
+}

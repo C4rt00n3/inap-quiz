@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Introducao a Informatica - Avancado",
+  "subject": "Informatica",
+  "lesson": "Aula 5 - Seguranca na Internet",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar phishing de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "tecnica para proteger confidencialidade"
+        },
+        {
+          "id": "b",
+          "text": "autenticacao com multiplos fatores"
+        },
+        {
+          "id": "c",
+          "text": "fraude para obter dados sensiveis"
+        },
+        {
+          "id": "d",
+          "text": "resumo matematico sem reversao pratica"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q2",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar MFA de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "resumo matematico sem reversao pratica"
+        },
+        {
+          "id": "b",
+          "text": "tecnica para proteger confidencialidade"
+        },
+        {
+          "id": "c",
+          "text": "fraude para obter dados sensiveis"
+        },
+        {
+          "id": "d",
+          "text": "autenticacao com multiplos fatores"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q3",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar criptografia de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "autenticacao com multiplos fatores"
+        },
+        {
+          "id": "b",
+          "text": "resumo matematico sem reversao pratica"
+        },
+        {
+          "id": "c",
+          "text": "tecnica para proteger confidencialidade"
+        },
+        {
+          "id": "d",
+          "text": "fraude para obter dados sensiveis"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q4",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar hash de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "tecnica para proteger confidencialidade"
+        },
+        {
+          "id": "b",
+          "text": "fraude para obter dados sensiveis"
+        },
+        {
+          "id": "c",
+          "text": "autenticacao com multiplos fatores"
+        },
+        {
+          "id": "d",
+          "text": "resumo matematico sem reversao pratica"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q5",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar ransomware de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "fraude para obter dados sensiveis"
+        },
+        {
+          "id": "b",
+          "text": "tecnica para proteger confidencialidade"
+        },
+        {
+          "id": "c",
+          "text": "autenticacao com multiplos fatores"
+        },
+        {
+          "id": "d",
+          "text": "malware que sequestra dados"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar menor privilegio de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "autenticacao com multiplos fatores"
+        },
+        {
+          "id": "b",
+          "text": "tecnica para proteger confidencialidade"
+        },
+        {
+          "id": "c",
+          "text": "acesso minimo necessario para funcao"
+        },
+        {
+          "id": "d",
+          "text": "fraude para obter dados sensiveis"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q7",
+      "statement": "Para tomada de decisao, considere a descricao: fraude para obter dados sensiveis. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "hash"
+        },
+        {
+          "id": "b",
+          "text": "phishing"
+        },
+        {
+          "id": "c",
+          "text": "MFA"
+        },
+        {
+          "id": "d",
+          "text": "criptografia"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q8",
+      "statement": "Para tomada de decisao, considere a descricao: autenticacao com multiplos fatores. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "MFA"
+        },
+        {
+          "id": "b",
+          "text": "hash"
+        },
+        {
+          "id": "c",
+          "text": "phishing"
+        },
+        {
+          "id": "d",
+          "text": "criptografia"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q9",
+      "statement": "Para tomada de decisao, considere a descricao: tecnica para proteger confidencialidade. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "criptografia"
+        },
+        {
+          "id": "b",
+          "text": "hash"
+        },
+        {
+          "id": "c",
+          "text": "phishing"
+        },
+        {
+          "id": "d",
+          "text": "MFA"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q10",
+      "statement": "Para tomada de decisao, considere a descricao: resumo matematico sem reversao pratica. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "MFA"
+        },
+        {
+          "id": "b",
+          "text": "hash"
+        },
+        {
+          "id": "c",
+          "text": "criptografia"
+        },
+        {
+          "id": "d",
+          "text": "phishing"
+        }
+      ],
+      "correctOptionId": "b"
+    }
+  ]
+}

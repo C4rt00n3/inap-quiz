@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Biosseguranca - Intermediario",
+  "subject": "Biosseguranca",
+  "lesson": "Aula 2 - Cuidados Basicos",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou classe de risco 1. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "agente de alto risco individual"
+        },
+        {
+          "id": "b",
+          "text": "agente biologico de baixo risco"
+        },
+        {
+          "id": "c",
+          "text": "agente de alto risco individual e coletivo"
+        },
+        {
+          "id": "d",
+          "text": "agente com risco moderado e tratamento disponivel"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou classe de risco 2. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "agente de alto risco individual e coletivo"
+        },
+        {
+          "id": "b",
+          "text": "agente biologico de baixo risco"
+        },
+        {
+          "id": "c",
+          "text": "agente com risco moderado e tratamento disponivel"
+        },
+        {
+          "id": "d",
+          "text": "agente de alto risco individual"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou classe de risco 3. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "agente com risco moderado e tratamento disponivel"
+        },
+        {
+          "id": "b",
+          "text": "agente de alto risco individual e coletivo"
+        },
+        {
+          "id": "c",
+          "text": "agente de alto risco individual"
+        },
+        {
+          "id": "d",
+          "text": "agente biologico de baixo risco"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou classe de risco 4. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "agente com risco moderado e tratamento disponivel"
+        },
+        {
+          "id": "b",
+          "text": "agente de alto risco individual e coletivo"
+        },
+        {
+          "id": "c",
+          "text": "agente de alto risco individual"
+        },
+        {
+          "id": "d",
+          "text": "agente biologico de baixo risco"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou EPI. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "agente biologico de baixo risco"
+        },
+        {
+          "id": "b",
+          "text": "agente de alto risco individual"
+        },
+        {
+          "id": "c",
+          "text": "agente com risco moderado e tratamento disponivel"
+        },
+        {
+          "id": "d",
+          "text": "equipamento de protecao individual"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Durante uma rotina de estudo, a equipe citou higiene profissional. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "rotinas para reduzir contaminacao"
+        },
+        {
+          "id": "b",
+          "text": "agente de alto risco individual"
+        },
+        {
+          "id": "c",
+          "text": "agente biologico de baixo risco"
+        },
+        {
+          "id": "d",
+          "text": "agente com risco moderado e tratamento disponivel"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: agente biologico de baixo risco. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "classe de risco 1"
+        },
+        {
+          "id": "b",
+          "text": "classe de risco 4"
+        },
+        {
+          "id": "c",
+          "text": "classe de risco 2"
+        },
+        {
+          "id": "d",
+          "text": "classe de risco 3"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: agente com risco moderado e tratamento disponivel. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "classe de risco 1"
+        },
+        {
+          "id": "b",
+          "text": "classe de risco 2"
+        },
+        {
+          "id": "c",
+          "text": "classe de risco 3"
+        },
+        {
+          "id": "d",
+          "text": "classe de risco 4"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: agente de alto risco individual. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "classe de risco 2"
+        },
+        {
+          "id": "b",
+          "text": "classe de risco 3"
+        },
+        {
+          "id": "c",
+          "text": "classe de risco 4"
+        },
+        {
+          "id": "d",
+          "text": "classe de risco 1"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: agente de alto risco individual e coletivo. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "classe de risco 1"
+        },
+        {
+          "id": "b",
+          "text": "classe de risco 2"
+        },
+        {
+          "id": "c",
+          "text": "classe de risco 3"
+        },
+        {
+          "id": "d",
+          "text": "classe de risco 4"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Internet Versao 4 - Avancado",
+  "subject": "Internet",
+  "lesson": "Aula 4 - Buscando Informacoes na Internet",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar mecanismo de busca de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "origem com credibilidade verificavel"
+        },
+        {
+          "id": "b",
+          "text": "grau de aderencia ao que foi buscado"
+        },
+        {
+          "id": "c",
+          "text": "termo usado para iniciar pesquisa"
+        },
+        {
+          "id": "d",
+          "text": "sistema que indexa e retorna paginas relevantes"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q2",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar palavra-chave de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "grau de aderencia ao que foi buscado"
+        },
+        {
+          "id": "b",
+          "text": "origem com credibilidade verificavel"
+        },
+        {
+          "id": "c",
+          "text": "termo usado para iniciar pesquisa"
+        },
+        {
+          "id": "d",
+          "text": "sistema que indexa e retorna paginas relevantes"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q3",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar relevancia de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "termo usado para iniciar pesquisa"
+        },
+        {
+          "id": "b",
+          "text": "origem com credibilidade verificavel"
+        },
+        {
+          "id": "c",
+          "text": "sistema que indexa e retorna paginas relevantes"
+        },
+        {
+          "id": "d",
+          "text": "grau de aderencia ao que foi buscado"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q4",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar fonte confiavel de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "grau de aderencia ao que foi buscado"
+        },
+        {
+          "id": "b",
+          "text": "termo usado para iniciar pesquisa"
+        },
+        {
+          "id": "c",
+          "text": "sistema que indexa e retorna paginas relevantes"
+        },
+        {
+          "id": "d",
+          "text": "origem com credibilidade verificavel"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q5",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar operador de busca de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "termo usado para iniciar pesquisa"
+        },
+        {
+          "id": "b",
+          "text": "grau de aderencia ao que foi buscado"
+        },
+        {
+          "id": "c",
+          "text": "comando que melhora precisao da pesquisa"
+        },
+        {
+          "id": "d",
+          "text": "sistema que indexa e retorna paginas relevantes"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q6",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar validacao de informacao de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "sistema que indexa e retorna paginas relevantes"
+        },
+        {
+          "id": "b",
+          "text": "grau de aderencia ao que foi buscado"
+        },
+        {
+          "id": "c",
+          "text": "termo usado para iniciar pesquisa"
+        },
+        {
+          "id": "d",
+          "text": "checagem de dados em fontes diferentes"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q7",
+      "statement": "Para tomada de decisao, considere a descricao: sistema que indexa e retorna paginas relevantes. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "fonte confiavel"
+        },
+        {
+          "id": "b",
+          "text": "mecanismo de busca"
+        },
+        {
+          "id": "c",
+          "text": "palavra-chave"
+        },
+        {
+          "id": "d",
+          "text": "relevancia"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q8",
+      "statement": "Para tomada de decisao, considere a descricao: termo usado para iniciar pesquisa. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "mecanismo de busca"
+        },
+        {
+          "id": "b",
+          "text": "fonte confiavel"
+        },
+        {
+          "id": "c",
+          "text": "palavra-chave"
+        },
+        {
+          "id": "d",
+          "text": "relevancia"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q9",
+      "statement": "Para tomada de decisao, considere a descricao: grau de aderencia ao que foi buscado. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "mecanismo de busca"
+        },
+        {
+          "id": "b",
+          "text": "palavra-chave"
+        },
+        {
+          "id": "c",
+          "text": "fonte confiavel"
+        },
+        {
+          "id": "d",
+          "text": "relevancia"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q10",
+      "statement": "Para tomada de decisao, considere a descricao: origem com credibilidade verificavel. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "relevancia"
+        },
+        {
+          "id": "b",
+          "text": "fonte confiavel"
+        },
+        {
+          "id": "c",
+          "text": "mecanismo de busca"
+        },
+        {
+          "id": "d",
+          "text": "palavra-chave"
+        }
+      ],
+      "correctOptionId": "b"
+    }
+  ]
+}

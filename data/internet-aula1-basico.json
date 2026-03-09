@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Internet Versao 4 - Basico",
+  "subject": "Internet",
+  "lesson": "Aula 1 - Internet Conceitos Basicos",
+  "level": "Basico",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Qual alternativa define corretamente internet?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "rede global de computadores interconectados"
+        },
+        {
+          "id": "b",
+          "text": "ambiente de paginas e conteudo multimidia"
+        },
+        {
+          "id": "c",
+          "text": "programa usado para acessar paginas web"
+        },
+        {
+          "id": "d",
+          "text": "identificacao de recurso na internet"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Qual alternativa define corretamente WWW?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "ambiente de paginas e conteudo multimidia"
+        },
+        {
+          "id": "b",
+          "text": "identificacao de recurso na internet"
+        },
+        {
+          "id": "c",
+          "text": "rede global de computadores interconectados"
+        },
+        {
+          "id": "d",
+          "text": "programa usado para acessar paginas web"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Qual alternativa define corretamente navegador?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "ambiente de paginas e conteudo multimidia"
+        },
+        {
+          "id": "b",
+          "text": "rede global de computadores interconectados"
+        },
+        {
+          "id": "c",
+          "text": "identificacao de recurso na internet"
+        },
+        {
+          "id": "d",
+          "text": "programa usado para acessar paginas web"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q4",
+      "statement": "Qual alternativa define corretamente endereco eletronico?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "identificacao de recurso na internet"
+        },
+        {
+          "id": "b",
+          "text": "ambiente de paginas e conteudo multimidia"
+        },
+        {
+          "id": "c",
+          "text": "rede global de computadores interconectados"
+        },
+        {
+          "id": "d",
+          "text": "programa usado para acessar paginas web"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "Qual alternativa define corretamente hiperlink?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "atalho que leva a outro conteudo"
+        },
+        {
+          "id": "b",
+          "text": "ambiente de paginas e conteudo multimidia"
+        },
+        {
+          "id": "c",
+          "text": "programa usado para acessar paginas web"
+        },
+        {
+          "id": "d",
+          "text": "rede global de computadores interconectados"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q6",
+      "statement": "Qual alternativa define corretamente tipo de conexao?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "forma tecnica de acesso a rede"
+        },
+        {
+          "id": "b",
+          "text": "programa usado para acessar paginas web"
+        },
+        {
+          "id": "c",
+          "text": "ambiente de paginas e conteudo multimidia"
+        },
+        {
+          "id": "d",
+          "text": "rede global de computadores interconectados"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Qual conceito corresponde a descricao: rede global de computadores interconectados?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "navegador"
+        },
+        {
+          "id": "b",
+          "text": "WWW"
+        },
+        {
+          "id": "c",
+          "text": "internet"
+        },
+        {
+          "id": "d",
+          "text": "endereco eletronico"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q8",
+      "statement": "Qual conceito corresponde a descricao: ambiente de paginas e conteudo multimidia?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "internet"
+        },
+        {
+          "id": "b",
+          "text": "navegador"
+        },
+        {
+          "id": "c",
+          "text": "WWW"
+        },
+        {
+          "id": "d",
+          "text": "endereco eletronico"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q9",
+      "statement": "Qual conceito corresponde a descricao: programa usado para acessar paginas web?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "WWW"
+        },
+        {
+          "id": "b",
+          "text": "endereco eletronico"
+        },
+        {
+          "id": "c",
+          "text": "navegador"
+        },
+        {
+          "id": "d",
+          "text": "internet"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Qual conceito corresponde a descricao: identificacao de recurso na internet?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "navegador"
+        },
+        {
+          "id": "b",
+          "text": "internet"
+        },
+        {
+          "id": "c",
+          "text": "endereco eletronico"
+        },
+        {
+          "id": "d",
+          "text": "WWW"
+        }
+      ],
+      "correctOptionId": "c"
+    }
+  ]
+}

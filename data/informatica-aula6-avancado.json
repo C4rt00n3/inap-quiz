@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Introducao a Informatica - Avancado",
+  "subject": "Informatica",
+  "lesson": "Aula 6 - E-mail",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar SMTP de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "protocolo com sincronizacao no servidor"
+        },
+        {
+          "id": "b",
+          "text": "politica de autorizacao de envio por dominio"
+        },
+        {
+          "id": "c",
+          "text": "protocolo de download local de mensagens"
+        },
+        {
+          "id": "d",
+          "text": "protocolo de envio de emails"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q2",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar IMAP de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "politica de autorizacao de envio por dominio"
+        },
+        {
+          "id": "b",
+          "text": "protocolo com sincronizacao no servidor"
+        },
+        {
+          "id": "c",
+          "text": "protocolo de envio de emails"
+        },
+        {
+          "id": "d",
+          "text": "protocolo de download local de mensagens"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q3",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar POP3 de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "protocolo com sincronizacao no servidor"
+        },
+        {
+          "id": "b",
+          "text": "protocolo de download local de mensagens"
+        },
+        {
+          "id": "c",
+          "text": "politica de autorizacao de envio por dominio"
+        },
+        {
+          "id": "d",
+          "text": "protocolo de envio de emails"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar SPF de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "protocolo com sincronizacao no servidor"
+        },
+        {
+          "id": "b",
+          "text": "protocolo de download local de mensagens"
+        },
+        {
+          "id": "c",
+          "text": "politica de autorizacao de envio por dominio"
+        },
+        {
+          "id": "d",
+          "text": "protocolo de envio de emails"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar DKIM de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "protocolo de download local de mensagens"
+        },
+        {
+          "id": "b",
+          "text": "protocolo com sincronizacao no servidor"
+        },
+        {
+          "id": "c",
+          "text": "assinatura para integridade de mensagem"
+        },
+        {
+          "id": "d",
+          "text": "protocolo de envio de emails"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q6",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar DMARC de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "politica de autenticacao e tratamento"
+        },
+        {
+          "id": "b",
+          "text": "protocolo com sincronizacao no servidor"
+        },
+        {
+          "id": "c",
+          "text": "protocolo de envio de emails"
+        },
+        {
+          "id": "d",
+          "text": "protocolo de download local de mensagens"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Para tomada de decisao, considere a descricao: protocolo de envio de emails. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "IMAP"
+        },
+        {
+          "id": "b",
+          "text": "SMTP"
+        },
+        {
+          "id": "c",
+          "text": "POP3"
+        },
+        {
+          "id": "d",
+          "text": "SPF"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q8",
+      "statement": "Para tomada de decisao, considere a descricao: protocolo com sincronizacao no servidor. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "SPF"
+        },
+        {
+          "id": "b",
+          "text": "POP3"
+        },
+        {
+          "id": "c",
+          "text": "SMTP"
+        },
+        {
+          "id": "d",
+          "text": "IMAP"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q9",
+      "statement": "Para tomada de decisao, considere a descricao: protocolo de download local de mensagens. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "SPF"
+        },
+        {
+          "id": "b",
+          "text": "POP3"
+        },
+        {
+          "id": "c",
+          "text": "SMTP"
+        },
+        {
+          "id": "d",
+          "text": "IMAP"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q10",
+      "statement": "Para tomada de decisao, considere a descricao: politica de autorizacao de envio por dominio. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "SMTP"
+        },
+        {
+          "id": "b",
+          "text": "POP3"
+        },
+        {
+          "id": "c",
+          "text": "SPF"
+        },
+        {
+          "id": "d",
+          "text": "IMAP"
+        }
+      ],
+      "correctOptionId": "c"
+    }
+  ]
+}

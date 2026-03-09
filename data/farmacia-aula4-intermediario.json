@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Atendente de Farmacia - Intermediario",
+  "subject": "Farmacia",
+  "lesson": "Aula 4 - Industria Farmaceutica",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou medicamento de referencia. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "grupo de unidades produzido sob mesmas condicoes"
+        },
+        {
+          "id": "b",
+          "text": "produto com mesmo principio ativo e marca propria"
+        },
+        {
+          "id": "c",
+          "text": "produto com eficacia e seguranca comprovadas"
+        },
+        {
+          "id": "d",
+          "text": "produto bioequivalente ao referencia sem marca comercial"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou medicamento generico. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "produto com mesmo principio ativo e marca propria"
+        },
+        {
+          "id": "b",
+          "text": "produto bioequivalente ao referencia sem marca comercial"
+        },
+        {
+          "id": "c",
+          "text": "produto com eficacia e seguranca comprovadas"
+        },
+        {
+          "id": "d",
+          "text": "grupo de unidades produzido sob mesmas condicoes"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou medicamento similar. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "produto com mesmo principio ativo e marca propria"
+        },
+        {
+          "id": "b",
+          "text": "grupo de unidades produzido sob mesmas condicoes"
+        },
+        {
+          "id": "c",
+          "text": "produto com eficacia e seguranca comprovadas"
+        },
+        {
+          "id": "d",
+          "text": "produto bioequivalente ao referencia sem marca comercial"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou lote. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "grupo de unidades produzido sob mesmas condicoes"
+        },
+        {
+          "id": "b",
+          "text": "produto com mesmo principio ativo e marca propria"
+        },
+        {
+          "id": "c",
+          "text": "produto bioequivalente ao referencia sem marca comercial"
+        },
+        {
+          "id": "d",
+          "text": "produto com eficacia e seguranca comprovadas"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou registro sanitario. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "produto com mesmo principio ativo e marca propria"
+        },
+        {
+          "id": "b",
+          "text": "autorizacao oficial para comercializacao"
+        },
+        {
+          "id": "c",
+          "text": "produto bioequivalente ao referencia sem marca comercial"
+        },
+        {
+          "id": "d",
+          "text": "produto com eficacia e seguranca comprovadas"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q6",
+      "statement": "Durante uma rotina de estudo, a equipe citou farmacovigilancia. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "produto com mesmo principio ativo e marca propria"
+        },
+        {
+          "id": "b",
+          "text": "monitoramento de eventos adversos apos venda"
+        },
+        {
+          "id": "c",
+          "text": "produto com eficacia e seguranca comprovadas"
+        },
+        {
+          "id": "d",
+          "text": "produto bioequivalente ao referencia sem marca comercial"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: produto com eficacia e seguranca comprovadas. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "medicamento de referencia"
+        },
+        {
+          "id": "b",
+          "text": "medicamento generico"
+        },
+        {
+          "id": "c",
+          "text": "lote"
+        },
+        {
+          "id": "d",
+          "text": "medicamento similar"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: produto bioequivalente ao referencia sem marca comercial. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "lote"
+        },
+        {
+          "id": "b",
+          "text": "medicamento similar"
+        },
+        {
+          "id": "c",
+          "text": "medicamento de referencia"
+        },
+        {
+          "id": "d",
+          "text": "medicamento generico"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: produto com mesmo principio ativo e marca propria. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "medicamento de referencia"
+        },
+        {
+          "id": "b",
+          "text": "medicamento similar"
+        },
+        {
+          "id": "c",
+          "text": "medicamento generico"
+        },
+        {
+          "id": "d",
+          "text": "lote"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: grupo de unidades produzido sob mesmas condicoes. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "lote"
+        },
+        {
+          "id": "b",
+          "text": "medicamento similar"
+        },
+        {
+          "id": "c",
+          "text": "medicamento generico"
+        },
+        {
+          "id": "d",
+          "text": "medicamento de referencia"
+        }
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

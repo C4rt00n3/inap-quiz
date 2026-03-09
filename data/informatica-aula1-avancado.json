@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Introducao a Informatica - Avancado",
+  "subject": "Informatica",
+  "lesson": "Aula 1 - Conceitos Basicos de Informatica",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar informatica de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "registro bruto sem contexto"
+        },
+        {
+          "id": "b",
+          "text": "tratamento automatico de dados e informacoes"
+        },
+        {
+          "id": "c",
+          "text": "dado interpretado em contexto"
+        },
+        {
+          "id": "d",
+          "text": "unidade formada por 8 bits"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q2",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar dado de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "registro bruto sem contexto"
+        },
+        {
+          "id": "b",
+          "text": "tratamento automatico de dados e informacoes"
+        },
+        {
+          "id": "c",
+          "text": "unidade formada por 8 bits"
+        },
+        {
+          "id": "d",
+          "text": "dado interpretado em contexto"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar informacao de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "registro bruto sem contexto"
+        },
+        {
+          "id": "b",
+          "text": "unidade formada por 8 bits"
+        },
+        {
+          "id": "c",
+          "text": "tratamento automatico de dados e informacoes"
+        },
+        {
+          "id": "d",
+          "text": "dado interpretado em contexto"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q4",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar byte de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "tratamento automatico de dados e informacoes"
+        },
+        {
+          "id": "b",
+          "text": "unidade formada por 8 bits"
+        },
+        {
+          "id": "c",
+          "text": "dado interpretado em contexto"
+        },
+        {
+          "id": "d",
+          "text": "registro bruto sem contexto"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q5",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar hardware de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "tratamento automatico de dados e informacoes"
+        },
+        {
+          "id": "b",
+          "text": "registro bruto sem contexto"
+        },
+        {
+          "id": "c",
+          "text": "parte fisica do computador"
+        },
+        {
+          "id": "d",
+          "text": "dado interpretado em contexto"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q6",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar software de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "registro bruto sem contexto"
+        },
+        {
+          "id": "b",
+          "text": "tratamento automatico de dados e informacoes"
+        },
+        {
+          "id": "c",
+          "text": "dado interpretado em contexto"
+        },
+        {
+          "id": "d",
+          "text": "programas executados no computador"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q7",
+      "statement": "Para tomada de decisao, considere a descricao: tratamento automatico de dados e informacoes. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "informatica"
+        },
+        {
+          "id": "b",
+          "text": "informacao"
+        },
+        {
+          "id": "c",
+          "text": "byte"
+        },
+        {
+          "id": "d",
+          "text": "dado"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Para tomada de decisao, considere a descricao: registro bruto sem contexto. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "dado"
+        },
+        {
+          "id": "b",
+          "text": "informacao"
+        },
+        {
+          "id": "c",
+          "text": "informatica"
+        },
+        {
+          "id": "d",
+          "text": "byte"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q9",
+      "statement": "Para tomada de decisao, considere a descricao: dado interpretado em contexto. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "informacao"
+        },
+        {
+          "id": "b",
+          "text": "byte"
+        },
+        {
+          "id": "c",
+          "text": "dado"
+        },
+        {
+          "id": "d",
+          "text": "informatica"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q10",
+      "statement": "Para tomada de decisao, considere a descricao: unidade formada por 8 bits. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "byte"
+        },
+        {
+          "id": "b",
+          "text": "informatica"
+        },
+        {
+          "id": "c",
+          "text": "dado"
+        },
+        {
+          "id": "d",
+          "text": "informacao"
+        }
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Introducao a Informatica - Avancado",
+  "subject": "Informatica",
+  "lesson": "Aula 3 - Sistema Operacional",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar kernel de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "fluxo de execucao dentro de processo"
+        },
+        {
+          "id": "b",
+          "text": "distribuicao de tempo de CPU"
+        },
+        {
+          "id": "c",
+          "text": "nucleo que gerencia recursos do sistema"
+        },
+        {
+          "id": "d",
+          "text": "programa em execucao com contexto proprio"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q2",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar processo de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "programa em execucao com contexto proprio"
+        },
+        {
+          "id": "b",
+          "text": "distribuicao de tempo de CPU"
+        },
+        {
+          "id": "c",
+          "text": "fluxo de execucao dentro de processo"
+        },
+        {
+          "id": "d",
+          "text": "nucleo que gerencia recursos do sistema"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar thread de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "nucleo que gerencia recursos do sistema"
+        },
+        {
+          "id": "b",
+          "text": "programa em execucao com contexto proprio"
+        },
+        {
+          "id": "c",
+          "text": "fluxo de execucao dentro de processo"
+        },
+        {
+          "id": "d",
+          "text": "distribuicao de tempo de CPU"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q4",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar escalonamento de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "nucleo que gerencia recursos do sistema"
+        },
+        {
+          "id": "b",
+          "text": "fluxo de execucao dentro de processo"
+        },
+        {
+          "id": "c",
+          "text": "programa em execucao com contexto proprio"
+        },
+        {
+          "id": "d",
+          "text": "distribuicao de tempo de CPU"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q5",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar memoria virtual de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "fluxo de execucao dentro de processo"
+        },
+        {
+          "id": "b",
+          "text": "extensao logica da RAM via disco"
+        },
+        {
+          "id": "c",
+          "text": "nucleo que gerencia recursos do sistema"
+        },
+        {
+          "id": "d",
+          "text": "programa em execucao com contexto proprio"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q6",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar sistema de arquivos de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "organizacao e armazenamento de dados"
+        },
+        {
+          "id": "b",
+          "text": "fluxo de execucao dentro de processo"
+        },
+        {
+          "id": "c",
+          "text": "nucleo que gerencia recursos do sistema"
+        },
+        {
+          "id": "d",
+          "text": "programa em execucao com contexto proprio"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Para tomada de decisao, considere a descricao: nucleo que gerencia recursos do sistema. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "kernel"
+        },
+        {
+          "id": "b",
+          "text": "escalonamento"
+        },
+        {
+          "id": "c",
+          "text": "thread"
+        },
+        {
+          "id": "d",
+          "text": "processo"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Para tomada de decisao, considere a descricao: programa em execucao com contexto proprio. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "kernel"
+        },
+        {
+          "id": "b",
+          "text": "thread"
+        },
+        {
+          "id": "c",
+          "text": "processo"
+        },
+        {
+          "id": "d",
+          "text": "escalonamento"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q9",
+      "statement": "Para tomada de decisao, considere a descricao: fluxo de execucao dentro de processo. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "thread"
+        },
+        {
+          "id": "b",
+          "text": "processo"
+        },
+        {
+          "id": "c",
+          "text": "escalonamento"
+        },
+        {
+          "id": "d",
+          "text": "kernel"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q10",
+      "statement": "Para tomada de decisao, considere a descricao: distribuicao de tempo de CPU. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "thread"
+        },
+        {
+          "id": "b",
+          "text": "processo"
+        },
+        {
+          "id": "c",
+          "text": "kernel"
+        },
+        {
+          "id": "d",
+          "text": "escalonamento"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

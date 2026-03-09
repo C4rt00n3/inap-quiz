@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Biosseguranca - Basico",
+  "subject": "Biosseguranca",
+  "lesson": "Aula 2 - Cuidados Basicos",
+  "level": "Basico",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Qual alternativa define corretamente classe de risco 1?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "agente de alto risco individual e coletivo"
+        },
+        {
+          "id": "b",
+          "text": "agente com risco moderado e tratamento disponivel"
+        },
+        {
+          "id": "c",
+          "text": "agente de alto risco individual"
+        },
+        {
+          "id": "d",
+          "text": "agente biologico de baixo risco"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q2",
+      "statement": "Qual alternativa define corretamente classe de risco 2?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "agente de alto risco individual e coletivo"
+        },
+        {
+          "id": "b",
+          "text": "agente com risco moderado e tratamento disponivel"
+        },
+        {
+          "id": "c",
+          "text": "agente de alto risco individual"
+        },
+        {
+          "id": "d",
+          "text": "agente biologico de baixo risco"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q3",
+      "statement": "Qual alternativa define corretamente classe de risco 3?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "agente de alto risco individual"
+        },
+        {
+          "id": "b",
+          "text": "agente de alto risco individual e coletivo"
+        },
+        {
+          "id": "c",
+          "text": "agente com risco moderado e tratamento disponivel"
+        },
+        {
+          "id": "d",
+          "text": "agente biologico de baixo risco"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "Qual alternativa define corretamente classe de risco 4?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "agente biologico de baixo risco"
+        },
+        {
+          "id": "b",
+          "text": "agente de alto risco individual e coletivo"
+        },
+        {
+          "id": "c",
+          "text": "agente com risco moderado e tratamento disponivel"
+        },
+        {
+          "id": "d",
+          "text": "agente de alto risco individual"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q5",
+      "statement": "Qual alternativa define corretamente EPI?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "agente biologico de baixo risco"
+        },
+        {
+          "id": "b",
+          "text": "agente de alto risco individual"
+        },
+        {
+          "id": "c",
+          "text": "agente com risco moderado e tratamento disponivel"
+        },
+        {
+          "id": "d",
+          "text": "equipamento de protecao individual"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Qual alternativa define corretamente higiene profissional?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "agente de alto risco individual"
+        },
+        {
+          "id": "b",
+          "text": "agente biologico de baixo risco"
+        },
+        {
+          "id": "c",
+          "text": "rotinas para reduzir contaminacao"
+        },
+        {
+          "id": "d",
+          "text": "agente com risco moderado e tratamento disponivel"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q7",
+      "statement": "Qual conceito corresponde a descricao: agente biologico de baixo risco?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "classe de risco 1"
+        },
+        {
+          "id": "b",
+          "text": "classe de risco 2"
+        },
+        {
+          "id": "c",
+          "text": "classe de risco 3"
+        },
+        {
+          "id": "d",
+          "text": "classe de risco 4"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Qual conceito corresponde a descricao: agente com risco moderado e tratamento disponivel?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "classe de risco 3"
+        },
+        {
+          "id": "b",
+          "text": "classe de risco 1"
+        },
+        {
+          "id": "c",
+          "text": "classe de risco 4"
+        },
+        {
+          "id": "d",
+          "text": "classe de risco 2"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q9",
+      "statement": "Qual conceito corresponde a descricao: agente de alto risco individual?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "classe de risco 3"
+        },
+        {
+          "id": "b",
+          "text": "classe de risco 4"
+        },
+        {
+          "id": "c",
+          "text": "classe de risco 1"
+        },
+        {
+          "id": "d",
+          "text": "classe de risco 2"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q10",
+      "statement": "Qual conceito corresponde a descricao: agente de alto risco individual e coletivo?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "classe de risco 3"
+        },
+        {
+          "id": "b",
+          "text": "classe de risco 2"
+        },
+        {
+          "id": "c",
+          "text": "classe de risco 1"
+        },
+        {
+          "id": "d",
+          "text": "classe de risco 4"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

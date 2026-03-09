@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Atendente de Farmacia - Avancado",
+  "subject": "Farmacia",
+  "lesson": "Aula 7 - Comprimidos e Capsulas",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar comprimido de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "forma farmaceutica com involucro e dose unica"
+        },
+        {
+          "id": "b",
+          "text": "tecnologia que libera principio ativo ao longo do tempo"
+        },
+        {
+          "id": "c",
+          "text": "forma farmaceutica solida obtida por compressao"
+        },
+        {
+          "id": "d",
+          "text": "componente sem acao terapeutica direta"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q2",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar capsula de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "forma farmaceutica solida obtida por compressao"
+        },
+        {
+          "id": "b",
+          "text": "componente sem acao terapeutica direta"
+        },
+        {
+          "id": "c",
+          "text": "tecnologia que libera principio ativo ao longo do tempo"
+        },
+        {
+          "id": "d",
+          "text": "forma farmaceutica com involucro e dose unica"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q3",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar excipiente de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "componente sem acao terapeutica direta"
+        },
+        {
+          "id": "b",
+          "text": "tecnologia que libera principio ativo ao longo do tempo"
+        },
+        {
+          "id": "c",
+          "text": "forma farmaceutica com involucro e dose unica"
+        },
+        {
+          "id": "d",
+          "text": "forma farmaceutica solida obtida por compressao"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar liberacao controlada de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "forma farmaceutica com involucro e dose unica"
+        },
+        {
+          "id": "b",
+          "text": "forma farmaceutica solida obtida por compressao"
+        },
+        {
+          "id": "c",
+          "text": "tecnologia que libera principio ativo ao longo do tempo"
+        },
+        {
+          "id": "d",
+          "text": "componente sem acao terapeutica direta"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar administracao com agua de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "componente sem acao terapeutica direta"
+        },
+        {
+          "id": "b",
+          "text": "pratica recomendada para reduzir interacoes"
+        },
+        {
+          "id": "c",
+          "text": "forma farmaceutica solida obtida por compressao"
+        },
+        {
+          "id": "d",
+          "text": "forma farmaceutica com involucro e dose unica"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q6",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar adesao de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "forma farmaceutica com involucro e dose unica"
+        },
+        {
+          "id": "b",
+          "text": "cumprimento correto de dose e horario"
+        },
+        {
+          "id": "c",
+          "text": "componente sem acao terapeutica direta"
+        },
+        {
+          "id": "d",
+          "text": "forma farmaceutica solida obtida por compressao"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q7",
+      "statement": "Para tomada de decisao, considere a descricao: forma farmaceutica solida obtida por compressao. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "comprimido"
+        },
+        {
+          "id": "b",
+          "text": "capsula"
+        },
+        {
+          "id": "c",
+          "text": "excipiente"
+        },
+        {
+          "id": "d",
+          "text": "liberacao controlada"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Para tomada de decisao, considere a descricao: forma farmaceutica com involucro e dose unica. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "comprimido"
+        },
+        {
+          "id": "b",
+          "text": "excipiente"
+        },
+        {
+          "id": "c",
+          "text": "liberacao controlada"
+        },
+        {
+          "id": "d",
+          "text": "capsula"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q9",
+      "statement": "Para tomada de decisao, considere a descricao: componente sem acao terapeutica direta. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "excipiente"
+        },
+        {
+          "id": "b",
+          "text": "capsula"
+        },
+        {
+          "id": "c",
+          "text": "comprimido"
+        },
+        {
+          "id": "d",
+          "text": "liberacao controlada"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q10",
+      "statement": "Para tomada de decisao, considere a descricao: tecnologia que libera principio ativo ao longo do tempo. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "capsula"
+        },
+        {
+          "id": "b",
+          "text": "liberacao controlada"
+        },
+        {
+          "id": "c",
+          "text": "excipiente"
+        },
+        {
+          "id": "d",
+          "text": "comprimido"
+        }
+      ],
+      "correctOptionId": "b"
+    }
+  ]
+}

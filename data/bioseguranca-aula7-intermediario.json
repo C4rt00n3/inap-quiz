@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Biosseguranca - Intermediario",
+  "subject": "Biosseguranca",
+  "lesson": "Aula 7 - Controle Microbiano",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou esterilizacao. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "aplicacao de agente quimico em tecido vivo"
+        },
+        {
+          "id": "b",
+          "text": "reducao de microrganismos patogenicos"
+        },
+        {
+          "id": "c",
+          "text": "eliminacao de todas as formas viaveis de microrganismos"
+        },
+        {
+          "id": "d",
+          "text": "controle por calor, radiacao ou filtracao"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou desinfeccao. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "eliminacao de todas as formas viaveis de microrganismos"
+        },
+        {
+          "id": "b",
+          "text": "aplicacao de agente quimico em tecido vivo"
+        },
+        {
+          "id": "c",
+          "text": "controle por calor, radiacao ou filtracao"
+        },
+        {
+          "id": "d",
+          "text": "reducao de microrganismos patogenicos"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou antissepsia. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "eliminacao de todas as formas viaveis de microrganismos"
+        },
+        {
+          "id": "b",
+          "text": "aplicacao de agente quimico em tecido vivo"
+        },
+        {
+          "id": "c",
+          "text": "controle por calor, radiacao ou filtracao"
+        },
+        {
+          "id": "d",
+          "text": "reducao de microrganismos patogenicos"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou metodo fisico. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "reducao de microrganismos patogenicos"
+        },
+        {
+          "id": "b",
+          "text": "eliminacao de todas as formas viaveis de microrganismos"
+        },
+        {
+          "id": "c",
+          "text": "controle por calor, radiacao ou filtracao"
+        },
+        {
+          "id": "d",
+          "text": "aplicacao de agente quimico em tecido vivo"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou metodo quimico. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "aplicacao de agente quimico em tecido vivo"
+        },
+        {
+          "id": "b",
+          "text": "reducao de microrganismos patogenicos"
+        },
+        {
+          "id": "c",
+          "text": "eliminacao de todas as formas viaveis de microrganismos"
+        },
+        {
+          "id": "d",
+          "text": "controle por desinfetantes e antissepticos"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Durante uma rotina de estudo, a equipe citou tempo de contato. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "eliminacao de todas as formas viaveis de microrganismos"
+        },
+        {
+          "id": "b",
+          "text": "periodo necessario para eficacia do agente"
+        },
+        {
+          "id": "c",
+          "text": "aplicacao de agente quimico em tecido vivo"
+        },
+        {
+          "id": "d",
+          "text": "reducao de microrganismos patogenicos"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: eliminacao de todas as formas viaveis de microrganismos. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "esterilizacao"
+        },
+        {
+          "id": "b",
+          "text": "metodo fisico"
+        },
+        {
+          "id": "c",
+          "text": "desinfeccao"
+        },
+        {
+          "id": "d",
+          "text": "antissepsia"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: reducao de microrganismos patogenicos. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "antissepsia"
+        },
+        {
+          "id": "b",
+          "text": "desinfeccao"
+        },
+        {
+          "id": "c",
+          "text": "metodo fisico"
+        },
+        {
+          "id": "d",
+          "text": "esterilizacao"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: aplicacao de agente quimico em tecido vivo. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "desinfeccao"
+        },
+        {
+          "id": "b",
+          "text": "antissepsia"
+        },
+        {
+          "id": "c",
+          "text": "metodo fisico"
+        },
+        {
+          "id": "d",
+          "text": "esterilizacao"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: controle por calor, radiacao ou filtracao. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "antissepsia"
+        },
+        {
+          "id": "b",
+          "text": "desinfeccao"
+        },
+        {
+          "id": "c",
+          "text": "esterilizacao"
+        },
+        {
+          "id": "d",
+          "text": "metodo fisico"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

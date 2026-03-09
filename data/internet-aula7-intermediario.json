@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Internet Versao 4 - Intermediario",
+  "subject": "Internet",
+  "lesson": "Aula 7 - Redes Sociais Facebook I",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou perfil. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "vinculo entre contas para interacao"
+        },
+        {
+          "id": "b",
+          "text": "fluxo de publicacoes na rede social"
+        },
+        {
+          "id": "c",
+          "text": "pagina pessoal com dados do usuario"
+        },
+        {
+          "id": "d",
+          "text": "conteudo postado no perfil"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou feed. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "pagina pessoal com dados do usuario"
+        },
+        {
+          "id": "b",
+          "text": "vinculo entre contas para interacao"
+        },
+        {
+          "id": "c",
+          "text": "conteudo postado no perfil"
+        },
+        {
+          "id": "d",
+          "text": "fluxo de publicacoes na rede social"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou amizade. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "pagina pessoal com dados do usuario"
+        },
+        {
+          "id": "b",
+          "text": "vinculo entre contas para interacao"
+        },
+        {
+          "id": "c",
+          "text": "conteudo postado no perfil"
+        },
+        {
+          "id": "d",
+          "text": "fluxo de publicacoes na rede social"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou publicacao. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "fluxo de publicacoes na rede social"
+        },
+        {
+          "id": "b",
+          "text": "pagina pessoal com dados do usuario"
+        },
+        {
+          "id": "c",
+          "text": "conteudo postado no perfil"
+        },
+        {
+          "id": "d",
+          "text": "vinculo entre contas para interacao"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou comentario. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "vinculo entre contas para interacao"
+        },
+        {
+          "id": "b",
+          "text": "fluxo de publicacoes na rede social"
+        },
+        {
+          "id": "c",
+          "text": "pagina pessoal com dados do usuario"
+        },
+        {
+          "id": "d",
+          "text": "resposta textual a uma publicacao"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Durante uma rotina de estudo, a equipe citou curtida. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "pagina pessoal com dados do usuario"
+        },
+        {
+          "id": "b",
+          "text": "interacao de aprovacao de conteudo"
+        },
+        {
+          "id": "c",
+          "text": "vinculo entre contas para interacao"
+        },
+        {
+          "id": "d",
+          "text": "fluxo de publicacoes na rede social"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: pagina pessoal com dados do usuario. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "perfil"
+        },
+        {
+          "id": "b",
+          "text": "publicacao"
+        },
+        {
+          "id": "c",
+          "text": "feed"
+        },
+        {
+          "id": "d",
+          "text": "amizade"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: fluxo de publicacoes na rede social. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "amizade"
+        },
+        {
+          "id": "b",
+          "text": "feed"
+        },
+        {
+          "id": "c",
+          "text": "publicacao"
+        },
+        {
+          "id": "d",
+          "text": "perfil"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: vinculo entre contas para interacao. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "feed"
+        },
+        {
+          "id": "b",
+          "text": "amizade"
+        },
+        {
+          "id": "c",
+          "text": "publicacao"
+        },
+        {
+          "id": "d",
+          "text": "perfil"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: conteudo postado no perfil. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "amizade"
+        },
+        {
+          "id": "b",
+          "text": "feed"
+        },
+        {
+          "id": "c",
+          "text": "perfil"
+        },
+        {
+          "id": "d",
+          "text": "publicacao"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

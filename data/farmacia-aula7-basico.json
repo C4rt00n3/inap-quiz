@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Atendente de Farmacia - Basico",
+  "subject": "Farmacia",
+  "lesson": "Aula 7 - Comprimidos e Capsulas",
+  "level": "Basico",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Qual alternativa define corretamente comprimido?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "forma farmaceutica solida obtida por compressao"
+        },
+        {
+          "id": "b",
+          "text": "forma farmaceutica com involucro e dose unica"
+        },
+        {
+          "id": "c",
+          "text": "tecnologia que libera principio ativo ao longo do tempo"
+        },
+        {
+          "id": "d",
+          "text": "componente sem acao terapeutica direta"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Qual alternativa define corretamente capsula?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "forma farmaceutica solida obtida por compressao"
+        },
+        {
+          "id": "b",
+          "text": "forma farmaceutica com involucro e dose unica"
+        },
+        {
+          "id": "c",
+          "text": "componente sem acao terapeutica direta"
+        },
+        {
+          "id": "d",
+          "text": "tecnologia que libera principio ativo ao longo do tempo"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q3",
+      "statement": "Qual alternativa define corretamente excipiente?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "forma farmaceutica solida obtida por compressao"
+        },
+        {
+          "id": "b",
+          "text": "componente sem acao terapeutica direta"
+        },
+        {
+          "id": "c",
+          "text": "forma farmaceutica com involucro e dose unica"
+        },
+        {
+          "id": "d",
+          "text": "tecnologia que libera principio ativo ao longo do tempo"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Qual alternativa define corretamente liberacao controlada?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "tecnologia que libera principio ativo ao longo do tempo"
+        },
+        {
+          "id": "b",
+          "text": "forma farmaceutica solida obtida por compressao"
+        },
+        {
+          "id": "c",
+          "text": "componente sem acao terapeutica direta"
+        },
+        {
+          "id": "d",
+          "text": "forma farmaceutica com involucro e dose unica"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "Qual alternativa define corretamente administracao com agua?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "forma farmaceutica com involucro e dose unica"
+        },
+        {
+          "id": "b",
+          "text": "componente sem acao terapeutica direta"
+        },
+        {
+          "id": "c",
+          "text": "forma farmaceutica solida obtida por compressao"
+        },
+        {
+          "id": "d",
+          "text": "pratica recomendada para reduzir interacoes"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Qual alternativa define corretamente adesao?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "cumprimento correto de dose e horario"
+        },
+        {
+          "id": "b",
+          "text": "componente sem acao terapeutica direta"
+        },
+        {
+          "id": "c",
+          "text": "forma farmaceutica solida obtida por compressao"
+        },
+        {
+          "id": "d",
+          "text": "forma farmaceutica com involucro e dose unica"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Qual conceito corresponde a descricao: forma farmaceutica solida obtida por compressao?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "capsula"
+        },
+        {
+          "id": "b",
+          "text": "liberacao controlada"
+        },
+        {
+          "id": "c",
+          "text": "excipiente"
+        },
+        {
+          "id": "d",
+          "text": "comprimido"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q8",
+      "statement": "Qual conceito corresponde a descricao: forma farmaceutica com involucro e dose unica?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "excipiente"
+        },
+        {
+          "id": "b",
+          "text": "capsula"
+        },
+        {
+          "id": "c",
+          "text": "liberacao controlada"
+        },
+        {
+          "id": "d",
+          "text": "comprimido"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Qual conceito corresponde a descricao: componente sem acao terapeutica direta?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "capsula"
+        },
+        {
+          "id": "b",
+          "text": "excipiente"
+        },
+        {
+          "id": "c",
+          "text": "comprimido"
+        },
+        {
+          "id": "d",
+          "text": "liberacao controlada"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q10",
+      "statement": "Qual conceito corresponde a descricao: tecnologia que libera principio ativo ao longo do tempo?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "comprimido"
+        },
+        {
+          "id": "b",
+          "text": "liberacao controlada"
+        },
+        {
+          "id": "c",
+          "text": "capsula"
+        },
+        {
+          "id": "d",
+          "text": "excipiente"
+        }
+      ],
+      "correctOptionId": "b"
+    }
+  ]
+}

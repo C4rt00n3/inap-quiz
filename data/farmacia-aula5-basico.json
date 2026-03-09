@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Atendente de Farmacia - Basico",
+  "subject": "Farmacia",
+  "lesson": "Aula 5 - Bula e Atendimento",
+  "level": "Basico",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Qual alternativa define corretamente indicacao?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "efeito indesejado que pode ocorrer com uso correto"
+        },
+        {
+          "id": "b",
+          "text": "situacao em que o uso pode trazer risco"
+        },
+        {
+          "id": "c",
+          "text": "situacao em que o medicamento deve ser utilizado"
+        },
+        {
+          "id": "d",
+          "text": "alteracao de efeito pelo uso conjunto de medicamentos"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q2",
+      "statement": "Qual alternativa define corretamente contraindicacao?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "efeito indesejado que pode ocorrer com uso correto"
+        },
+        {
+          "id": "b",
+          "text": "situacao em que o uso pode trazer risco"
+        },
+        {
+          "id": "c",
+          "text": "situacao em que o medicamento deve ser utilizado"
+        },
+        {
+          "id": "d",
+          "text": "alteracao de efeito pelo uso conjunto de medicamentos"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q3",
+      "statement": "Qual alternativa define corretamente reacao adversa?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "efeito indesejado que pode ocorrer com uso correto"
+        },
+        {
+          "id": "b",
+          "text": "alteracao de efeito pelo uso conjunto de medicamentos"
+        },
+        {
+          "id": "c",
+          "text": "situacao em que o uso pode trazer risco"
+        },
+        {
+          "id": "d",
+          "text": "situacao em que o medicamento deve ser utilizado"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "Qual alternativa define corretamente interacao medicamentosa?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "situacao em que o uso pode trazer risco"
+        },
+        {
+          "id": "b",
+          "text": "alteracao de efeito pelo uso conjunto de medicamentos"
+        },
+        {
+          "id": "c",
+          "text": "situacao em que o medicamento deve ser utilizado"
+        },
+        {
+          "id": "d",
+          "text": "efeito indesejado que pode ocorrer com uso correto"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q5",
+      "statement": "Qual alternativa define corretamente posologia?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "situacao em que o medicamento deve ser utilizado"
+        },
+        {
+          "id": "b",
+          "text": "situacao em que o uso pode trazer risco"
+        },
+        {
+          "id": "c",
+          "text": "dose, intervalo e tempo de tratamento"
+        },
+        {
+          "id": "d",
+          "text": "efeito indesejado que pode ocorrer com uso correto"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q6",
+      "statement": "Qual alternativa define corretamente orientacao segura?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "situacao em que o uso pode trazer risco"
+        },
+        {
+          "id": "b",
+          "text": "efeito indesejado que pode ocorrer com uso correto"
+        },
+        {
+          "id": "c",
+          "text": "informacao clara sem prescrever ou alterar receita"
+        },
+        {
+          "id": "d",
+          "text": "situacao em que o medicamento deve ser utilizado"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q7",
+      "statement": "Qual conceito corresponde a descricao: situacao em que o medicamento deve ser utilizado?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "indicacao"
+        },
+        {
+          "id": "b",
+          "text": "contraindicacao"
+        },
+        {
+          "id": "c",
+          "text": "reacao adversa"
+        },
+        {
+          "id": "d",
+          "text": "interacao medicamentosa"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Qual conceito corresponde a descricao: situacao em que o uso pode trazer risco?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "interacao medicamentosa"
+        },
+        {
+          "id": "b",
+          "text": "contraindicacao"
+        },
+        {
+          "id": "c",
+          "text": "indicacao"
+        },
+        {
+          "id": "d",
+          "text": "reacao adversa"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Qual conceito corresponde a descricao: efeito indesejado que pode ocorrer com uso correto?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "interacao medicamentosa"
+        },
+        {
+          "id": "b",
+          "text": "contraindicacao"
+        },
+        {
+          "id": "c",
+          "text": "reacao adversa"
+        },
+        {
+          "id": "d",
+          "text": "indicacao"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Qual conceito corresponde a descricao: alteracao de efeito pelo uso conjunto de medicamentos?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "contraindicacao"
+        },
+        {
+          "id": "b",
+          "text": "reacao adversa"
+        },
+        {
+          "id": "c",
+          "text": "interacao medicamentosa"
+        },
+        {
+          "id": "d",
+          "text": "indicacao"
+        }
+      ],
+      "correctOptionId": "c"
+    }
+  ]
+}

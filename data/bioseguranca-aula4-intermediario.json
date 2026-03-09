@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Biosseguranca - Intermediario",
+  "subject": "Biosseguranca",
+  "lesson": "Aula 4 - Bacterias e Agentes Antibacterianos",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou bacteria patogenica. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "agente que inibe ou elimina bacterias"
+        },
+        {
+          "id": "b",
+          "text": "componente bacteriano que induz resposta inflamatoria"
+        },
+        {
+          "id": "c",
+          "text": "microrganismo capaz de causar doenca"
+        },
+        {
+          "id": "d",
+          "text": "toxina liberada por bacterias"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou exotoxina. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "componente bacteriano que induz resposta inflamatoria"
+        },
+        {
+          "id": "b",
+          "text": "toxina liberada por bacterias"
+        },
+        {
+          "id": "c",
+          "text": "microrganismo capaz de causar doenca"
+        },
+        {
+          "id": "d",
+          "text": "agente que inibe ou elimina bacterias"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou endotoxina. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "componente bacteriano que induz resposta inflamatoria"
+        },
+        {
+          "id": "b",
+          "text": "agente que inibe ou elimina bacterias"
+        },
+        {
+          "id": "c",
+          "text": "microrganismo capaz de causar doenca"
+        },
+        {
+          "id": "d",
+          "text": "toxina liberada por bacterias"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou antibiotico. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "agente que inibe ou elimina bacterias"
+        },
+        {
+          "id": "b",
+          "text": "componente bacteriano que induz resposta inflamatoria"
+        },
+        {
+          "id": "c",
+          "text": "toxina liberada por bacterias"
+        },
+        {
+          "id": "d",
+          "text": "microrganismo capaz de causar doenca"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou resistencia bacteriana. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "componente bacteriano que induz resposta inflamatoria"
+        },
+        {
+          "id": "b",
+          "text": "capacidade de sobreviver ao antimicrobiano"
+        },
+        {
+          "id": "c",
+          "text": "toxina liberada por bacterias"
+        },
+        {
+          "id": "d",
+          "text": "microrganismo capaz de causar doenca"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q6",
+      "statement": "Durante uma rotina de estudo, a equipe citou uso racional. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "componente bacteriano que induz resposta inflamatoria"
+        },
+        {
+          "id": "b",
+          "text": "uso correto de dose, indicacao e tempo"
+        },
+        {
+          "id": "c",
+          "text": "microrganismo capaz de causar doenca"
+        },
+        {
+          "id": "d",
+          "text": "toxina liberada por bacterias"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: microrganismo capaz de causar doenca. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "bacteria patogenica"
+        },
+        {
+          "id": "b",
+          "text": "exotoxina"
+        },
+        {
+          "id": "c",
+          "text": "antibiotico"
+        },
+        {
+          "id": "d",
+          "text": "endotoxina"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: toxina liberada por bacterias. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "antibiotico"
+        },
+        {
+          "id": "b",
+          "text": "endotoxina"
+        },
+        {
+          "id": "c",
+          "text": "bacteria patogenica"
+        },
+        {
+          "id": "d",
+          "text": "exotoxina"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: componente bacteriano que induz resposta inflamatoria. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "bacteria patogenica"
+        },
+        {
+          "id": "b",
+          "text": "endotoxina"
+        },
+        {
+          "id": "c",
+          "text": "exotoxina"
+        },
+        {
+          "id": "d",
+          "text": "antibiotico"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: agente que inibe ou elimina bacterias. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "antibiotico"
+        },
+        {
+          "id": "b",
+          "text": "endotoxina"
+        },
+        {
+          "id": "c",
+          "text": "exotoxina"
+        },
+        {
+          "id": "d",
+          "text": "bacteria patogenica"
+        }
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Internet Versao 4 - Intermediario",
+  "subject": "Internet",
+  "lesson": "Aula 9 - Redes Sociais II",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou engajamento. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "checagem da origem da informacao"
+        },
+        {
+          "id": "b",
+          "text": "nivel de interacao com conteudo"
+        },
+        {
+          "id": "c",
+          "text": "informacao falsa divulgada como verdadeira"
+        },
+        {
+          "id": "d",
+          "text": "regra que define o que aparece no feed"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou algoritmo. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "checagem da origem da informacao"
+        },
+        {
+          "id": "b",
+          "text": "informacao falsa divulgada como verdadeira"
+        },
+        {
+          "id": "c",
+          "text": "regra que define o que aparece no feed"
+        },
+        {
+          "id": "d",
+          "text": "nivel de interacao com conteudo"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou fake news. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "checagem da origem da informacao"
+        },
+        {
+          "id": "b",
+          "text": "informacao falsa divulgada como verdadeira"
+        },
+        {
+          "id": "c",
+          "text": "regra que define o que aparece no feed"
+        },
+        {
+          "id": "d",
+          "text": "nivel de interacao com conteudo"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou verificacao de fonte. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "regra que define o que aparece no feed"
+        },
+        {
+          "id": "b",
+          "text": "checagem da origem da informacao"
+        },
+        {
+          "id": "c",
+          "text": "informacao falsa divulgada como verdadeira"
+        },
+        {
+          "id": "d",
+          "text": "nivel de interacao com conteudo"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou etiqueta digital. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "informacao falsa divulgada como verdadeira"
+        },
+        {
+          "id": "b",
+          "text": "regra que define o que aparece no feed"
+        },
+        {
+          "id": "c",
+          "text": "nivel de interacao com conteudo"
+        },
+        {
+          "id": "d",
+          "text": "boas praticas de convivencia online"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Durante uma rotina de estudo, a equipe citou uso consciente. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "nivel de interacao com conteudo"
+        },
+        {
+          "id": "b",
+          "text": "regra que define o que aparece no feed"
+        },
+        {
+          "id": "c",
+          "text": "utilizacao equilibrada e responsavel"
+        },
+        {
+          "id": "d",
+          "text": "informacao falsa divulgada como verdadeira"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: nivel de interacao com conteudo. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "algoritmo"
+        },
+        {
+          "id": "b",
+          "text": "engajamento"
+        },
+        {
+          "id": "c",
+          "text": "verificacao de fonte"
+        },
+        {
+          "id": "d",
+          "text": "fake news"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: regra que define o que aparece no feed. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "verificacao de fonte"
+        },
+        {
+          "id": "b",
+          "text": "engajamento"
+        },
+        {
+          "id": "c",
+          "text": "algoritmo"
+        },
+        {
+          "id": "d",
+          "text": "fake news"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: informacao falsa divulgada como verdadeira. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "fake news"
+        },
+        {
+          "id": "b",
+          "text": "algoritmo"
+        },
+        {
+          "id": "c",
+          "text": "engajamento"
+        },
+        {
+          "id": "d",
+          "text": "verificacao de fonte"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: checagem da origem da informacao. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "fake news"
+        },
+        {
+          "id": "b",
+          "text": "engajamento"
+        },
+        {
+          "id": "c",
+          "text": "algoritmo"
+        },
+        {
+          "id": "d",
+          "text": "verificacao de fonte"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

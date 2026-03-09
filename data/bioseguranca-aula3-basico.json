@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Biosseguranca - Basico",
+  "subject": "Biosseguranca",
+  "lesson": "Aula 3 - Riscos Ocupacionais e Mapa de Risco",
+  "level": "Basico",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Qual alternativa define corretamente perigo?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "representacao grafica dos riscos por ambiente"
+        },
+        {
+          "id": "b",
+          "text": "fonte com potencial de causar dano"
+        },
+        {
+          "id": "c",
+          "text": "probabilidade de exposicao ao perigo"
+        },
+        {
+          "id": "d",
+          "text": "ruido, calor, frio, vibracao ou radiacao"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q2",
+      "statement": "Qual alternativa define corretamente risco?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "ruido, calor, frio, vibracao ou radiacao"
+        },
+        {
+          "id": "b",
+          "text": "fonte com potencial de causar dano"
+        },
+        {
+          "id": "c",
+          "text": "representacao grafica dos riscos por ambiente"
+        },
+        {
+          "id": "d",
+          "text": "probabilidade de exposicao ao perigo"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q3",
+      "statement": "Qual alternativa define corretamente mapa de risco?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "probabilidade de exposicao ao perigo"
+        },
+        {
+          "id": "b",
+          "text": "representacao grafica dos riscos por ambiente"
+        },
+        {
+          "id": "c",
+          "text": "fonte com potencial de causar dano"
+        },
+        {
+          "id": "d",
+          "text": "ruido, calor, frio, vibracao ou radiacao"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Qual alternativa define corretamente risco fisico?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "probabilidade de exposicao ao perigo"
+        },
+        {
+          "id": "b",
+          "text": "fonte com potencial de causar dano"
+        },
+        {
+          "id": "c",
+          "text": "representacao grafica dos riscos por ambiente"
+        },
+        {
+          "id": "d",
+          "text": "ruido, calor, frio, vibracao ou radiacao"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q5",
+      "statement": "Qual alternativa define corretamente risco quimico?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "probabilidade de exposicao ao perigo"
+        },
+        {
+          "id": "b",
+          "text": "representacao grafica dos riscos por ambiente"
+        },
+        {
+          "id": "c",
+          "text": "exposicao a gases, vapores e substancias"
+        },
+        {
+          "id": "d",
+          "text": "fonte com potencial de causar dano"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q6",
+      "statement": "Qual alternativa define corretamente risco biologico?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "exposicao a microrganismos patogenicos"
+        },
+        {
+          "id": "b",
+          "text": "probabilidade de exposicao ao perigo"
+        },
+        {
+          "id": "c",
+          "text": "fonte com potencial de causar dano"
+        },
+        {
+          "id": "d",
+          "text": "representacao grafica dos riscos por ambiente"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Qual conceito corresponde a descricao: fonte com potencial de causar dano?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "mapa de risco"
+        },
+        {
+          "id": "b",
+          "text": "risco fisico"
+        },
+        {
+          "id": "c",
+          "text": "perigo"
+        },
+        {
+          "id": "d",
+          "text": "risco"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q8",
+      "statement": "Qual conceito corresponde a descricao: probabilidade de exposicao ao perigo?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "mapa de risco"
+        },
+        {
+          "id": "b",
+          "text": "perigo"
+        },
+        {
+          "id": "c",
+          "text": "risco"
+        },
+        {
+          "id": "d",
+          "text": "risco fisico"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q9",
+      "statement": "Qual conceito corresponde a descricao: representacao grafica dos riscos por ambiente?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "risco"
+        },
+        {
+          "id": "b",
+          "text": "perigo"
+        },
+        {
+          "id": "c",
+          "text": "mapa de risco"
+        },
+        {
+          "id": "d",
+          "text": "risco fisico"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Qual conceito corresponde a descricao: ruido, calor, frio, vibracao ou radiacao?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "mapa de risco"
+        },
+        {
+          "id": "b",
+          "text": "risco"
+        },
+        {
+          "id": "c",
+          "text": "perigo"
+        },
+        {
+          "id": "d",
+          "text": "risco fisico"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

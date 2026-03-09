@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Atendente de Farmacia - Basico",
+  "subject": "Farmacia",
+  "lesson": "Aula 9 - Transporte da Vitima",
+  "level": "Basico",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Qual alternativa define corretamente avaliacao primaria?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "equipamento preferencial para transporte"
+        },
+        {
+          "id": "b",
+          "text": "estabilizar suspeita de fratura antes de mover"
+        },
+        {
+          "id": "c",
+          "text": "movimentar sem agravar lesoes"
+        },
+        {
+          "id": "d",
+          "text": "verificar consciencia, respiracao e circulacao"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q2",
+      "statement": "Qual alternativa define corretamente transporte seguro?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "verificar consciencia, respiracao e circulacao"
+        },
+        {
+          "id": "b",
+          "text": "estabilizar suspeita de fratura antes de mover"
+        },
+        {
+          "id": "c",
+          "text": "equipamento preferencial para transporte"
+        },
+        {
+          "id": "d",
+          "text": "movimentar sem agravar lesoes"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q3",
+      "statement": "Qual alternativa define corretamente maca?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "movimentar sem agravar lesoes"
+        },
+        {
+          "id": "b",
+          "text": "equipamento preferencial para transporte"
+        },
+        {
+          "id": "c",
+          "text": "estabilizar suspeita de fratura antes de mover"
+        },
+        {
+          "id": "d",
+          "text": "verificar consciencia, respiracao e circulacao"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Qual alternativa define corretamente imobilizacao?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "movimentar sem agravar lesoes"
+        },
+        {
+          "id": "b",
+          "text": "equipamento preferencial para transporte"
+        },
+        {
+          "id": "c",
+          "text": "estabilizar suspeita de fratura antes de mover"
+        },
+        {
+          "id": "d",
+          "text": "verificar consciencia, respiracao e circulacao"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Qual alternativa define corretamente posicao lateral?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "movimentar sem agravar lesoes"
+        },
+        {
+          "id": "b",
+          "text": "verificar consciencia, respiracao e circulacao"
+        },
+        {
+          "id": "c",
+          "text": "equipamento preferencial para transporte"
+        },
+        {
+          "id": "d",
+          "text": "posicionar inconsciente respirando sem trauma suspeito"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Qual alternativa define corretamente controle de choque?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "movimentar sem agravar lesoes"
+        },
+        {
+          "id": "b",
+          "text": "verificar consciencia, respiracao e circulacao"
+        },
+        {
+          "id": "c",
+          "text": "medidas para manter perfusao e estabilidade"
+        },
+        {
+          "id": "d",
+          "text": "equipamento preferencial para transporte"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q7",
+      "statement": "Qual conceito corresponde a descricao: verificar consciencia, respiracao e circulacao?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "maca"
+        },
+        {
+          "id": "b",
+          "text": "avaliacao primaria"
+        },
+        {
+          "id": "c",
+          "text": "imobilizacao"
+        },
+        {
+          "id": "d",
+          "text": "transporte seguro"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q8",
+      "statement": "Qual conceito corresponde a descricao: movimentar sem agravar lesoes?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "avaliacao primaria"
+        },
+        {
+          "id": "b",
+          "text": "maca"
+        },
+        {
+          "id": "c",
+          "text": "imobilizacao"
+        },
+        {
+          "id": "d",
+          "text": "transporte seguro"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q9",
+      "statement": "Qual conceito corresponde a descricao: equipamento preferencial para transporte?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "transporte seguro"
+        },
+        {
+          "id": "b",
+          "text": "maca"
+        },
+        {
+          "id": "c",
+          "text": "avaliacao primaria"
+        },
+        {
+          "id": "d",
+          "text": "imobilizacao"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q10",
+      "statement": "Qual conceito corresponde a descricao: estabilizar suspeita de fratura antes de mover?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "transporte seguro"
+        },
+        {
+          "id": "b",
+          "text": "imobilizacao"
+        },
+        {
+          "id": "c",
+          "text": "maca"
+        },
+        {
+          "id": "d",
+          "text": "avaliacao primaria"
+        }
+      ],
+      "correctOptionId": "b"
+    }
+  ]
+}

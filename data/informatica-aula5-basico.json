@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Introducao a Informatica - Basico",
+  "subject": "Informatica",
+  "lesson": "Aula 5 - Seguranca na Internet",
+  "level": "Basico",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Qual alternativa define corretamente phishing?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "tecnica para proteger confidencialidade"
+        },
+        {
+          "id": "b",
+          "text": "autenticacao com multiplos fatores"
+        },
+        {
+          "id": "c",
+          "text": "fraude para obter dados sensiveis"
+        },
+        {
+          "id": "d",
+          "text": "resumo matematico sem reversao pratica"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q2",
+      "statement": "Qual alternativa define corretamente MFA?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "tecnica para proteger confidencialidade"
+        },
+        {
+          "id": "b",
+          "text": "autenticacao com multiplos fatores"
+        },
+        {
+          "id": "c",
+          "text": "fraude para obter dados sensiveis"
+        },
+        {
+          "id": "d",
+          "text": "resumo matematico sem reversao pratica"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q3",
+      "statement": "Qual alternativa define corretamente criptografia?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "tecnica para proteger confidencialidade"
+        },
+        {
+          "id": "b",
+          "text": "resumo matematico sem reversao pratica"
+        },
+        {
+          "id": "c",
+          "text": "autenticacao com multiplos fatores"
+        },
+        {
+          "id": "d",
+          "text": "fraude para obter dados sensiveis"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "Qual alternativa define corretamente hash?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "autenticacao com multiplos fatores"
+        },
+        {
+          "id": "b",
+          "text": "resumo matematico sem reversao pratica"
+        },
+        {
+          "id": "c",
+          "text": "fraude para obter dados sensiveis"
+        },
+        {
+          "id": "d",
+          "text": "tecnica para proteger confidencialidade"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q5",
+      "statement": "Qual alternativa define corretamente ransomware?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "fraude para obter dados sensiveis"
+        },
+        {
+          "id": "b",
+          "text": "autenticacao com multiplos fatores"
+        },
+        {
+          "id": "c",
+          "text": "malware que sequestra dados"
+        },
+        {
+          "id": "d",
+          "text": "tecnica para proteger confidencialidade"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q6",
+      "statement": "Qual alternativa define corretamente menor privilegio?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "autenticacao com multiplos fatores"
+        },
+        {
+          "id": "b",
+          "text": "tecnica para proteger confidencialidade"
+        },
+        {
+          "id": "c",
+          "text": "acesso minimo necessario para funcao"
+        },
+        {
+          "id": "d",
+          "text": "fraude para obter dados sensiveis"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q7",
+      "statement": "Qual conceito corresponde a descricao: fraude para obter dados sensiveis?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "phishing"
+        },
+        {
+          "id": "b",
+          "text": "MFA"
+        },
+        {
+          "id": "c",
+          "text": "criptografia"
+        },
+        {
+          "id": "d",
+          "text": "hash"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Qual conceito corresponde a descricao: autenticacao com multiplos fatores?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "hash"
+        },
+        {
+          "id": "b",
+          "text": "MFA"
+        },
+        {
+          "id": "c",
+          "text": "phishing"
+        },
+        {
+          "id": "d",
+          "text": "criptografia"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Qual conceito corresponde a descricao: tecnica para proteger confidencialidade?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "hash"
+        },
+        {
+          "id": "b",
+          "text": "MFA"
+        },
+        {
+          "id": "c",
+          "text": "criptografia"
+        },
+        {
+          "id": "d",
+          "text": "phishing"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Qual conceito corresponde a descricao: resumo matematico sem reversao pratica?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "MFA"
+        },
+        {
+          "id": "b",
+          "text": "criptografia"
+        },
+        {
+          "id": "c",
+          "text": "hash"
+        },
+        {
+          "id": "d",
+          "text": "phishing"
+        }
+      ],
+      "correctOptionId": "c"
+    }
+  ]
+}

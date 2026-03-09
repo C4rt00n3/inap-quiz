@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Introducao a Informatica - Avancado",
+  "subject": "Informatica",
+  "lesson": "Aula 2 - Hardware e Software",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar CPU de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "unidade central de processamento"
+        },
+        {
+          "id": "b",
+          "text": "software embarcado em hardware"
+        },
+        {
+          "id": "c",
+          "text": "memoria volatil de acesso rapido"
+        },
+        {
+          "id": "d",
+          "text": "armazenamento solido de baixa latencia"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar RAM de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "memoria volatil de acesso rapido"
+        },
+        {
+          "id": "b",
+          "text": "software embarcado em hardware"
+        },
+        {
+          "id": "c",
+          "text": "unidade central de processamento"
+        },
+        {
+          "id": "d",
+          "text": "armazenamento solido de baixa latencia"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar SSD de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "software embarcado em hardware"
+        },
+        {
+          "id": "b",
+          "text": "armazenamento solido de baixa latencia"
+        },
+        {
+          "id": "c",
+          "text": "memoria volatil de acesso rapido"
+        },
+        {
+          "id": "d",
+          "text": "unidade central de processamento"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar firmware de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "software embarcado em hardware"
+        },
+        {
+          "id": "b",
+          "text": "unidade central de processamento"
+        },
+        {
+          "id": "c",
+          "text": "armazenamento solido de baixa latencia"
+        },
+        {
+          "id": "d",
+          "text": "memoria volatil de acesso rapido"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar driver de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "unidade central de processamento"
+        },
+        {
+          "id": "b",
+          "text": "software que comunica sistema e dispositivo"
+        },
+        {
+          "id": "c",
+          "text": "memoria volatil de acesso rapido"
+        },
+        {
+          "id": "d",
+          "text": "armazenamento solido de baixa latencia"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q6",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar sistema operacional de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "armazenamento solido de baixa latencia"
+        },
+        {
+          "id": "b",
+          "text": "memoria volatil de acesso rapido"
+        },
+        {
+          "id": "c",
+          "text": "software base de gerenciamento do computador"
+        },
+        {
+          "id": "d",
+          "text": "unidade central de processamento"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q7",
+      "statement": "Para tomada de decisao, considere a descricao: unidade central de processamento. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "SSD"
+        },
+        {
+          "id": "b",
+          "text": "firmware"
+        },
+        {
+          "id": "c",
+          "text": "CPU"
+        },
+        {
+          "id": "d",
+          "text": "RAM"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q8",
+      "statement": "Para tomada de decisao, considere a descricao: memoria volatil de acesso rapido. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "SSD"
+        },
+        {
+          "id": "b",
+          "text": "RAM"
+        },
+        {
+          "id": "c",
+          "text": "CPU"
+        },
+        {
+          "id": "d",
+          "text": "firmware"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Para tomada de decisao, considere a descricao: armazenamento solido de baixa latencia. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "CPU"
+        },
+        {
+          "id": "b",
+          "text": "SSD"
+        },
+        {
+          "id": "c",
+          "text": "RAM"
+        },
+        {
+          "id": "d",
+          "text": "firmware"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q10",
+      "statement": "Para tomada de decisao, considere a descricao: software embarcado em hardware. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "firmware"
+        },
+        {
+          "id": "b",
+          "text": "RAM"
+        },
+        {
+          "id": "c",
+          "text": "SSD"
+        },
+        {
+          "id": "d",
+          "text": "CPU"
+        }
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

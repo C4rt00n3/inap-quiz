@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Biosseguranca - Intermediario",
+  "subject": "Biosseguranca",
+  "lesson": "Aula 9 - Higienizacao e Desinfeccao",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou higienizacao das maos. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "aplicacao de produto com tempo de contato"
+        },
+        {
+          "id": "b",
+          "text": "tecnica correta de lavagem para reduzir contaminacao"
+        },
+        {
+          "id": "c",
+          "text": "antisseptico indicado apos limpeza"
+        },
+        {
+          "id": "d",
+          "text": "movimento mecanico para remover sujidade"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou friccao. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "aplicacao de produto com tempo de contato"
+        },
+        {
+          "id": "b",
+          "text": "antisseptico indicado apos limpeza"
+        },
+        {
+          "id": "c",
+          "text": "movimento mecanico para remover sujidade"
+        },
+        {
+          "id": "d",
+          "text": "tecnica correta de lavagem para reduzir contaminacao"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou alcool 70. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "aplicacao de produto com tempo de contato"
+        },
+        {
+          "id": "b",
+          "text": "antisseptico indicado apos limpeza"
+        },
+        {
+          "id": "c",
+          "text": "movimento mecanico para remover sujidade"
+        },
+        {
+          "id": "d",
+          "text": "tecnica correta de lavagem para reduzir contaminacao"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou desinfeccao de superficie. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "movimento mecanico para remover sujidade"
+        },
+        {
+          "id": "b",
+          "text": "aplicacao de produto com tempo de contato"
+        },
+        {
+          "id": "c",
+          "text": "antisseptico indicado apos limpeza"
+        },
+        {
+          "id": "d",
+          "text": "tecnica correta de lavagem para reduzir contaminacao"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou uso de EPI. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "antisseptico indicado apos limpeza"
+        },
+        {
+          "id": "b",
+          "text": "movimento mecanico para remover sujidade"
+        },
+        {
+          "id": "c",
+          "text": "tecnica correta de lavagem para reduzir contaminacao"
+        },
+        {
+          "id": "d",
+          "text": "colocacao e retirada sem autocontaminacao"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Durante uma rotina de estudo, a equipe citou sequencia de limpeza. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "tecnica correta de lavagem para reduzir contaminacao"
+        },
+        {
+          "id": "b",
+          "text": "movimento mecanico para remover sujidade"
+        },
+        {
+          "id": "c",
+          "text": "ordem padrao para evitar recontaminacao"
+        },
+        {
+          "id": "d",
+          "text": "antisseptico indicado apos limpeza"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: tecnica correta de lavagem para reduzir contaminacao. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "friccao"
+        },
+        {
+          "id": "b",
+          "text": "higienizacao das maos"
+        },
+        {
+          "id": "c",
+          "text": "desinfeccao de superficie"
+        },
+        {
+          "id": "d",
+          "text": "alcool 70"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: movimento mecanico para remover sujidade. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "desinfeccao de superficie"
+        },
+        {
+          "id": "b",
+          "text": "higienizacao das maos"
+        },
+        {
+          "id": "c",
+          "text": "friccao"
+        },
+        {
+          "id": "d",
+          "text": "alcool 70"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: antisseptico indicado apos limpeza. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "alcool 70"
+        },
+        {
+          "id": "b",
+          "text": "friccao"
+        },
+        {
+          "id": "c",
+          "text": "higienizacao das maos"
+        },
+        {
+          "id": "d",
+          "text": "desinfeccao de superficie"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: aplicacao de produto com tempo de contato. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "alcool 70"
+        },
+        {
+          "id": "b",
+          "text": "higienizacao das maos"
+        },
+        {
+          "id": "c",
+          "text": "friccao"
+        },
+        {
+          "id": "d",
+          "text": "desinfeccao de superficie"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

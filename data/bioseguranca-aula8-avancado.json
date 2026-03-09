@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Biosseguranca - Avancado",
+  "subject": "Biosseguranca",
+  "lesson": "Aula 8 - Normas de Biosseguranca",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar norma geral de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "setor com controle rigido de acesso"
+        },
+        {
+          "id": "b",
+          "text": "condutas de limpeza pessoal e ambiente"
+        },
+        {
+          "id": "c",
+          "text": "regra para proteger equipe e ambiente"
+        },
+        {
+          "id": "d",
+          "text": "desvio do procedimento padrao"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q2",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar nao conformidade de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "desvio do procedimento padrao"
+        },
+        {
+          "id": "b",
+          "text": "setor com controle rigido de acesso"
+        },
+        {
+          "id": "c",
+          "text": "condutas de limpeza pessoal e ambiente"
+        },
+        {
+          "id": "d",
+          "text": "regra para proteger equipe e ambiente"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar higiene laboratorial de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "desvio do procedimento padrao"
+        },
+        {
+          "id": "b",
+          "text": "regra para proteger equipe e ambiente"
+        },
+        {
+          "id": "c",
+          "text": "condutas de limpeza pessoal e ambiente"
+        },
+        {
+          "id": "d",
+          "text": "setor com controle rigido de acesso"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q4",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar area analitica de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "regra para proteger equipe e ambiente"
+        },
+        {
+          "id": "b",
+          "text": "desvio do procedimento padrao"
+        },
+        {
+          "id": "c",
+          "text": "setor com controle rigido de acesso"
+        },
+        {
+          "id": "d",
+          "text": "condutas de limpeza pessoal e ambiente"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar rastreabilidade de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "condutas de limpeza pessoal e ambiente"
+        },
+        {
+          "id": "b",
+          "text": "desvio do procedimento padrao"
+        },
+        {
+          "id": "c",
+          "text": "registro de etapas, materiais e responsaveis"
+        },
+        {
+          "id": "d",
+          "text": "regra para proteger equipe e ambiente"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q6",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar cultura de seguranca de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "desvio do procedimento padrao"
+        },
+        {
+          "id": "b",
+          "text": "condutas de limpeza pessoal e ambiente"
+        },
+        {
+          "id": "c",
+          "text": "regra para proteger equipe e ambiente"
+        },
+        {
+          "id": "d",
+          "text": "compromisso coletivo com prevencao"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q7",
+      "statement": "Para tomada de decisao, considere a descricao: regra para proteger equipe e ambiente. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "norma geral"
+        },
+        {
+          "id": "b",
+          "text": "area analitica"
+        },
+        {
+          "id": "c",
+          "text": "higiene laboratorial"
+        },
+        {
+          "id": "d",
+          "text": "nao conformidade"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Para tomada de decisao, considere a descricao: desvio do procedimento padrao. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "area analitica"
+        },
+        {
+          "id": "b",
+          "text": "norma geral"
+        },
+        {
+          "id": "c",
+          "text": "nao conformidade"
+        },
+        {
+          "id": "d",
+          "text": "higiene laboratorial"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q9",
+      "statement": "Para tomada de decisao, considere a descricao: condutas de limpeza pessoal e ambiente. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "higiene laboratorial"
+        },
+        {
+          "id": "b",
+          "text": "nao conformidade"
+        },
+        {
+          "id": "c",
+          "text": "norma geral"
+        },
+        {
+          "id": "d",
+          "text": "area analitica"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q10",
+      "statement": "Para tomada de decisao, considere a descricao: setor com controle rigido de acesso. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "area analitica"
+        },
+        {
+          "id": "b",
+          "text": "higiene laboratorial"
+        },
+        {
+          "id": "c",
+          "text": "norma geral"
+        },
+        {
+          "id": "d",
+          "text": "nao conformidade"
+        }
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

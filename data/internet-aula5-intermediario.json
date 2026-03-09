@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Internet Versao 4 - Intermediario",
+  "subject": "Internet",
+  "lesson": "Aula 5 - Personalizar e Controlar o Chrome",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou configuracoes. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "atalhos salvos para acesso rapido"
+        },
+        {
+          "id": "b",
+          "text": "ajustes de comportamento do navegador"
+        },
+        {
+          "id": "c",
+          "text": "registro de paginas acessadas"
+        },
+        {
+          "id": "d",
+          "text": "controle de dados de navegacao"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou historico. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "controle de dados de navegacao"
+        },
+        {
+          "id": "b",
+          "text": "atalhos salvos para acesso rapido"
+        },
+        {
+          "id": "c",
+          "text": "registro de paginas acessadas"
+        },
+        {
+          "id": "d",
+          "text": "ajustes de comportamento do navegador"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou favoritos. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "atalhos salvos para acesso rapido"
+        },
+        {
+          "id": "b",
+          "text": "ajustes de comportamento do navegador"
+        },
+        {
+          "id": "c",
+          "text": "registro de paginas acessadas"
+        },
+        {
+          "id": "d",
+          "text": "controle de dados de navegacao"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou privacidade. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "atalhos salvos para acesso rapido"
+        },
+        {
+          "id": "b",
+          "text": "controle de dados de navegacao"
+        },
+        {
+          "id": "c",
+          "text": "registro de paginas acessadas"
+        },
+        {
+          "id": "d",
+          "text": "ajustes de comportamento do navegador"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou perfil. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "atalhos salvos para acesso rapido"
+        },
+        {
+          "id": "b",
+          "text": "conjunto de preferencias do usuario"
+        },
+        {
+          "id": "c",
+          "text": "registro de paginas acessadas"
+        },
+        {
+          "id": "d",
+          "text": "ajustes de comportamento do navegador"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q6",
+      "statement": "Durante uma rotina de estudo, a equipe citou extensao. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "registro de paginas acessadas"
+        },
+        {
+          "id": "b",
+          "text": "ajustes de comportamento do navegador"
+        },
+        {
+          "id": "c",
+          "text": "recurso adicional instalado no navegador"
+        },
+        {
+          "id": "d",
+          "text": "atalhos salvos para acesso rapido"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: ajustes de comportamento do navegador. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "favoritos"
+        },
+        {
+          "id": "b",
+          "text": "configuracoes"
+        },
+        {
+          "id": "c",
+          "text": "historico"
+        },
+        {
+          "id": "d",
+          "text": "privacidade"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: registro de paginas acessadas. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "favoritos"
+        },
+        {
+          "id": "b",
+          "text": "historico"
+        },
+        {
+          "id": "c",
+          "text": "privacidade"
+        },
+        {
+          "id": "d",
+          "text": "configuracoes"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: atalhos salvos para acesso rapido. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "configuracoes"
+        },
+        {
+          "id": "b",
+          "text": "historico"
+        },
+        {
+          "id": "c",
+          "text": "favoritos"
+        },
+        {
+          "id": "d",
+          "text": "privacidade"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: controle de dados de navegacao. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "privacidade"
+        },
+        {
+          "id": "b",
+          "text": "favoritos"
+        },
+        {
+          "id": "c",
+          "text": "configuracoes"
+        },
+        {
+          "id": "d",
+          "text": "historico"
+        }
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

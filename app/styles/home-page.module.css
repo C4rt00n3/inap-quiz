@@ -189,6 +189,12 @@
   gap: 0.6rem;
 }
 
+.badgeRow {
+  display: inline-flex;
+  gap: 0.42rem;
+  flex-wrap: wrap;
+}
+
 .badge {
   color: var(--color-text-primary);
   background: var(--color-bg-chip);

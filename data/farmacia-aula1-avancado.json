@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Atendente de Farmacia - Avancado",
+  "subject": "Farmacia",
+  "lesson": "Aula 1 - Introducao ao Curso",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar ANVISA de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "conselho regional que fiscaliza o exercicio farmaceutico"
+        },
+        {
+          "id": "b",
+          "text": "agencia que regula medicamentos e servicos de saude"
+        },
+        {
+          "id": "c",
+          "text": "medicamento vendido sem receita"
+        },
+        {
+          "id": "d",
+          "text": "conduta etica e responsavel no atendimento"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q2",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar CRF de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "conselho regional que fiscaliza o exercicio farmaceutico"
+        },
+        {
+          "id": "b",
+          "text": "agencia que regula medicamentos e servicos de saude"
+        },
+        {
+          "id": "c",
+          "text": "conduta etica e responsavel no atendimento"
+        },
+        {
+          "id": "d",
+          "text": "medicamento vendido sem receita"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar OTC de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "conselho regional que fiscaliza o exercicio farmaceutico"
+        },
+        {
+          "id": "b",
+          "text": "conduta etica e responsavel no atendimento"
+        },
+        {
+          "id": "c",
+          "text": "agencia que regula medicamentos e servicos de saude"
+        },
+        {
+          "id": "d",
+          "text": "medicamento vendido sem receita"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q4",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar postura profissional de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "agencia que regula medicamentos e servicos de saude"
+        },
+        {
+          "id": "b",
+          "text": "conduta etica e responsavel no atendimento"
+        },
+        {
+          "id": "c",
+          "text": "medicamento vendido sem receita"
+        },
+        {
+          "id": "d",
+          "text": "conselho regional que fiscaliza o exercicio farmaceutico"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q5",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar empatia de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "agencia que regula medicamentos e servicos de saude"
+        },
+        {
+          "id": "b",
+          "text": "conselho regional que fiscaliza o exercicio farmaceutico"
+        },
+        {
+          "id": "c",
+          "text": "compreender o cliente sem ultrapassar limite tecnico"
+        },
+        {
+          "id": "d",
+          "text": "medicamento vendido sem receita"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q6",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar trabalho em equipe de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "conselho regional que fiscaliza o exercicio farmaceutico"
+        },
+        {
+          "id": "b",
+          "text": "agencia que regula medicamentos e servicos de saude"
+        },
+        {
+          "id": "c",
+          "text": "medicamento vendido sem receita"
+        },
+        {
+          "id": "d",
+          "text": "cooperacao para reduzir falhas e melhorar atendimento"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q7",
+      "statement": "Para tomada de decisao, considere a descricao: agencia que regula medicamentos e servicos de saude. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "ANVISA"
+        },
+        {
+          "id": "b",
+          "text": "OTC"
+        },
+        {
+          "id": "c",
+          "text": "postura profissional"
+        },
+        {
+          "id": "d",
+          "text": "CRF"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Para tomada de decisao, considere a descricao: conselho regional que fiscaliza o exercicio farmaceutico. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "CRF"
+        },
+        {
+          "id": "b",
+          "text": "OTC"
+        },
+        {
+          "id": "c",
+          "text": "ANVISA"
+        },
+        {
+          "id": "d",
+          "text": "postura profissional"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q9",
+      "statement": "Para tomada de decisao, considere a descricao: medicamento vendido sem receita. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "OTC"
+        },
+        {
+          "id": "b",
+          "text": "postura profissional"
+        },
+        {
+          "id": "c",
+          "text": "CRF"
+        },
+        {
+          "id": "d",
+          "text": "ANVISA"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q10",
+      "statement": "Para tomada de decisao, considere a descricao: conduta etica e responsavel no atendimento. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "postura profissional"
+        },
+        {
+          "id": "b",
+          "text": "ANVISA"
+        },
+        {
+          "id": "c",
+          "text": "CRF"
+        },
+        {
+          "id": "d",
+          "text": "OTC"
+        }
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

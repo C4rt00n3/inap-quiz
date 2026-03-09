@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Atendente de Farmacia - Intermediario",
+  "subject": "Farmacia",
+  "lesson": "Aula 2 - Anatomia Humana",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou anatomia. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "sistema que realiza trocas gasosas"
+        },
+        {
+          "id": "b",
+          "text": "estudo da estrutura do corpo humano"
+        },
+        {
+          "id": "c",
+          "text": "sistema que digere alimentos e absorve nutrientes"
+        },
+        {
+          "id": "d",
+          "text": "estudo do funcionamento dos sistemas do corpo"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou fisiologia. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "sistema que digere alimentos e absorve nutrientes"
+        },
+        {
+          "id": "b",
+          "text": "estudo da estrutura do corpo humano"
+        },
+        {
+          "id": "c",
+          "text": "estudo do funcionamento dos sistemas do corpo"
+        },
+        {
+          "id": "d",
+          "text": "sistema que realiza trocas gasosas"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou sistema respiratorio. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "estudo do funcionamento dos sistemas do corpo"
+        },
+        {
+          "id": "b",
+          "text": "sistema que digere alimentos e absorve nutrientes"
+        },
+        {
+          "id": "c",
+          "text": "sistema que realiza trocas gasosas"
+        },
+        {
+          "id": "d",
+          "text": "estudo da estrutura do corpo humano"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou sistema digestivo. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "estudo do funcionamento dos sistemas do corpo"
+        },
+        {
+          "id": "b",
+          "text": "sistema que digere alimentos e absorve nutrientes"
+        },
+        {
+          "id": "c",
+          "text": "sistema que realiza trocas gasosas"
+        },
+        {
+          "id": "d",
+          "text": "estudo da estrutura do corpo humano"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou sistema nervoso. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "estudo da estrutura do corpo humano"
+        },
+        {
+          "id": "b",
+          "text": "sistema que realiza trocas gasosas"
+        },
+        {
+          "id": "c",
+          "text": "estudo do funcionamento dos sistemas do corpo"
+        },
+        {
+          "id": "d",
+          "text": "sistema que coordena respostas e funcoes corporais"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Durante uma rotina de estudo, a equipe citou sistema osteomuscular. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "ossos e musculos que sustentam e movimentam o corpo"
+        },
+        {
+          "id": "b",
+          "text": "sistema que realiza trocas gasosas"
+        },
+        {
+          "id": "c",
+          "text": "estudo da estrutura do corpo humano"
+        },
+        {
+          "id": "d",
+          "text": "estudo do funcionamento dos sistemas do corpo"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: estudo da estrutura do corpo humano. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "anatomia"
+        },
+        {
+          "id": "b",
+          "text": "sistema digestivo"
+        },
+        {
+          "id": "c",
+          "text": "fisiologia"
+        },
+        {
+          "id": "d",
+          "text": "sistema respiratorio"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: estudo do funcionamento dos sistemas do corpo. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "anatomia"
+        },
+        {
+          "id": "b",
+          "text": "fisiologia"
+        },
+        {
+          "id": "c",
+          "text": "sistema respiratorio"
+        },
+        {
+          "id": "d",
+          "text": "sistema digestivo"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: sistema que realiza trocas gasosas. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "fisiologia"
+        },
+        {
+          "id": "b",
+          "text": "sistema respiratorio"
+        },
+        {
+          "id": "c",
+          "text": "sistema digestivo"
+        },
+        {
+          "id": "d",
+          "text": "anatomia"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: sistema que digere alimentos e absorve nutrientes. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "anatomia"
+        },
+        {
+          "id": "b",
+          "text": "fisiologia"
+        },
+        {
+          "id": "c",
+          "text": "sistema respiratorio"
+        },
+        {
+          "id": "d",
+          "text": "sistema digestivo"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

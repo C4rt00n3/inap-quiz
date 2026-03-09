@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Atendente de Farmacia - Intermediario",
+  "subject": "Farmacia",
+  "lesson": "Aula 8 - Primeiros Socorros",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou avaliacao de cena. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "reanimacao cardiopulmonar em parada cardiorrespiratoria"
+        },
+        {
+          "id": "b",
+          "text": "estabilizacao de area lesionada"
+        },
+        {
+          "id": "c",
+          "text": "analise inicial de seguranca antes do atendimento"
+        },
+        {
+          "id": "d",
+          "text": "perda de sangue que exige controle rapido"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou hemorragia. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "estabilizacao de area lesionada"
+        },
+        {
+          "id": "b",
+          "text": "analise inicial de seguranca antes do atendimento"
+        },
+        {
+          "id": "c",
+          "text": "perda de sangue que exige controle rapido"
+        },
+        {
+          "id": "d",
+          "text": "reanimacao cardiopulmonar em parada cardiorrespiratoria"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou RCP. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "analise inicial de seguranca antes do atendimento"
+        },
+        {
+          "id": "b",
+          "text": "perda de sangue que exige controle rapido"
+        },
+        {
+          "id": "c",
+          "text": "reanimacao cardiopulmonar em parada cardiorrespiratoria"
+        },
+        {
+          "id": "d",
+          "text": "estabilizacao de area lesionada"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou imobilizacao. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "perda de sangue que exige controle rapido"
+        },
+        {
+          "id": "b",
+          "text": "estabilizacao de area lesionada"
+        },
+        {
+          "id": "c",
+          "text": "analise inicial de seguranca antes do atendimento"
+        },
+        {
+          "id": "d",
+          "text": "reanimacao cardiopulmonar em parada cardiorrespiratoria"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou queimadura. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "lesao por calor, quimico, eletricidade ou radiacao"
+        },
+        {
+          "id": "b",
+          "text": "analise inicial de seguranca antes do atendimento"
+        },
+        {
+          "id": "c",
+          "text": "reanimacao cardiopulmonar em parada cardiorrespiratoria"
+        },
+        {
+          "id": "d",
+          "text": "perda de sangue que exige controle rapido"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q6",
+      "statement": "Durante uma rotina de estudo, a equipe citou acionamento de emergencia. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "reanimacao cardiopulmonar em parada cardiorrespiratoria"
+        },
+        {
+          "id": "b",
+          "text": "contato imediato com servico especializado"
+        },
+        {
+          "id": "c",
+          "text": "perda de sangue que exige controle rapido"
+        },
+        {
+          "id": "d",
+          "text": "analise inicial de seguranca antes do atendimento"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: analise inicial de seguranca antes do atendimento. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "imobilizacao"
+        },
+        {
+          "id": "b",
+          "text": "avaliacao de cena"
+        },
+        {
+          "id": "c",
+          "text": "RCP"
+        },
+        {
+          "id": "d",
+          "text": "hemorragia"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: perda de sangue que exige controle rapido. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "imobilizacao"
+        },
+        {
+          "id": "b",
+          "text": "hemorragia"
+        },
+        {
+          "id": "c",
+          "text": "avaliacao de cena"
+        },
+        {
+          "id": "d",
+          "text": "RCP"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: reanimacao cardiopulmonar em parada cardiorrespiratoria. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "imobilizacao"
+        },
+        {
+          "id": "b",
+          "text": "avaliacao de cena"
+        },
+        {
+          "id": "c",
+          "text": "RCP"
+        },
+        {
+          "id": "d",
+          "text": "hemorragia"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: estabilizacao de area lesionada. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "imobilizacao"
+        },
+        {
+          "id": "b",
+          "text": "RCP"
+        },
+        {
+          "id": "c",
+          "text": "avaliacao de cena"
+        },
+        {
+          "id": "d",
+          "text": "hemorragia"
+        }
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

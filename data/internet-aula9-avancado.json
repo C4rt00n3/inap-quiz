@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Internet Versao 4 - Avancado",
+  "subject": "Internet",
+  "lesson": "Aula 9 - Redes Sociais II",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar engajamento de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "regra que define o que aparece no feed"
+        },
+        {
+          "id": "b",
+          "text": "nivel de interacao com conteudo"
+        },
+        {
+          "id": "c",
+          "text": "informacao falsa divulgada como verdadeira"
+        },
+        {
+          "id": "d",
+          "text": "checagem da origem da informacao"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q2",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar algoritmo de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "checagem da origem da informacao"
+        },
+        {
+          "id": "b",
+          "text": "nivel de interacao com conteudo"
+        },
+        {
+          "id": "c",
+          "text": "informacao falsa divulgada como verdadeira"
+        },
+        {
+          "id": "d",
+          "text": "regra que define o que aparece no feed"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q3",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar fake news de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "regra que define o que aparece no feed"
+        },
+        {
+          "id": "b",
+          "text": "checagem da origem da informacao"
+        },
+        {
+          "id": "c",
+          "text": "informacao falsa divulgada como verdadeira"
+        },
+        {
+          "id": "d",
+          "text": "nivel de interacao com conteudo"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q4",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar verificacao de fonte de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "informacao falsa divulgada como verdadeira"
+        },
+        {
+          "id": "b",
+          "text": "regra que define o que aparece no feed"
+        },
+        {
+          "id": "c",
+          "text": "nivel de interacao com conteudo"
+        },
+        {
+          "id": "d",
+          "text": "checagem da origem da informacao"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q5",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar etiqueta digital de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "nivel de interacao com conteudo"
+        },
+        {
+          "id": "b",
+          "text": "regra que define o que aparece no feed"
+        },
+        {
+          "id": "c",
+          "text": "informacao falsa divulgada como verdadeira"
+        },
+        {
+          "id": "d",
+          "text": "boas praticas de convivencia online"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar uso consciente de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "utilizacao equilibrada e responsavel"
+        },
+        {
+          "id": "b",
+          "text": "informacao falsa divulgada como verdadeira"
+        },
+        {
+          "id": "c",
+          "text": "nivel de interacao com conteudo"
+        },
+        {
+          "id": "d",
+          "text": "regra que define o que aparece no feed"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Para tomada de decisao, considere a descricao: nivel de interacao com conteudo. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "verificacao de fonte"
+        },
+        {
+          "id": "b",
+          "text": "fake news"
+        },
+        {
+          "id": "c",
+          "text": "engajamento"
+        },
+        {
+          "id": "d",
+          "text": "algoritmo"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q8",
+      "statement": "Para tomada de decisao, considere a descricao: regra que define o que aparece no feed. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "fake news"
+        },
+        {
+          "id": "b",
+          "text": "engajamento"
+        },
+        {
+          "id": "c",
+          "text": "algoritmo"
+        },
+        {
+          "id": "d",
+          "text": "verificacao de fonte"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q9",
+      "statement": "Para tomada de decisao, considere a descricao: informacao falsa divulgada como verdadeira. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "verificacao de fonte"
+        },
+        {
+          "id": "b",
+          "text": "fake news"
+        },
+        {
+          "id": "c",
+          "text": "algoritmo"
+        },
+        {
+          "id": "d",
+          "text": "engajamento"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q10",
+      "statement": "Para tomada de decisao, considere a descricao: checagem da origem da informacao. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "algoritmo"
+        },
+        {
+          "id": "b",
+          "text": "engajamento"
+        },
+        {
+          "id": "c",
+          "text": "verificacao de fonte"
+        },
+        {
+          "id": "d",
+          "text": "fake news"
+        }
+      ],
+      "correctOptionId": "c"
+    }
+  ]
+}

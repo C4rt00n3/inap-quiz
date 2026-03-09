@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Introducao a Informatica - Intermediario",
+  "subject": "Informatica",
+  "lesson": "Aula 5 - Seguranca na Internet",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou phishing. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "tecnica para proteger confidencialidade"
+        },
+        {
+          "id": "b",
+          "text": "fraude para obter dados sensiveis"
+        },
+        {
+          "id": "c",
+          "text": "autenticacao com multiplos fatores"
+        },
+        {
+          "id": "d",
+          "text": "resumo matematico sem reversao pratica"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou MFA. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "resumo matematico sem reversao pratica"
+        },
+        {
+          "id": "b",
+          "text": "tecnica para proteger confidencialidade"
+        },
+        {
+          "id": "c",
+          "text": "autenticacao com multiplos fatores"
+        },
+        {
+          "id": "d",
+          "text": "fraude para obter dados sensiveis"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou criptografia. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "tecnica para proteger confidencialidade"
+        },
+        {
+          "id": "b",
+          "text": "fraude para obter dados sensiveis"
+        },
+        {
+          "id": "c",
+          "text": "autenticacao com multiplos fatores"
+        },
+        {
+          "id": "d",
+          "text": "resumo matematico sem reversao pratica"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou hash. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "tecnica para proteger confidencialidade"
+        },
+        {
+          "id": "b",
+          "text": "resumo matematico sem reversao pratica"
+        },
+        {
+          "id": "c",
+          "text": "autenticacao com multiplos fatores"
+        },
+        {
+          "id": "d",
+          "text": "fraude para obter dados sensiveis"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou ransomware. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "tecnica para proteger confidencialidade"
+        },
+        {
+          "id": "b",
+          "text": "malware que sequestra dados"
+        },
+        {
+          "id": "c",
+          "text": "autenticacao com multiplos fatores"
+        },
+        {
+          "id": "d",
+          "text": "fraude para obter dados sensiveis"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q6",
+      "statement": "Durante uma rotina de estudo, a equipe citou menor privilegio. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "autenticacao com multiplos fatores"
+        },
+        {
+          "id": "b",
+          "text": "fraude para obter dados sensiveis"
+        },
+        {
+          "id": "c",
+          "text": "acesso minimo necessario para funcao"
+        },
+        {
+          "id": "d",
+          "text": "tecnica para proteger confidencialidade"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: fraude para obter dados sensiveis. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "criptografia"
+        },
+        {
+          "id": "b",
+          "text": "phishing"
+        },
+        {
+          "id": "c",
+          "text": "MFA"
+        },
+        {
+          "id": "d",
+          "text": "hash"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: autenticacao com multiplos fatores. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "criptografia"
+        },
+        {
+          "id": "b",
+          "text": "MFA"
+        },
+        {
+          "id": "c",
+          "text": "hash"
+        },
+        {
+          "id": "d",
+          "text": "phishing"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: tecnica para proteger confidencialidade. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "phishing"
+        },
+        {
+          "id": "b",
+          "text": "MFA"
+        },
+        {
+          "id": "c",
+          "text": "criptografia"
+        },
+        {
+          "id": "d",
+          "text": "hash"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: resumo matematico sem reversao pratica. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "hash"
+        },
+        {
+          "id": "b",
+          "text": "criptografia"
+        },
+        {
+          "id": "c",
+          "text": "phishing"
+        },
+        {
+          "id": "d",
+          "text": "MFA"
+        }
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

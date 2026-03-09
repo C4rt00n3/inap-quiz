@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Introducao a Informatica - Intermediario",
+  "subject": "Informatica",
+  "lesson": "Aula 1 - Conceitos Basicos de Informatica",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou informatica. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "dado interpretado em contexto"
+        },
+        {
+          "id": "b",
+          "text": "tratamento automatico de dados e informacoes"
+        },
+        {
+          "id": "c",
+          "text": "registro bruto sem contexto"
+        },
+        {
+          "id": "d",
+          "text": "unidade formada por 8 bits"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou dado. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "registro bruto sem contexto"
+        },
+        {
+          "id": "b",
+          "text": "tratamento automatico de dados e informacoes"
+        },
+        {
+          "id": "c",
+          "text": "dado interpretado em contexto"
+        },
+        {
+          "id": "d",
+          "text": "unidade formada por 8 bits"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou informacao. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "registro bruto sem contexto"
+        },
+        {
+          "id": "b",
+          "text": "tratamento automatico de dados e informacoes"
+        },
+        {
+          "id": "c",
+          "text": "unidade formada por 8 bits"
+        },
+        {
+          "id": "d",
+          "text": "dado interpretado em contexto"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou byte. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "unidade formada por 8 bits"
+        },
+        {
+          "id": "b",
+          "text": "tratamento automatico de dados e informacoes"
+        },
+        {
+          "id": "c",
+          "text": "registro bruto sem contexto"
+        },
+        {
+          "id": "d",
+          "text": "dado interpretado em contexto"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou hardware. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "registro bruto sem contexto"
+        },
+        {
+          "id": "b",
+          "text": "tratamento automatico de dados e informacoes"
+        },
+        {
+          "id": "c",
+          "text": "parte fisica do computador"
+        },
+        {
+          "id": "d",
+          "text": "dado interpretado em contexto"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q6",
+      "statement": "Durante uma rotina de estudo, a equipe citou software. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "tratamento automatico de dados e informacoes"
+        },
+        {
+          "id": "b",
+          "text": "registro bruto sem contexto"
+        },
+        {
+          "id": "c",
+          "text": "dado interpretado em contexto"
+        },
+        {
+          "id": "d",
+          "text": "programas executados no computador"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: tratamento automatico de dados e informacoes. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "informacao"
+        },
+        {
+          "id": "b",
+          "text": "byte"
+        },
+        {
+          "id": "c",
+          "text": "dado"
+        },
+        {
+          "id": "d",
+          "text": "informatica"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: registro bruto sem contexto. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "informacao"
+        },
+        {
+          "id": "b",
+          "text": "dado"
+        },
+        {
+          "id": "c",
+          "text": "byte"
+        },
+        {
+          "id": "d",
+          "text": "informatica"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: dado interpretado em contexto. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "dado"
+        },
+        {
+          "id": "b",
+          "text": "informatica"
+        },
+        {
+          "id": "c",
+          "text": "informacao"
+        },
+        {
+          "id": "d",
+          "text": "byte"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: unidade formada por 8 bits. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "byte"
+        },
+        {
+          "id": "b",
+          "text": "informatica"
+        },
+        {
+          "id": "c",
+          "text": "dado"
+        },
+        {
+          "id": "d",
+          "text": "informacao"
+        }
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

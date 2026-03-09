@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Biosseguranca - Avancado",
+  "subject": "Biosseguranca",
+  "lesson": "Aula 9 - Higienizacao e Desinfeccao",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar higienizacao das maos de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "movimento mecanico para remover sujidade"
+        },
+        {
+          "id": "b",
+          "text": "tecnica correta de lavagem para reduzir contaminacao"
+        },
+        {
+          "id": "c",
+          "text": "antisseptico indicado apos limpeza"
+        },
+        {
+          "id": "d",
+          "text": "aplicacao de produto com tempo de contato"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q2",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar friccao de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "aplicacao de produto com tempo de contato"
+        },
+        {
+          "id": "b",
+          "text": "tecnica correta de lavagem para reduzir contaminacao"
+        },
+        {
+          "id": "c",
+          "text": "antisseptico indicado apos limpeza"
+        },
+        {
+          "id": "d",
+          "text": "movimento mecanico para remover sujidade"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q3",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar alcool 70 de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "movimento mecanico para remover sujidade"
+        },
+        {
+          "id": "b",
+          "text": "aplicacao de produto com tempo de contato"
+        },
+        {
+          "id": "c",
+          "text": "antisseptico indicado apos limpeza"
+        },
+        {
+          "id": "d",
+          "text": "tecnica correta de lavagem para reduzir contaminacao"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q4",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar desinfeccao de superficie de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "antisseptico indicado apos limpeza"
+        },
+        {
+          "id": "b",
+          "text": "movimento mecanico para remover sujidade"
+        },
+        {
+          "id": "c",
+          "text": "tecnica correta de lavagem para reduzir contaminacao"
+        },
+        {
+          "id": "d",
+          "text": "aplicacao de produto com tempo de contato"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q5",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar uso de EPI de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "tecnica correta de lavagem para reduzir contaminacao"
+        },
+        {
+          "id": "b",
+          "text": "movimento mecanico para remover sujidade"
+        },
+        {
+          "id": "c",
+          "text": "antisseptico indicado apos limpeza"
+        },
+        {
+          "id": "d",
+          "text": "colocacao e retirada sem autocontaminacao"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar sequencia de limpeza de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "ordem padrao para evitar recontaminacao"
+        },
+        {
+          "id": "b",
+          "text": "antisseptico indicado apos limpeza"
+        },
+        {
+          "id": "c",
+          "text": "tecnica correta de lavagem para reduzir contaminacao"
+        },
+        {
+          "id": "d",
+          "text": "movimento mecanico para remover sujidade"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Para tomada de decisao, considere a descricao: tecnica correta de lavagem para reduzir contaminacao. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "desinfeccao de superficie"
+        },
+        {
+          "id": "b",
+          "text": "alcool 70"
+        },
+        {
+          "id": "c",
+          "text": "higienizacao das maos"
+        },
+        {
+          "id": "d",
+          "text": "friccao"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q8",
+      "statement": "Para tomada de decisao, considere a descricao: movimento mecanico para remover sujidade. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "alcool 70"
+        },
+        {
+          "id": "b",
+          "text": "higienizacao das maos"
+        },
+        {
+          "id": "c",
+          "text": "friccao"
+        },
+        {
+          "id": "d",
+          "text": "desinfeccao de superficie"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q9",
+      "statement": "Para tomada de decisao, considere a descricao: antisseptico indicado apos limpeza. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "desinfeccao de superficie"
+        },
+        {
+          "id": "b",
+          "text": "alcool 70"
+        },
+        {
+          "id": "c",
+          "text": "friccao"
+        },
+        {
+          "id": "d",
+          "text": "higienizacao das maos"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q10",
+      "statement": "Para tomada de decisao, considere a descricao: aplicacao de produto com tempo de contato. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "friccao"
+        },
+        {
+          "id": "b",
+          "text": "higienizacao das maos"
+        },
+        {
+          "id": "c",
+          "text": "desinfeccao de superficie"
+        },
+        {
+          "id": "d",
+          "text": "alcool 70"
+        }
+      ],
+      "correctOptionId": "c"
+    }
+  ]
+}

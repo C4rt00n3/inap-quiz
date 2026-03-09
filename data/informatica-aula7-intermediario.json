@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Introducao a Informatica - Intermediario",
+  "subject": "Informatica",
+  "lesson": "Aula 7 - Navegadores",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou renderizacao. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "dado pequeno enviado em requisicoes"
+        },
+        {
+          "id": "b",
+          "text": "armazenamento local para acelerar carregamento"
+        },
+        {
+          "id": "c",
+          "text": "processo de montar visual da pagina"
+        },
+        {
+          "id": "d",
+          "text": "armazenamento persistente apenas no cliente"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou cache. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "processo de montar visual da pagina"
+        },
+        {
+          "id": "b",
+          "text": "dado pequeno enviado em requisicoes"
+        },
+        {
+          "id": "c",
+          "text": "armazenamento persistente apenas no cliente"
+        },
+        {
+          "id": "d",
+          "text": "armazenamento local para acelerar carregamento"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou cookie. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "processo de montar visual da pagina"
+        },
+        {
+          "id": "b",
+          "text": "dado pequeno enviado em requisicoes"
+        },
+        {
+          "id": "c",
+          "text": "armazenamento persistente apenas no cliente"
+        },
+        {
+          "id": "d",
+          "text": "armazenamento local para acelerar carregamento"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou localStorage. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "armazenamento local para acelerar carregamento"
+        },
+        {
+          "id": "b",
+          "text": "processo de montar visual da pagina"
+        },
+        {
+          "id": "c",
+          "text": "armazenamento persistente apenas no cliente"
+        },
+        {
+          "id": "d",
+          "text": "dado pequeno enviado em requisicoes"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou HTTPS. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "dado pequeno enviado em requisicoes"
+        },
+        {
+          "id": "b",
+          "text": "armazenamento local para acelerar carregamento"
+        },
+        {
+          "id": "c",
+          "text": "processo de montar visual da pagina"
+        },
+        {
+          "id": "d",
+          "text": "HTTP com criptografia TLS"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Durante uma rotina de estudo, a equipe citou extensao. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "processo de montar visual da pagina"
+        },
+        {
+          "id": "b",
+          "text": "modulo adicional com permissoes no navegador"
+        },
+        {
+          "id": "c",
+          "text": "dado pequeno enviado em requisicoes"
+        },
+        {
+          "id": "d",
+          "text": "armazenamento local para acelerar carregamento"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: processo de montar visual da pagina. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "renderizacao"
+        },
+        {
+          "id": "b",
+          "text": "localStorage"
+        },
+        {
+          "id": "c",
+          "text": "cache"
+        },
+        {
+          "id": "d",
+          "text": "cookie"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: armazenamento local para acelerar carregamento. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "cookie"
+        },
+        {
+          "id": "b",
+          "text": "cache"
+        },
+        {
+          "id": "c",
+          "text": "localStorage"
+        },
+        {
+          "id": "d",
+          "text": "renderizacao"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: dado pequeno enviado em requisicoes. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "cache"
+        },
+        {
+          "id": "b",
+          "text": "cookie"
+        },
+        {
+          "id": "c",
+          "text": "localStorage"
+        },
+        {
+          "id": "d",
+          "text": "renderizacao"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: armazenamento persistente apenas no cliente. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "cookie"
+        },
+        {
+          "id": "b",
+          "text": "cache"
+        },
+        {
+          "id": "c",
+          "text": "renderizacao"
+        },
+        {
+          "id": "d",
+          "text": "localStorage"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

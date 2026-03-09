@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Internet Versao 4 - Basico",
+  "subject": "Internet",
+  "lesson": "Aula 9 - Redes Sociais II",
+  "level": "Basico",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Qual alternativa define corretamente engajamento?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "informacao falsa divulgada como verdadeira"
+        },
+        {
+          "id": "b",
+          "text": "checagem da origem da informacao"
+        },
+        {
+          "id": "c",
+          "text": "regra que define o que aparece no feed"
+        },
+        {
+          "id": "d",
+          "text": "nivel de interacao com conteudo"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q2",
+      "statement": "Qual alternativa define corretamente algoritmo?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "nivel de interacao com conteudo"
+        },
+        {
+          "id": "b",
+          "text": "checagem da origem da informacao"
+        },
+        {
+          "id": "c",
+          "text": "informacao falsa divulgada como verdadeira"
+        },
+        {
+          "id": "d",
+          "text": "regra que define o que aparece no feed"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q3",
+      "statement": "Qual alternativa define corretamente fake news?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "regra que define o que aparece no feed"
+        },
+        {
+          "id": "b",
+          "text": "informacao falsa divulgada como verdadeira"
+        },
+        {
+          "id": "c",
+          "text": "checagem da origem da informacao"
+        },
+        {
+          "id": "d",
+          "text": "nivel de interacao com conteudo"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Qual alternativa define corretamente verificacao de fonte?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "regra que define o que aparece no feed"
+        },
+        {
+          "id": "b",
+          "text": "informacao falsa divulgada como verdadeira"
+        },
+        {
+          "id": "c",
+          "text": "checagem da origem da informacao"
+        },
+        {
+          "id": "d",
+          "text": "nivel de interacao com conteudo"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Qual alternativa define corretamente etiqueta digital?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "regra que define o que aparece no feed"
+        },
+        {
+          "id": "b",
+          "text": "nivel de interacao com conteudo"
+        },
+        {
+          "id": "c",
+          "text": "informacao falsa divulgada como verdadeira"
+        },
+        {
+          "id": "d",
+          "text": "boas praticas de convivencia online"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Qual alternativa define corretamente uso consciente?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "regra que define o que aparece no feed"
+        },
+        {
+          "id": "b",
+          "text": "nivel de interacao com conteudo"
+        },
+        {
+          "id": "c",
+          "text": "utilizacao equilibrada e responsavel"
+        },
+        {
+          "id": "d",
+          "text": "informacao falsa divulgada como verdadeira"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q7",
+      "statement": "Qual conceito corresponde a descricao: nivel de interacao com conteudo?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "fake news"
+        },
+        {
+          "id": "b",
+          "text": "engajamento"
+        },
+        {
+          "id": "c",
+          "text": "verificacao de fonte"
+        },
+        {
+          "id": "d",
+          "text": "algoritmo"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q8",
+      "statement": "Qual conceito corresponde a descricao: regra que define o que aparece no feed?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "engajamento"
+        },
+        {
+          "id": "b",
+          "text": "fake news"
+        },
+        {
+          "id": "c",
+          "text": "verificacao de fonte"
+        },
+        {
+          "id": "d",
+          "text": "algoritmo"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q9",
+      "statement": "Qual conceito corresponde a descricao: informacao falsa divulgada como verdadeira?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "algoritmo"
+        },
+        {
+          "id": "b",
+          "text": "fake news"
+        },
+        {
+          "id": "c",
+          "text": "engajamento"
+        },
+        {
+          "id": "d",
+          "text": "verificacao de fonte"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q10",
+      "statement": "Qual conceito corresponde a descricao: checagem da origem da informacao?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "algoritmo"
+        },
+        {
+          "id": "b",
+          "text": "verificacao de fonte"
+        },
+        {
+          "id": "c",
+          "text": "fake news"
+        },
+        {
+          "id": "d",
+          "text": "engajamento"
+        }
+      ],
+      "correctOptionId": "b"
+    }
+  ]
+}

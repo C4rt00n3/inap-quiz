@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Biosseguranca - Avancado",
+  "subject": "Biosseguranca",
+  "lesson": "Aula 1 - Biologia e Area da Biosseguranca",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar biosseguranca de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "medidas para impedir disseminacao de agentes"
+        },
+        {
+          "id": "b",
+          "text": "conjunto de normas para prevenir e reduzir riscos"
+        },
+        {
+          "id": "c",
+          "text": "protecao direta com EPI e boas praticas"
+        },
+        {
+          "id": "d",
+          "text": "protecao estrutural do ambiente"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q2",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar contencao de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "medidas para impedir disseminacao de agentes"
+        },
+        {
+          "id": "b",
+          "text": "conjunto de normas para prevenir e reduzir riscos"
+        },
+        {
+          "id": "c",
+          "text": "protecao estrutural do ambiente"
+        },
+        {
+          "id": "d",
+          "text": "protecao direta com EPI e boas praticas"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar barreira primaria de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "medidas para impedir disseminacao de agentes"
+        },
+        {
+          "id": "b",
+          "text": "protecao estrutural do ambiente"
+        },
+        {
+          "id": "c",
+          "text": "conjunto de normas para prevenir e reduzir riscos"
+        },
+        {
+          "id": "d",
+          "text": "protecao direta com EPI e boas praticas"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q4",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar barreira secundaria de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "conjunto de normas para prevenir e reduzir riscos"
+        },
+        {
+          "id": "b",
+          "text": "protecao estrutural do ambiente"
+        },
+        {
+          "id": "c",
+          "text": "protecao direta com EPI e boas praticas"
+        },
+        {
+          "id": "d",
+          "text": "medidas para impedir disseminacao de agentes"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q5",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar treinamento de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "conjunto de normas para prevenir e reduzir riscos"
+        },
+        {
+          "id": "b",
+          "text": "medidas para impedir disseminacao de agentes"
+        },
+        {
+          "id": "c",
+          "text": "capacitacao continua da equipe"
+        },
+        {
+          "id": "d",
+          "text": "protecao direta com EPI e boas praticas"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q6",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar risco ocupacional de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "medidas para impedir disseminacao de agentes"
+        },
+        {
+          "id": "b",
+          "text": "conjunto de normas para prevenir e reduzir riscos"
+        },
+        {
+          "id": "c",
+          "text": "protecao direta com EPI e boas praticas"
+        },
+        {
+          "id": "d",
+          "text": "chance de exposicao a perigo no trabalho"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q7",
+      "statement": "Para tomada de decisao, considere a descricao: conjunto de normas para prevenir e reduzir riscos. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "biosseguranca"
+        },
+        {
+          "id": "b",
+          "text": "barreira primaria"
+        },
+        {
+          "id": "c",
+          "text": "barreira secundaria"
+        },
+        {
+          "id": "d",
+          "text": "contencao"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Para tomada de decisao, considere a descricao: medidas para impedir disseminacao de agentes. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "contencao"
+        },
+        {
+          "id": "b",
+          "text": "barreira primaria"
+        },
+        {
+          "id": "c",
+          "text": "biosseguranca"
+        },
+        {
+          "id": "d",
+          "text": "barreira secundaria"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q9",
+      "statement": "Para tomada de decisao, considere a descricao: protecao direta com EPI e boas praticas. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "barreira primaria"
+        },
+        {
+          "id": "b",
+          "text": "barreira secundaria"
+        },
+        {
+          "id": "c",
+          "text": "contencao"
+        },
+        {
+          "id": "d",
+          "text": "biosseguranca"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q10",
+      "statement": "Para tomada de decisao, considere a descricao: protecao estrutural do ambiente. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "barreira secundaria"
+        },
+        {
+          "id": "b",
+          "text": "biosseguranca"
+        },
+        {
+          "id": "c",
+          "text": "contencao"
+        },
+        {
+          "id": "d",
+          "text": "barreira primaria"
+        }
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

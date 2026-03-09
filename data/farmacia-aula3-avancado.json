@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Atendente de Farmacia - Avancado",
+  "subject": "Farmacia",
+  "lesson": "Aula 3 - Doencas Frequentes",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar alergia de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "doenca inflamatoria cronica das vias aereas"
+        },
+        {
+          "id": "b",
+          "text": "pressao arterial elevada de forma persistente"
+        },
+        {
+          "id": "c",
+          "text": "resposta exagerada do sistema imune"
+        },
+        {
+          "id": "d",
+          "text": "inflamacao nasal com espirro e coriza"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q2",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar rinite de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "inflamacao nasal com espirro e coriza"
+        },
+        {
+          "id": "b",
+          "text": "pressao arterial elevada de forma persistente"
+        },
+        {
+          "id": "c",
+          "text": "doenca inflamatoria cronica das vias aereas"
+        },
+        {
+          "id": "d",
+          "text": "resposta exagerada do sistema imune"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar asma de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "resposta exagerada do sistema imune"
+        },
+        {
+          "id": "b",
+          "text": "inflamacao nasal com espirro e coriza"
+        },
+        {
+          "id": "c",
+          "text": "doenca inflamatoria cronica das vias aereas"
+        },
+        {
+          "id": "d",
+          "text": "pressao arterial elevada de forma persistente"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q4",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar hipertensao de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "resposta exagerada do sistema imune"
+        },
+        {
+          "id": "b",
+          "text": "doenca inflamatoria cronica das vias aereas"
+        },
+        {
+          "id": "c",
+          "text": "inflamacao nasal com espirro e coriza"
+        },
+        {
+          "id": "d",
+          "text": "pressao arterial elevada de forma persistente"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q5",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar diabetes de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "doenca inflamatoria cronica das vias aereas"
+        },
+        {
+          "id": "b",
+          "text": "doenca com alteracao no controle da glicose"
+        },
+        {
+          "id": "c",
+          "text": "resposta exagerada do sistema imune"
+        },
+        {
+          "id": "d",
+          "text": "inflamacao nasal com espirro e coriza"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q6",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar encaminhamento de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "orientar procura medica diante de sinais de gravidade"
+        },
+        {
+          "id": "b",
+          "text": "doenca inflamatoria cronica das vias aereas"
+        },
+        {
+          "id": "c",
+          "text": "resposta exagerada do sistema imune"
+        },
+        {
+          "id": "d",
+          "text": "inflamacao nasal com espirro e coriza"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Para tomada de decisao, considere a descricao: resposta exagerada do sistema imune. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "alergia"
+        },
+        {
+          "id": "b",
+          "text": "hipertensao"
+        },
+        {
+          "id": "c",
+          "text": "asma"
+        },
+        {
+          "id": "d",
+          "text": "rinite"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Para tomada de decisao, considere a descricao: inflamacao nasal com espirro e coriza. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "alergia"
+        },
+        {
+          "id": "b",
+          "text": "asma"
+        },
+        {
+          "id": "c",
+          "text": "rinite"
+        },
+        {
+          "id": "d",
+          "text": "hipertensao"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q9",
+      "statement": "Para tomada de decisao, considere a descricao: doenca inflamatoria cronica das vias aereas. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "asma"
+        },
+        {
+          "id": "b",
+          "text": "rinite"
+        },
+        {
+          "id": "c",
+          "text": "hipertensao"
+        },
+        {
+          "id": "d",
+          "text": "alergia"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q10",
+      "statement": "Para tomada de decisao, considere a descricao: pressao arterial elevada de forma persistente. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "asma"
+        },
+        {
+          "id": "b",
+          "text": "rinite"
+        },
+        {
+          "id": "c",
+          "text": "alergia"
+        },
+        {
+          "id": "d",
+          "text": "hipertensao"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

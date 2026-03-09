@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Biosseguranca - Basico",
+  "subject": "Biosseguranca",
+  "lesson": "Aula 1 - Biologia e Area da Biosseguranca",
+  "level": "Basico",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Qual alternativa define corretamente biosseguranca?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "conjunto de normas para prevenir e reduzir riscos"
+        },
+        {
+          "id": "b",
+          "text": "medidas para impedir disseminacao de agentes"
+        },
+        {
+          "id": "c",
+          "text": "protecao direta com EPI e boas praticas"
+        },
+        {
+          "id": "d",
+          "text": "protecao estrutural do ambiente"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Qual alternativa define corretamente contencao?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "medidas para impedir disseminacao de agentes"
+        },
+        {
+          "id": "b",
+          "text": "protecao estrutural do ambiente"
+        },
+        {
+          "id": "c",
+          "text": "conjunto de normas para prevenir e reduzir riscos"
+        },
+        {
+          "id": "d",
+          "text": "protecao direta com EPI e boas praticas"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Qual alternativa define corretamente barreira primaria?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "medidas para impedir disseminacao de agentes"
+        },
+        {
+          "id": "b",
+          "text": "conjunto de normas para prevenir e reduzir riscos"
+        },
+        {
+          "id": "c",
+          "text": "protecao estrutural do ambiente"
+        },
+        {
+          "id": "d",
+          "text": "protecao direta com EPI e boas praticas"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q4",
+      "statement": "Qual alternativa define corretamente barreira secundaria?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "protecao estrutural do ambiente"
+        },
+        {
+          "id": "b",
+          "text": "medidas para impedir disseminacao de agentes"
+        },
+        {
+          "id": "c",
+          "text": "conjunto de normas para prevenir e reduzir riscos"
+        },
+        {
+          "id": "d",
+          "text": "protecao direta com EPI e boas praticas"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "Qual alternativa define corretamente treinamento?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "capacitacao continua da equipe"
+        },
+        {
+          "id": "b",
+          "text": "medidas para impedir disseminacao de agentes"
+        },
+        {
+          "id": "c",
+          "text": "protecao direta com EPI e boas praticas"
+        },
+        {
+          "id": "d",
+          "text": "conjunto de normas para prevenir e reduzir riscos"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q6",
+      "statement": "Qual alternativa define corretamente risco ocupacional?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "chance de exposicao a perigo no trabalho"
+        },
+        {
+          "id": "b",
+          "text": "protecao direta com EPI e boas praticas"
+        },
+        {
+          "id": "c",
+          "text": "medidas para impedir disseminacao de agentes"
+        },
+        {
+          "id": "d",
+          "text": "conjunto de normas para prevenir e reduzir riscos"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Qual conceito corresponde a descricao: conjunto de normas para prevenir e reduzir riscos?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "barreira primaria"
+        },
+        {
+          "id": "b",
+          "text": "contencao"
+        },
+        {
+          "id": "c",
+          "text": "biosseguranca"
+        },
+        {
+          "id": "d",
+          "text": "barreira secundaria"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q8",
+      "statement": "Qual conceito corresponde a descricao: medidas para impedir disseminacao de agentes?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "biosseguranca"
+        },
+        {
+          "id": "b",
+          "text": "barreira primaria"
+        },
+        {
+          "id": "c",
+          "text": "contencao"
+        },
+        {
+          "id": "d",
+          "text": "barreira secundaria"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q9",
+      "statement": "Qual conceito corresponde a descricao: protecao direta com EPI e boas praticas?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "contencao"
+        },
+        {
+          "id": "b",
+          "text": "barreira secundaria"
+        },
+        {
+          "id": "c",
+          "text": "barreira primaria"
+        },
+        {
+          "id": "d",
+          "text": "biosseguranca"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Qual conceito corresponde a descricao: protecao estrutural do ambiente?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "barreira primaria"
+        },
+        {
+          "id": "b",
+          "text": "biosseguranca"
+        },
+        {
+          "id": "c",
+          "text": "barreira secundaria"
+        },
+        {
+          "id": "d",
+          "text": "contencao"
+        }
+      ],
+      "correctOptionId": "c"
+    }
+  ]
+}

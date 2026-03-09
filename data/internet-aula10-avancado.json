@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Internet Versao 4 - Avancado",
+  "subject": "Internet",
+  "lesson": "Aula 10 - Redes Sociais III",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar identidade digital de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "imagem e historico do usuario na internet"
+        },
+        {
+          "id": "b",
+          "text": "percepcao publica sobre comportamento digital"
+        },
+        {
+          "id": "c",
+          "text": "informacoes que identificam uma pessoa"
+        },
+        {
+          "id": "d",
+          "text": "controle legal sobre uso da propria imagem"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar reputacao online de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "controle legal sobre uso da propria imagem"
+        },
+        {
+          "id": "b",
+          "text": "percepcao publica sobre comportamento digital"
+        },
+        {
+          "id": "c",
+          "text": "imagem e historico do usuario na internet"
+        },
+        {
+          "id": "d",
+          "text": "informacoes que identificam uma pessoa"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q3",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar direito de imagem de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "percepcao publica sobre comportamento digital"
+        },
+        {
+          "id": "b",
+          "text": "informacoes que identificam uma pessoa"
+        },
+        {
+          "id": "c",
+          "text": "controle legal sobre uso da propria imagem"
+        },
+        {
+          "id": "d",
+          "text": "imagem e historico do usuario na internet"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q4",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar dados pessoais de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "imagem e historico do usuario na internet"
+        },
+        {
+          "id": "b",
+          "text": "informacoes que identificam uma pessoa"
+        },
+        {
+          "id": "c",
+          "text": "percepcao publica sobre comportamento digital"
+        },
+        {
+          "id": "d",
+          "text": "controle legal sobre uso da propria imagem"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q5",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar exposicao excessiva de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "publicacao de dados alem do necessario"
+        },
+        {
+          "id": "b",
+          "text": "controle legal sobre uso da propria imagem"
+        },
+        {
+          "id": "c",
+          "text": "imagem e historico do usuario na internet"
+        },
+        {
+          "id": "d",
+          "text": "percepcao publica sobre comportamento digital"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q6",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar comportamento etico de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "respeito e responsabilidade nas interacoes"
+        },
+        {
+          "id": "b",
+          "text": "imagem e historico do usuario na internet"
+        },
+        {
+          "id": "c",
+          "text": "controle legal sobre uso da propria imagem"
+        },
+        {
+          "id": "d",
+          "text": "percepcao publica sobre comportamento digital"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Para tomada de decisao, considere a descricao: imagem e historico do usuario na internet. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "dados pessoais"
+        },
+        {
+          "id": "b",
+          "text": "reputacao online"
+        },
+        {
+          "id": "c",
+          "text": "direito de imagem"
+        },
+        {
+          "id": "d",
+          "text": "identidade digital"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q8",
+      "statement": "Para tomada de decisao, considere a descricao: percepcao publica sobre comportamento digital. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "reputacao online"
+        },
+        {
+          "id": "b",
+          "text": "identidade digital"
+        },
+        {
+          "id": "c",
+          "text": "direito de imagem"
+        },
+        {
+          "id": "d",
+          "text": "dados pessoais"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q9",
+      "statement": "Para tomada de decisao, considere a descricao: controle legal sobre uso da propria imagem. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "direito de imagem"
+        },
+        {
+          "id": "b",
+          "text": "identidade digital"
+        },
+        {
+          "id": "c",
+          "text": "dados pessoais"
+        },
+        {
+          "id": "d",
+          "text": "reputacao online"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q10",
+      "statement": "Para tomada de decisao, considere a descricao: informacoes que identificam uma pessoa. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "reputacao online"
+        },
+        {
+          "id": "b",
+          "text": "dados pessoais"
+        },
+        {
+          "id": "c",
+          "text": "direito de imagem"
+        },
+        {
+          "id": "d",
+          "text": "identidade digital"
+        }
+      ],
+      "correctOptionId": "b"
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Introducao a Informatica - Avancado",
+  "subject": "Informatica",
+  "lesson": "Aula 4 - Internet",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar internet de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "protocolo orientado a conexao"
+        },
+        {
+          "id": "b",
+          "text": "sistema que traduz dominio em IP"
+        },
+        {
+          "id": "c",
+          "text": "servico de paginas web sobre a internet"
+        },
+        {
+          "id": "d",
+          "text": "rede mundial que conecta multiplas redes"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q2",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar WWW de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "sistema que traduz dominio em IP"
+        },
+        {
+          "id": "b",
+          "text": "protocolo orientado a conexao"
+        },
+        {
+          "id": "c",
+          "text": "servico de paginas web sobre a internet"
+        },
+        {
+          "id": "d",
+          "text": "rede mundial que conecta multiplas redes"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q3",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar DNS de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "servico de paginas web sobre a internet"
+        },
+        {
+          "id": "b",
+          "text": "protocolo orientado a conexao"
+        },
+        {
+          "id": "c",
+          "text": "rede mundial que conecta multiplas redes"
+        },
+        {
+          "id": "d",
+          "text": "sistema que traduz dominio em IP"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q4",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar TCP de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "sistema que traduz dominio em IP"
+        },
+        {
+          "id": "b",
+          "text": "servico de paginas web sobre a internet"
+        },
+        {
+          "id": "c",
+          "text": "rede mundial que conecta multiplas redes"
+        },
+        {
+          "id": "d",
+          "text": "protocolo orientado a conexao"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q5",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar UDP de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "servico de paginas web sobre a internet"
+        },
+        {
+          "id": "b",
+          "text": "sistema que traduz dominio em IP"
+        },
+        {
+          "id": "c",
+          "text": "protocolo sem garantia de entrega"
+        },
+        {
+          "id": "d",
+          "text": "rede mundial que conecta multiplas redes"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q6",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar HTTP de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "rede mundial que conecta multiplas redes"
+        },
+        {
+          "id": "b",
+          "text": "sistema que traduz dominio em IP"
+        },
+        {
+          "id": "c",
+          "text": "servico de paginas web sobre a internet"
+        },
+        {
+          "id": "d",
+          "text": "protocolo de transferencia de hipertexto"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q7",
+      "statement": "Para tomada de decisao, considere a descricao: rede mundial que conecta multiplas redes. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "TCP"
+        },
+        {
+          "id": "b",
+          "text": "internet"
+        },
+        {
+          "id": "c",
+          "text": "WWW"
+        },
+        {
+          "id": "d",
+          "text": "DNS"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q8",
+      "statement": "Para tomada de decisao, considere a descricao: servico de paginas web sobre a internet. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "internet"
+        },
+        {
+          "id": "b",
+          "text": "TCP"
+        },
+        {
+          "id": "c",
+          "text": "WWW"
+        },
+        {
+          "id": "d",
+          "text": "DNS"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q9",
+      "statement": "Para tomada de decisao, considere a descricao: sistema que traduz dominio em IP. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "internet"
+        },
+        {
+          "id": "b",
+          "text": "WWW"
+        },
+        {
+          "id": "c",
+          "text": "TCP"
+        },
+        {
+          "id": "d",
+          "text": "DNS"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q10",
+      "statement": "Para tomada de decisao, considere a descricao: protocolo orientado a conexao. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "DNS"
+        },
+        {
+          "id": "b",
+          "text": "TCP"
+        },
+        {
+          "id": "c",
+          "text": "internet"
+        },
+        {
+          "id": "d",
+          "text": "WWW"
+        }
+      ],
+      "correctOptionId": "b"
+    }
+  ]
+}

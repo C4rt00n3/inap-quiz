@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Internet Versao 4 - Basico",
+  "subject": "Internet",
+  "lesson": "Aula 10 - Redes Sociais III",
+  "level": "Basico",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Qual alternativa define corretamente identidade digital?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "percepcao publica sobre comportamento digital"
+        },
+        {
+          "id": "b",
+          "text": "imagem e historico do usuario na internet"
+        },
+        {
+          "id": "c",
+          "text": "informacoes que identificam uma pessoa"
+        },
+        {
+          "id": "d",
+          "text": "controle legal sobre uso da propria imagem"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q2",
+      "statement": "Qual alternativa define corretamente reputacao online?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "percepcao publica sobre comportamento digital"
+        },
+        {
+          "id": "b",
+          "text": "controle legal sobre uso da propria imagem"
+        },
+        {
+          "id": "c",
+          "text": "imagem e historico do usuario na internet"
+        },
+        {
+          "id": "d",
+          "text": "informacoes que identificam uma pessoa"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Qual alternativa define corretamente direito de imagem?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "percepcao publica sobre comportamento digital"
+        },
+        {
+          "id": "b",
+          "text": "imagem e historico do usuario na internet"
+        },
+        {
+          "id": "c",
+          "text": "informacoes que identificam uma pessoa"
+        },
+        {
+          "id": "d",
+          "text": "controle legal sobre uso da propria imagem"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q4",
+      "statement": "Qual alternativa define corretamente dados pessoais?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "percepcao publica sobre comportamento digital"
+        },
+        {
+          "id": "b",
+          "text": "informacoes que identificam uma pessoa"
+        },
+        {
+          "id": "c",
+          "text": "controle legal sobre uso da propria imagem"
+        },
+        {
+          "id": "d",
+          "text": "imagem e historico do usuario na internet"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q5",
+      "statement": "Qual alternativa define corretamente exposicao excessiva?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "controle legal sobre uso da propria imagem"
+        },
+        {
+          "id": "b",
+          "text": "imagem e historico do usuario na internet"
+        },
+        {
+          "id": "c",
+          "text": "percepcao publica sobre comportamento digital"
+        },
+        {
+          "id": "d",
+          "text": "publicacao de dados alem do necessario"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Qual alternativa define corretamente comportamento etico?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "imagem e historico do usuario na internet"
+        },
+        {
+          "id": "b",
+          "text": "respeito e responsabilidade nas interacoes"
+        },
+        {
+          "id": "c",
+          "text": "percepcao publica sobre comportamento digital"
+        },
+        {
+          "id": "d",
+          "text": "controle legal sobre uso da propria imagem"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q7",
+      "statement": "Qual conceito corresponde a descricao: imagem e historico do usuario na internet?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "identidade digital"
+        },
+        {
+          "id": "b",
+          "text": "reputacao online"
+        },
+        {
+          "id": "c",
+          "text": "direito de imagem"
+        },
+        {
+          "id": "d",
+          "text": "dados pessoais"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Qual conceito corresponde a descricao: percepcao publica sobre comportamento digital?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "reputacao online"
+        },
+        {
+          "id": "b",
+          "text": "direito de imagem"
+        },
+        {
+          "id": "c",
+          "text": "identidade digital"
+        },
+        {
+          "id": "d",
+          "text": "dados pessoais"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q9",
+      "statement": "Qual conceito corresponde a descricao: controle legal sobre uso da propria imagem?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "direito de imagem"
+        },
+        {
+          "id": "b",
+          "text": "reputacao online"
+        },
+        {
+          "id": "c",
+          "text": "dados pessoais"
+        },
+        {
+          "id": "d",
+          "text": "identidade digital"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q10",
+      "statement": "Qual conceito corresponde a descricao: informacoes que identificam uma pessoa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "direito de imagem"
+        },
+        {
+          "id": "b",
+          "text": "reputacao online"
+        },
+        {
+          "id": "c",
+          "text": "identidade digital"
+        },
+        {
+          "id": "d",
+          "text": "dados pessoais"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

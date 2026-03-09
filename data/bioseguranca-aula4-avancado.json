@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Biosseguranca - Avancado",
+  "subject": "Biosseguranca",
+  "lesson": "Aula 4 - Bacterias e Agentes Antibacterianos",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar bacteria patogenica de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "agente que inibe ou elimina bacterias"
+        },
+        {
+          "id": "b",
+          "text": "componente bacteriano que induz resposta inflamatoria"
+        },
+        {
+          "id": "c",
+          "text": "toxina liberada por bacterias"
+        },
+        {
+          "id": "d",
+          "text": "microrganismo capaz de causar doenca"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q2",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar exotoxina de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "componente bacteriano que induz resposta inflamatoria"
+        },
+        {
+          "id": "b",
+          "text": "agente que inibe ou elimina bacterias"
+        },
+        {
+          "id": "c",
+          "text": "toxina liberada por bacterias"
+        },
+        {
+          "id": "d",
+          "text": "microrganismo capaz de causar doenca"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q3",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar endotoxina de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "toxina liberada por bacterias"
+        },
+        {
+          "id": "b",
+          "text": "agente que inibe ou elimina bacterias"
+        },
+        {
+          "id": "c",
+          "text": "microrganismo capaz de causar doenca"
+        },
+        {
+          "id": "d",
+          "text": "componente bacteriano que induz resposta inflamatoria"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q4",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar antibiotico de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "componente bacteriano que induz resposta inflamatoria"
+        },
+        {
+          "id": "b",
+          "text": "toxina liberada por bacterias"
+        },
+        {
+          "id": "c",
+          "text": "microrganismo capaz de causar doenca"
+        },
+        {
+          "id": "d",
+          "text": "agente que inibe ou elimina bacterias"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q5",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar resistencia bacteriana de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "toxina liberada por bacterias"
+        },
+        {
+          "id": "b",
+          "text": "componente bacteriano que induz resposta inflamatoria"
+        },
+        {
+          "id": "c",
+          "text": "capacidade de sobreviver ao antimicrobiano"
+        },
+        {
+          "id": "d",
+          "text": "microrganismo capaz de causar doenca"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q6",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar uso racional de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "microrganismo capaz de causar doenca"
+        },
+        {
+          "id": "b",
+          "text": "componente bacteriano que induz resposta inflamatoria"
+        },
+        {
+          "id": "c",
+          "text": "toxina liberada por bacterias"
+        },
+        {
+          "id": "d",
+          "text": "uso correto de dose, indicacao e tempo"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q7",
+      "statement": "Para tomada de decisao, considere a descricao: microrganismo capaz de causar doenca. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "antibiotico"
+        },
+        {
+          "id": "b",
+          "text": "bacteria patogenica"
+        },
+        {
+          "id": "c",
+          "text": "exotoxina"
+        },
+        {
+          "id": "d",
+          "text": "endotoxina"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q8",
+      "statement": "Para tomada de decisao, considere a descricao: toxina liberada por bacterias. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "bacteria patogenica"
+        },
+        {
+          "id": "b",
+          "text": "antibiotico"
+        },
+        {
+          "id": "c",
+          "text": "exotoxina"
+        },
+        {
+          "id": "d",
+          "text": "endotoxina"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q9",
+      "statement": "Para tomada de decisao, considere a descricao: componente bacteriano que induz resposta inflamatoria. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "bacteria patogenica"
+        },
+        {
+          "id": "b",
+          "text": "exotoxina"
+        },
+        {
+          "id": "c",
+          "text": "antibiotico"
+        },
+        {
+          "id": "d",
+          "text": "endotoxina"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q10",
+      "statement": "Para tomada de decisao, considere a descricao: agente que inibe ou elimina bacterias. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "endotoxina"
+        },
+        {
+          "id": "b",
+          "text": "antibiotico"
+        },
+        {
+          "id": "c",
+          "text": "bacteria patogenica"
+        },
+        {
+          "id": "d",
+          "text": "exotoxina"
+        }
+      ],
+      "correctOptionId": "b"
+    }
+  ]
+}

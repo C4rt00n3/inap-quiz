@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Internet Versao 4 - Avancado",
+  "subject": "Internet",
+  "lesson": "Aula 3 - Funcionalidades do Google",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar YouTube de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "ferramenta de traducao de idiomas"
+        },
+        {
+          "id": "b",
+          "text": "agregador de noticias"
+        },
+        {
+          "id": "c",
+          "text": "plataforma de compartilhamento de videos"
+        },
+        {
+          "id": "d",
+          "text": "servico de mapas e rotas"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q2",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Google Maps de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "servico de mapas e rotas"
+        },
+        {
+          "id": "b",
+          "text": "agregador de noticias"
+        },
+        {
+          "id": "c",
+          "text": "ferramenta de traducao de idiomas"
+        },
+        {
+          "id": "d",
+          "text": "plataforma de compartilhamento de videos"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Google Tradutor de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "plataforma de compartilhamento de videos"
+        },
+        {
+          "id": "b",
+          "text": "servico de mapas e rotas"
+        },
+        {
+          "id": "c",
+          "text": "ferramenta de traducao de idiomas"
+        },
+        {
+          "id": "d",
+          "text": "agregador de noticias"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q4",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Google Noticias de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "plataforma de compartilhamento de videos"
+        },
+        {
+          "id": "b",
+          "text": "ferramenta de traducao de idiomas"
+        },
+        {
+          "id": "c",
+          "text": "servico de mapas e rotas"
+        },
+        {
+          "id": "d",
+          "text": "agregador de noticias"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q5",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Google Shopping de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "ferramenta de traducao de idiomas"
+        },
+        {
+          "id": "b",
+          "text": "busca de produtos e comparacao"
+        },
+        {
+          "id": "c",
+          "text": "plataforma de compartilhamento de videos"
+        },
+        {
+          "id": "d",
+          "text": "servico de mapas e rotas"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q6",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar filtro de busca de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "recurso para refinar resultados"
+        },
+        {
+          "id": "b",
+          "text": "ferramenta de traducao de idiomas"
+        },
+        {
+          "id": "c",
+          "text": "plataforma de compartilhamento de videos"
+        },
+        {
+          "id": "d",
+          "text": "servico de mapas e rotas"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Para tomada de decisao, considere a descricao: plataforma de compartilhamento de videos. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "YouTube"
+        },
+        {
+          "id": "b",
+          "text": "Google Noticias"
+        },
+        {
+          "id": "c",
+          "text": "Google Tradutor"
+        },
+        {
+          "id": "d",
+          "text": "Google Maps"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Para tomada de decisao, considere a descricao: servico de mapas e rotas. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "YouTube"
+        },
+        {
+          "id": "b",
+          "text": "Google Tradutor"
+        },
+        {
+          "id": "c",
+          "text": "Google Maps"
+        },
+        {
+          "id": "d",
+          "text": "Google Noticias"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q9",
+      "statement": "Para tomada de decisao, considere a descricao: ferramenta de traducao de idiomas. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Google Tradutor"
+        },
+        {
+          "id": "b",
+          "text": "Google Maps"
+        },
+        {
+          "id": "c",
+          "text": "Google Noticias"
+        },
+        {
+          "id": "d",
+          "text": "YouTube"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q10",
+      "statement": "Para tomada de decisao, considere a descricao: agregador de noticias. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Google Tradutor"
+        },
+        {
+          "id": "b",
+          "text": "Google Maps"
+        },
+        {
+          "id": "c",
+          "text": "YouTube"
+        },
+        {
+          "id": "d",
+          "text": "Google Noticias"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

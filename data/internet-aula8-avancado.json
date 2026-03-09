@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Internet Versao 4 - Avancado",
+  "subject": "Internet",
+  "lesson": "Aula 8 - Redes Sociais Facebook II",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar privacidade de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "medidas para evitar invasao"
+        },
+        {
+          "id": "b",
+          "text": "reporte de conteudo inadequado"
+        },
+        {
+          "id": "c",
+          "text": "controle de quem ve suas publicacoes"
+        },
+        {
+          "id": "d",
+          "text": "restricao de contato de outro usuario"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q2",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar bloqueio de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "restricao de contato de outro usuario"
+        },
+        {
+          "id": "b",
+          "text": "medidas para evitar invasao"
+        },
+        {
+          "id": "c",
+          "text": "reporte de conteudo inadequado"
+        },
+        {
+          "id": "d",
+          "text": "controle de quem ve suas publicacoes"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar denuncia de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "restricao de contato de outro usuario"
+        },
+        {
+          "id": "b",
+          "text": "controle de quem ve suas publicacoes"
+        },
+        {
+          "id": "c",
+          "text": "reporte de conteudo inadequado"
+        },
+        {
+          "id": "d",
+          "text": "medidas para evitar invasao"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q4",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar seguranca de conta de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "controle de quem ve suas publicacoes"
+        },
+        {
+          "id": "b",
+          "text": "restricao de contato de outro usuario"
+        },
+        {
+          "id": "c",
+          "text": "medidas para evitar invasao"
+        },
+        {
+          "id": "d",
+          "text": "reporte de conteudo inadequado"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar autenticacao em duas etapas de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "reporte de conteudo inadequado"
+        },
+        {
+          "id": "b",
+          "text": "restricao de contato de outro usuario"
+        },
+        {
+          "id": "c",
+          "text": "camada extra para login seguro"
+        },
+        {
+          "id": "d",
+          "text": "controle de quem ve suas publicacoes"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q6",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar golpe digital de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "restricao de contato de outro usuario"
+        },
+        {
+          "id": "b",
+          "text": "reporte de conteudo inadequado"
+        },
+        {
+          "id": "c",
+          "text": "controle de quem ve suas publicacoes"
+        },
+        {
+          "id": "d",
+          "text": "fraude realizada por perfil ou mensagem"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q7",
+      "statement": "Para tomada de decisao, considere a descricao: controle de quem ve suas publicacoes. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "privacidade"
+        },
+        {
+          "id": "b",
+          "text": "seguranca de conta"
+        },
+        {
+          "id": "c",
+          "text": "denuncia"
+        },
+        {
+          "id": "d",
+          "text": "bloqueio"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Para tomada de decisao, considere a descricao: restricao de contato de outro usuario. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "seguranca de conta"
+        },
+        {
+          "id": "b",
+          "text": "privacidade"
+        },
+        {
+          "id": "c",
+          "text": "bloqueio"
+        },
+        {
+          "id": "d",
+          "text": "denuncia"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q9",
+      "statement": "Para tomada de decisao, considere a descricao: reporte de conteudo inadequado. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "denuncia"
+        },
+        {
+          "id": "b",
+          "text": "bloqueio"
+        },
+        {
+          "id": "c",
+          "text": "privacidade"
+        },
+        {
+          "id": "d",
+          "text": "seguranca de conta"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q10",
+      "statement": "Para tomada de decisao, considere a descricao: medidas para evitar invasao. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "seguranca de conta"
+        },
+        {
+          "id": "b",
+          "text": "denuncia"
+        },
+        {
+          "id": "c",
+          "text": "privacidade"
+        },
+        {
+          "id": "d",
+          "text": "bloqueio"
+        }
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

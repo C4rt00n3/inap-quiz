@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Atendente de Farmacia - Intermediario",
+  "subject": "Farmacia",
+  "lesson": "Aula 7 - Comprimidos e Capsulas",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou comprimido. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "componente sem acao terapeutica direta"
+        },
+        {
+          "id": "b",
+          "text": "forma farmaceutica com involucro e dose unica"
+        },
+        {
+          "id": "c",
+          "text": "forma farmaceutica solida obtida por compressao"
+        },
+        {
+          "id": "d",
+          "text": "tecnologia que libera principio ativo ao longo do tempo"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou capsula. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "forma farmaceutica solida obtida por compressao"
+        },
+        {
+          "id": "b",
+          "text": "componente sem acao terapeutica direta"
+        },
+        {
+          "id": "c",
+          "text": "tecnologia que libera principio ativo ao longo do tempo"
+        },
+        {
+          "id": "d",
+          "text": "forma farmaceutica com involucro e dose unica"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou excipiente. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "forma farmaceutica solida obtida por compressao"
+        },
+        {
+          "id": "b",
+          "text": "componente sem acao terapeutica direta"
+        },
+        {
+          "id": "c",
+          "text": "tecnologia que libera principio ativo ao longo do tempo"
+        },
+        {
+          "id": "d",
+          "text": "forma farmaceutica com involucro e dose unica"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou liberacao controlada. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "forma farmaceutica com involucro e dose unica"
+        },
+        {
+          "id": "b",
+          "text": "forma farmaceutica solida obtida por compressao"
+        },
+        {
+          "id": "c",
+          "text": "tecnologia que libera principio ativo ao longo do tempo"
+        },
+        {
+          "id": "d",
+          "text": "componente sem acao terapeutica direta"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou administracao com agua. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "componente sem acao terapeutica direta"
+        },
+        {
+          "id": "b",
+          "text": "forma farmaceutica com involucro e dose unica"
+        },
+        {
+          "id": "c",
+          "text": "forma farmaceutica solida obtida por compressao"
+        },
+        {
+          "id": "d",
+          "text": "pratica recomendada para reduzir interacoes"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Durante uma rotina de estudo, a equipe citou adesao. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "forma farmaceutica solida obtida por compressao"
+        },
+        {
+          "id": "b",
+          "text": "cumprimento correto de dose e horario"
+        },
+        {
+          "id": "c",
+          "text": "componente sem acao terapeutica direta"
+        },
+        {
+          "id": "d",
+          "text": "forma farmaceutica com involucro e dose unica"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: forma farmaceutica solida obtida por compressao. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "comprimido"
+        },
+        {
+          "id": "b",
+          "text": "liberacao controlada"
+        },
+        {
+          "id": "c",
+          "text": "capsula"
+        },
+        {
+          "id": "d",
+          "text": "excipiente"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: forma farmaceutica com involucro e dose unica. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "excipiente"
+        },
+        {
+          "id": "b",
+          "text": "capsula"
+        },
+        {
+          "id": "c",
+          "text": "liberacao controlada"
+        },
+        {
+          "id": "d",
+          "text": "comprimido"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: componente sem acao terapeutica direta. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "capsula"
+        },
+        {
+          "id": "b",
+          "text": "excipiente"
+        },
+        {
+          "id": "c",
+          "text": "liberacao controlada"
+        },
+        {
+          "id": "d",
+          "text": "comprimido"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: tecnologia que libera principio ativo ao longo do tempo. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "excipiente"
+        },
+        {
+          "id": "b",
+          "text": "capsula"
+        },
+        {
+          "id": "c",
+          "text": "comprimido"
+        },
+        {
+          "id": "d",
+          "text": "liberacao controlada"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

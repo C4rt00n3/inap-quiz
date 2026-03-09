@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Atendente de Farmacia - Avancado",
+  "subject": "Farmacia",
+  "lesson": "Aula 2 - Anatomia Humana",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar anatomia de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "estudo da estrutura do corpo humano"
+        },
+        {
+          "id": "b",
+          "text": "sistema que digere alimentos e absorve nutrientes"
+        },
+        {
+          "id": "c",
+          "text": "estudo do funcionamento dos sistemas do corpo"
+        },
+        {
+          "id": "d",
+          "text": "sistema que realiza trocas gasosas"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar fisiologia de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "estudo do funcionamento dos sistemas do corpo"
+        },
+        {
+          "id": "b",
+          "text": "sistema que digere alimentos e absorve nutrientes"
+        },
+        {
+          "id": "c",
+          "text": "estudo da estrutura do corpo humano"
+        },
+        {
+          "id": "d",
+          "text": "sistema que realiza trocas gasosas"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar sistema respiratorio de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "sistema que digere alimentos e absorve nutrientes"
+        },
+        {
+          "id": "b",
+          "text": "sistema que realiza trocas gasosas"
+        },
+        {
+          "id": "c",
+          "text": "estudo do funcionamento dos sistemas do corpo"
+        },
+        {
+          "id": "d",
+          "text": "estudo da estrutura do corpo humano"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar sistema digestivo de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "sistema que digere alimentos e absorve nutrientes"
+        },
+        {
+          "id": "b",
+          "text": "estudo da estrutura do corpo humano"
+        },
+        {
+          "id": "c",
+          "text": "sistema que realiza trocas gasosas"
+        },
+        {
+          "id": "d",
+          "text": "estudo do funcionamento dos sistemas do corpo"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar sistema nervoso de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "estudo da estrutura do corpo humano"
+        },
+        {
+          "id": "b",
+          "text": "sistema que coordena respostas e funcoes corporais"
+        },
+        {
+          "id": "c",
+          "text": "estudo do funcionamento dos sistemas do corpo"
+        },
+        {
+          "id": "d",
+          "text": "sistema que realiza trocas gasosas"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q6",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar sistema osteomuscular de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "sistema que realiza trocas gasosas"
+        },
+        {
+          "id": "b",
+          "text": "estudo do funcionamento dos sistemas do corpo"
+        },
+        {
+          "id": "c",
+          "text": "ossos e musculos que sustentam e movimentam o corpo"
+        },
+        {
+          "id": "d",
+          "text": "estudo da estrutura do corpo humano"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q7",
+      "statement": "Para tomada de decisao, considere a descricao: estudo da estrutura do corpo humano. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "sistema respiratorio"
+        },
+        {
+          "id": "b",
+          "text": "sistema digestivo"
+        },
+        {
+          "id": "c",
+          "text": "anatomia"
+        },
+        {
+          "id": "d",
+          "text": "fisiologia"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q8",
+      "statement": "Para tomada de decisao, considere a descricao: estudo do funcionamento dos sistemas do corpo. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "sistema respiratorio"
+        },
+        {
+          "id": "b",
+          "text": "fisiologia"
+        },
+        {
+          "id": "c",
+          "text": "anatomia"
+        },
+        {
+          "id": "d",
+          "text": "sistema digestivo"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Para tomada de decisao, considere a descricao: sistema que realiza trocas gasosas. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "anatomia"
+        },
+        {
+          "id": "b",
+          "text": "sistema respiratorio"
+        },
+        {
+          "id": "c",
+          "text": "fisiologia"
+        },
+        {
+          "id": "d",
+          "text": "sistema digestivo"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q10",
+      "statement": "Para tomada de decisao, considere a descricao: sistema que digere alimentos e absorve nutrientes. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "sistema digestivo"
+        },
+        {
+          "id": "b",
+          "text": "fisiologia"
+        },
+        {
+          "id": "c",
+          "text": "sistema respiratorio"
+        },
+        {
+          "id": "d",
+          "text": "anatomia"
+        }
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

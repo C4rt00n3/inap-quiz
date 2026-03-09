@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Atendente de Farmacia - Avancado",
+  "subject": "Farmacia",
+  "lesson": "Aula 5 - Bula e Atendimento",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar indicacao de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "efeito indesejado que pode ocorrer com uso correto"
+        },
+        {
+          "id": "b",
+          "text": "situacao em que o uso pode trazer risco"
+        },
+        {
+          "id": "c",
+          "text": "situacao em que o medicamento deve ser utilizado"
+        },
+        {
+          "id": "d",
+          "text": "alteracao de efeito pelo uso conjunto de medicamentos"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q2",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar contraindicacao de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "alteracao de efeito pelo uso conjunto de medicamentos"
+        },
+        {
+          "id": "b",
+          "text": "efeito indesejado que pode ocorrer com uso correto"
+        },
+        {
+          "id": "c",
+          "text": "situacao em que o medicamento deve ser utilizado"
+        },
+        {
+          "id": "d",
+          "text": "situacao em que o uso pode trazer risco"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q3",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar reacao adversa de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "situacao em que o uso pode trazer risco"
+        },
+        {
+          "id": "b",
+          "text": "alteracao de efeito pelo uso conjunto de medicamentos"
+        },
+        {
+          "id": "c",
+          "text": "efeito indesejado que pode ocorrer com uso correto"
+        },
+        {
+          "id": "d",
+          "text": "situacao em que o medicamento deve ser utilizado"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q4",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar interacao medicamentosa de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "efeito indesejado que pode ocorrer com uso correto"
+        },
+        {
+          "id": "b",
+          "text": "situacao em que o medicamento deve ser utilizado"
+        },
+        {
+          "id": "c",
+          "text": "situacao em que o uso pode trazer risco"
+        },
+        {
+          "id": "d",
+          "text": "alteracao de efeito pelo uso conjunto de medicamentos"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q5",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar posologia de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "situacao em que o medicamento deve ser utilizado"
+        },
+        {
+          "id": "b",
+          "text": "efeito indesejado que pode ocorrer com uso correto"
+        },
+        {
+          "id": "c",
+          "text": "situacao em que o uso pode trazer risco"
+        },
+        {
+          "id": "d",
+          "text": "dose, intervalo e tempo de tratamento"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar orientacao segura de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "situacao em que o uso pode trazer risco"
+        },
+        {
+          "id": "b",
+          "text": "efeito indesejado que pode ocorrer com uso correto"
+        },
+        {
+          "id": "c",
+          "text": "informacao clara sem prescrever ou alterar receita"
+        },
+        {
+          "id": "d",
+          "text": "situacao em que o medicamento deve ser utilizado"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q7",
+      "statement": "Para tomada de decisao, considere a descricao: situacao em que o medicamento deve ser utilizado. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "interacao medicamentosa"
+        },
+        {
+          "id": "b",
+          "text": "indicacao"
+        },
+        {
+          "id": "c",
+          "text": "contraindicacao"
+        },
+        {
+          "id": "d",
+          "text": "reacao adversa"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q8",
+      "statement": "Para tomada de decisao, considere a descricao: situacao em que o uso pode trazer risco. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "contraindicacao"
+        },
+        {
+          "id": "b",
+          "text": "interacao medicamentosa"
+        },
+        {
+          "id": "c",
+          "text": "indicacao"
+        },
+        {
+          "id": "d",
+          "text": "reacao adversa"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q9",
+      "statement": "Para tomada de decisao, considere a descricao: efeito indesejado que pode ocorrer com uso correto. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "reacao adversa"
+        },
+        {
+          "id": "b",
+          "text": "interacao medicamentosa"
+        },
+        {
+          "id": "c",
+          "text": "indicacao"
+        },
+        {
+          "id": "d",
+          "text": "contraindicacao"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q10",
+      "statement": "Para tomada de decisao, considere a descricao: alteracao de efeito pelo uso conjunto de medicamentos. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "contraindicacao"
+        },
+        {
+          "id": "b",
+          "text": "interacao medicamentosa"
+        },
+        {
+          "id": "c",
+          "text": "reacao adversa"
+        },
+        {
+          "id": "d",
+          "text": "indicacao"
+        }
+      ],
+      "correctOptionId": "b"
+    }
+  ]
+}

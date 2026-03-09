@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Biosseguranca - Basico",
+  "subject": "Biosseguranca",
+  "lesson": "Aula 8 - Normas de Biosseguranca",
+  "level": "Basico",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Qual alternativa define corretamente norma geral?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "regra para proteger equipe e ambiente"
+        },
+        {
+          "id": "b",
+          "text": "condutas de limpeza pessoal e ambiente"
+        },
+        {
+          "id": "c",
+          "text": "desvio do procedimento padrao"
+        },
+        {
+          "id": "d",
+          "text": "setor com controle rigido de acesso"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Qual alternativa define corretamente nao conformidade?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "setor com controle rigido de acesso"
+        },
+        {
+          "id": "b",
+          "text": "desvio do procedimento padrao"
+        },
+        {
+          "id": "c",
+          "text": "regra para proteger equipe e ambiente"
+        },
+        {
+          "id": "d",
+          "text": "condutas de limpeza pessoal e ambiente"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q3",
+      "statement": "Qual alternativa define corretamente higiene laboratorial?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "condutas de limpeza pessoal e ambiente"
+        },
+        {
+          "id": "b",
+          "text": "desvio do procedimento padrao"
+        },
+        {
+          "id": "c",
+          "text": "setor com controle rigido de acesso"
+        },
+        {
+          "id": "d",
+          "text": "regra para proteger equipe e ambiente"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "Qual alternativa define corretamente area analitica?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "condutas de limpeza pessoal e ambiente"
+        },
+        {
+          "id": "b",
+          "text": "setor com controle rigido de acesso"
+        },
+        {
+          "id": "c",
+          "text": "desvio do procedimento padrao"
+        },
+        {
+          "id": "d",
+          "text": "regra para proteger equipe e ambiente"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q5",
+      "statement": "Qual alternativa define corretamente rastreabilidade?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "desvio do procedimento padrao"
+        },
+        {
+          "id": "b",
+          "text": "regra para proteger equipe e ambiente"
+        },
+        {
+          "id": "c",
+          "text": "condutas de limpeza pessoal e ambiente"
+        },
+        {
+          "id": "d",
+          "text": "registro de etapas, materiais e responsaveis"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Qual alternativa define corretamente cultura de seguranca?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "regra para proteger equipe e ambiente"
+        },
+        {
+          "id": "b",
+          "text": "condutas de limpeza pessoal e ambiente"
+        },
+        {
+          "id": "c",
+          "text": "desvio do procedimento padrao"
+        },
+        {
+          "id": "d",
+          "text": "compromisso coletivo com prevencao"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q7",
+      "statement": "Qual conceito corresponde a descricao: regra para proteger equipe e ambiente?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "area analitica"
+        },
+        {
+          "id": "b",
+          "text": "higiene laboratorial"
+        },
+        {
+          "id": "c",
+          "text": "norma geral"
+        },
+        {
+          "id": "d",
+          "text": "nao conformidade"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q8",
+      "statement": "Qual conceito corresponde a descricao: desvio do procedimento padrao?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "higiene laboratorial"
+        },
+        {
+          "id": "b",
+          "text": "norma geral"
+        },
+        {
+          "id": "c",
+          "text": "area analitica"
+        },
+        {
+          "id": "d",
+          "text": "nao conformidade"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q9",
+      "statement": "Qual conceito corresponde a descricao: condutas de limpeza pessoal e ambiente?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "higiene laboratorial"
+        },
+        {
+          "id": "b",
+          "text": "norma geral"
+        },
+        {
+          "id": "c",
+          "text": "nao conformidade"
+        },
+        {
+          "id": "d",
+          "text": "area analitica"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q10",
+      "statement": "Qual conceito corresponde a descricao: setor com controle rigido de acesso?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "area analitica"
+        },
+        {
+          "id": "b",
+          "text": "higiene laboratorial"
+        },
+        {
+          "id": "c",
+          "text": "norma geral"
+        },
+        {
+          "id": "d",
+          "text": "nao conformidade"
+        }
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

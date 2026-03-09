@@ -15,6 +15,7 @@ export type TestData = {
   title: string;
   subject: string;
   lesson: string;
+  level: "Basico" | "Intermediario" | "Avancado";
   questions: Question[];
 };
 
@@ -23,5 +24,6 @@ export type TestSummary = {
   title: string;
   subject: string;
   lesson: string;
+  level: "Basico" | "Intermediario" | "Avancado";
   questionCount: number;
 };

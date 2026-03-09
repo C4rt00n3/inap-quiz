@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Atendente de Farmacia - Intermediario",
+  "subject": "Farmacia",
+  "lesson": "Aula 1 - Introducao ao Curso",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou ANVISA. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "medicamento vendido sem receita"
+        },
+        {
+          "id": "b",
+          "text": "agencia que regula medicamentos e servicos de saude"
+        },
+        {
+          "id": "c",
+          "text": "conselho regional que fiscaliza o exercicio farmaceutico"
+        },
+        {
+          "id": "d",
+          "text": "conduta etica e responsavel no atendimento"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou CRF. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "conselho regional que fiscaliza o exercicio farmaceutico"
+        },
+        {
+          "id": "b",
+          "text": "agencia que regula medicamentos e servicos de saude"
+        },
+        {
+          "id": "c",
+          "text": "medicamento vendido sem receita"
+        },
+        {
+          "id": "d",
+          "text": "conduta etica e responsavel no atendimento"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou OTC. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "conselho regional que fiscaliza o exercicio farmaceutico"
+        },
+        {
+          "id": "b",
+          "text": "agencia que regula medicamentos e servicos de saude"
+        },
+        {
+          "id": "c",
+          "text": "conduta etica e responsavel no atendimento"
+        },
+        {
+          "id": "d",
+          "text": "medicamento vendido sem receita"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou postura profissional. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "conduta etica e responsavel no atendimento"
+        },
+        {
+          "id": "b",
+          "text": "agencia que regula medicamentos e servicos de saude"
+        },
+        {
+          "id": "c",
+          "text": "conselho regional que fiscaliza o exercicio farmaceutico"
+        },
+        {
+          "id": "d",
+          "text": "medicamento vendido sem receita"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou empatia. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "conselho regional que fiscaliza o exercicio farmaceutico"
+        },
+        {
+          "id": "b",
+          "text": "agencia que regula medicamentos e servicos de saude"
+        },
+        {
+          "id": "c",
+          "text": "compreender o cliente sem ultrapassar limite tecnico"
+        },
+        {
+          "id": "d",
+          "text": "medicamento vendido sem receita"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q6",
+      "statement": "Durante uma rotina de estudo, a equipe citou trabalho em equipe. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "agencia que regula medicamentos e servicos de saude"
+        },
+        {
+          "id": "b",
+          "text": "conselho regional que fiscaliza o exercicio farmaceutico"
+        },
+        {
+          "id": "c",
+          "text": "medicamento vendido sem receita"
+        },
+        {
+          "id": "d",
+          "text": "cooperacao para reduzir falhas e melhorar atendimento"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: agencia que regula medicamentos e servicos de saude. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "OTC"
+        },
+        {
+          "id": "b",
+          "text": "postura profissional"
+        },
+        {
+          "id": "c",
+          "text": "CRF"
+        },
+        {
+          "id": "d",
+          "text": "ANVISA"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: conselho regional que fiscaliza o exercicio farmaceutico. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "OTC"
+        },
+        {
+          "id": "b",
+          "text": "CRF"
+        },
+        {
+          "id": "c",
+          "text": "postura profissional"
+        },
+        {
+          "id": "d",
+          "text": "ANVISA"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: medicamento vendido sem receita. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "CRF"
+        },
+        {
+          "id": "b",
+          "text": "ANVISA"
+        },
+        {
+          "id": "c",
+          "text": "OTC"
+        },
+        {
+          "id": "d",
+          "text": "postura profissional"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: conduta etica e responsavel no atendimento. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "postura profissional"
+        },
+        {
+          "id": "b",
+          "text": "ANVISA"
+        },
+        {
+          "id": "c",
+          "text": "CRF"
+        },
+        {
+          "id": "d",
+          "text": "OTC"
+        }
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

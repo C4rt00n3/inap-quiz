@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Biosseguranca - Basico",
+  "subject": "Biosseguranca",
+  "lesson": "Aula 5 - Epidemiologia",
+  "level": "Basico",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Qual alternativa define corretamente epidemiologia?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "total de casos existentes em um periodo"
+        },
+        {
+          "id": "b",
+          "text": "numero de casos novos em periodo definido"
+        },
+        {
+          "id": "c",
+          "text": "estudo da distribuicao de doencas na populacao"
+        },
+        {
+          "id": "d",
+          "text": "sequencia de eventos que permite a doenca"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q2",
+      "statement": "Qual alternativa define corretamente incidencia?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "total de casos existentes em um periodo"
+        },
+        {
+          "id": "b",
+          "text": "numero de casos novos em periodo definido"
+        },
+        {
+          "id": "c",
+          "text": "estudo da distribuicao de doencas na populacao"
+        },
+        {
+          "id": "d",
+          "text": "sequencia de eventos que permite a doenca"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q3",
+      "statement": "Qual alternativa define corretamente prevalencia?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "total de casos existentes em um periodo"
+        },
+        {
+          "id": "b",
+          "text": "sequencia de eventos que permite a doenca"
+        },
+        {
+          "id": "c",
+          "text": "numero de casos novos em periodo definido"
+        },
+        {
+          "id": "d",
+          "text": "estudo da distribuicao de doencas na populacao"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q4",
+      "statement": "Qual alternativa define corretamente cadeia de transmissao?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "numero de casos novos em periodo definido"
+        },
+        {
+          "id": "b",
+          "text": "sequencia de eventos que permite a doenca"
+        },
+        {
+          "id": "c",
+          "text": "estudo da distribuicao de doencas na populacao"
+        },
+        {
+          "id": "d",
+          "text": "total de casos existentes em um periodo"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q5",
+      "statement": "Qual alternativa define corretamente hospedeiro suscetivel?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "estudo da distribuicao de doencas na populacao"
+        },
+        {
+          "id": "b",
+          "text": "numero de casos novos em periodo definido"
+        },
+        {
+          "id": "c",
+          "text": "individuo com chance de adoecer"
+        },
+        {
+          "id": "d",
+          "text": "total de casos existentes em um periodo"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q6",
+      "statement": "Qual alternativa define corretamente vigilancia?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "numero de casos novos em periodo definido"
+        },
+        {
+          "id": "b",
+          "text": "total de casos existentes em um periodo"
+        },
+        {
+          "id": "c",
+          "text": "monitoramento continuo de agravos em saude"
+        },
+        {
+          "id": "d",
+          "text": "estudo da distribuicao de doencas na populacao"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q7",
+      "statement": "Qual conceito corresponde a descricao: estudo da distribuicao de doencas na populacao?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "epidemiologia"
+        },
+        {
+          "id": "b",
+          "text": "incidencia"
+        },
+        {
+          "id": "c",
+          "text": "prevalencia"
+        },
+        {
+          "id": "d",
+          "text": "cadeia de transmissao"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Qual conceito corresponde a descricao: numero de casos novos em periodo definido?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "cadeia de transmissao"
+        },
+        {
+          "id": "b",
+          "text": "incidencia"
+        },
+        {
+          "id": "c",
+          "text": "epidemiologia"
+        },
+        {
+          "id": "d",
+          "text": "prevalencia"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Qual conceito corresponde a descricao: total de casos existentes em um periodo?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "cadeia de transmissao"
+        },
+        {
+          "id": "b",
+          "text": "incidencia"
+        },
+        {
+          "id": "c",
+          "text": "prevalencia"
+        },
+        {
+          "id": "d",
+          "text": "epidemiologia"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Qual conceito corresponde a descricao: sequencia de eventos que permite a doenca?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "incidencia"
+        },
+        {
+          "id": "b",
+          "text": "prevalencia"
+        },
+        {
+          "id": "c",
+          "text": "cadeia de transmissao"
+        },
+        {
+          "id": "d",
+          "text": "epidemiologia"
+        }
+      ],
+      "correctOptionId": "c"
+    }
+  ]
+}

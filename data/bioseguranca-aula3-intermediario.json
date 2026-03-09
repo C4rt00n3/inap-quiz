@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Biosseguranca - Intermediario",
+  "subject": "Biosseguranca",
+  "lesson": "Aula 3 - Riscos Ocupacionais e Mapa de Risco",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou perigo. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "representacao grafica dos riscos por ambiente"
+        },
+        {
+          "id": "b",
+          "text": "probabilidade de exposicao ao perigo"
+        },
+        {
+          "id": "c",
+          "text": "fonte com potencial de causar dano"
+        },
+        {
+          "id": "d",
+          "text": "ruido, calor, frio, vibracao ou radiacao"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou risco. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "representacao grafica dos riscos por ambiente"
+        },
+        {
+          "id": "b",
+          "text": "probabilidade de exposicao ao perigo"
+        },
+        {
+          "id": "c",
+          "text": "fonte com potencial de causar dano"
+        },
+        {
+          "id": "d",
+          "text": "ruido, calor, frio, vibracao ou radiacao"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou mapa de risco. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "ruido, calor, frio, vibracao ou radiacao"
+        },
+        {
+          "id": "b",
+          "text": "probabilidade de exposicao ao perigo"
+        },
+        {
+          "id": "c",
+          "text": "representacao grafica dos riscos por ambiente"
+        },
+        {
+          "id": "d",
+          "text": "fonte com potencial de causar dano"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou risco fisico. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "fonte com potencial de causar dano"
+        },
+        {
+          "id": "b",
+          "text": "ruido, calor, frio, vibracao ou radiacao"
+        },
+        {
+          "id": "c",
+          "text": "representacao grafica dos riscos por ambiente"
+        },
+        {
+          "id": "d",
+          "text": "probabilidade de exposicao ao perigo"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou risco quimico. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "representacao grafica dos riscos por ambiente"
+        },
+        {
+          "id": "b",
+          "text": "exposicao a gases, vapores e substancias"
+        },
+        {
+          "id": "c",
+          "text": "fonte com potencial de causar dano"
+        },
+        {
+          "id": "d",
+          "text": "probabilidade de exposicao ao perigo"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q6",
+      "statement": "Durante uma rotina de estudo, a equipe citou risco biologico. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "representacao grafica dos riscos por ambiente"
+        },
+        {
+          "id": "b",
+          "text": "exposicao a microrganismos patogenicos"
+        },
+        {
+          "id": "c",
+          "text": "fonte com potencial de causar dano"
+        },
+        {
+          "id": "d",
+          "text": "probabilidade de exposicao ao perigo"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: fonte com potencial de causar dano. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "mapa de risco"
+        },
+        {
+          "id": "b",
+          "text": "risco fisico"
+        },
+        {
+          "id": "c",
+          "text": "perigo"
+        },
+        {
+          "id": "d",
+          "text": "risco"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: probabilidade de exposicao ao perigo. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "mapa de risco"
+        },
+        {
+          "id": "b",
+          "text": "risco"
+        },
+        {
+          "id": "c",
+          "text": "perigo"
+        },
+        {
+          "id": "d",
+          "text": "risco fisico"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: representacao grafica dos riscos por ambiente. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "perigo"
+        },
+        {
+          "id": "b",
+          "text": "mapa de risco"
+        },
+        {
+          "id": "c",
+          "text": "risco"
+        },
+        {
+          "id": "d",
+          "text": "risco fisico"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: ruido, calor, frio, vibracao ou radiacao. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "perigo"
+        },
+        {
+          "id": "b",
+          "text": "risco fisico"
+        },
+        {
+          "id": "c",
+          "text": "risco"
+        },
+        {
+          "id": "d",
+          "text": "mapa de risco"
+        }
+      ],
+      "correctOptionId": "b"
+    }
+  ]
+}

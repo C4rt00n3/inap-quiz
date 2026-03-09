@@ -25,6 +25,7 @@ function isValidTestData(value: unknown): value is TestData {
     typeof candidate.title === "string" &&
     typeof candidate.subject === "string" &&
     typeof candidate.lesson === "string" &&
+    typeof candidate.level === "string" &&
     Array.isArray(candidate.questions)
   );
 }
@@ -50,17 +51,19 @@ function toSlug(fileName: string) {
   return fileName.replace(/\.json$/i, "");
 }
 
-/**
- * Infers the subject name from file slug (e.g. "informatica-aula7" -> "Informatica").
- */
-function inferSubjectFromSlug(slug: string) {
-  const rawSubject = slug.replace(/-aula\d+$/i, "");
+function getLessonNumber(lesson: string) {
+  const match = lesson.match(/aula\s*(\d+)/i);
+  return match ? Number(match[1]) : Number.MAX_SAFE_INTEGER;
+}
 
-  return rawSubject
-    .split("-")
-    .filter(Boolean)
-    .map((part) => part.charAt(0).toUpperCase() + part.slice(1))
-    .join(" ");
+function getLevelOrder(level: TestSummary["level"]) {
+  if (level === "Basico") {
+    return 0;
+  }
+  if (level === "Intermediario") {
+    return 1;
+  }
+  return 2;
 }
 
 /**
@@ -79,14 +82,27 @@ export async function getAllTests(): Promise<TestSummary[]> {
       return {
         slug,
         title: data.title,
-        subject: inferSubjectFromSlug(slug),
+        subject: data.subject,
         lesson: data.lesson,
+        level: data.level,
         questionCount: data.questions.length,
       };
     }),
   );
 
-  return tests.sort((a, b) => a.title.localeCompare(b.title, "pt-BR"));
+  return tests.sort((a, b) => {
+    const subjectDiff = a.subject.localeCompare(b.subject, "pt-BR");
+    if (subjectDiff !== 0) {
+      return subjectDiff;
+    }
+
+    const lessonDiff = getLessonNumber(a.lesson) - getLessonNumber(b.lesson);
+    if (lessonDiff !== 0) {
+      return lessonDiff;
+    }
+
+    return getLevelOrder(a.level) - getLevelOrder(b.level);
+  });
 }
 
 /**

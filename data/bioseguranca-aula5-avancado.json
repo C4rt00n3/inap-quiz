@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Biosseguranca - Avancado",
+  "subject": "Biosseguranca",
+  "lesson": "Aula 5 - Epidemiologia",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar epidemiologia de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "total de casos existentes em um periodo"
+        },
+        {
+          "id": "b",
+          "text": "numero de casos novos em periodo definido"
+        },
+        {
+          "id": "c",
+          "text": "estudo da distribuicao de doencas na populacao"
+        },
+        {
+          "id": "d",
+          "text": "sequencia de eventos que permite a doenca"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q2",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar incidencia de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "sequencia de eventos que permite a doenca"
+        },
+        {
+          "id": "b",
+          "text": "total de casos existentes em um periodo"
+        },
+        {
+          "id": "c",
+          "text": "estudo da distribuicao de doencas na populacao"
+        },
+        {
+          "id": "d",
+          "text": "numero de casos novos em periodo definido"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q3",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar prevalencia de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "numero de casos novos em periodo definido"
+        },
+        {
+          "id": "b",
+          "text": "sequencia de eventos que permite a doenca"
+        },
+        {
+          "id": "c",
+          "text": "total de casos existentes em um periodo"
+        },
+        {
+          "id": "d",
+          "text": "estudo da distribuicao de doencas na populacao"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q4",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar cadeia de transmissao de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "total de casos existentes em um periodo"
+        },
+        {
+          "id": "b",
+          "text": "estudo da distribuicao de doencas na populacao"
+        },
+        {
+          "id": "c",
+          "text": "numero de casos novos em periodo definido"
+        },
+        {
+          "id": "d",
+          "text": "sequencia de eventos que permite a doenca"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q5",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar hospedeiro suscetivel de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "estudo da distribuicao de doencas na populacao"
+        },
+        {
+          "id": "b",
+          "text": "total de casos existentes em um periodo"
+        },
+        {
+          "id": "c",
+          "text": "numero de casos novos em periodo definido"
+        },
+        {
+          "id": "d",
+          "text": "individuo com chance de adoecer"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar vigilancia de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "numero de casos novos em periodo definido"
+        },
+        {
+          "id": "b",
+          "text": "total de casos existentes em um periodo"
+        },
+        {
+          "id": "c",
+          "text": "monitoramento continuo de agravos em saude"
+        },
+        {
+          "id": "d",
+          "text": "estudo da distribuicao de doencas na populacao"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q7",
+      "statement": "Para tomada de decisao, considere a descricao: estudo da distribuicao de doencas na populacao. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "cadeia de transmissao"
+        },
+        {
+          "id": "b",
+          "text": "epidemiologia"
+        },
+        {
+          "id": "c",
+          "text": "incidencia"
+        },
+        {
+          "id": "d",
+          "text": "prevalencia"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q8",
+      "statement": "Para tomada de decisao, considere a descricao: numero de casos novos em periodo definido. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "incidencia"
+        },
+        {
+          "id": "b",
+          "text": "cadeia de transmissao"
+        },
+        {
+          "id": "c",
+          "text": "epidemiologia"
+        },
+        {
+          "id": "d",
+          "text": "prevalencia"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q9",
+      "statement": "Para tomada de decisao, considere a descricao: total de casos existentes em um periodo. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "prevalencia"
+        },
+        {
+          "id": "b",
+          "text": "cadeia de transmissao"
+        },
+        {
+          "id": "c",
+          "text": "epidemiologia"
+        },
+        {
+          "id": "d",
+          "text": "incidencia"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q10",
+      "statement": "Para tomada de decisao, considere a descricao: sequencia de eventos que permite a doenca. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "incidencia"
+        },
+        {
+          "id": "b",
+          "text": "cadeia de transmissao"
+        },
+        {
+          "id": "c",
+          "text": "prevalencia"
+        },
+        {
+          "id": "d",
+          "text": "epidemiologia"
+        }
+      ],
+      "correctOptionId": "b"
+    }
+  ]
+}

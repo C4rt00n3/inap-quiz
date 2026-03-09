@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Internet Versao 4 - Avancado",
+  "subject": "Internet",
+  "lesson": "Aula 11 - Baixando Aplicativos e Seguranca",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar loja oficial de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "acesso solicitado pelo aplicativo"
+        },
+        {
+          "id": "b",
+          "text": "fonte recomendada para baixar aplicativos"
+        },
+        {
+          "id": "c",
+          "text": "software malicioso"
+        },
+        {
+          "id": "d",
+          "text": "correcao e melhoria de seguranca"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q2",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar permissao de app de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "acesso solicitado pelo aplicativo"
+        },
+        {
+          "id": "b",
+          "text": "fonte recomendada para baixar aplicativos"
+        },
+        {
+          "id": "c",
+          "text": "correcao e melhoria de seguranca"
+        },
+        {
+          "id": "d",
+          "text": "software malicioso"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar malware de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "correcao e melhoria de seguranca"
+        },
+        {
+          "id": "b",
+          "text": "acesso solicitado pelo aplicativo"
+        },
+        {
+          "id": "c",
+          "text": "fonte recomendada para baixar aplicativos"
+        },
+        {
+          "id": "d",
+          "text": "software malicioso"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q4",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar atualizacao de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "fonte recomendada para baixar aplicativos"
+        },
+        {
+          "id": "b",
+          "text": "correcao e melhoria de seguranca"
+        },
+        {
+          "id": "c",
+          "text": "software malicioso"
+        },
+        {
+          "id": "d",
+          "text": "acesso solicitado pelo aplicativo"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q5",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar antivirus de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "acesso solicitado pelo aplicativo"
+        },
+        {
+          "id": "b",
+          "text": "software malicioso"
+        },
+        {
+          "id": "c",
+          "text": "fonte recomendada para baixar aplicativos"
+        },
+        {
+          "id": "d",
+          "text": "ferramenta de deteccao e bloqueio de ameacas"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar backup de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "copia de seguranca antes de alteracoes"
+        },
+        {
+          "id": "b",
+          "text": "acesso solicitado pelo aplicativo"
+        },
+        {
+          "id": "c",
+          "text": "software malicioso"
+        },
+        {
+          "id": "d",
+          "text": "fonte recomendada para baixar aplicativos"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Para tomada de decisao, considere a descricao: fonte recomendada para baixar aplicativos. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "atualizacao"
+        },
+        {
+          "id": "b",
+          "text": "permissao de app"
+        },
+        {
+          "id": "c",
+          "text": "loja oficial"
+        },
+        {
+          "id": "d",
+          "text": "malware"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q8",
+      "statement": "Para tomada de decisao, considere a descricao: acesso solicitado pelo aplicativo. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "atualizacao"
+        },
+        {
+          "id": "b",
+          "text": "loja oficial"
+        },
+        {
+          "id": "c",
+          "text": "permissao de app"
+        },
+        {
+          "id": "d",
+          "text": "malware"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q9",
+      "statement": "Para tomada de decisao, considere a descricao: software malicioso. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "permissao de app"
+        },
+        {
+          "id": "b",
+          "text": "malware"
+        },
+        {
+          "id": "c",
+          "text": "atualizacao"
+        },
+        {
+          "id": "d",
+          "text": "loja oficial"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q10",
+      "statement": "Para tomada de decisao, considere a descricao: correcao e melhoria de seguranca. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "loja oficial"
+        },
+        {
+          "id": "b",
+          "text": "malware"
+        },
+        {
+          "id": "c",
+          "text": "permissao de app"
+        },
+        {
+          "id": "d",
+          "text": "atualizacao"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

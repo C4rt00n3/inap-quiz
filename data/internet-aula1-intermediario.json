@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Internet Versao 4 - Intermediario",
+  "subject": "Internet",
+  "lesson": "Aula 1 - Internet Conceitos Basicos",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou internet. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "programa usado para acessar paginas web"
+        },
+        {
+          "id": "b",
+          "text": "rede global de computadores interconectados"
+        },
+        {
+          "id": "c",
+          "text": "ambiente de paginas e conteudo multimidia"
+        },
+        {
+          "id": "d",
+          "text": "identificacao de recurso na internet"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou WWW. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "ambiente de paginas e conteudo multimidia"
+        },
+        {
+          "id": "b",
+          "text": "rede global de computadores interconectados"
+        },
+        {
+          "id": "c",
+          "text": "programa usado para acessar paginas web"
+        },
+        {
+          "id": "d",
+          "text": "identificacao de recurso na internet"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou navegador. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "ambiente de paginas e conteudo multimidia"
+        },
+        {
+          "id": "b",
+          "text": "rede global de computadores interconectados"
+        },
+        {
+          "id": "c",
+          "text": "identificacao de recurso na internet"
+        },
+        {
+          "id": "d",
+          "text": "programa usado para acessar paginas web"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou endereco eletronico. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "identificacao de recurso na internet"
+        },
+        {
+          "id": "b",
+          "text": "rede global de computadores interconectados"
+        },
+        {
+          "id": "c",
+          "text": "ambiente de paginas e conteudo multimidia"
+        },
+        {
+          "id": "d",
+          "text": "programa usado para acessar paginas web"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou hiperlink. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "ambiente de paginas e conteudo multimidia"
+        },
+        {
+          "id": "b",
+          "text": "rede global de computadores interconectados"
+        },
+        {
+          "id": "c",
+          "text": "atalho que leva a outro conteudo"
+        },
+        {
+          "id": "d",
+          "text": "programa usado para acessar paginas web"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q6",
+      "statement": "Durante uma rotina de estudo, a equipe citou tipo de conexao. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "rede global de computadores interconectados"
+        },
+        {
+          "id": "b",
+          "text": "ambiente de paginas e conteudo multimidia"
+        },
+        {
+          "id": "c",
+          "text": "programa usado para acessar paginas web"
+        },
+        {
+          "id": "d",
+          "text": "forma tecnica de acesso a rede"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: rede global de computadores interconectados. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "navegador"
+        },
+        {
+          "id": "b",
+          "text": "endereco eletronico"
+        },
+        {
+          "id": "c",
+          "text": "WWW"
+        },
+        {
+          "id": "d",
+          "text": "internet"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: ambiente de paginas e conteudo multimidia. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "navegador"
+        },
+        {
+          "id": "b",
+          "text": "WWW"
+        },
+        {
+          "id": "c",
+          "text": "endereco eletronico"
+        },
+        {
+          "id": "d",
+          "text": "internet"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: programa usado para acessar paginas web. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "WWW"
+        },
+        {
+          "id": "b",
+          "text": "internet"
+        },
+        {
+          "id": "c",
+          "text": "navegador"
+        },
+        {
+          "id": "d",
+          "text": "endereco eletronico"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: identificacao de recurso na internet. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "endereco eletronico"
+        },
+        {
+          "id": "b",
+          "text": "internet"
+        },
+        {
+          "id": "c",
+          "text": "WWW"
+        },
+        {
+          "id": "d",
+          "text": "navegador"
+        }
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

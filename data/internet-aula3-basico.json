@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Internet Versao 4 - Basico",
+  "subject": "Internet",
+  "lesson": "Aula 3 - Funcionalidades do Google",
+  "level": "Basico",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Qual alternativa define corretamente YouTube?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "ferramenta de traducao de idiomas"
+        },
+        {
+          "id": "b",
+          "text": "plataforma de compartilhamento de videos"
+        },
+        {
+          "id": "c",
+          "text": "servico de mapas e rotas"
+        },
+        {
+          "id": "d",
+          "text": "agregador de noticias"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q2",
+      "statement": "Qual alternativa define corretamente Google Maps?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "agregador de noticias"
+        },
+        {
+          "id": "b",
+          "text": "plataforma de compartilhamento de videos"
+        },
+        {
+          "id": "c",
+          "text": "ferramenta de traducao de idiomas"
+        },
+        {
+          "id": "d",
+          "text": "servico de mapas e rotas"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q3",
+      "statement": "Qual alternativa define corretamente Google Tradutor?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "servico de mapas e rotas"
+        },
+        {
+          "id": "b",
+          "text": "ferramenta de traducao de idiomas"
+        },
+        {
+          "id": "c",
+          "text": "plataforma de compartilhamento de videos"
+        },
+        {
+          "id": "d",
+          "text": "agregador de noticias"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Qual alternativa define corretamente Google Noticias?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "servico de mapas e rotas"
+        },
+        {
+          "id": "b",
+          "text": "plataforma de compartilhamento de videos"
+        },
+        {
+          "id": "c",
+          "text": "ferramenta de traducao de idiomas"
+        },
+        {
+          "id": "d",
+          "text": "agregador de noticias"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q5",
+      "statement": "Qual alternativa define corretamente Google Shopping?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "servico de mapas e rotas"
+        },
+        {
+          "id": "b",
+          "text": "ferramenta de traducao de idiomas"
+        },
+        {
+          "id": "c",
+          "text": "busca de produtos e comparacao"
+        },
+        {
+          "id": "d",
+          "text": "plataforma de compartilhamento de videos"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q6",
+      "statement": "Qual alternativa define corretamente filtro de busca?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "recurso para refinar resultados"
+        },
+        {
+          "id": "b",
+          "text": "servico de mapas e rotas"
+        },
+        {
+          "id": "c",
+          "text": "plataforma de compartilhamento de videos"
+        },
+        {
+          "id": "d",
+          "text": "ferramenta de traducao de idiomas"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Qual conceito corresponde a descricao: plataforma de compartilhamento de videos?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Google Tradutor"
+        },
+        {
+          "id": "b",
+          "text": "Google Noticias"
+        },
+        {
+          "id": "c",
+          "text": "YouTube"
+        },
+        {
+          "id": "d",
+          "text": "Google Maps"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q8",
+      "statement": "Qual conceito corresponde a descricao: servico de mapas e rotas?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Google Tradutor"
+        },
+        {
+          "id": "b",
+          "text": "YouTube"
+        },
+        {
+          "id": "c",
+          "text": "Google Maps"
+        },
+        {
+          "id": "d",
+          "text": "Google Noticias"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q9",
+      "statement": "Qual conceito corresponde a descricao: ferramenta de traducao de idiomas?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Google Maps"
+        },
+        {
+          "id": "b",
+          "text": "YouTube"
+        },
+        {
+          "id": "c",
+          "text": "Google Tradutor"
+        },
+        {
+          "id": "d",
+          "text": "Google Noticias"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Qual conceito corresponde a descricao: agregador de noticias?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Google Tradutor"
+        },
+        {
+          "id": "b",
+          "text": "Google Maps"
+        },
+        {
+          "id": "c",
+          "text": "YouTube"
+        },
+        {
+          "id": "d",
+          "text": "Google Noticias"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

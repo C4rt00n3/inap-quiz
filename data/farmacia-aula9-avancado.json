@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Atendente de Farmacia - Avancado",
+  "subject": "Farmacia",
+  "lesson": "Aula 9 - Transporte da Vitima",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar avaliacao primaria de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "movimentar sem agravar lesoes"
+        },
+        {
+          "id": "b",
+          "text": "verificar consciencia, respiracao e circulacao"
+        },
+        {
+          "id": "c",
+          "text": "equipamento preferencial para transporte"
+        },
+        {
+          "id": "d",
+          "text": "estabilizar suspeita de fratura antes de mover"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q2",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar transporte seguro de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "estabilizar suspeita de fratura antes de mover"
+        },
+        {
+          "id": "b",
+          "text": "verificar consciencia, respiracao e circulacao"
+        },
+        {
+          "id": "c",
+          "text": "equipamento preferencial para transporte"
+        },
+        {
+          "id": "d",
+          "text": "movimentar sem agravar lesoes"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q3",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar maca de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "movimentar sem agravar lesoes"
+        },
+        {
+          "id": "b",
+          "text": "estabilizar suspeita de fratura antes de mover"
+        },
+        {
+          "id": "c",
+          "text": "equipamento preferencial para transporte"
+        },
+        {
+          "id": "d",
+          "text": "verificar consciencia, respiracao e circulacao"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q4",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar imobilizacao de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "equipamento preferencial para transporte"
+        },
+        {
+          "id": "b",
+          "text": "movimentar sem agravar lesoes"
+        },
+        {
+          "id": "c",
+          "text": "verificar consciencia, respiracao e circulacao"
+        },
+        {
+          "id": "d",
+          "text": "estabilizar suspeita de fratura antes de mover"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q5",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar posicao lateral de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "verificar consciencia, respiracao e circulacao"
+        },
+        {
+          "id": "b",
+          "text": "movimentar sem agravar lesoes"
+        },
+        {
+          "id": "c",
+          "text": "equipamento preferencial para transporte"
+        },
+        {
+          "id": "d",
+          "text": "posicionar inconsciente respirando sem trauma suspeito"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar controle de choque de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "medidas para manter perfusao e estabilidade"
+        },
+        {
+          "id": "b",
+          "text": "equipamento preferencial para transporte"
+        },
+        {
+          "id": "c",
+          "text": "verificar consciencia, respiracao e circulacao"
+        },
+        {
+          "id": "d",
+          "text": "movimentar sem agravar lesoes"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Para tomada de decisao, considere a descricao: verificar consciencia, respiracao e circulacao. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "imobilizacao"
+        },
+        {
+          "id": "b",
+          "text": "maca"
+        },
+        {
+          "id": "c",
+          "text": "avaliacao primaria"
+        },
+        {
+          "id": "d",
+          "text": "transporte seguro"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q8",
+      "statement": "Para tomada de decisao, considere a descricao: movimentar sem agravar lesoes. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "maca"
+        },
+        {
+          "id": "b",
+          "text": "avaliacao primaria"
+        },
+        {
+          "id": "c",
+          "text": "transporte seguro"
+        },
+        {
+          "id": "d",
+          "text": "imobilizacao"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q9",
+      "statement": "Para tomada de decisao, considere a descricao: equipamento preferencial para transporte. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "imobilizacao"
+        },
+        {
+          "id": "b",
+          "text": "maca"
+        },
+        {
+          "id": "c",
+          "text": "transporte seguro"
+        },
+        {
+          "id": "d",
+          "text": "avaliacao primaria"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q10",
+      "statement": "Para tomada de decisao, considere a descricao: estabilizar suspeita de fratura antes de mover. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "transporte seguro"
+        },
+        {
+          "id": "b",
+          "text": "avaliacao primaria"
+        },
+        {
+          "id": "c",
+          "text": "imobilizacao"
+        },
+        {
+          "id": "d",
+          "text": "maca"
+        }
+      ],
+      "correctOptionId": "c"
+    }
+  ]
+}

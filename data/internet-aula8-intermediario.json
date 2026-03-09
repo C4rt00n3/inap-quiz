@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Internet Versao 4 - Intermediario",
+  "subject": "Internet",
+  "lesson": "Aula 8 - Redes Sociais Facebook II",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou privacidade. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "reporte de conteudo inadequado"
+        },
+        {
+          "id": "b",
+          "text": "medidas para evitar invasao"
+        },
+        {
+          "id": "c",
+          "text": "controle de quem ve suas publicacoes"
+        },
+        {
+          "id": "d",
+          "text": "restricao de contato de outro usuario"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou bloqueio. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "medidas para evitar invasao"
+        },
+        {
+          "id": "b",
+          "text": "controle de quem ve suas publicacoes"
+        },
+        {
+          "id": "c",
+          "text": "restricao de contato de outro usuario"
+        },
+        {
+          "id": "d",
+          "text": "reporte de conteudo inadequado"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou denuncia. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "controle de quem ve suas publicacoes"
+        },
+        {
+          "id": "b",
+          "text": "restricao de contato de outro usuario"
+        },
+        {
+          "id": "c",
+          "text": "reporte de conteudo inadequado"
+        },
+        {
+          "id": "d",
+          "text": "medidas para evitar invasao"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou seguranca de conta. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "restricao de contato de outro usuario"
+        },
+        {
+          "id": "b",
+          "text": "medidas para evitar invasao"
+        },
+        {
+          "id": "c",
+          "text": "controle de quem ve suas publicacoes"
+        },
+        {
+          "id": "d",
+          "text": "reporte de conteudo inadequado"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou autenticacao em duas etapas. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "camada extra para login seguro"
+        },
+        {
+          "id": "b",
+          "text": "controle de quem ve suas publicacoes"
+        },
+        {
+          "id": "c",
+          "text": "reporte de conteudo inadequado"
+        },
+        {
+          "id": "d",
+          "text": "restricao de contato de outro usuario"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q6",
+      "statement": "Durante uma rotina de estudo, a equipe citou golpe digital. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "reporte de conteudo inadequado"
+        },
+        {
+          "id": "b",
+          "text": "fraude realizada por perfil ou mensagem"
+        },
+        {
+          "id": "c",
+          "text": "restricao de contato de outro usuario"
+        },
+        {
+          "id": "d",
+          "text": "controle de quem ve suas publicacoes"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: controle de quem ve suas publicacoes. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "seguranca de conta"
+        },
+        {
+          "id": "b",
+          "text": "privacidade"
+        },
+        {
+          "id": "c",
+          "text": "denuncia"
+        },
+        {
+          "id": "d",
+          "text": "bloqueio"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: restricao de contato de outro usuario. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "seguranca de conta"
+        },
+        {
+          "id": "b",
+          "text": "bloqueio"
+        },
+        {
+          "id": "c",
+          "text": "privacidade"
+        },
+        {
+          "id": "d",
+          "text": "denuncia"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: reporte de conteudo inadequado. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "seguranca de conta"
+        },
+        {
+          "id": "b",
+          "text": "privacidade"
+        },
+        {
+          "id": "c",
+          "text": "denuncia"
+        },
+        {
+          "id": "d",
+          "text": "bloqueio"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: medidas para evitar invasao. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "seguranca de conta"
+        },
+        {
+          "id": "b",
+          "text": "denuncia"
+        },
+        {
+          "id": "c",
+          "text": "privacidade"
+        },
+        {
+          "id": "d",
+          "text": "bloqueio"
+        }
+      ],
+      "correctOptionId": "a"
+    }
+  ]
+}

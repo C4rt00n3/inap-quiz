@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Biosseguranca - Basico",
+  "subject": "Biosseguranca",
+  "lesson": "Aula 7 - Controle Microbiano",
+  "level": "Basico",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Qual alternativa define corretamente esterilizacao?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "eliminacao de todas as formas viaveis de microrganismos"
+        },
+        {
+          "id": "b",
+          "text": "reducao de microrganismos patogenicos"
+        },
+        {
+          "id": "c",
+          "text": "controle por calor, radiacao ou filtracao"
+        },
+        {
+          "id": "d",
+          "text": "aplicacao de agente quimico em tecido vivo"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Qual alternativa define corretamente desinfeccao?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "eliminacao de todas as formas viaveis de microrganismos"
+        },
+        {
+          "id": "b",
+          "text": "reducao de microrganismos patogenicos"
+        },
+        {
+          "id": "c",
+          "text": "aplicacao de agente quimico em tecido vivo"
+        },
+        {
+          "id": "d",
+          "text": "controle por calor, radiacao ou filtracao"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q3",
+      "statement": "Qual alternativa define corretamente antissepsia?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "eliminacao de todas as formas viaveis de microrganismos"
+        },
+        {
+          "id": "b",
+          "text": "aplicacao de agente quimico em tecido vivo"
+        },
+        {
+          "id": "c",
+          "text": "reducao de microrganismos patogenicos"
+        },
+        {
+          "id": "d",
+          "text": "controle por calor, radiacao ou filtracao"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Qual alternativa define corretamente metodo fisico?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "controle por calor, radiacao ou filtracao"
+        },
+        {
+          "id": "b",
+          "text": "eliminacao de todas as formas viaveis de microrganismos"
+        },
+        {
+          "id": "c",
+          "text": "aplicacao de agente quimico em tecido vivo"
+        },
+        {
+          "id": "d",
+          "text": "reducao de microrganismos patogenicos"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q5",
+      "statement": "Qual alternativa define corretamente metodo quimico?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "reducao de microrganismos patogenicos"
+        },
+        {
+          "id": "b",
+          "text": "aplicacao de agente quimico em tecido vivo"
+        },
+        {
+          "id": "c",
+          "text": "eliminacao de todas as formas viaveis de microrganismos"
+        },
+        {
+          "id": "d",
+          "text": "controle por desinfetantes e antissepticos"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Qual alternativa define corretamente tempo de contato?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "periodo necessario para eficacia do agente"
+        },
+        {
+          "id": "b",
+          "text": "aplicacao de agente quimico em tecido vivo"
+        },
+        {
+          "id": "c",
+          "text": "eliminacao de todas as formas viaveis de microrganismos"
+        },
+        {
+          "id": "d",
+          "text": "reducao de microrganismos patogenicos"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Qual conceito corresponde a descricao: eliminacao de todas as formas viaveis de microrganismos?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "desinfeccao"
+        },
+        {
+          "id": "b",
+          "text": "metodo fisico"
+        },
+        {
+          "id": "c",
+          "text": "antissepsia"
+        },
+        {
+          "id": "d",
+          "text": "esterilizacao"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q8",
+      "statement": "Qual conceito corresponde a descricao: reducao de microrganismos patogenicos?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "antissepsia"
+        },
+        {
+          "id": "b",
+          "text": "desinfeccao"
+        },
+        {
+          "id": "c",
+          "text": "metodo fisico"
+        },
+        {
+          "id": "d",
+          "text": "esterilizacao"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Qual conceito corresponde a descricao: aplicacao de agente quimico em tecido vivo?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "desinfeccao"
+        },
+        {
+          "id": "b",
+          "text": "antissepsia"
+        },
+        {
+          "id": "c",
+          "text": "esterilizacao"
+        },
+        {
+          "id": "d",
+          "text": "metodo fisico"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q10",
+      "statement": "Qual conceito corresponde a descricao: controle por calor, radiacao ou filtracao?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "esterilizacao"
+        },
+        {
+          "id": "b",
+          "text": "metodo fisico"
+        },
+        {
+          "id": "c",
+          "text": "desinfeccao"
+        },
+        {
+          "id": "d",
+          "text": "antissepsia"
+        }
+      ],
+      "correctOptionId": "b"
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Biosseguranca - Basico",
+  "subject": "Biosseguranca",
+  "lesson": "Aula 6 - Virus e Fungos",
+  "level": "Basico",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Qual alternativa define corretamente virus?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "estrutura de dispersao de fungos"
+        },
+        {
+          "id": "b",
+          "text": "organismo eucarionte que pode ser oportunista"
+        },
+        {
+          "id": "c",
+          "text": "agente acelular que depende de celula hospedeira"
+        },
+        {
+          "id": "d",
+          "text": "rota importante de transmissao"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q2",
+      "statement": "Qual alternativa define corretamente fungo?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "estrutura de dispersao de fungos"
+        },
+        {
+          "id": "b",
+          "text": "rota importante de transmissao"
+        },
+        {
+          "id": "c",
+          "text": "agente acelular que depende de celula hospedeira"
+        },
+        {
+          "id": "d",
+          "text": "organismo eucarionte que pode ser oportunista"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q3",
+      "statement": "Qual alternativa define corretamente esporo?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "organismo eucarionte que pode ser oportunista"
+        },
+        {
+          "id": "b",
+          "text": "agente acelular que depende de celula hospedeira"
+        },
+        {
+          "id": "c",
+          "text": "rota importante de transmissao"
+        },
+        {
+          "id": "d",
+          "text": "estrutura de dispersao de fungos"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q4",
+      "statement": "Qual alternativa define corretamente via respiratoria?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "estrutura de dispersao de fungos"
+        },
+        {
+          "id": "b",
+          "text": "organismo eucarionte que pode ser oportunista"
+        },
+        {
+          "id": "c",
+          "text": "rota importante de transmissao"
+        },
+        {
+          "id": "d",
+          "text": "agente acelular que depende de celula hospedeira"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Qual alternativa define corretamente controle ambiental?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "agente acelular que depende de celula hospedeira"
+        },
+        {
+          "id": "b",
+          "text": "estrutura de dispersao de fungos"
+        },
+        {
+          "id": "c",
+          "text": "medidas de ventilacao e limpeza"
+        },
+        {
+          "id": "d",
+          "text": "organismo eucarionte que pode ser oportunista"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q6",
+      "statement": "Qual alternativa define corretamente patogenicidade?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "estrutura de dispersao de fungos"
+        },
+        {
+          "id": "b",
+          "text": "agente acelular que depende de celula hospedeira"
+        },
+        {
+          "id": "c",
+          "text": "organismo eucarionte que pode ser oportunista"
+        },
+        {
+          "id": "d",
+          "text": "capacidade de causar doenca"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q7",
+      "statement": "Qual conceito corresponde a descricao: agente acelular que depende de celula hospedeira?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "virus"
+        },
+        {
+          "id": "b",
+          "text": "via respiratoria"
+        },
+        {
+          "id": "c",
+          "text": "esporo"
+        },
+        {
+          "id": "d",
+          "text": "fungo"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Qual conceito corresponde a descricao: organismo eucarionte que pode ser oportunista?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "esporo"
+        },
+        {
+          "id": "b",
+          "text": "virus"
+        },
+        {
+          "id": "c",
+          "text": "fungo"
+        },
+        {
+          "id": "d",
+          "text": "via respiratoria"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q9",
+      "statement": "Qual conceito corresponde a descricao: estrutura de dispersao de fungos?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "esporo"
+        },
+        {
+          "id": "b",
+          "text": "virus"
+        },
+        {
+          "id": "c",
+          "text": "fungo"
+        },
+        {
+          "id": "d",
+          "text": "via respiratoria"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q10",
+      "statement": "Qual conceito corresponde a descricao: rota importante de transmissao?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "virus"
+        },
+        {
+          "id": "b",
+          "text": "via respiratoria"
+        },
+        {
+          "id": "c",
+          "text": "fungo"
+        },
+        {
+          "id": "d",
+          "text": "esporo"
+        }
+      ],
+      "correctOptionId": "b"
+    }
+  ]
+}
