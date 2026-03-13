@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Redes de Computadores Aula 10 - Avancado",
+  "subject": "Redes de Computadores",
+  "lesson": "Aula 10 - Diagnóstico e Resolução de Problemas em Redes LAN",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Introdução de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "esta aula, trabalhamos um dos pontos mais importantes do cotidiano de quem atua em redes de computadores: o diagnóstico e a resolução de problemas em redes LAN"
+        },
+        {
+          "id": "b",
+          "text": "Antes de entrar na prática, entendemos que os problemas em redes locais podem acontecer por vários motivos"
+        },
+        {
+          "id": "c",
+          "text": "Durante a aula, utilizamos comandos que são fundamentais para qualquer técnico de redes"
+        },
+        {
+          "id": "d",
+          "text": "Quando um problema surge em uma rede LAN, o técnico deve seguir uma sequência lógica de passos para encontrar e corrigir a falha"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Problemas Comuns em Redes LAN de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Antes de entrar na prática, entendemos que os problemas em redes locais podem acontecer por vários motivos"
+        },
+        {
+          "id": "b",
+          "text": "Durante a aula, utilizamos comandos que são fundamentais para qualquer técnico de redes"
+        },
+        {
+          "id": "c",
+          "text": "Quando um problema surge em uma rede LAN, o técnico deve seguir uma sequência lógica de passos para encontrar e corrigir a falha"
+        },
+        {
+          "id": "d",
+          "text": "Outra prática importante é a integração de novos dispositivos à rede"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Ferramentas Básicas de Diagnóstico de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "esta aula, trabalhamos um dos pontos mais importantes do cotidiano de quem atua em redes de computadores: o diagnóstico e a resolução de problemas em redes LAN"
+        },
+        {
+          "id": "b",
+          "text": "Durante a aula, utilizamos comandos que são fundamentais para qualquer técnico de redes"
+        },
+        {
+          "id": "c",
+          "text": "Quando um problema surge em uma rede LAN, o técnico deve seguir uma sequência lógica de passos para encontrar e corrigir a falha"
+        },
+        {
+          "id": "d",
+          "text": "Outra prática importante é a integração de novos dispositivos à rede"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Metodologia Prática de Diagnóstico de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "esta aula, trabalhamos um dos pontos mais importantes do cotidiano de quem atua em redes de computadores: o diagnóstico e a resolução de problemas em redes LAN"
+        },
+        {
+          "id": "b",
+          "text": "Antes de entrar na prática, entendemos que os problemas em redes locais podem acontecer por vários motivos"
+        },
+        {
+          "id": "c",
+          "text": "Quando um problema surge em uma rede LAN, o técnico deve seguir uma sequência lógica de passos para encontrar e corrigir a falha"
+        },
+        {
+          "id": "d",
+          "text": "Outra prática importante é a integração de novos dispositivos à rede"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Inclusão de Novos Dispositivos de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "esta aula, trabalhamos um dos pontos mais importantes do cotidiano de quem atua em redes de computadores: o diagnóstico e a resolução de problemas em redes LAN"
+        },
+        {
+          "id": "b",
+          "text": "Antes de entrar na prática, entendemos que os problemas em redes locais podem acontecer por vários motivos"
+        },
+        {
+          "id": "c",
+          "text": "Durante a aula, utilizamos comandos que são fundamentais para qualquer técnico de redes"
+        },
+        {
+          "id": "d",
+          "text": "Outra prática importante é a integração de novos dispositivos à rede"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Para tomada de decisao, considere a descricao: esta aula, trabalhamos um dos pontos mais importantes do cotidiano de quem atua em redes de computadores: o diagnóstico e a resolução de problemas em redes LAN. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Introdução"
+        },
+        {
+          "id": "b",
+          "text": "Problemas Comuns em Redes LAN"
+        },
+        {
+          "id": "c",
+          "text": "Ferramentas Básicas de Diagnóstico"
+        },
+        {
+          "id": "d",
+          "text": "Metodologia Prática de Diagnóstico"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Para tomada de decisao, considere a descricao: Antes de entrar na prática, entendemos que os problemas em redes locais podem acontecer por vários motivos. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Problemas Comuns em Redes LAN"
+        },
+        {
+          "id": "b",
+          "text": "Ferramentas Básicas de Diagnóstico"
+        },
+        {
+          "id": "c",
+          "text": "Metodologia Prática de Diagnóstico"
+        },
+        {
+          "id": "d",
+          "text": "Inclusão de Novos Dispositivos"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Para tomada de decisao, considere a descricao: Durante a aula, utilizamos comandos que são fundamentais para qualquer técnico de redes. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Introdução"
+        },
+        {
+          "id": "b",
+          "text": "Ferramentas Básicas de Diagnóstico"
+        },
+        {
+          "id": "c",
+          "text": "Metodologia Prática de Diagnóstico"
+        },
+        {
+          "id": "d",
+          "text": "Inclusão de Novos Dispositivos"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Para tomada de decisao, considere a descricao: Quando um problema surge em uma rede LAN, o técnico deve seguir uma sequência lógica de passos para encontrar e corrigir a falha. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Introdução"
+        },
+        {
+          "id": "b",
+          "text": "Problemas Comuns em Redes LAN"
+        },
+        {
+          "id": "c",
+          "text": "Metodologia Prática de Diagnóstico"
+        },
+        {
+          "id": "d",
+          "text": "Inclusão de Novos Dispositivos"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Para tomada de decisao, considere a descricao: Outra prática importante é a integração de novos dispositivos à rede. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Introdução"
+        },
+        {
+          "id": "b",
+          "text": "Problemas Comuns em Redes LAN"
+        },
+        {
+          "id": "c",
+          "text": "Ferramentas Básicas de Diagnóstico"
+        },
+        {
+          "id": "d",
+          "text": "Inclusão de Novos Dispositivos"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

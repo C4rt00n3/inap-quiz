@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Redes de Computadores Aula 14 - Intermediario",
+  "subject": "Redes de Computadores",
+  "lesson": "Aula 14 - Conformidade com a LGPD",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou Conformidade com a LGPD. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Redes de Computadores 14. Conformidade com a LGPD. Aula 14 H"
+        },
+        {
+          "id": "b",
+          "text": "oje vamos estudar um tema muito importante: a Lei Geral de Proteção de Dados (LGPD) e o impacto dela dentro das redes corporativas"
+        },
+        {
+          "id": "c",
+          "text": "A LGPD foi criada para garantir que qualquer informação pessoal — como nome, CPF, endereço, telefone ou até mesmo dados médicos e financeiros — seja tratada de forma responsável"
+        },
+        {
+          "id": "d",
+          "text": "Para atender à LGPD dentro de uma rede corporativa, algumas boas práticas são fundamentais: 1"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou Conformidade com a LGPD em Redes de Computadores. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "oje vamos estudar um tema muito importante: a Lei Geral de Proteção de Dados (LGPD) e o impacto dela dentro das redes corporativas"
+        },
+        {
+          "id": "b",
+          "text": "A LGPD foi criada para garantir que qualquer informação pessoal — como nome, CPF, endereço, telefone ou até mesmo dados médicos e financeiros — seja tratada de forma responsável"
+        },
+        {
+          "id": "c",
+          "text": "Para atender à LGPD dentro de uma rede corporativa, algumas boas práticas são fundamentais: 1"
+        },
+        {
+          "id": "d",
+          "text": "tema principal apresentado na aula"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou O que é a LGPD e por que ela afeta as redes. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Redes de Computadores 14. Conformidade com a LGPD. Aula 14 H"
+        },
+        {
+          "id": "b",
+          "text": "A LGPD foi criada para garantir que qualquer informação pessoal — como nome, CPF, endereço, telefone ou até mesmo dados médicos e financeiros — seja tratada de forma responsável"
+        },
+        {
+          "id": "c",
+          "text": "Para atender à LGPD dentro de uma rede corporativa, algumas boas práticas são fundamentais: 1"
+        },
+        {
+          "id": "d",
+          "text": "tema principal apresentado na aula"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou Boas práticas de conformidade na infraestrutura de rede. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Redes de Computadores 14. Conformidade com a LGPD. Aula 14 H"
+        },
+        {
+          "id": "b",
+          "text": "oje vamos estudar um tema muito importante: a Lei Geral de Proteção de Dados (LGPD) e o impacto dela dentro das redes corporativas"
+        },
+        {
+          "id": "c",
+          "text": "Para atender à LGPD dentro de uma rede corporativa, algumas boas práticas são fundamentais: 1"
+        },
+        {
+          "id": "d",
+          "text": "tema principal apresentado na aula"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou conceito central. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Redes de Computadores 14. Conformidade com a LGPD. Aula 14 H"
+        },
+        {
+          "id": "b",
+          "text": "oje vamos estudar um tema muito importante: a Lei Geral de Proteção de Dados (LGPD) e o impacto dela dentro das redes corporativas"
+        },
+        {
+          "id": "c",
+          "text": "A LGPD foi criada para garantir que qualquer informação pessoal — como nome, CPF, endereço, telefone ou até mesmo dados médicos e financeiros — seja tratada de forma responsável"
+        },
+        {
+          "id": "d",
+          "text": "tema principal apresentado na aula"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Em um caso pratico, observou-se: Redes de Computadores 14. Conformidade com a LGPD. Aula 14 H. Qual conceito deve ser identificado?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Conformidade com a LGPD"
+        },
+        {
+          "id": "b",
+          "text": "Conformidade com a LGPD em Redes de Computadores"
+        },
+        {
+          "id": "c",
+          "text": "O que é a LGPD e por que ela afeta as redes"
+        },
+        {
+          "id": "d",
+          "text": "Boas práticas de conformidade na infraestrutura de rede"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: oje vamos estudar um tema muito importante: a Lei Geral de Proteção de Dados (LGPD) e o impacto dela dentro das redes corporativas. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Conformidade com a LGPD em Redes de Computadores"
+        },
+        {
+          "id": "b",
+          "text": "O que é a LGPD e por que ela afeta as redes"
+        },
+        {
+          "id": "c",
+          "text": "Boas práticas de conformidade na infraestrutura de rede"
+        },
+        {
+          "id": "d",
+          "text": "conceito central"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: A LGPD foi criada para garantir que qualquer informação pessoal — como nome, CPF, endereço, telefone ou até mesmo dados médicos e financeiros — seja tratada de forma responsável. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Conformidade com a LGPD"
+        },
+        {
+          "id": "b",
+          "text": "O que é a LGPD e por que ela afeta as redes"
+        },
+        {
+          "id": "c",
+          "text": "Boas práticas de conformidade na infraestrutura de rede"
+        },
+        {
+          "id": "d",
+          "text": "conceito central"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: Para atender à LGPD dentro de uma rede corporativa, algumas boas práticas são fundamentais: 1. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Conformidade com a LGPD"
+        },
+        {
+          "id": "b",
+          "text": "Conformidade com a LGPD em Redes de Computadores"
+        },
+        {
+          "id": "c",
+          "text": "Boas práticas de conformidade na infraestrutura de rede"
+        },
+        {
+          "id": "d",
+          "text": "conceito central"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: tema principal apresentado na aula. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Conformidade com a LGPD"
+        },
+        {
+          "id": "b",
+          "text": "Conformidade com a LGPD em Redes de Computadores"
+        },
+        {
+          "id": "c",
+          "text": "O que é a LGPD e por que ela afeta as redes"
+        },
+        {
+          "id": "d",
+          "text": "conceito central"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

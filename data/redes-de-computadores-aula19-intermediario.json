@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Redes de Computadores Aula 19 - Intermediario",
+  "subject": "Redes de Computadores",
+  "lesson": "Aula 19 - Planejamento e Futuro das Redes",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou Planejamento e Futuro das Redes. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "esta aula, você vai aprender a compreender o papel do planejamento de redes no cenário atual e a visualizar como as tendências tecnológicas estão moldando o futuro da conectividade"
+        },
+        {
+          "id": "b",
+          "text": "Antes de construir qualquer rede, é necessário planejar"
+        },
+        {
+          "id": "c",
+          "text": "Quando falamos de redes modernas, dois fatores se destacam: escalabilidade e segurança"
+        },
+        {
+          "id": "d",
+          "text": "A escalabilidade é a capacidade de uma rede crescer sem perder desempenho"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou O que é Planejamento de Redes. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Antes de construir qualquer rede, é necessário planejar"
+        },
+        {
+          "id": "b",
+          "text": "Quando falamos de redes modernas, dois fatores se destacam: escalabilidade e segurança"
+        },
+        {
+          "id": "c",
+          "text": "A escalabilidade é a capacidade de uma rede crescer sem perder desempenho"
+        },
+        {
+          "id": "d",
+          "text": "A segurança de rede protege dados e dispositivos contra acessos não autorizados"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou Escalabilidade e Segurança. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "esta aula, você vai aprender a compreender o papel do planejamento de redes no cenário atual e a visualizar como as tendências tecnológicas estão moldando o futuro da conectividade"
+        },
+        {
+          "id": "b",
+          "text": "Quando falamos de redes modernas, dois fatores se destacam: escalabilidade e segurança"
+        },
+        {
+          "id": "c",
+          "text": "A escalabilidade é a capacidade de uma rede crescer sem perder desempenho"
+        },
+        {
+          "id": "d",
+          "text": "A segurança de rede protege dados e dispositivos contra acessos não autorizados"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou Escalabilidade. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "esta aula, você vai aprender a compreender o papel do planejamento de redes no cenário atual e a visualizar como as tendências tecnológicas estão moldando o futuro da conectividade"
+        },
+        {
+          "id": "b",
+          "text": "Antes de construir qualquer rede, é necessário planejar"
+        },
+        {
+          "id": "c",
+          "text": "A escalabilidade é a capacidade de uma rede crescer sem perder desempenho"
+        },
+        {
+          "id": "d",
+          "text": "A segurança de rede protege dados e dispositivos contra acessos não autorizados"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou Segurança. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "esta aula, você vai aprender a compreender o papel do planejamento de redes no cenário atual e a visualizar como as tendências tecnológicas estão moldando o futuro da conectividade"
+        },
+        {
+          "id": "b",
+          "text": "Antes de construir qualquer rede, é necessário planejar"
+        },
+        {
+          "id": "c",
+          "text": "Quando falamos de redes modernas, dois fatores se destacam: escalabilidade e segurança"
+        },
+        {
+          "id": "d",
+          "text": "A segurança de rede protege dados e dispositivos contra acessos não autorizados"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Em um caso pratico, observou-se: esta aula, você vai aprender a compreender o papel do planejamento de redes no cenário atual e a visualizar como as tendências tecnológicas estão moldando o futuro da conectividade. Qual conceito deve ser identificado?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Planejamento e Futuro das Redes"
+        },
+        {
+          "id": "b",
+          "text": "O que é Planejamento de Redes"
+        },
+        {
+          "id": "c",
+          "text": "Escalabilidade e Segurança"
+        },
+        {
+          "id": "d",
+          "text": "Escalabilidade"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: Antes de construir qualquer rede, é necessário planejar. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "O que é Planejamento de Redes"
+        },
+        {
+          "id": "b",
+          "text": "Escalabilidade e Segurança"
+        },
+        {
+          "id": "c",
+          "text": "Escalabilidade"
+        },
+        {
+          "id": "d",
+          "text": "Segurança"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: Quando falamos de redes modernas, dois fatores se destacam: escalabilidade e segurança. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Planejamento e Futuro das Redes"
+        },
+        {
+          "id": "b",
+          "text": "Escalabilidade e Segurança"
+        },
+        {
+          "id": "c",
+          "text": "Escalabilidade"
+        },
+        {
+          "id": "d",
+          "text": "Segurança"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: A escalabilidade é a capacidade de uma rede crescer sem perder desempenho. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Planejamento e Futuro das Redes"
+        },
+        {
+          "id": "b",
+          "text": "O que é Planejamento de Redes"
+        },
+        {
+          "id": "c",
+          "text": "Escalabilidade"
+        },
+        {
+          "id": "d",
+          "text": "Segurança"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: A segurança de rede protege dados e dispositivos contra acessos não autorizados. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Planejamento e Futuro das Redes"
+        },
+        {
+          "id": "b",
+          "text": "O que é Planejamento de Redes"
+        },
+        {
+          "id": "c",
+          "text": "Escalabilidade e Segurança"
+        },
+        {
+          "id": "d",
+          "text": "Segurança"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

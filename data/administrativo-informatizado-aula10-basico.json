@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Administrativo Informatizado Aula 10 - Basico",
+  "subject": "Administrativo Informatizado",
+  "lesson": "Aula 10 - Fórmulas e Funções no Contexto Administrativo",
+  "level": "Basico",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Qual alternativa define corretamente Função SOMA?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "A função SOMA é uma das mais básicas e versáteis do Excel"
+        },
+        {
+          "id": "b",
+          "text": "A função MÉDIA calcula a média aritmética de um conjunto de valores"
+        },
+        {
+          "id": "c",
+          "text": "A função MÍNIMO identifica o menor valor em um intervalo de células"
+        },
+        {
+          "id": "d",
+          "text": "A função MÁXIMO encontra o maior valor em um intervalo de células"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Qual alternativa define corretamente Função MÉDIA?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "A função MÉDIA calcula a média aritmética de um conjunto de valores"
+        },
+        {
+          "id": "b",
+          "text": "A função MÍNIMO identifica o menor valor em um intervalo de células"
+        },
+        {
+          "id": "c",
+          "text": "A função MÁXIMO encontra o maior valor em um intervalo de células"
+        },
+        {
+          "id": "d",
+          "text": "Os operadores de comparação no Excel são ferramentas essenciais para realizar análises lógicas e tomar decisões com base em dados"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Qual alternativa define corretamente Função MÍNIMO?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "A função SOMA é uma das mais básicas e versáteis do Excel"
+        },
+        {
+          "id": "b",
+          "text": "A função MÍNIMO identifica o menor valor em um intervalo de células"
+        },
+        {
+          "id": "c",
+          "text": "A função MÁXIMO encontra o maior valor em um intervalo de células"
+        },
+        {
+          "id": "d",
+          "text": "Os operadores de comparação no Excel são ferramentas essenciais para realizar análises lógicas e tomar decisões com base em dados"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Qual alternativa define corretamente Função MÁXIMO?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "A função SOMA é uma das mais básicas e versáteis do Excel"
+        },
+        {
+          "id": "b",
+          "text": "A função MÉDIA calcula a média aritmética de um conjunto de valores"
+        },
+        {
+          "id": "c",
+          "text": "A função MÁXIMO encontra o maior valor em um intervalo de células"
+        },
+        {
+          "id": "d",
+          "text": "Os operadores de comparação no Excel são ferramentas essenciais para realizar análises lógicas e tomar decisões com base em dados"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Qual alternativa define corretamente Operadores de comparação?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "A função SOMA é uma das mais básicas e versáteis do Excel"
+        },
+        {
+          "id": "b",
+          "text": "A função MÉDIA calcula a média aritmética de um conjunto de valores"
+        },
+        {
+          "id": "c",
+          "text": "A função MÍNIMO identifica o menor valor em um intervalo de células"
+        },
+        {
+          "id": "d",
+          "text": "Os operadores de comparação no Excel são ferramentas essenciais para realizar análises lógicas e tomar decisões com base em dados"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Qual conceito corresponde a descricao: A função SOMA é uma das mais básicas e versáteis do Excel?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Função SOMA"
+        },
+        {
+          "id": "b",
+          "text": "Função MÉDIA"
+        },
+        {
+          "id": "c",
+          "text": "Função MÍNIMO"
+        },
+        {
+          "id": "d",
+          "text": "Função MÁXIMO"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Qual conceito corresponde a descricao: A função MÉDIA calcula a média aritmética de um conjunto de valores?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Função MÉDIA"
+        },
+        {
+          "id": "b",
+          "text": "Função MÍNIMO"
+        },
+        {
+          "id": "c",
+          "text": "Função MÁXIMO"
+        },
+        {
+          "id": "d",
+          "text": "Operadores de comparação"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Qual conceito corresponde a descricao: A função MÍNIMO identifica o menor valor em um intervalo de células?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Função SOMA"
+        },
+        {
+          "id": "b",
+          "text": "Função MÍNIMO"
+        },
+        {
+          "id": "c",
+          "text": "Função MÁXIMO"
+        },
+        {
+          "id": "d",
+          "text": "Operadores de comparação"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Qual conceito corresponde a descricao: A função MÁXIMO encontra o maior valor em um intervalo de células?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Função SOMA"
+        },
+        {
+          "id": "b",
+          "text": "Função MÉDIA"
+        },
+        {
+          "id": "c",
+          "text": "Função MÁXIMO"
+        },
+        {
+          "id": "d",
+          "text": "Operadores de comparação"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Qual conceito corresponde a descricao: Os operadores de comparação no Excel são ferramentas essenciais para realizar análises lógicas e tomar decisões com base em dados?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Função SOMA"
+        },
+        {
+          "id": "b",
+          "text": "Função MÉDIA"
+        },
+        {
+          "id": "c",
+          "text": "Função MÍNIMO"
+        },
+        {
+          "id": "d",
+          "text": "Operadores de comparação"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

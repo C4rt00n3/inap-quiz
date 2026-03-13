@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Administrativo Informatizado Aula 12 - Intermediario",
+  "subject": "Administrativo Informatizado",
+  "lesson": "Aula 12 - Postura e Ética Profissional",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou Pontualidade. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "A pontualidade é um sinal de respeito e compromisso com o trabalho e com os colegas"
+        },
+        {
+          "id": "b",
+          "text": "O vestuário adequado no ambiente de trabalho reflete profissionalismo e respeito pelo código de vestimenta da empresa"
+        },
+        {
+          "id": "c",
+          "text": "A forma como você se comunica no trabalho é crucial para construir relacionamentos positivos e eficazes"
+        },
+        {
+          "id": "d",
+          "text": "Integridade significa agir com honestidade e justiça em todas as suas interações e decisões"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou Vestuário. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "O vestuário adequado no ambiente de trabalho reflete profissionalismo e respeito pelo código de vestimenta da empresa"
+        },
+        {
+          "id": "b",
+          "text": "A forma como você se comunica no trabalho é crucial para construir relacionamentos positivos e eficazes"
+        },
+        {
+          "id": "c",
+          "text": "Integridade significa agir com honestidade e justiça em todas as suas interações e decisões"
+        },
+        {
+          "id": "d",
+          "text": "informações sensíveis e privadas da empresa e dos colegas"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou Linguagem e Comunicação. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "A pontualidade é um sinal de respeito e compromisso com o trabalho e com os colegas"
+        },
+        {
+          "id": "b",
+          "text": "A forma como você se comunica no trabalho é crucial para construir relacionamentos positivos e eficazes"
+        },
+        {
+          "id": "c",
+          "text": "Integridade significa agir com honestidade e justiça em todas as suas interações e decisões"
+        },
+        {
+          "id": "d",
+          "text": "informações sensíveis e privadas da empresa e dos colegas"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou Integridade. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "A pontualidade é um sinal de respeito e compromisso com o trabalho e com os colegas"
+        },
+        {
+          "id": "b",
+          "text": "O vestuário adequado no ambiente de trabalho reflete profissionalismo e respeito pelo código de vestimenta da empresa"
+        },
+        {
+          "id": "c",
+          "text": "Integridade significa agir com honestidade e justiça em todas as suas interações e decisões"
+        },
+        {
+          "id": "d",
+          "text": "informações sensíveis e privadas da empresa e dos colegas"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou Confidencialidade A confidencialidade envolve proteger. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "A pontualidade é um sinal de respeito e compromisso com o trabalho e com os colegas"
+        },
+        {
+          "id": "b",
+          "text": "O vestuário adequado no ambiente de trabalho reflete profissionalismo e respeito pelo código de vestimenta da empresa"
+        },
+        {
+          "id": "c",
+          "text": "A forma como você se comunica no trabalho é crucial para construir relacionamentos positivos e eficazes"
+        },
+        {
+          "id": "d",
+          "text": "informações sensíveis e privadas da empresa e dos colegas"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Em um caso pratico, observou-se: A pontualidade é um sinal de respeito e compromisso com o trabalho e com os colegas. Qual conceito deve ser identificado?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pontualidade"
+        },
+        {
+          "id": "b",
+          "text": "Vestuário"
+        },
+        {
+          "id": "c",
+          "text": "Linguagem e Comunicação"
+        },
+        {
+          "id": "d",
+          "text": "Integridade"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: O vestuário adequado no ambiente de trabalho reflete profissionalismo e respeito pelo código de vestimenta da empresa. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vestuário"
+        },
+        {
+          "id": "b",
+          "text": "Linguagem e Comunicação"
+        },
+        {
+          "id": "c",
+          "text": "Integridade"
+        },
+        {
+          "id": "d",
+          "text": "Confidencialidade A confidencialidade envolve proteger"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: A forma como você se comunica no trabalho é crucial para construir relacionamentos positivos e eficazes. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pontualidade"
+        },
+        {
+          "id": "b",
+          "text": "Linguagem e Comunicação"
+        },
+        {
+          "id": "c",
+          "text": "Integridade"
+        },
+        {
+          "id": "d",
+          "text": "Confidencialidade A confidencialidade envolve proteger"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: Integridade significa agir com honestidade e justiça em todas as suas interações e decisões. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pontualidade"
+        },
+        {
+          "id": "b",
+          "text": "Vestuário"
+        },
+        {
+          "id": "c",
+          "text": "Integridade"
+        },
+        {
+          "id": "d",
+          "text": "Confidencialidade A confidencialidade envolve proteger"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: informações sensíveis e privadas da empresa e dos colegas. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pontualidade"
+        },
+        {
+          "id": "b",
+          "text": "Vestuário"
+        },
+        {
+          "id": "c",
+          "text": "Linguagem e Comunicação"
+        },
+        {
+          "id": "d",
+          "text": "Confidencialidade A confidencialidade envolve proteger"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

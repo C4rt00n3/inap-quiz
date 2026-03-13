@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Administrativo Informatizado Aula 18 - Intermediario",
+  "subject": "Administrativo Informatizado",
+  "lesson": "Aula 18 - Operações Financeiras e suas Aplicações",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou Investimentos. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Investir é o ato de alocar recursos, geralmente dinheiro, em diferentes tipos de ativos com o objetivo de obter um retorno financeiro futuro"
+        },
+        {
+          "id": "b",
+          "text": "em dois grandes grupos: renda fixa e renda variável"
+        },
+        {
+          "id": "c",
+          "text": "Um empréstimo é uma quantia de dinheiro que você pega emprestado de uma instituição financeira e se compromete a devolver em parcelas regulares, acrescido de juros"
+        },
+        {
+          "id": "d",
+          "text": "Financiamento é uma modalidade de crédito específica para a compra de bens de alto valor, como imóveis e veículos"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou Tipos de Investimentos Os investimentos são geralmente divididos. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "em dois grandes grupos: renda fixa e renda variável"
+        },
+        {
+          "id": "b",
+          "text": "Um empréstimo é uma quantia de dinheiro que você pega emprestado de uma instituição financeira e se compromete a devolver em parcelas regulares, acrescido de juros"
+        },
+        {
+          "id": "c",
+          "text": "Financiamento é uma modalidade de crédito específica para a compra de bens de alto valor, como imóveis e veículos"
+        },
+        {
+          "id": "d",
+          "text": "O parcelamento é uma forma de dividir o pagamento de um bem ou serviço em várias parcelas ao longo do tempo"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou Empréstimos. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Investir é o ato de alocar recursos, geralmente dinheiro, em diferentes tipos de ativos com o objetivo de obter um retorno financeiro futuro"
+        },
+        {
+          "id": "b",
+          "text": "Um empréstimo é uma quantia de dinheiro que você pega emprestado de uma instituição financeira e se compromete a devolver em parcelas regulares, acrescido de juros"
+        },
+        {
+          "id": "c",
+          "text": "Financiamento é uma modalidade de crédito específica para a compra de bens de alto valor, como imóveis e veículos"
+        },
+        {
+          "id": "d",
+          "text": "O parcelamento é uma forma de dividir o pagamento de um bem ou serviço em várias parcelas ao longo do tempo"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou Financiamentos. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Investir é o ato de alocar recursos, geralmente dinheiro, em diferentes tipos de ativos com o objetivo de obter um retorno financeiro futuro"
+        },
+        {
+          "id": "b",
+          "text": "em dois grandes grupos: renda fixa e renda variável"
+        },
+        {
+          "id": "c",
+          "text": "Financiamento é uma modalidade de crédito específica para a compra de bens de alto valor, como imóveis e veículos"
+        },
+        {
+          "id": "d",
+          "text": "O parcelamento é uma forma de dividir o pagamento de um bem ou serviço em várias parcelas ao longo do tempo"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou Parcelamentos. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Investir é o ato de alocar recursos, geralmente dinheiro, em diferentes tipos de ativos com o objetivo de obter um retorno financeiro futuro"
+        },
+        {
+          "id": "b",
+          "text": "em dois grandes grupos: renda fixa e renda variável"
+        },
+        {
+          "id": "c",
+          "text": "Um empréstimo é uma quantia de dinheiro que você pega emprestado de uma instituição financeira e se compromete a devolver em parcelas regulares, acrescido de juros"
+        },
+        {
+          "id": "d",
+          "text": "O parcelamento é uma forma de dividir o pagamento de um bem ou serviço em várias parcelas ao longo do tempo"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Em um caso pratico, observou-se: Investir é o ato de alocar recursos, geralmente dinheiro, em diferentes tipos de ativos com o objetivo de obter um retorno financeiro futuro. Qual conceito deve ser identificado?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Investimentos"
+        },
+        {
+          "id": "b",
+          "text": "Tipos de Investimentos Os investimentos são geralmente divididos"
+        },
+        {
+          "id": "c",
+          "text": "Empréstimos"
+        },
+        {
+          "id": "d",
+          "text": "Financiamentos"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: em dois grandes grupos: renda fixa e renda variável. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tipos de Investimentos Os investimentos são geralmente divididos"
+        },
+        {
+          "id": "b",
+          "text": "Empréstimos"
+        },
+        {
+          "id": "c",
+          "text": "Financiamentos"
+        },
+        {
+          "id": "d",
+          "text": "Parcelamentos"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: Um empréstimo é uma quantia de dinheiro que você pega emprestado de uma instituição financeira e se compromete a devolver em parcelas regulares, acrescido de juros. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Investimentos"
+        },
+        {
+          "id": "b",
+          "text": "Empréstimos"
+        },
+        {
+          "id": "c",
+          "text": "Financiamentos"
+        },
+        {
+          "id": "d",
+          "text": "Parcelamentos"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: Financiamento é uma modalidade de crédito específica para a compra de bens de alto valor, como imóveis e veículos. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Investimentos"
+        },
+        {
+          "id": "b",
+          "text": "Tipos de Investimentos Os investimentos são geralmente divididos"
+        },
+        {
+          "id": "c",
+          "text": "Financiamentos"
+        },
+        {
+          "id": "d",
+          "text": "Parcelamentos"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: O parcelamento é uma forma de dividir o pagamento de um bem ou serviço em várias parcelas ao longo do tempo. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Investimentos"
+        },
+        {
+          "id": "b",
+          "text": "Tipos de Investimentos Os investimentos são geralmente divididos"
+        },
+        {
+          "id": "c",
+          "text": "Empréstimos"
+        },
+        {
+          "id": "d",
+          "text": "Parcelamentos"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

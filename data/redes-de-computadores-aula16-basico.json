@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Redes de Computadores Aula 16 - Basico",
+  "subject": "Redes de Computadores",
+  "lesson": "Aula 16 - Planejamento e Projeto de Redes II",
+  "level": "Basico",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Qual alternativa define corretamente Simulando uma Saída para a Internet?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "esta aula, você vai aprender como uma rede local pode ser configurada para ter acesso à Internet dentro do Cisco Packet Tracer, além de entender como funciona a integração com dispositivos IoT (Internet das Coisas)"
+        },
+        {
+          "id": "b",
+          "text": "Antes de começarmos a prática, é importante relembrar alguns conceitos que você já estudou e que serão aplicados neste projeto"
+        },
+        {
+          "id": "c",
+          "text": "Uma LAN (Local Area Network) é uma rede que interliga computadores, impressoras, servidores e outros dispositivos dentro de um mesmo ambiente — como uma empresa, escola ou residência"
+        },
+        {
+          "id": "d",
+          "text": "O roteador é o coração da comunicação entre redes"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Qual alternativa define corretamente Revisando os Conceitos de Rede?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Antes de começarmos a prática, é importante relembrar alguns conceitos que você já estudou e que serão aplicados neste projeto"
+        },
+        {
+          "id": "b",
+          "text": "Uma LAN (Local Area Network) é uma rede que interliga computadores, impressoras, servidores e outros dispositivos dentro de um mesmo ambiente — como uma empresa, escola ou residência"
+        },
+        {
+          "id": "c",
+          "text": "O roteador é o coração da comunicação entre redes"
+        },
+        {
+          "id": "d",
+          "text": "O projeto segue a estrutura de uma empresa conectada à Internet por meio de uma rede externa"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Qual alternativa define corretamente O que é uma Rede Local (LAN)??",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "esta aula, você vai aprender como uma rede local pode ser configurada para ter acesso à Internet dentro do Cisco Packet Tracer, além de entender como funciona a integração com dispositivos IoT (Internet das Coisas)"
+        },
+        {
+          "id": "b",
+          "text": "Uma LAN (Local Area Network) é uma rede que interliga computadores, impressoras, servidores e outros dispositivos dentro de um mesmo ambiente — como uma empresa, escola ou residência"
+        },
+        {
+          "id": "c",
+          "text": "O roteador é o coração da comunicação entre redes"
+        },
+        {
+          "id": "d",
+          "text": "O projeto segue a estrutura de uma empresa conectada à Internet por meio de uma rede externa"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Qual alternativa define corretamente O que é um Roteador??",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "esta aula, você vai aprender como uma rede local pode ser configurada para ter acesso à Internet dentro do Cisco Packet Tracer, além de entender como funciona a integração com dispositivos IoT (Internet das Coisas)"
+        },
+        {
+          "id": "b",
+          "text": "Antes de começarmos a prática, é importante relembrar alguns conceitos que você já estudou e que serão aplicados neste projeto"
+        },
+        {
+          "id": "c",
+          "text": "O roteador é o coração da comunicação entre redes"
+        },
+        {
+          "id": "d",
+          "text": "O projeto segue a estrutura de uma empresa conectada à Internet por meio de uma rede externa"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Qual alternativa define corretamente Planejamento do Projeto?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "esta aula, você vai aprender como uma rede local pode ser configurada para ter acesso à Internet dentro do Cisco Packet Tracer, além de entender como funciona a integração com dispositivos IoT (Internet das Coisas)"
+        },
+        {
+          "id": "b",
+          "text": "Antes de começarmos a prática, é importante relembrar alguns conceitos que você já estudou e que serão aplicados neste projeto"
+        },
+        {
+          "id": "c",
+          "text": "Uma LAN (Local Area Network) é uma rede que interliga computadores, impressoras, servidores e outros dispositivos dentro de um mesmo ambiente — como uma empresa, escola ou residência"
+        },
+        {
+          "id": "d",
+          "text": "O projeto segue a estrutura de uma empresa conectada à Internet por meio de uma rede externa"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Qual conceito corresponde a descricao: esta aula, você vai aprender como uma rede local pode ser configurada para ter acesso à Internet dentro do Cisco Packet Tracer, além de entender como funciona a integração com dispositivos IoT (Internet das Coisas)?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Simulando uma Saída para a Internet"
+        },
+        {
+          "id": "b",
+          "text": "Revisando os Conceitos de Rede"
+        },
+        {
+          "id": "c",
+          "text": "O que é uma Rede Local (LAN)?"
+        },
+        {
+          "id": "d",
+          "text": "O que é um Roteador?"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Qual conceito corresponde a descricao: Antes de começarmos a prática, é importante relembrar alguns conceitos que você já estudou e que serão aplicados neste projeto?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Revisando os Conceitos de Rede"
+        },
+        {
+          "id": "b",
+          "text": "O que é uma Rede Local (LAN)?"
+        },
+        {
+          "id": "c",
+          "text": "O que é um Roteador?"
+        },
+        {
+          "id": "d",
+          "text": "Planejamento do Projeto"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Qual conceito corresponde a descricao: Uma LAN (Local Area Network) é uma rede que interliga computadores, impressoras, servidores e outros dispositivos dentro de um mesmo ambiente — como uma empresa, escola ou residência?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Simulando uma Saída para a Internet"
+        },
+        {
+          "id": "b",
+          "text": "O que é uma Rede Local (LAN)?"
+        },
+        {
+          "id": "c",
+          "text": "O que é um Roteador?"
+        },
+        {
+          "id": "d",
+          "text": "Planejamento do Projeto"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Qual conceito corresponde a descricao: O roteador é o coração da comunicação entre redes?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Simulando uma Saída para a Internet"
+        },
+        {
+          "id": "b",
+          "text": "Revisando os Conceitos de Rede"
+        },
+        {
+          "id": "c",
+          "text": "O que é um Roteador?"
+        },
+        {
+          "id": "d",
+          "text": "Planejamento do Projeto"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Qual conceito corresponde a descricao: O projeto segue a estrutura de uma empresa conectada à Internet por meio de uma rede externa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Simulando uma Saída para a Internet"
+        },
+        {
+          "id": "b",
+          "text": "Revisando os Conceitos de Rede"
+        },
+        {
+          "id": "c",
+          "text": "O que é uma Rede Local (LAN)?"
+        },
+        {
+          "id": "d",
+          "text": "Planejamento do Projeto"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

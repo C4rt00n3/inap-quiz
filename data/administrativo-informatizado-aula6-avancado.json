@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Administrativo Informatizado Aula 6 - Avancado",
+  "subject": "Administrativo Informatizado",
+  "lesson": "Aula 6 - Formatação Avançada no Word",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Códigos Ocultos no Word de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "O Microsoft Word possui diversos códigos ocultos que facilitam a criação de textos de exemplo"
+        },
+        {
+          "id": "b",
+          "text": "A formatação de parágrafos é fundamental para a clareza e organização de um documento"
+        },
+        {
+          "id": "c",
+          "text": "Os recuos ajustam a distância do texto em relação às margens da página"
+        },
+        {
+          "id": "d",
+          "text": "Quebras de linha são usadas para iniciar uma nova linha sem começar um novo parágrafo"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Configurações de Parágrafo de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "A formatação de parágrafos é fundamental para a clareza e organização de um documento"
+        },
+        {
+          "id": "b",
+          "text": "Os recuos ajustam a distância do texto em relação às margens da página"
+        },
+        {
+          "id": "c",
+          "text": "Quebras de linha são usadas para iniciar uma nova linha sem começar um novo parágrafo"
+        },
+        {
+          "id": "d",
+          "text": "Inserir imagens no Word é simples e melhora a apresentação do documento"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Recuo de Parágrafo de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "O Microsoft Word possui diversos códigos ocultos que facilitam a criação de textos de exemplo"
+        },
+        {
+          "id": "b",
+          "text": "Os recuos ajustam a distância do texto em relação às margens da página"
+        },
+        {
+          "id": "c",
+          "text": "Quebras de linha são usadas para iniciar uma nova linha sem começar um novo parágrafo"
+        },
+        {
+          "id": "d",
+          "text": "Inserir imagens no Word é simples e melhora a apresentação do documento"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Quebra de Linhas e Tabulação Quebra de Linhas de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "O Microsoft Word possui diversos códigos ocultos que facilitam a criação de textos de exemplo"
+        },
+        {
+          "id": "b",
+          "text": "A formatação de parágrafos é fundamental para a clareza e organização de um documento"
+        },
+        {
+          "id": "c",
+          "text": "Quebras de linha são usadas para iniciar uma nova linha sem começar um novo parágrafo"
+        },
+        {
+          "id": "d",
+          "text": "Inserir imagens no Word é simples e melhora a apresentação do documento"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Inserção e Formatação de Imagens de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "O Microsoft Word possui diversos códigos ocultos que facilitam a criação de textos de exemplo"
+        },
+        {
+          "id": "b",
+          "text": "A formatação de parágrafos é fundamental para a clareza e organização de um documento"
+        },
+        {
+          "id": "c",
+          "text": "Os recuos ajustam a distância do texto em relação às margens da página"
+        },
+        {
+          "id": "d",
+          "text": "Inserir imagens no Word é simples e melhora a apresentação do documento"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Para tomada de decisao, considere a descricao: O Microsoft Word possui diversos códigos ocultos que facilitam a criação de textos de exemplo. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Códigos Ocultos no Word"
+        },
+        {
+          "id": "b",
+          "text": "Configurações de Parágrafo"
+        },
+        {
+          "id": "c",
+          "text": "Recuo de Parágrafo"
+        },
+        {
+          "id": "d",
+          "text": "Quebra de Linhas e Tabulação Quebra de Linhas"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Para tomada de decisao, considere a descricao: A formatação de parágrafos é fundamental para a clareza e organização de um documento. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Configurações de Parágrafo"
+        },
+        {
+          "id": "b",
+          "text": "Recuo de Parágrafo"
+        },
+        {
+          "id": "c",
+          "text": "Quebra de Linhas e Tabulação Quebra de Linhas"
+        },
+        {
+          "id": "d",
+          "text": "Inserção e Formatação de Imagens"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Para tomada de decisao, considere a descricao: Os recuos ajustam a distância do texto em relação às margens da página. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Códigos Ocultos no Word"
+        },
+        {
+          "id": "b",
+          "text": "Recuo de Parágrafo"
+        },
+        {
+          "id": "c",
+          "text": "Quebra de Linhas e Tabulação Quebra de Linhas"
+        },
+        {
+          "id": "d",
+          "text": "Inserção e Formatação de Imagens"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Para tomada de decisao, considere a descricao: Quebras de linha são usadas para iniciar uma nova linha sem começar um novo parágrafo. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Códigos Ocultos no Word"
+        },
+        {
+          "id": "b",
+          "text": "Configurações de Parágrafo"
+        },
+        {
+          "id": "c",
+          "text": "Quebra de Linhas e Tabulação Quebra de Linhas"
+        },
+        {
+          "id": "d",
+          "text": "Inserção e Formatação de Imagens"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Para tomada de decisao, considere a descricao: Inserir imagens no Word é simples e melhora a apresentação do documento. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Códigos Ocultos no Word"
+        },
+        {
+          "id": "b",
+          "text": "Configurações de Parágrafo"
+        },
+        {
+          "id": "c",
+          "text": "Recuo de Parágrafo"
+        },
+        {
+          "id": "d",
+          "text": "Inserção e Formatação de Imagens"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

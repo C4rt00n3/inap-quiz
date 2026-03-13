@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Administrativo Informatizado Aula 2 - Intermediario",
+  "subject": "Administrativo Informatizado",
+  "lesson": "Aula 2 - Gerenciando Arquivos e Personalizando o Sistema",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou Conceito. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "O Explorador de Arquivos funciona como um gerenciador de arquivos, fornecendo uma interface gráfica para que os usuários interajam com os arquivos e pastas armazenados no sistema de arquivos do computador"
+        },
+        {
+          "id": "b",
+          "text": "Imagine uma pasta física onde você guarda seus documentos em casa"
+        },
+        {
+          "id": "c",
+          "text": "Um arquivo é como um documento, uma foto, uma música ou qualquer coisa que você possa armazenar no seu computador"
+        },
+        {
+          "id": "d",
+          "text": "Seguem alguns critérios que você pode usar para classificar seus arquivos e pastas: Nome: Ordena os itens em ordem alfabética (A à Z) ou inversa (Z à A), ordem crescente e ordem decrescente"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou Pastas:. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Imagine uma pasta física onde você guarda seus documentos em casa"
+        },
+        {
+          "id": "b",
+          "text": "Um arquivo é como um documento, uma foto, uma música ou qualquer coisa que você possa armazenar no seu computador"
+        },
+        {
+          "id": "c",
+          "text": "Seguem alguns critérios que você pode usar para classificar seus arquivos e pastas: Nome: Ordena os itens em ordem alfabética (A à Z) ou inversa (Z à A), ordem crescente e ordem decrescente"
+        },
+        {
+          "id": "d",
+          "text": "As unidades de disco são dispositivos de armazenamento físico ou lógico que armazenam dados permanentes ou temporários no seu computador"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou Arquivos:. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "O Explorador de Arquivos funciona como um gerenciador de arquivos, fornecendo uma interface gráfica para que os usuários interajam com os arquivos e pastas armazenados no sistema de arquivos do computador"
+        },
+        {
+          "id": "b",
+          "text": "Um arquivo é como um documento, uma foto, uma música ou qualquer coisa que você possa armazenar no seu computador"
+        },
+        {
+          "id": "c",
+          "text": "Seguem alguns critérios que você pode usar para classificar seus arquivos e pastas: Nome: Ordena os itens em ordem alfabética (A à Z) ou inversa (Z à A), ordem crescente e ordem decrescente"
+        },
+        {
+          "id": "d",
+          "text": "As unidades de disco são dispositivos de armazenamento físico ou lógico que armazenam dados permanentes ou temporários no seu computador"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou Classificar. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "O Explorador de Arquivos funciona como um gerenciador de arquivos, fornecendo uma interface gráfica para que os usuários interajam com os arquivos e pastas armazenados no sistema de arquivos do computador"
+        },
+        {
+          "id": "b",
+          "text": "Imagine uma pasta física onde você guarda seus documentos em casa"
+        },
+        {
+          "id": "c",
+          "text": "Seguem alguns critérios que você pode usar para classificar seus arquivos e pastas: Nome: Ordena os itens em ordem alfabética (A à Z) ou inversa (Z à A), ordem crescente e ordem decrescente"
+        },
+        {
+          "id": "d",
+          "text": "As unidades de disco são dispositivos de armazenamento físico ou lógico que armazenam dados permanentes ou temporários no seu computador"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou Unidades de Disco. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "O Explorador de Arquivos funciona como um gerenciador de arquivos, fornecendo uma interface gráfica para que os usuários interajam com os arquivos e pastas armazenados no sistema de arquivos do computador"
+        },
+        {
+          "id": "b",
+          "text": "Imagine uma pasta física onde você guarda seus documentos em casa"
+        },
+        {
+          "id": "c",
+          "text": "Um arquivo é como um documento, uma foto, uma música ou qualquer coisa que você possa armazenar no seu computador"
+        },
+        {
+          "id": "d",
+          "text": "As unidades de disco são dispositivos de armazenamento físico ou lógico que armazenam dados permanentes ou temporários no seu computador"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Em um caso pratico, observou-se: O Explorador de Arquivos funciona como um gerenciador de arquivos, fornecendo uma interface gráfica para que os usuários interajam com os arquivos e pastas armazenados no sistema de arquivos do computador. Qual conceito deve ser identificado?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Conceito"
+        },
+        {
+          "id": "b",
+          "text": "Pastas:"
+        },
+        {
+          "id": "c",
+          "text": "Arquivos:"
+        },
+        {
+          "id": "d",
+          "text": "Classificar"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: Imagine uma pasta física onde você guarda seus documentos em casa. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pastas:"
+        },
+        {
+          "id": "b",
+          "text": "Arquivos:"
+        },
+        {
+          "id": "c",
+          "text": "Classificar"
+        },
+        {
+          "id": "d",
+          "text": "Unidades de Disco"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: Um arquivo é como um documento, uma foto, uma música ou qualquer coisa que você possa armazenar no seu computador. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Conceito"
+        },
+        {
+          "id": "b",
+          "text": "Arquivos:"
+        },
+        {
+          "id": "c",
+          "text": "Classificar"
+        },
+        {
+          "id": "d",
+          "text": "Unidades de Disco"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: Seguem alguns critérios que você pode usar para classificar seus arquivos e pastas: Nome: Ordena os itens em ordem alfabética (A à Z) ou inversa (Z à A), ordem crescente e ordem decrescente. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Conceito"
+        },
+        {
+          "id": "b",
+          "text": "Pastas:"
+        },
+        {
+          "id": "c",
+          "text": "Classificar"
+        },
+        {
+          "id": "d",
+          "text": "Unidades de Disco"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: As unidades de disco são dispositivos de armazenamento físico ou lógico que armazenam dados permanentes ou temporários no seu computador. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Conceito"
+        },
+        {
+          "id": "b",
+          "text": "Pastas:"
+        },
+        {
+          "id": "c",
+          "text": "Arquivos:"
+        },
+        {
+          "id": "d",
+          "text": "Unidades de Disco"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Administrativo Informatizado Aula 9 - Basico",
+  "subject": "Administrativo Informatizado",
+  "lesson": "Aula 9 - Formatação de Planilhas para Escritório",
+  "level": "Basico",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Qual alternativa define corretamente Formatação de Planilhas para Escritório?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Formatação de Planilhas para Escritório Aula 9 O lá, bem-vindo(a)"
+        },
+        {
+          "id": "b",
+          "text": "A formatação de números no Excel é usada para controlar como os dados numéricos são exibidos nas células"
+        },
+        {
+          "id": "c",
+          "text": "Negrito, Itálico e Sublinhado: Para destacar partes do texto"
+        },
+        {
+          "id": "d",
+          "text": "Mesclar e Centralizar Combina todas as células selecionadas em uma única célula grande e centraliza o conteúdo dessa célula mesclada"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Qual alternativa define corretamente Formatação de Números?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "A formatação de números no Excel é usada para controlar como os dados numéricos são exibidos nas células"
+        },
+        {
+          "id": "b",
+          "text": "Negrito, Itálico e Sublinhado: Para destacar partes do texto"
+        },
+        {
+          "id": "c",
+          "text": "Mesclar e Centralizar Combina todas as células selecionadas em uma única célula grande e centraliza o conteúdo dessa célula mesclada"
+        },
+        {
+          "id": "d",
+          "text": "A ferramenta Estilo de Célula facilita a aplicação de formatações consistentes em suas planilhas"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Qual alternativa define corretamente Formatação de Texto?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Formatação de Planilhas para Escritório Aula 9 O lá, bem-vindo(a)"
+        },
+        {
+          "id": "b",
+          "text": "Negrito, Itálico e Sublinhado: Para destacar partes do texto"
+        },
+        {
+          "id": "c",
+          "text": "Mesclar e Centralizar Combina todas as células selecionadas em uma única célula grande e centraliza o conteúdo dessa célula mesclada"
+        },
+        {
+          "id": "d",
+          "text": "A ferramenta Estilo de Célula facilita a aplicação de formatações consistentes em suas planilhas"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Qual alternativa define corretamente Ferramenta Mesclar e Centralizar?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Formatação de Planilhas para Escritório Aula 9 O lá, bem-vindo(a)"
+        },
+        {
+          "id": "b",
+          "text": "A formatação de números no Excel é usada para controlar como os dados numéricos são exibidos nas células"
+        },
+        {
+          "id": "c",
+          "text": "Mesclar e Centralizar Combina todas as células selecionadas em uma única célula grande e centraliza o conteúdo dessa célula mesclada"
+        },
+        {
+          "id": "d",
+          "text": "A ferramenta Estilo de Célula facilita a aplicação de formatações consistentes em suas planilhas"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Qual alternativa define corretamente Ferramenta Estilo de Célula?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Formatação de Planilhas para Escritório Aula 9 O lá, bem-vindo(a)"
+        },
+        {
+          "id": "b",
+          "text": "A formatação de números no Excel é usada para controlar como os dados numéricos são exibidos nas células"
+        },
+        {
+          "id": "c",
+          "text": "Negrito, Itálico e Sublinhado: Para destacar partes do texto"
+        },
+        {
+          "id": "d",
+          "text": "A ferramenta Estilo de Célula facilita a aplicação de formatações consistentes em suas planilhas"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Qual conceito corresponde a descricao: Formatação de Planilhas para Escritório Aula 9 O lá, bem-vindo(a)?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Formatação de Planilhas para Escritório"
+        },
+        {
+          "id": "b",
+          "text": "Formatação de Números"
+        },
+        {
+          "id": "c",
+          "text": "Formatação de Texto"
+        },
+        {
+          "id": "d",
+          "text": "Ferramenta Mesclar e Centralizar"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Qual conceito corresponde a descricao: A formatação de números no Excel é usada para controlar como os dados numéricos são exibidos nas células?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Formatação de Números"
+        },
+        {
+          "id": "b",
+          "text": "Formatação de Texto"
+        },
+        {
+          "id": "c",
+          "text": "Ferramenta Mesclar e Centralizar"
+        },
+        {
+          "id": "d",
+          "text": "Ferramenta Estilo de Célula"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Qual conceito corresponde a descricao: Negrito, Itálico e Sublinhado: Para destacar partes do texto?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Formatação de Planilhas para Escritório"
+        },
+        {
+          "id": "b",
+          "text": "Formatação de Texto"
+        },
+        {
+          "id": "c",
+          "text": "Ferramenta Mesclar e Centralizar"
+        },
+        {
+          "id": "d",
+          "text": "Ferramenta Estilo de Célula"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Qual conceito corresponde a descricao: Mesclar e Centralizar Combina todas as células selecionadas em uma única célula grande e centraliza o conteúdo dessa célula mesclada?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Formatação de Planilhas para Escritório"
+        },
+        {
+          "id": "b",
+          "text": "Formatação de Números"
+        },
+        {
+          "id": "c",
+          "text": "Ferramenta Mesclar e Centralizar"
+        },
+        {
+          "id": "d",
+          "text": "Ferramenta Estilo de Célula"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Qual conceito corresponde a descricao: A ferramenta Estilo de Célula facilita a aplicação de formatações consistentes em suas planilhas?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Formatação de Planilhas para Escritório"
+        },
+        {
+          "id": "b",
+          "text": "Formatação de Números"
+        },
+        {
+          "id": "c",
+          "text": "Formatação de Texto"
+        },
+        {
+          "id": "d",
+          "text": "Ferramenta Estilo de Célula"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

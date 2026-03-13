@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Administrativo Informatizado Aula 16 - Intermediario",
+  "subject": "Administrativo Informatizado",
+  "lesson": "Aula 16 - Introdução ao Power BI",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou Power BI. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "O Power BI é uma das ferramentas mais poderosas disponíveis para transformar dados em informações acionáveis"
+        },
+        {
+          "id": "b",
+          "text": "A interface do Power BI Desktop, onde você cria relatórios e dashboards, é dividida em quatro áreas principais: Área de Relatório, Área de Dados, Área de Modelagem, e Área de Relacionamentos"
+        },
+        {
+          "id": "c",
+          "text": "DAX, ou Data Analysis Expressions, é uma linguagem de fórmulas e expressões usada no Power BI, assim como em outras ferramentas da Microsoft, como o Excel e o SQL Server Analysis Services"
+        },
+        {
+          "id": "d",
+          "text": "Medidas são cálculos que são realizados dinamicamente, conforme a interação do usuário com o relatório"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou Explorando a Interface do Power BI. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "A interface do Power BI Desktop, onde você cria relatórios e dashboards, é dividida em quatro áreas principais: Área de Relatório, Área de Dados, Área de Modelagem, e Área de Relacionamentos"
+        },
+        {
+          "id": "b",
+          "text": "DAX, ou Data Analysis Expressions, é uma linguagem de fórmulas e expressões usada no Power BI, assim como em outras ferramentas da Microsoft, como o Excel e o SQL Server Analysis Services"
+        },
+        {
+          "id": "c",
+          "text": "Medidas são cálculos que são realizados dinamicamente, conforme a interação do usuário com o relatório"
+        },
+        {
+          "id": "d",
+          "text": "Columns): Colunas calculadas são criadas para adicionar novos dados a uma tabela existente no modelo"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou DAX. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "O Power BI é uma das ferramentas mais poderosas disponíveis para transformar dados em informações acionáveis"
+        },
+        {
+          "id": "b",
+          "text": "DAX, ou Data Analysis Expressions, é uma linguagem de fórmulas e expressões usada no Power BI, assim como em outras ferramentas da Microsoft, como o Excel e o SQL Server Analysis Services"
+        },
+        {
+          "id": "c",
+          "text": "Medidas são cálculos que são realizados dinamicamente, conforme a interação do usuário com o relatório"
+        },
+        {
+          "id": "d",
+          "text": "Columns): Colunas calculadas são criadas para adicionar novos dados a uma tabela existente no modelo"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou Medidas (Measures):. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "O Power BI é uma das ferramentas mais poderosas disponíveis para transformar dados em informações acionáveis"
+        },
+        {
+          "id": "b",
+          "text": "A interface do Power BI Desktop, onde você cria relatórios e dashboards, é dividida em quatro áreas principais: Área de Relatório, Área de Dados, Área de Modelagem, e Área de Relacionamentos"
+        },
+        {
+          "id": "c",
+          "text": "Medidas são cálculos que são realizados dinamicamente, conforme a interação do usuário com o relatório"
+        },
+        {
+          "id": "d",
+          "text": "Columns): Colunas calculadas são criadas para adicionar novos dados a uma tabela existente no modelo"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou Colunas Calculadas (Calculated. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "O Power BI é uma das ferramentas mais poderosas disponíveis para transformar dados em informações acionáveis"
+        },
+        {
+          "id": "b",
+          "text": "A interface do Power BI Desktop, onde você cria relatórios e dashboards, é dividida em quatro áreas principais: Área de Relatório, Área de Dados, Área de Modelagem, e Área de Relacionamentos"
+        },
+        {
+          "id": "c",
+          "text": "DAX, ou Data Analysis Expressions, é uma linguagem de fórmulas e expressões usada no Power BI, assim como em outras ferramentas da Microsoft, como o Excel e o SQL Server Analysis Services"
+        },
+        {
+          "id": "d",
+          "text": "Columns): Colunas calculadas são criadas para adicionar novos dados a uma tabela existente no modelo"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Em um caso pratico, observou-se: O Power BI é uma das ferramentas mais poderosas disponíveis para transformar dados em informações acionáveis. Qual conceito deve ser identificado?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Power BI"
+        },
+        {
+          "id": "b",
+          "text": "Explorando a Interface do Power BI"
+        },
+        {
+          "id": "c",
+          "text": "DAX"
+        },
+        {
+          "id": "d",
+          "text": "Medidas (Measures):"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: A interface do Power BI Desktop, onde você cria relatórios e dashboards, é dividida em quatro áreas principais: Área de Relatório, Área de Dados, Área de Modelagem, e Área de Relacionamentos. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Explorando a Interface do Power BI"
+        },
+        {
+          "id": "b",
+          "text": "DAX"
+        },
+        {
+          "id": "c",
+          "text": "Medidas (Measures):"
+        },
+        {
+          "id": "d",
+          "text": "Colunas Calculadas (Calculated"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: DAX, ou Data Analysis Expressions, é uma linguagem de fórmulas e expressões usada no Power BI, assim como em outras ferramentas da Microsoft, como o Excel e o SQL Server Analysis Services. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Power BI"
+        },
+        {
+          "id": "b",
+          "text": "DAX"
+        },
+        {
+          "id": "c",
+          "text": "Medidas (Measures):"
+        },
+        {
+          "id": "d",
+          "text": "Colunas Calculadas (Calculated"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: Medidas são cálculos que são realizados dinamicamente, conforme a interação do usuário com o relatório. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Power BI"
+        },
+        {
+          "id": "b",
+          "text": "Explorando a Interface do Power BI"
+        },
+        {
+          "id": "c",
+          "text": "Medidas (Measures):"
+        },
+        {
+          "id": "d",
+          "text": "Colunas Calculadas (Calculated"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: Columns): Colunas calculadas são criadas para adicionar novos dados a uma tabela existente no modelo. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Power BI"
+        },
+        {
+          "id": "b",
+          "text": "Explorando a Interface do Power BI"
+        },
+        {
+          "id": "c",
+          "text": "DAX"
+        },
+        {
+          "id": "d",
+          "text": "Colunas Calculadas (Calculated"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

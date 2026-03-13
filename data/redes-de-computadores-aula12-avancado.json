@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Redes de Computadores Aula 12 - Avancado",
+  "subject": "Redes de Computadores",
+  "lesson": "Aula 12 - Serviços de Rede",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Serviços de Rede: Os Heróis Ocultos de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "as aulas anteriores, você aprendeu a configurar endereços IP manualmente em cada máquina da rede"
+        },
+        {
+          "id": "b",
+          "text": "Serviços de rede são funcionalidades que existem dentro de uma infraestrutura de rede para facilitar a comunicação e o uso da internet ou intranet"
+        },
+        {
+          "id": "c",
+          "text": "Imagine repetir isso para 30, 50 ou 100 computadores"
+        },
+        {
+          "id": "d",
+          "text": "www.google.com em vez de um número cheio de pontos, como 142.250.190.78"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar O Que São Serviços de Rede? de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Serviços de rede são funcionalidades que existem dentro de uma infraestrutura de rede para facilitar a comunicação e o uso da internet ou intranet"
+        },
+        {
+          "id": "b",
+          "text": "Imagine repetir isso para 30, 50 ou 100 computadores"
+        },
+        {
+          "id": "c",
+          "text": "www.google.com em vez de um número cheio de pontos, como 142.250.190.78"
+        },
+        {
+          "id": "d",
+          "text": "Praticidade: o DHCP elimina o trabalho manual de atribuir IPs"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar DHCP – O Atendente da Rede Você já configurou manualmente os de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "as aulas anteriores, você aprendeu a configurar endereços IP manualmente em cada máquina da rede"
+        },
+        {
+          "id": "b",
+          "text": "Imagine repetir isso para 30, 50 ou 100 computadores"
+        },
+        {
+          "id": "c",
+          "text": "www.google.com em vez de um número cheio de pontos, como 142.250.190.78"
+        },
+        {
+          "id": "d",
+          "text": "Praticidade: o DHCP elimina o trabalho manual de atribuir IPs"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar DNS – O Tradutor da Internet Você está acostumado a digitar de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "as aulas anteriores, você aprendeu a configurar endereços IP manualmente em cada máquina da rede"
+        },
+        {
+          "id": "b",
+          "text": "Serviços de rede são funcionalidades que existem dentro de uma infraestrutura de rede para facilitar a comunicação e o uso da internet ou intranet"
+        },
+        {
+          "id": "c",
+          "text": "www.google.com em vez de um número cheio de pontos, como 142.250.190.78"
+        },
+        {
+          "id": "d",
+          "text": "Praticidade: o DHCP elimina o trabalho manual de atribuir IPs"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Por Que Esses Serviços São Importantes? de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "as aulas anteriores, você aprendeu a configurar endereços IP manualmente em cada máquina da rede"
+        },
+        {
+          "id": "b",
+          "text": "Serviços de rede são funcionalidades que existem dentro de uma infraestrutura de rede para facilitar a comunicação e o uso da internet ou intranet"
+        },
+        {
+          "id": "c",
+          "text": "Imagine repetir isso para 30, 50 ou 100 computadores"
+        },
+        {
+          "id": "d",
+          "text": "Praticidade: o DHCP elimina o trabalho manual de atribuir IPs"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Para tomada de decisao, considere a descricao: as aulas anteriores, você aprendeu a configurar endereços IP manualmente em cada máquina da rede. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Serviços de Rede: Os Heróis Ocultos"
+        },
+        {
+          "id": "b",
+          "text": "O Que São Serviços de Rede?"
+        },
+        {
+          "id": "c",
+          "text": "DHCP – O Atendente da Rede Você já configurou manualmente os"
+        },
+        {
+          "id": "d",
+          "text": "DNS – O Tradutor da Internet Você está acostumado a digitar"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Para tomada de decisao, considere a descricao: Serviços de rede são funcionalidades que existem dentro de uma infraestrutura de rede para facilitar a comunicação e o uso da internet ou intranet. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "O Que São Serviços de Rede?"
+        },
+        {
+          "id": "b",
+          "text": "DHCP – O Atendente da Rede Você já configurou manualmente os"
+        },
+        {
+          "id": "c",
+          "text": "DNS – O Tradutor da Internet Você está acostumado a digitar"
+        },
+        {
+          "id": "d",
+          "text": "Por Que Esses Serviços São Importantes?"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Para tomada de decisao, considere a descricao: Imagine repetir isso para 30, 50 ou 100 computadores. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Serviços de Rede: Os Heróis Ocultos"
+        },
+        {
+          "id": "b",
+          "text": "DHCP – O Atendente da Rede Você já configurou manualmente os"
+        },
+        {
+          "id": "c",
+          "text": "DNS – O Tradutor da Internet Você está acostumado a digitar"
+        },
+        {
+          "id": "d",
+          "text": "Por Que Esses Serviços São Importantes?"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Para tomada de decisao, considere a descricao: www.google.com em vez de um número cheio de pontos, como 142.250.190.78. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Serviços de Rede: Os Heróis Ocultos"
+        },
+        {
+          "id": "b",
+          "text": "O Que São Serviços de Rede?"
+        },
+        {
+          "id": "c",
+          "text": "DNS – O Tradutor da Internet Você está acostumado a digitar"
+        },
+        {
+          "id": "d",
+          "text": "Por Que Esses Serviços São Importantes?"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Para tomada de decisao, considere a descricao: Praticidade: o DHCP elimina o trabalho manual de atribuir IPs. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Serviços de Rede: Os Heróis Ocultos"
+        },
+        {
+          "id": "b",
+          "text": "O Que São Serviços de Rede?"
+        },
+        {
+          "id": "c",
+          "text": "DHCP – O Atendente da Rede Você já configurou manualmente os"
+        },
+        {
+          "id": "d",
+          "text": "Por Que Esses Serviços São Importantes?"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

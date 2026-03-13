@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Redes de Computadores Aula 17 - Avancado",
+  "subject": "Redes de Computadores",
+  "lesson": "Aula 17 - Segurança de Redes e Prevenção de Ameaças",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Introdução à Segurança da Informação de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "segurança da informação é um conjunto de práticas e tecnologias voltadas para proteger dados, sistemas e redes contra ameaças, vulnerabilidades e riscos"
+        },
+        {
+          "id": "b",
+          "text": "A necessidade de segurança da informação cresce exponencialmente com o aumento da conectividade digital"
+        },
+        {
+          "id": "c",
+          "text": "A criptografia é um dos pilares da segurança da informação, transformando dados legíveis (texto em claro) em formatos ilegíveis (texto cifrado) para protegê-los contra acesso não autorizado"
+        },
+        {
+          "id": "d",
+          "text": "Proteção de Dados em Repouso: Dados armazenados em dispositivos ou servidores são protegidos usando criptografia para que, mesmo em caso de roubo físico, permaneçam inacessíveis"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Importância da Segurança da Informação de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "A necessidade de segurança da informação cresce exponencialmente com o aumento da conectividade digital"
+        },
+        {
+          "id": "b",
+          "text": "A criptografia é um dos pilares da segurança da informação, transformando dados legíveis (texto em claro) em formatos ilegíveis (texto cifrado) para protegê-los contra acesso não autorizado"
+        },
+        {
+          "id": "c",
+          "text": "Proteção de Dados em Repouso: Dados armazenados em dispositivos ou servidores são protegidos usando criptografia para que, mesmo em caso de roubo físico, permaneçam inacessíveis"
+        },
+        {
+          "id": "d",
+          "text": "Um firewall é um sistema de segurança que monitora e controla o tráfego de entrada e saída em redes de computadores, baseando-se em regras de segurança configuradas"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Conceitos Fundamentais de Criptografia de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "segurança da informação é um conjunto de práticas e tecnologias voltadas para proteger dados, sistemas e redes contra ameaças, vulnerabilidades e riscos"
+        },
+        {
+          "id": "b",
+          "text": "A criptografia é um dos pilares da segurança da informação, transformando dados legíveis (texto em claro) em formatos ilegíveis (texto cifrado) para protegê-los contra acesso não autorizado"
+        },
+        {
+          "id": "c",
+          "text": "Proteção de Dados em Repouso: Dados armazenados em dispositivos ou servidores são protegidos usando criptografia para que, mesmo em caso de roubo físico, permaneçam inacessíveis"
+        },
+        {
+          "id": "d",
+          "text": "Um firewall é um sistema de segurança que monitora e controla o tráfego de entrada e saída em redes de computadores, baseando-se em regras de segurança configuradas"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Aplicações da Criptografia de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "segurança da informação é um conjunto de práticas e tecnologias voltadas para proteger dados, sistemas e redes contra ameaças, vulnerabilidades e riscos"
+        },
+        {
+          "id": "b",
+          "text": "A necessidade de segurança da informação cresce exponencialmente com o aumento da conectividade digital"
+        },
+        {
+          "id": "c",
+          "text": "Proteção de Dados em Repouso: Dados armazenados em dispositivos ou servidores são protegidos usando criptografia para que, mesmo em caso de roubo físico, permaneçam inacessíveis"
+        },
+        {
+          "id": "d",
+          "text": "Um firewall é um sistema de segurança que monitora e controla o tráfego de entrada e saída em redes de computadores, baseando-se em regras de segurança configuradas"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Conceito de Firewalls de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "segurança da informação é um conjunto de práticas e tecnologias voltadas para proteger dados, sistemas e redes contra ameaças, vulnerabilidades e riscos"
+        },
+        {
+          "id": "b",
+          "text": "A necessidade de segurança da informação cresce exponencialmente com o aumento da conectividade digital"
+        },
+        {
+          "id": "c",
+          "text": "A criptografia é um dos pilares da segurança da informação, transformando dados legíveis (texto em claro) em formatos ilegíveis (texto cifrado) para protegê-los contra acesso não autorizado"
+        },
+        {
+          "id": "d",
+          "text": "Um firewall é um sistema de segurança que monitora e controla o tráfego de entrada e saída em redes de computadores, baseando-se em regras de segurança configuradas"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Para tomada de decisao, considere a descricao: segurança da informação é um conjunto de práticas e tecnologias voltadas para proteger dados, sistemas e redes contra ameaças, vulnerabilidades e riscos. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Introdução à Segurança da Informação"
+        },
+        {
+          "id": "b",
+          "text": "Importância da Segurança da Informação"
+        },
+        {
+          "id": "c",
+          "text": "Conceitos Fundamentais de Criptografia"
+        },
+        {
+          "id": "d",
+          "text": "Aplicações da Criptografia"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Para tomada de decisao, considere a descricao: A necessidade de segurança da informação cresce exponencialmente com o aumento da conectividade digital. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Importância da Segurança da Informação"
+        },
+        {
+          "id": "b",
+          "text": "Conceitos Fundamentais de Criptografia"
+        },
+        {
+          "id": "c",
+          "text": "Aplicações da Criptografia"
+        },
+        {
+          "id": "d",
+          "text": "Conceito de Firewalls"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Para tomada de decisao, considere a descricao: A criptografia é um dos pilares da segurança da informação, transformando dados legíveis (texto em claro) em formatos ilegíveis (texto cifrado) para protegê-los contra acesso não autorizado. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Introdução à Segurança da Informação"
+        },
+        {
+          "id": "b",
+          "text": "Conceitos Fundamentais de Criptografia"
+        },
+        {
+          "id": "c",
+          "text": "Aplicações da Criptografia"
+        },
+        {
+          "id": "d",
+          "text": "Conceito de Firewalls"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Para tomada de decisao, considere a descricao: Proteção de Dados em Repouso: Dados armazenados em dispositivos ou servidores são protegidos usando criptografia para que, mesmo em caso de roubo físico, permaneçam inacessíveis. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Introdução à Segurança da Informação"
+        },
+        {
+          "id": "b",
+          "text": "Importância da Segurança da Informação"
+        },
+        {
+          "id": "c",
+          "text": "Aplicações da Criptografia"
+        },
+        {
+          "id": "d",
+          "text": "Conceito de Firewalls"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Para tomada de decisao, considere a descricao: Um firewall é um sistema de segurança que monitora e controla o tráfego de entrada e saída em redes de computadores, baseando-se em regras de segurança configuradas. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Introdução à Segurança da Informação"
+        },
+        {
+          "id": "b",
+          "text": "Importância da Segurança da Informação"
+        },
+        {
+          "id": "c",
+          "text": "Conceitos Fundamentais de Criptografia"
+        },
+        {
+          "id": "d",
+          "text": "Conceito de Firewalls"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

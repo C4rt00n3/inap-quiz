@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Redes de Computadores Aula 9 - Intermediario",
+  "subject": "Redes de Computadores",
+  "lesson": "Aula 9 - Redes LAN em Ambientes Corporativos",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou O que é uma Rede LAN em uma Empresa?. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "ma LAN (Local Area Network) é uma rede local que conecta computadores e dispositivos em um espaço físico limitado, como um escritório ou empresa"
+        },
+        {
+          "id": "b",
+          "text": "Na nossa aula, montamos a simulação de uma empresa com diferentes setores"
+        },
+        {
+          "id": "c",
+          "text": "Para que os computadores e dispositivos consigam se comunicar, cada um precisa ter um endereço IP"
+        },
+        {
+          "id": "d",
+          "text": "A impressora de rede precisa de um endereço IP para que todos os computadores consigam enviar arquivos de impressão até ela"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou Estrutura da Rede Corporativa. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Na nossa aula, montamos a simulação de uma empresa com diferentes setores"
+        },
+        {
+          "id": "b",
+          "text": "Para que os computadores e dispositivos consigam se comunicar, cada um precisa ter um endereço IP"
+        },
+        {
+          "id": "c",
+          "text": "A impressora de rede precisa de um endereço IP para que todos os computadores consigam enviar arquivos de impressão até ela"
+        },
+        {
+          "id": "d",
+          "text": "Outro conceito muito importante que aprendemos é o gateway padrão"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou Endereços IP e Sub-redes. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "ma LAN (Local Area Network) é uma rede local que conecta computadores e dispositivos em um espaço físico limitado, como um escritório ou empresa"
+        },
+        {
+          "id": "b",
+          "text": "Para que os computadores e dispositivos consigam se comunicar, cada um precisa ter um endereço IP"
+        },
+        {
+          "id": "c",
+          "text": "A impressora de rede precisa de um endereço IP para que todos os computadores consigam enviar arquivos de impressão até ela"
+        },
+        {
+          "id": "d",
+          "text": "Outro conceito muito importante que aprendemos é o gateway padrão"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou Por que configurar IP na impressora?. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "ma LAN (Local Area Network) é uma rede local que conecta computadores e dispositivos em um espaço físico limitado, como um escritório ou empresa"
+        },
+        {
+          "id": "b",
+          "text": "Na nossa aula, montamos a simulação de uma empresa com diferentes setores"
+        },
+        {
+          "id": "c",
+          "text": "A impressora de rede precisa de um endereço IP para que todos os computadores consigam enviar arquivos de impressão até ela"
+        },
+        {
+          "id": "d",
+          "text": "Outro conceito muito importante que aprendemos é o gateway padrão"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou Gateway Padrão e Comunicação entre Setores. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "ma LAN (Local Area Network) é uma rede local que conecta computadores e dispositivos em um espaço físico limitado, como um escritório ou empresa"
+        },
+        {
+          "id": "b",
+          "text": "Na nossa aula, montamos a simulação de uma empresa com diferentes setores"
+        },
+        {
+          "id": "c",
+          "text": "Para que os computadores e dispositivos consigam se comunicar, cada um precisa ter um endereço IP"
+        },
+        {
+          "id": "d",
+          "text": "Outro conceito muito importante que aprendemos é o gateway padrão"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Em um caso pratico, observou-se: ma LAN (Local Area Network) é uma rede local que conecta computadores e dispositivos em um espaço físico limitado, como um escritório ou empresa. Qual conceito deve ser identificado?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "O que é uma Rede LAN em uma Empresa?"
+        },
+        {
+          "id": "b",
+          "text": "Estrutura da Rede Corporativa"
+        },
+        {
+          "id": "c",
+          "text": "Endereços IP e Sub-redes"
+        },
+        {
+          "id": "d",
+          "text": "Por que configurar IP na impressora?"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: Na nossa aula, montamos a simulação de uma empresa com diferentes setores. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Estrutura da Rede Corporativa"
+        },
+        {
+          "id": "b",
+          "text": "Endereços IP e Sub-redes"
+        },
+        {
+          "id": "c",
+          "text": "Por que configurar IP na impressora?"
+        },
+        {
+          "id": "d",
+          "text": "Gateway Padrão e Comunicação entre Setores"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: Para que os computadores e dispositivos consigam se comunicar, cada um precisa ter um endereço IP. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "O que é uma Rede LAN em uma Empresa?"
+        },
+        {
+          "id": "b",
+          "text": "Endereços IP e Sub-redes"
+        },
+        {
+          "id": "c",
+          "text": "Por que configurar IP na impressora?"
+        },
+        {
+          "id": "d",
+          "text": "Gateway Padrão e Comunicação entre Setores"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: A impressora de rede precisa de um endereço IP para que todos os computadores consigam enviar arquivos de impressão até ela. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "O que é uma Rede LAN em uma Empresa?"
+        },
+        {
+          "id": "b",
+          "text": "Estrutura da Rede Corporativa"
+        },
+        {
+          "id": "c",
+          "text": "Por que configurar IP na impressora?"
+        },
+        {
+          "id": "d",
+          "text": "Gateway Padrão e Comunicação entre Setores"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: Outro conceito muito importante que aprendemos é o gateway padrão. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "O que é uma Rede LAN em uma Empresa?"
+        },
+        {
+          "id": "b",
+          "text": "Estrutura da Rede Corporativa"
+        },
+        {
+          "id": "c",
+          "text": "Endereços IP e Sub-redes"
+        },
+        {
+          "id": "d",
+          "text": "Gateway Padrão e Comunicação entre Setores"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

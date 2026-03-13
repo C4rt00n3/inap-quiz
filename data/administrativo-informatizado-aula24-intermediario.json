@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Administrativo Informatizado Aula 24 - Intermediario",
+  "subject": "Administrativo Informatizado",
+  "lesson": "Aula 24 - Documentos Formais: Estrutura e Redação",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou Principais Características da Redação Formal. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Linguagem Impessoal: Em documentos formais, o uso de pronomes pessoais como \"eu\" ou \"nós\" deve ser evitado"
+        },
+        {
+          "id": "b",
+          "text": "No ambiente corporativo e institucional, diversos tipos de documentos formais são utilizados para diferentes propósitos"
+        },
+        {
+          "id": "c",
+          "text": "principalmente para estabelecer comunicação formal entre empresas, clientes e fornecedores"
+        },
+        {
+          "id": "d",
+          "text": "Estrutura Formal: A carta comercial segue uma estrutura bastante formal, que inclui cabeçalho, saudação, corpo do texto e encerramento"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou Tipos e Diferenças dos Documentos Formais. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "No ambiente corporativo e institucional, diversos tipos de documentos formais são utilizados para diferentes propósitos"
+        },
+        {
+          "id": "b",
+          "text": "principalmente para estabelecer comunicação formal entre empresas, clientes e fornecedores"
+        },
+        {
+          "id": "c",
+          "text": "Estrutura Formal: A carta comercial segue uma estrutura bastante formal, que inclui cabeçalho, saudação, corpo do texto e encerramento"
+        },
+        {
+          "id": "d",
+          "text": "O ofício é um documento de caráter oficial, geralmente utilizado em comunicações entre órgãos públicos ou entre uma empresa e instituições governamentais"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou Cartas Comerciais As cartas comerciais são utilizadas. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Linguagem Impessoal: Em documentos formais, o uso de pronomes pessoais como \"eu\" ou \"nós\" deve ser evitado"
+        },
+        {
+          "id": "b",
+          "text": "principalmente para estabelecer comunicação formal entre empresas, clientes e fornecedores"
+        },
+        {
+          "id": "c",
+          "text": "Estrutura Formal: A carta comercial segue uma estrutura bastante formal, que inclui cabeçalho, saudação, corpo do texto e encerramento"
+        },
+        {
+          "id": "d",
+          "text": "O ofício é um documento de caráter oficial, geralmente utilizado em comunicações entre órgãos públicos ou entre uma empresa e instituições governamentais"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou Características das Cartas Comerciais:. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Linguagem Impessoal: Em documentos formais, o uso de pronomes pessoais como \"eu\" ou \"nós\" deve ser evitado"
+        },
+        {
+          "id": "b",
+          "text": "No ambiente corporativo e institucional, diversos tipos de documentos formais são utilizados para diferentes propósitos"
+        },
+        {
+          "id": "c",
+          "text": "Estrutura Formal: A carta comercial segue uma estrutura bastante formal, que inclui cabeçalho, saudação, corpo do texto e encerramento"
+        },
+        {
+          "id": "d",
+          "text": "O ofício é um documento de caráter oficial, geralmente utilizado em comunicações entre órgãos públicos ou entre uma empresa e instituições governamentais"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou Ofícios. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Linguagem Impessoal: Em documentos formais, o uso de pronomes pessoais como \"eu\" ou \"nós\" deve ser evitado"
+        },
+        {
+          "id": "b",
+          "text": "No ambiente corporativo e institucional, diversos tipos de documentos formais são utilizados para diferentes propósitos"
+        },
+        {
+          "id": "c",
+          "text": "principalmente para estabelecer comunicação formal entre empresas, clientes e fornecedores"
+        },
+        {
+          "id": "d",
+          "text": "O ofício é um documento de caráter oficial, geralmente utilizado em comunicações entre órgãos públicos ou entre uma empresa e instituições governamentais"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Em um caso pratico, observou-se: Linguagem Impessoal: Em documentos formais, o uso de pronomes pessoais como \"eu\" ou \"nós\" deve ser evitado. Qual conceito deve ser identificado?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Principais Características da Redação Formal"
+        },
+        {
+          "id": "b",
+          "text": "Tipos e Diferenças dos Documentos Formais"
+        },
+        {
+          "id": "c",
+          "text": "Cartas Comerciais As cartas comerciais são utilizadas"
+        },
+        {
+          "id": "d",
+          "text": "Características das Cartas Comerciais:"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: No ambiente corporativo e institucional, diversos tipos de documentos formais são utilizados para diferentes propósitos. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tipos e Diferenças dos Documentos Formais"
+        },
+        {
+          "id": "b",
+          "text": "Cartas Comerciais As cartas comerciais são utilizadas"
+        },
+        {
+          "id": "c",
+          "text": "Características das Cartas Comerciais:"
+        },
+        {
+          "id": "d",
+          "text": "Ofícios"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: principalmente para estabelecer comunicação formal entre empresas, clientes e fornecedores. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Principais Características da Redação Formal"
+        },
+        {
+          "id": "b",
+          "text": "Cartas Comerciais As cartas comerciais são utilizadas"
+        },
+        {
+          "id": "c",
+          "text": "Características das Cartas Comerciais:"
+        },
+        {
+          "id": "d",
+          "text": "Ofícios"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: Estrutura Formal: A carta comercial segue uma estrutura bastante formal, que inclui cabeçalho, saudação, corpo do texto e encerramento. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Principais Características da Redação Formal"
+        },
+        {
+          "id": "b",
+          "text": "Tipos e Diferenças dos Documentos Formais"
+        },
+        {
+          "id": "c",
+          "text": "Características das Cartas Comerciais:"
+        },
+        {
+          "id": "d",
+          "text": "Ofícios"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: O ofício é um documento de caráter oficial, geralmente utilizado em comunicações entre órgãos públicos ou entre uma empresa e instituições governamentais. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Principais Características da Redação Formal"
+        },
+        {
+          "id": "b",
+          "text": "Tipos e Diferenças dos Documentos Formais"
+        },
+        {
+          "id": "c",
+          "text": "Cartas Comerciais As cartas comerciais são utilizadas"
+        },
+        {
+          "id": "d",
+          "text": "Ofícios"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

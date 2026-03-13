@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Administrativo Informatizado Aula 7 - Intermediario",
+  "subject": "Administrativo Informatizado",
+  "lesson": "Aula 7 - Gestão de Documentos: Tabelas, Cabeçalhos e Impressão",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou Gestão de Documentos: Tabelas, Cabeçalhos e Impressão. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gestão de Documentos: Tabelas, Cabeçalhos e Impressão Aula 7 T abelas são estruturas compostas por linhas"
+        },
+        {
+          "id": "b",
+          "text": "Temos algumas formas de criar tabelas no Microsoft Word, mas todas elas seguem o mesmo caminho"
+        },
+        {
+          "id": "c",
+          "text": "Cabeçalhos e rodapés são seções específicas em um documento, localizadas no topo (cabeçalho) e na parte inferior (rodapé) de cada página"
+        },
+        {
+          "id": "d",
+          "text": "Imprimir um documento no Word é um processo simples, mas ajustar as configurações de impressão de acordo com suas necessidades específicas pode garantir que o resultado final atenda às suas expectativas"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou Criando tabelas no Word. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Temos algumas formas de criar tabelas no Microsoft Word, mas todas elas seguem o mesmo caminho"
+        },
+        {
+          "id": "b",
+          "text": "Cabeçalhos e rodapés são seções específicas em um documento, localizadas no topo (cabeçalho) e na parte inferior (rodapé) de cada página"
+        },
+        {
+          "id": "c",
+          "text": "Imprimir um documento no Word é um processo simples, mas ajustar as configurações de impressão de acordo com suas necessidades específicas pode garantir que o resultado final atenda às suas expectativas"
+        },
+        {
+          "id": "d",
+          "text": "tema principal apresentado na aula"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou Cabeçalhos e Rodapés. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gestão de Documentos: Tabelas, Cabeçalhos e Impressão Aula 7 T abelas são estruturas compostas por linhas"
+        },
+        {
+          "id": "b",
+          "text": "Cabeçalhos e rodapés são seções específicas em um documento, localizadas no topo (cabeçalho) e na parte inferior (rodapé) de cada página"
+        },
+        {
+          "id": "c",
+          "text": "Imprimir um documento no Word é um processo simples, mas ajustar as configurações de impressão de acordo com suas necessidades específicas pode garantir que o resultado final atenda às suas expectativas"
+        },
+        {
+          "id": "d",
+          "text": "tema principal apresentado na aula"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou Impressão. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gestão de Documentos: Tabelas, Cabeçalhos e Impressão Aula 7 T abelas são estruturas compostas por linhas"
+        },
+        {
+          "id": "b",
+          "text": "Temos algumas formas de criar tabelas no Microsoft Word, mas todas elas seguem o mesmo caminho"
+        },
+        {
+          "id": "c",
+          "text": "Imprimir um documento no Word é um processo simples, mas ajustar as configurações de impressão de acordo com suas necessidades específicas pode garantir que o resultado final atenda às suas expectativas"
+        },
+        {
+          "id": "d",
+          "text": "tema principal apresentado na aula"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou conceito central. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gestão de Documentos: Tabelas, Cabeçalhos e Impressão Aula 7 T abelas são estruturas compostas por linhas"
+        },
+        {
+          "id": "b",
+          "text": "Temos algumas formas de criar tabelas no Microsoft Word, mas todas elas seguem o mesmo caminho"
+        },
+        {
+          "id": "c",
+          "text": "Cabeçalhos e rodapés são seções específicas em um documento, localizadas no topo (cabeçalho) e na parte inferior (rodapé) de cada página"
+        },
+        {
+          "id": "d",
+          "text": "tema principal apresentado na aula"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Em um caso pratico, observou-se: Gestão de Documentos: Tabelas, Cabeçalhos e Impressão Aula 7 T abelas são estruturas compostas por linhas. Qual conceito deve ser identificado?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gestão de Documentos: Tabelas, Cabeçalhos e Impressão"
+        },
+        {
+          "id": "b",
+          "text": "Criando tabelas no Word"
+        },
+        {
+          "id": "c",
+          "text": "Cabeçalhos e Rodapés"
+        },
+        {
+          "id": "d",
+          "text": "Impressão"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: Temos algumas formas de criar tabelas no Microsoft Word, mas todas elas seguem o mesmo caminho. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Criando tabelas no Word"
+        },
+        {
+          "id": "b",
+          "text": "Cabeçalhos e Rodapés"
+        },
+        {
+          "id": "c",
+          "text": "Impressão"
+        },
+        {
+          "id": "d",
+          "text": "conceito central"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: Cabeçalhos e rodapés são seções específicas em um documento, localizadas no topo (cabeçalho) e na parte inferior (rodapé) de cada página. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gestão de Documentos: Tabelas, Cabeçalhos e Impressão"
+        },
+        {
+          "id": "b",
+          "text": "Cabeçalhos e Rodapés"
+        },
+        {
+          "id": "c",
+          "text": "Impressão"
+        },
+        {
+          "id": "d",
+          "text": "conceito central"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: Imprimir um documento no Word é um processo simples, mas ajustar as configurações de impressão de acordo com suas necessidades específicas pode garantir que o resultado final atenda às suas expectativas. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gestão de Documentos: Tabelas, Cabeçalhos e Impressão"
+        },
+        {
+          "id": "b",
+          "text": "Criando tabelas no Word"
+        },
+        {
+          "id": "c",
+          "text": "Impressão"
+        },
+        {
+          "id": "d",
+          "text": "conceito central"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: tema principal apresentado na aula. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gestão de Documentos: Tabelas, Cabeçalhos e Impressão"
+        },
+        {
+          "id": "b",
+          "text": "Criando tabelas no Word"
+        },
+        {
+          "id": "c",
+          "text": "Cabeçalhos e Rodapés"
+        },
+        {
+          "id": "d",
+          "text": "conceito central"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

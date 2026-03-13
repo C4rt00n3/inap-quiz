@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Administrativo Informatizado Aula 15 - Basico",
+  "subject": "Administrativo Informatizado",
+  "lesson": "Aula 15 - Gerenciamento do Tempo",
+  "level": "Basico",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Qual alternativa define corretamente Técnicas de Gerenciamento do Tempo?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Existem diversas ferramentas e técnicas que podem ajudar a otimizar o gerenciamento do tempo"
+        },
+        {
+          "id": "b",
+          "text": "A priorização de tarefas é fundamental para uma gestão eficaz do tempo"
+        },
+        {
+          "id": "c",
+          "text": "Melhorar a concentração é essencial para aumentar a produtividade e garantir que as tarefas sejam concluídas com eficiência"
+        },
+        {
+          "id": "d",
+          "text": "Aumentar a produtividade é um objetivo comum para muitas pessoas e pode ser alcançado através de várias estratégias"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Qual alternativa define corretamente Priorização de Tarefas?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "A priorização de tarefas é fundamental para uma gestão eficaz do tempo"
+        },
+        {
+          "id": "b",
+          "text": "Melhorar a concentração é essencial para aumentar a produtividade e garantir que as tarefas sejam concluídas com eficiência"
+        },
+        {
+          "id": "c",
+          "text": "Aumentar a produtividade é um objetivo comum para muitas pessoas e pode ser alcançado através de várias estratégias"
+        },
+        {
+          "id": "d",
+          "text": "O Trello é uma ferramenta digital popular para gerenciamento de projetos e tarefas"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Qual alternativa define corretamente Melhoria da Concentração?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Existem diversas ferramentas e técnicas que podem ajudar a otimizar o gerenciamento do tempo"
+        },
+        {
+          "id": "b",
+          "text": "Melhorar a concentração é essencial para aumentar a produtividade e garantir que as tarefas sejam concluídas com eficiência"
+        },
+        {
+          "id": "c",
+          "text": "Aumentar a produtividade é um objetivo comum para muitas pessoas e pode ser alcançado através de várias estratégias"
+        },
+        {
+          "id": "d",
+          "text": "O Trello é uma ferramenta digital popular para gerenciamento de projetos e tarefas"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Qual alternativa define corretamente Aumento da Produtividade?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Existem diversas ferramentas e técnicas que podem ajudar a otimizar o gerenciamento do tempo"
+        },
+        {
+          "id": "b",
+          "text": "A priorização de tarefas é fundamental para uma gestão eficaz do tempo"
+        },
+        {
+          "id": "c",
+          "text": "Aumentar a produtividade é um objetivo comum para muitas pessoas e pode ser alcançado através de várias estratégias"
+        },
+        {
+          "id": "d",
+          "text": "O Trello é uma ferramenta digital popular para gerenciamento de projetos e tarefas"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Qual alternativa define corretamente Ferramentas de Produtividade Digital?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Existem diversas ferramentas e técnicas que podem ajudar a otimizar o gerenciamento do tempo"
+        },
+        {
+          "id": "b",
+          "text": "A priorização de tarefas é fundamental para uma gestão eficaz do tempo"
+        },
+        {
+          "id": "c",
+          "text": "Melhorar a concentração é essencial para aumentar a produtividade e garantir que as tarefas sejam concluídas com eficiência"
+        },
+        {
+          "id": "d",
+          "text": "O Trello é uma ferramenta digital popular para gerenciamento de projetos e tarefas"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Qual conceito corresponde a descricao: Existem diversas ferramentas e técnicas que podem ajudar a otimizar o gerenciamento do tempo?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Técnicas de Gerenciamento do Tempo"
+        },
+        {
+          "id": "b",
+          "text": "Priorização de Tarefas"
+        },
+        {
+          "id": "c",
+          "text": "Melhoria da Concentração"
+        },
+        {
+          "id": "d",
+          "text": "Aumento da Produtividade"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Qual conceito corresponde a descricao: A priorização de tarefas é fundamental para uma gestão eficaz do tempo?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Priorização de Tarefas"
+        },
+        {
+          "id": "b",
+          "text": "Melhoria da Concentração"
+        },
+        {
+          "id": "c",
+          "text": "Aumento da Produtividade"
+        },
+        {
+          "id": "d",
+          "text": "Ferramentas de Produtividade Digital"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Qual conceito corresponde a descricao: Melhorar a concentração é essencial para aumentar a produtividade e garantir que as tarefas sejam concluídas com eficiência?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Técnicas de Gerenciamento do Tempo"
+        },
+        {
+          "id": "b",
+          "text": "Melhoria da Concentração"
+        },
+        {
+          "id": "c",
+          "text": "Aumento da Produtividade"
+        },
+        {
+          "id": "d",
+          "text": "Ferramentas de Produtividade Digital"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Qual conceito corresponde a descricao: Aumentar a produtividade é um objetivo comum para muitas pessoas e pode ser alcançado através de várias estratégias?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Técnicas de Gerenciamento do Tempo"
+        },
+        {
+          "id": "b",
+          "text": "Priorização de Tarefas"
+        },
+        {
+          "id": "c",
+          "text": "Aumento da Produtividade"
+        },
+        {
+          "id": "d",
+          "text": "Ferramentas de Produtividade Digital"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Qual conceito corresponde a descricao: O Trello é uma ferramenta digital popular para gerenciamento de projetos e tarefas?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Técnicas de Gerenciamento do Tempo"
+        },
+        {
+          "id": "b",
+          "text": "Priorização de Tarefas"
+        },
+        {
+          "id": "c",
+          "text": "Melhoria da Concentração"
+        },
+        {
+          "id": "d",
+          "text": "Ferramentas de Produtividade Digital"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

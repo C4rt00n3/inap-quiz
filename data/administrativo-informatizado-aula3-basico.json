@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Administrativo Informatizado Aula 3 - Basico",
+  "subject": "Administrativo Informatizado",
+  "lesson": "Aula 3 - Fundamentos da Internet e Ferramentas Básicas",
+  "level": "Basico",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Qual alternativa define corretamente O que é a Internet??",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "nternet é uma rede mundial de computadores interconectados que permite a comunicação e troca de informações entre dispositivos"
+        },
+        {
+          "id": "b",
+          "text": "A história da Internet começou na década de 1960, quando o Departamento de Defesa dos EUA criou a ARPANET para garantir comunicação segura entre militares e pesquisadores durante a Guerra Fria"
+        },
+        {
+          "id": "c",
+          "text": "Navegadores são programas que você usa no seu computador ou celular para olhar páginas na Internet, como sites e redes sociais"
+        },
+        {
+          "id": "d",
+          "text": "Motores de Busca são ferramentas que ajudam você a encontrar informações na Internet, como o Google"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Qual alternativa define corretamente Resumo Histórico:?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "A história da Internet começou na década de 1960, quando o Departamento de Defesa dos EUA criou a ARPANET para garantir comunicação segura entre militares e pesquisadores durante a Guerra Fria"
+        },
+        {
+          "id": "b",
+          "text": "Navegadores são programas que você usa no seu computador ou celular para olhar páginas na Internet, como sites e redes sociais"
+        },
+        {
+          "id": "c",
+          "text": "Motores de Busca são ferramentas que ajudam você a encontrar informações na Internet, como o Google"
+        },
+        {
+          "id": "d",
+          "text": "Fazer buscas eficazes no Google pode ser bastante útil para encontrar informações precisas e relevantes"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Qual alternativa define corretamente Navegadores: O Que São e Para Que Servem?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "nternet é uma rede mundial de computadores interconectados que permite a comunicação e troca de informações entre dispositivos"
+        },
+        {
+          "id": "b",
+          "text": "Navegadores são programas que você usa no seu computador ou celular para olhar páginas na Internet, como sites e redes sociais"
+        },
+        {
+          "id": "c",
+          "text": "Motores de Busca são ferramentas que ajudam você a encontrar informações na Internet, como o Google"
+        },
+        {
+          "id": "d",
+          "text": "Fazer buscas eficazes no Google pode ser bastante útil para encontrar informações precisas e relevantes"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Qual alternativa define corretamente Motores de Busca?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "nternet é uma rede mundial de computadores interconectados que permite a comunicação e troca de informações entre dispositivos"
+        },
+        {
+          "id": "b",
+          "text": "A história da Internet começou na década de 1960, quando o Departamento de Defesa dos EUA criou a ARPANET para garantir comunicação segura entre militares e pesquisadores durante a Guerra Fria"
+        },
+        {
+          "id": "c",
+          "text": "Motores de Busca são ferramentas que ajudam você a encontrar informações na Internet, como o Google"
+        },
+        {
+          "id": "d",
+          "text": "Fazer buscas eficazes no Google pode ser bastante útil para encontrar informações precisas e relevantes"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Qual alternativa define corretamente Google?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "nternet é uma rede mundial de computadores interconectados que permite a comunicação e troca de informações entre dispositivos"
+        },
+        {
+          "id": "b",
+          "text": "A história da Internet começou na década de 1960, quando o Departamento de Defesa dos EUA criou a ARPANET para garantir comunicação segura entre militares e pesquisadores durante a Guerra Fria"
+        },
+        {
+          "id": "c",
+          "text": "Navegadores são programas que você usa no seu computador ou celular para olhar páginas na Internet, como sites e redes sociais"
+        },
+        {
+          "id": "d",
+          "text": "Fazer buscas eficazes no Google pode ser bastante útil para encontrar informações precisas e relevantes"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Qual conceito corresponde a descricao: nternet é uma rede mundial de computadores interconectados que permite a comunicação e troca de informações entre dispositivos?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "O que é a Internet?"
+        },
+        {
+          "id": "b",
+          "text": "Resumo Histórico:"
+        },
+        {
+          "id": "c",
+          "text": "Navegadores: O Que São e Para Que Servem"
+        },
+        {
+          "id": "d",
+          "text": "Motores de Busca"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Qual conceito corresponde a descricao: A história da Internet começou na década de 1960, quando o Departamento de Defesa dos EUA criou a ARPANET para garantir comunicação segura entre militares e pesquisadores durante a Guerra Fria?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Resumo Histórico:"
+        },
+        {
+          "id": "b",
+          "text": "Navegadores: O Que São e Para Que Servem"
+        },
+        {
+          "id": "c",
+          "text": "Motores de Busca"
+        },
+        {
+          "id": "d",
+          "text": "Google"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Qual conceito corresponde a descricao: Navegadores são programas que você usa no seu computador ou celular para olhar páginas na Internet, como sites e redes sociais?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "O que é a Internet?"
+        },
+        {
+          "id": "b",
+          "text": "Navegadores: O Que São e Para Que Servem"
+        },
+        {
+          "id": "c",
+          "text": "Motores de Busca"
+        },
+        {
+          "id": "d",
+          "text": "Google"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Qual conceito corresponde a descricao: Motores de Busca são ferramentas que ajudam você a encontrar informações na Internet, como o Google?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "O que é a Internet?"
+        },
+        {
+          "id": "b",
+          "text": "Resumo Histórico:"
+        },
+        {
+          "id": "c",
+          "text": "Motores de Busca"
+        },
+        {
+          "id": "d",
+          "text": "Google"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Qual conceito corresponde a descricao: Fazer buscas eficazes no Google pode ser bastante útil para encontrar informações precisas e relevantes?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "O que é a Internet?"
+        },
+        {
+          "id": "b",
+          "text": "Resumo Histórico:"
+        },
+        {
+          "id": "c",
+          "text": "Navegadores: O Que São e Para Que Servem"
+        },
+        {
+          "id": "d",
+          "text": "Google"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Administrativo Informatizado Aula 21 - Avancado",
+  "subject": "Administrativo Informatizado",
+  "lesson": "Aula 21 - Noções Básicas de Nota Fiscal II",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Processo de Cancelamento de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "O cancelamento de uma NF-e é necessário quando, por algum motivo, a operação descrita na nota fiscal não foi concluída"
+        },
+        {
+          "id": "b",
+          "text": "A consulta da validade de uma NF-e ou NFC- e (Nota Fiscal de Consumidor Eletrônica) pode ser feita através dos portais disponibilizados pela Receita Federal ou pelas Secretarias de Fazenda (SEFAZ) dos estados"
+        },
+        {
+          "id": "c",
+          "text": "A validação do XML e do DANFE é um passo essencial para garantir a autenticidade e a conformidade fiscal da operação"
+        },
+        {
+          "id": "d",
+          "text": "Em situações onde o sistema de autorização de NF-e da SEFAZ fica indisponível, as empresas precisam recorrer à contingência, que são formas alternativas de emitir notas fiscais, garantindo a continuidade das operações comerciais"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Consulta de NF-e e NFC-e de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "A consulta da validade de uma NF-e ou NFC- e (Nota Fiscal de Consumidor Eletrônica) pode ser feita através dos portais disponibilizados pela Receita Federal ou pelas Secretarias de Fazenda (SEFAZ) dos estados"
+        },
+        {
+          "id": "b",
+          "text": "A validação do XML e do DANFE é um passo essencial para garantir a autenticidade e a conformidade fiscal da operação"
+        },
+        {
+          "id": "c",
+          "text": "Em situações onde o sistema de autorização de NF-e da SEFAZ fica indisponível, as empresas precisam recorrer à contingência, que são formas alternativas de emitir notas fiscais, garantindo a continuidade das operações comerciais"
+        },
+        {
+          "id": "d",
+          "text": "Para emitir uma nota fiscal em contingência, é necessário seguir alguns procedimentos específicos: Ativar o modo de contingência no sistema de emissão de NF-e"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Validação de XML e DANFE de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "O cancelamento de uma NF-e é necessário quando, por algum motivo, a operação descrita na nota fiscal não foi concluída"
+        },
+        {
+          "id": "b",
+          "text": "A validação do XML e do DANFE é um passo essencial para garantir a autenticidade e a conformidade fiscal da operação"
+        },
+        {
+          "id": "c",
+          "text": "Em situações onde o sistema de autorização de NF-e da SEFAZ fica indisponível, as empresas precisam recorrer à contingência, que são formas alternativas de emitir notas fiscais, garantindo a continuidade das operações comerciais"
+        },
+        {
+          "id": "d",
+          "text": "Para emitir uma nota fiscal em contingência, é necessário seguir alguns procedimentos específicos: Ativar o modo de contingência no sistema de emissão de NF-e"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Modos de Contingência de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "O cancelamento de uma NF-e é necessário quando, por algum motivo, a operação descrita na nota fiscal não foi concluída"
+        },
+        {
+          "id": "b",
+          "text": "A consulta da validade de uma NF-e ou NFC- e (Nota Fiscal de Consumidor Eletrônica) pode ser feita através dos portais disponibilizados pela Receita Federal ou pelas Secretarias de Fazenda (SEFAZ) dos estados"
+        },
+        {
+          "id": "c",
+          "text": "Em situações onde o sistema de autorização de NF-e da SEFAZ fica indisponível, as empresas precisam recorrer à contingência, que são formas alternativas de emitir notas fiscais, garantindo a continuidade das operações comerciais"
+        },
+        {
+          "id": "d",
+          "text": "Para emitir uma nota fiscal em contingência, é necessário seguir alguns procedimentos específicos: Ativar o modo de contingência no sistema de emissão de NF-e"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Procedimentos e Requisitos de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "O cancelamento de uma NF-e é necessário quando, por algum motivo, a operação descrita na nota fiscal não foi concluída"
+        },
+        {
+          "id": "b",
+          "text": "A consulta da validade de uma NF-e ou NFC- e (Nota Fiscal de Consumidor Eletrônica) pode ser feita através dos portais disponibilizados pela Receita Federal ou pelas Secretarias de Fazenda (SEFAZ) dos estados"
+        },
+        {
+          "id": "c",
+          "text": "A validação do XML e do DANFE é um passo essencial para garantir a autenticidade e a conformidade fiscal da operação"
+        },
+        {
+          "id": "d",
+          "text": "Para emitir uma nota fiscal em contingência, é necessário seguir alguns procedimentos específicos: Ativar o modo de contingência no sistema de emissão de NF-e"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Para tomada de decisao, considere a descricao: O cancelamento de uma NF-e é necessário quando, por algum motivo, a operação descrita na nota fiscal não foi concluída. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Processo de Cancelamento"
+        },
+        {
+          "id": "b",
+          "text": "Consulta de NF-e e NFC-e"
+        },
+        {
+          "id": "c",
+          "text": "Validação de XML e DANFE"
+        },
+        {
+          "id": "d",
+          "text": "Modos de Contingência"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Para tomada de decisao, considere a descricao: A consulta da validade de uma NF-e ou NFC- e (Nota Fiscal de Consumidor Eletrônica) pode ser feita através dos portais disponibilizados pela Receita Federal ou pelas Secretarias de Fazenda (SEFAZ) dos estados. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Consulta de NF-e e NFC-e"
+        },
+        {
+          "id": "b",
+          "text": "Validação de XML e DANFE"
+        },
+        {
+          "id": "c",
+          "text": "Modos de Contingência"
+        },
+        {
+          "id": "d",
+          "text": "Procedimentos e Requisitos"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Para tomada de decisao, considere a descricao: A validação do XML e do DANFE é um passo essencial para garantir a autenticidade e a conformidade fiscal da operação. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Processo de Cancelamento"
+        },
+        {
+          "id": "b",
+          "text": "Validação de XML e DANFE"
+        },
+        {
+          "id": "c",
+          "text": "Modos de Contingência"
+        },
+        {
+          "id": "d",
+          "text": "Procedimentos e Requisitos"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Para tomada de decisao, considere a descricao: Em situações onde o sistema de autorização de NF-e da SEFAZ fica indisponível, as empresas precisam recorrer à contingência, que são formas alternativas de emitir notas fiscais, garantindo a continuidade das operações comerciais. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Processo de Cancelamento"
+        },
+        {
+          "id": "b",
+          "text": "Consulta de NF-e e NFC-e"
+        },
+        {
+          "id": "c",
+          "text": "Modos de Contingência"
+        },
+        {
+          "id": "d",
+          "text": "Procedimentos e Requisitos"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Para tomada de decisao, considere a descricao: Para emitir uma nota fiscal em contingência, é necessário seguir alguns procedimentos específicos: Ativar o modo de contingência no sistema de emissão de NF-e. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Processo de Cancelamento"
+        },
+        {
+          "id": "b",
+          "text": "Consulta de NF-e e NFC-e"
+        },
+        {
+          "id": "c",
+          "text": "Validação de XML e DANFE"
+        },
+        {
+          "id": "d",
+          "text": "Procedimentos e Requisitos"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

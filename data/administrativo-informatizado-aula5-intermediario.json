@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Administrativo Informatizado Aula 5 - Intermediario",
+  "subject": "Administrativo Informatizado",
+  "lesson": "Aula 5 - Introdução ao Word e Editores de Texto",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou Microsoft Word. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "O Microsoft Word é um dos mais populares editores de texto do mundo, desenvolvido pela Microsoft"
+        },
+        {
+          "id": "b",
+          "text": "Existem algumas maneiras de criarmos um documento no Microsoft Word"
+        },
+        {
+          "id": "c",
+          "text": "A biblioteca de layouts para documentos da Microsoft é muito vasta, podemos encontrar nela modelo para praticamente qualquer tipo de documento que estivermos trabalhando"
+        },
+        {
+          "id": "d",
+          "text": "O Microsoft Word é um software muito completo, ou seja, possui uma alta variedade de ferramentas e funções para utilizarmos em nossos documentos"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou Criando um documento. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Existem algumas maneiras de criarmos um documento no Microsoft Word"
+        },
+        {
+          "id": "b",
+          "text": "A biblioteca de layouts para documentos da Microsoft é muito vasta, podemos encontrar nela modelo para praticamente qualquer tipo de documento que estivermos trabalhando"
+        },
+        {
+          "id": "c",
+          "text": "O Microsoft Word é um software muito completo, ou seja, possui uma alta variedade de ferramentas e funções para utilizarmos em nossos documentos"
+        },
+        {
+          "id": "d",
+          "text": "Já falamos sobre a faixa de opções no texto anterior, porém como vamos usá-la 90% do tempo que estivermos trabalhando no Word, devemos dar uma atenção especial para ela"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou Layouts para documentos. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "O Microsoft Word é um dos mais populares editores de texto do mundo, desenvolvido pela Microsoft"
+        },
+        {
+          "id": "b",
+          "text": "A biblioteca de layouts para documentos da Microsoft é muito vasta, podemos encontrar nela modelo para praticamente qualquer tipo de documento que estivermos trabalhando"
+        },
+        {
+          "id": "c",
+          "text": "O Microsoft Word é um software muito completo, ou seja, possui uma alta variedade de ferramentas e funções para utilizarmos em nossos documentos"
+        },
+        {
+          "id": "d",
+          "text": "Já falamos sobre a faixa de opções no texto anterior, porém como vamos usá-la 90% do tempo que estivermos trabalhando no Word, devemos dar uma atenção especial para ela"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou Conhecendo a interface do Word. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "O Microsoft Word é um dos mais populares editores de texto do mundo, desenvolvido pela Microsoft"
+        },
+        {
+          "id": "b",
+          "text": "Existem algumas maneiras de criarmos um documento no Microsoft Word"
+        },
+        {
+          "id": "c",
+          "text": "O Microsoft Word é um software muito completo, ou seja, possui uma alta variedade de ferramentas e funções para utilizarmos em nossos documentos"
+        },
+        {
+          "id": "d",
+          "text": "Já falamos sobre a faixa de opções no texto anterior, porém como vamos usá-la 90% do tempo que estivermos trabalhando no Word, devemos dar uma atenção especial para ela"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou Faixa de Opções. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "O Microsoft Word é um dos mais populares editores de texto do mundo, desenvolvido pela Microsoft"
+        },
+        {
+          "id": "b",
+          "text": "Existem algumas maneiras de criarmos um documento no Microsoft Word"
+        },
+        {
+          "id": "c",
+          "text": "A biblioteca de layouts para documentos da Microsoft é muito vasta, podemos encontrar nela modelo para praticamente qualquer tipo de documento que estivermos trabalhando"
+        },
+        {
+          "id": "d",
+          "text": "Já falamos sobre a faixa de opções no texto anterior, porém como vamos usá-la 90% do tempo que estivermos trabalhando no Word, devemos dar uma atenção especial para ela"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Em um caso pratico, observou-se: O Microsoft Word é um dos mais populares editores de texto do mundo, desenvolvido pela Microsoft. Qual conceito deve ser identificado?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Microsoft Word"
+        },
+        {
+          "id": "b",
+          "text": "Criando um documento"
+        },
+        {
+          "id": "c",
+          "text": "Layouts para documentos"
+        },
+        {
+          "id": "d",
+          "text": "Conhecendo a interface do Word"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: Existem algumas maneiras de criarmos um documento no Microsoft Word. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Criando um documento"
+        },
+        {
+          "id": "b",
+          "text": "Layouts para documentos"
+        },
+        {
+          "id": "c",
+          "text": "Conhecendo a interface do Word"
+        },
+        {
+          "id": "d",
+          "text": "Faixa de Opções"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: A biblioteca de layouts para documentos da Microsoft é muito vasta, podemos encontrar nela modelo para praticamente qualquer tipo de documento que estivermos trabalhando. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Microsoft Word"
+        },
+        {
+          "id": "b",
+          "text": "Layouts para documentos"
+        },
+        {
+          "id": "c",
+          "text": "Conhecendo a interface do Word"
+        },
+        {
+          "id": "d",
+          "text": "Faixa de Opções"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: O Microsoft Word é um software muito completo, ou seja, possui uma alta variedade de ferramentas e funções para utilizarmos em nossos documentos. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Microsoft Word"
+        },
+        {
+          "id": "b",
+          "text": "Criando um documento"
+        },
+        {
+          "id": "c",
+          "text": "Conhecendo a interface do Word"
+        },
+        {
+          "id": "d",
+          "text": "Faixa de Opções"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: Já falamos sobre a faixa de opções no texto anterior, porém como vamos usá-la 90% do tempo que estivermos trabalhando no Word, devemos dar uma atenção especial para ela. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Microsoft Word"
+        },
+        {
+          "id": "b",
+          "text": "Criando um documento"
+        },
+        {
+          "id": "c",
+          "text": "Layouts para documentos"
+        },
+        {
+          "id": "d",
+          "text": "Faixa de Opções"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

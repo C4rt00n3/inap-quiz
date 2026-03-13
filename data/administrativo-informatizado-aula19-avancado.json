@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Administrativo Informatizado Aula 19 - Avancado",
+  "subject": "Administrativo Informatizado",
+  "lesson": "Aula 19 - Planejamento e Controle Financeiro Pessoal",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Estruturação do Orçamento de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "A estruturação de um orçamento começa com a criação de um plano detalhado que inclui todas as receitas (entradas de dinheiro) e despesas (saídas de dinheiro) esperadas para um determinado período, que pode ser mensal ou anual"
+        },
+        {
+          "id": "b",
+          "text": "A manutenção de um orçamento é um processo contínuo que requer monitoramento regular e ajustes conforme necessário: Monitoramento Contínuo: É importante acompanhar regularmente o orçamento para garantir que as receitas e despesas estejam"
+        },
+        {
+          "id": "c",
+          "text": "A gestão de despesas e receitas é uma prática essencial para manter a saúde financeira, seja no âmbito pessoal, familiar ou empresarial"
+        },
+        {
+          "id": "d",
+          "text": "Pessoal e Familiar: No contexto pessoal e familiar, a gestão de despesas e receitas é crucial para evitar dívidas, criar uma reserva de emergência, poupar para o futuro e garantir que as necessidades diárias sejam atendidas sem comprometer a estabilidade financeira"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Manutenção do Orçamento de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "A manutenção de um orçamento é um processo contínuo que requer monitoramento regular e ajustes conforme necessário: Monitoramento Contínuo: É importante acompanhar regularmente o orçamento para garantir que as receitas e despesas estejam"
+        },
+        {
+          "id": "b",
+          "text": "A gestão de despesas e receitas é uma prática essencial para manter a saúde financeira, seja no âmbito pessoal, familiar ou empresarial"
+        },
+        {
+          "id": "c",
+          "text": "Pessoal e Familiar: No contexto pessoal e familiar, a gestão de despesas e receitas é crucial para evitar dívidas, criar uma reserva de emergência, poupar para o futuro e garantir que as necessidades diárias sejam atendidas sem comprometer a estabilidade financeira"
+        },
+        {
+          "id": "d",
+          "text": "Registro de Transações: Manter um registro detalhado de todas as receitas e despesas é fundamental"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Gestão de despesas e receitas: Importância e Práticas de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "A estruturação de um orçamento começa com a criação de um plano detalhado que inclui todas as receitas (entradas de dinheiro) e despesas (saídas de dinheiro) esperadas para um determinado período, que pode ser mensal ou anual"
+        },
+        {
+          "id": "b",
+          "text": "A gestão de despesas e receitas é uma prática essencial para manter a saúde financeira, seja no âmbito pessoal, familiar ou empresarial"
+        },
+        {
+          "id": "c",
+          "text": "Pessoal e Familiar: No contexto pessoal e familiar, a gestão de despesas e receitas é crucial para evitar dívidas, criar uma reserva de emergência, poupar para o futuro e garantir que as necessidades diárias sejam atendidas sem comprometer a estabilidade financeira"
+        },
+        {
+          "id": "d",
+          "text": "Registro de Transações: Manter um registro detalhado de todas as receitas e despesas é fundamental"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Importância da Gestão de Despesas e Receitas de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "A estruturação de um orçamento começa com a criação de um plano detalhado que inclui todas as receitas (entradas de dinheiro) e despesas (saídas de dinheiro) esperadas para um determinado período, que pode ser mensal ou anual"
+        },
+        {
+          "id": "b",
+          "text": "A manutenção de um orçamento é um processo contínuo que requer monitoramento regular e ajustes conforme necessário: Monitoramento Contínuo: É importante acompanhar regularmente o orçamento para garantir que as receitas e despesas estejam"
+        },
+        {
+          "id": "c",
+          "text": "Pessoal e Familiar: No contexto pessoal e familiar, a gestão de despesas e receitas é crucial para evitar dívidas, criar uma reserva de emergência, poupar para o futuro e garantir que as necessidades diárias sejam atendidas sem comprometer a estabilidade financeira"
+        },
+        {
+          "id": "d",
+          "text": "Registro de Transações: Manter um registro detalhado de todas as receitas e despesas é fundamental"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Práticas de Gestão de Despesas e Receitas de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "A estruturação de um orçamento começa com a criação de um plano detalhado que inclui todas as receitas (entradas de dinheiro) e despesas (saídas de dinheiro) esperadas para um determinado período, que pode ser mensal ou anual"
+        },
+        {
+          "id": "b",
+          "text": "A manutenção de um orçamento é um processo contínuo que requer monitoramento regular e ajustes conforme necessário: Monitoramento Contínuo: É importante acompanhar regularmente o orçamento para garantir que as receitas e despesas estejam"
+        },
+        {
+          "id": "c",
+          "text": "A gestão de despesas e receitas é uma prática essencial para manter a saúde financeira, seja no âmbito pessoal, familiar ou empresarial"
+        },
+        {
+          "id": "d",
+          "text": "Registro de Transações: Manter um registro detalhado de todas as receitas e despesas é fundamental"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Para tomada de decisao, considere a descricao: A estruturação de um orçamento começa com a criação de um plano detalhado que inclui todas as receitas (entradas de dinheiro) e despesas (saídas de dinheiro) esperadas para um determinado período, que pode ser mensal ou anual. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Estruturação do Orçamento"
+        },
+        {
+          "id": "b",
+          "text": "Manutenção do Orçamento"
+        },
+        {
+          "id": "c",
+          "text": "Gestão de despesas e receitas: Importância e Práticas"
+        },
+        {
+          "id": "d",
+          "text": "Importância da Gestão de Despesas e Receitas"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Para tomada de decisao, considere a descricao: A manutenção de um orçamento é um processo contínuo que requer monitoramento regular e ajustes conforme necessário: Monitoramento Contínuo: É importante acompanhar regularmente o orçamento para garantir que as receitas e despesas estejam. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Manutenção do Orçamento"
+        },
+        {
+          "id": "b",
+          "text": "Gestão de despesas e receitas: Importância e Práticas"
+        },
+        {
+          "id": "c",
+          "text": "Importância da Gestão de Despesas e Receitas"
+        },
+        {
+          "id": "d",
+          "text": "Práticas de Gestão de Despesas e Receitas"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Para tomada de decisao, considere a descricao: A gestão de despesas e receitas é uma prática essencial para manter a saúde financeira, seja no âmbito pessoal, familiar ou empresarial. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Estruturação do Orçamento"
+        },
+        {
+          "id": "b",
+          "text": "Gestão de despesas e receitas: Importância e Práticas"
+        },
+        {
+          "id": "c",
+          "text": "Importância da Gestão de Despesas e Receitas"
+        },
+        {
+          "id": "d",
+          "text": "Práticas de Gestão de Despesas e Receitas"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Para tomada de decisao, considere a descricao: Pessoal e Familiar: No contexto pessoal e familiar, a gestão de despesas e receitas é crucial para evitar dívidas, criar uma reserva de emergência, poupar para o futuro e garantir que as necessidades diárias sejam atendidas sem comprometer a estabilidade financeira. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Estruturação do Orçamento"
+        },
+        {
+          "id": "b",
+          "text": "Manutenção do Orçamento"
+        },
+        {
+          "id": "c",
+          "text": "Importância da Gestão de Despesas e Receitas"
+        },
+        {
+          "id": "d",
+          "text": "Práticas de Gestão de Despesas e Receitas"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Para tomada de decisao, considere a descricao: Registro de Transações: Manter um registro detalhado de todas as receitas e despesas é fundamental. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Estruturação do Orçamento"
+        },
+        {
+          "id": "b",
+          "text": "Manutenção do Orçamento"
+        },
+        {
+          "id": "c",
+          "text": "Gestão de despesas e receitas: Importância e Práticas"
+        },
+        {
+          "id": "d",
+          "text": "Práticas de Gestão de Despesas e Receitas"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

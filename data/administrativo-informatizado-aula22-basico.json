@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Administrativo Informatizado Aula 22 - Basico",
+  "subject": "Administrativo Informatizado",
+  "lesson": "Aula 22 - Impostos e Tributos",
+  "level": "Basico",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Qual alternativa define corretamente Conceito de Incidência de Impostos?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "A incidência de impostos refere-se ao impacto que um imposto tem sobre os diferentes agentes econômicos, como empresas e consumidores"
+        },
+        {
+          "id": "b",
+          "text": "No setor de serviços, a principal tributação é o Imposto sobre Serviços (ISS)"
+        },
+        {
+          "id": "c",
+          "text": "O comércio é afetado principalmente pelo Imposto sobre Circulação de Mercadorias e Serviços (ICMS)"
+        },
+        {
+          "id": "d",
+          "text": "A indústria é impactada principalmente pelo Imposto sobre Produtos Industrializados (IPI)"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Qual alternativa define corretamente Setor de Serviços?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "No setor de serviços, a principal tributação é o Imposto sobre Serviços (ISS)"
+        },
+        {
+          "id": "b",
+          "text": "O comércio é afetado principalmente pelo Imposto sobre Circulação de Mercadorias e Serviços (ICMS)"
+        },
+        {
+          "id": "c",
+          "text": "A indústria é impactada principalmente pelo Imposto sobre Produtos Industrializados (IPI)"
+        },
+        {
+          "id": "d",
+          "text": "O setor agrícola, fundamental para a economia, enfrenta tributações como o Imposto sobre a Propriedade Territorial Rural (ITR) e o ICMS sobre produtos agrícolas"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Qual alternativa define corretamente Setor de Comércios?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "A incidência de impostos refere-se ao impacto que um imposto tem sobre os diferentes agentes econômicos, como empresas e consumidores"
+        },
+        {
+          "id": "b",
+          "text": "O comércio é afetado principalmente pelo Imposto sobre Circulação de Mercadorias e Serviços (ICMS)"
+        },
+        {
+          "id": "c",
+          "text": "A indústria é impactada principalmente pelo Imposto sobre Produtos Industrializados (IPI)"
+        },
+        {
+          "id": "d",
+          "text": "O setor agrícola, fundamental para a economia, enfrenta tributações como o Imposto sobre a Propriedade Territorial Rural (ITR) e o ICMS sobre produtos agrícolas"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Qual alternativa define corretamente Setor Industrial?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "A incidência de impostos refere-se ao impacto que um imposto tem sobre os diferentes agentes econômicos, como empresas e consumidores"
+        },
+        {
+          "id": "b",
+          "text": "No setor de serviços, a principal tributação é o Imposto sobre Serviços (ISS)"
+        },
+        {
+          "id": "c",
+          "text": "A indústria é impactada principalmente pelo Imposto sobre Produtos Industrializados (IPI)"
+        },
+        {
+          "id": "d",
+          "text": "O setor agrícola, fundamental para a economia, enfrenta tributações como o Imposto sobre a Propriedade Territorial Rural (ITR) e o ICMS sobre produtos agrícolas"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Qual alternativa define corretamente Setor Agrícola?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "A incidência de impostos refere-se ao impacto que um imposto tem sobre os diferentes agentes econômicos, como empresas e consumidores"
+        },
+        {
+          "id": "b",
+          "text": "No setor de serviços, a principal tributação é o Imposto sobre Serviços (ISS)"
+        },
+        {
+          "id": "c",
+          "text": "O comércio é afetado principalmente pelo Imposto sobre Circulação de Mercadorias e Serviços (ICMS)"
+        },
+        {
+          "id": "d",
+          "text": "O setor agrícola, fundamental para a economia, enfrenta tributações como o Imposto sobre a Propriedade Territorial Rural (ITR) e o ICMS sobre produtos agrícolas"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Qual conceito corresponde a descricao: A incidência de impostos refere-se ao impacto que um imposto tem sobre os diferentes agentes econômicos, como empresas e consumidores?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Conceito de Incidência de Impostos"
+        },
+        {
+          "id": "b",
+          "text": "Setor de Serviços"
+        },
+        {
+          "id": "c",
+          "text": "Setor de Comércios"
+        },
+        {
+          "id": "d",
+          "text": "Setor Industrial"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Qual conceito corresponde a descricao: No setor de serviços, a principal tributação é o Imposto sobre Serviços (ISS)?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Setor de Serviços"
+        },
+        {
+          "id": "b",
+          "text": "Setor de Comércios"
+        },
+        {
+          "id": "c",
+          "text": "Setor Industrial"
+        },
+        {
+          "id": "d",
+          "text": "Setor Agrícola"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Qual conceito corresponde a descricao: O comércio é afetado principalmente pelo Imposto sobre Circulação de Mercadorias e Serviços (ICMS)?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Conceito de Incidência de Impostos"
+        },
+        {
+          "id": "b",
+          "text": "Setor de Comércios"
+        },
+        {
+          "id": "c",
+          "text": "Setor Industrial"
+        },
+        {
+          "id": "d",
+          "text": "Setor Agrícola"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Qual conceito corresponde a descricao: A indústria é impactada principalmente pelo Imposto sobre Produtos Industrializados (IPI)?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Conceito de Incidência de Impostos"
+        },
+        {
+          "id": "b",
+          "text": "Setor de Serviços"
+        },
+        {
+          "id": "c",
+          "text": "Setor Industrial"
+        },
+        {
+          "id": "d",
+          "text": "Setor Agrícola"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Qual conceito corresponde a descricao: O setor agrícola, fundamental para a economia, enfrenta tributações como o Imposto sobre a Propriedade Territorial Rural (ITR) e o ICMS sobre produtos agrícolas?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Conceito de Incidência de Impostos"
+        },
+        {
+          "id": "b",
+          "text": "Setor de Serviços"
+        },
+        {
+          "id": "c",
+          "text": "Setor de Comércios"
+        },
+        {
+          "id": "d",
+          "text": "Setor Agrícola"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

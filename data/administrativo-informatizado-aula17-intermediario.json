@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Administrativo Informatizado Aula 17 - Intermediario",
+  "subject": "Administrativo Informatizado",
+  "lesson": "Aula 17 - Conceitos da Matemática Financeira",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou Capital. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "capital é o valor inicial que uma pessoa ou empresa possui para investir ou aplicar em alguma operação financeira"
+        },
+        {
+          "id": "b",
+          "text": "A taxa, em termos financeiros, refere-se à porcentagem aplicada sobre o capital em uma operação financeira"
+        },
+        {
+          "id": "c",
+          "text": "O montante é o valor total acumulado ao final de uma operação financeira, que inclui tanto o capital inicial quanto os juros ou rendimentos obtidos ao longo do tempo"
+        },
+        {
+          "id": "d",
+          "text": "O tempo é uma variável crucial em operações financeiras, pois influencia diretamente o cálculo de juros e o montante final"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou Taxa. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "A taxa, em termos financeiros, refere-se à porcentagem aplicada sobre o capital em uma operação financeira"
+        },
+        {
+          "id": "b",
+          "text": "O montante é o valor total acumulado ao final de uma operação financeira, que inclui tanto o capital inicial quanto os juros ou rendimentos obtidos ao longo do tempo"
+        },
+        {
+          "id": "c",
+          "text": "O tempo é uma variável crucial em operações financeiras, pois influencia diretamente o cálculo de juros e o montante final"
+        },
+        {
+          "id": "d",
+          "text": "Aplicações Práticas no Dia a Dia A porcentagem é uma ferramenta matemática fundamental que expressa um número como uma fração de 100"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou Montante. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "capital é o valor inicial que uma pessoa ou empresa possui para investir ou aplicar em alguma operação financeira"
+        },
+        {
+          "id": "b",
+          "text": "O montante é o valor total acumulado ao final de uma operação financeira, que inclui tanto o capital inicial quanto os juros ou rendimentos obtidos ao longo do tempo"
+        },
+        {
+          "id": "c",
+          "text": "O tempo é uma variável crucial em operações financeiras, pois influencia diretamente o cálculo de juros e o montante final"
+        },
+        {
+          "id": "d",
+          "text": "Aplicações Práticas no Dia a Dia A porcentagem é uma ferramenta matemática fundamental que expressa um número como uma fração de 100"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou Tempo. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "capital é o valor inicial que uma pessoa ou empresa possui para investir ou aplicar em alguma operação financeira"
+        },
+        {
+          "id": "b",
+          "text": "A taxa, em termos financeiros, refere-se à porcentagem aplicada sobre o capital em uma operação financeira"
+        },
+        {
+          "id": "c",
+          "text": "O tempo é uma variável crucial em operações financeiras, pois influencia diretamente o cálculo de juros e o montante final"
+        },
+        {
+          "id": "d",
+          "text": "Aplicações Práticas no Dia a Dia A porcentagem é uma ferramenta matemática fundamental que expressa um número como uma fração de 100"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou Porcentagem: Cálculos e. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "capital é o valor inicial que uma pessoa ou empresa possui para investir ou aplicar em alguma operação financeira"
+        },
+        {
+          "id": "b",
+          "text": "A taxa, em termos financeiros, refere-se à porcentagem aplicada sobre o capital em uma operação financeira"
+        },
+        {
+          "id": "c",
+          "text": "O montante é o valor total acumulado ao final de uma operação financeira, que inclui tanto o capital inicial quanto os juros ou rendimentos obtidos ao longo do tempo"
+        },
+        {
+          "id": "d",
+          "text": "Aplicações Práticas no Dia a Dia A porcentagem é uma ferramenta matemática fundamental que expressa um número como uma fração de 100"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Em um caso pratico, observou-se: capital é o valor inicial que uma pessoa ou empresa possui para investir ou aplicar em alguma operação financeira. Qual conceito deve ser identificado?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Capital"
+        },
+        {
+          "id": "b",
+          "text": "Taxa"
+        },
+        {
+          "id": "c",
+          "text": "Montante"
+        },
+        {
+          "id": "d",
+          "text": "Tempo"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: A taxa, em termos financeiros, refere-se à porcentagem aplicada sobre o capital em uma operação financeira. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Taxa"
+        },
+        {
+          "id": "b",
+          "text": "Montante"
+        },
+        {
+          "id": "c",
+          "text": "Tempo"
+        },
+        {
+          "id": "d",
+          "text": "Porcentagem: Cálculos e"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: O montante é o valor total acumulado ao final de uma operação financeira, que inclui tanto o capital inicial quanto os juros ou rendimentos obtidos ao longo do tempo. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Capital"
+        },
+        {
+          "id": "b",
+          "text": "Montante"
+        },
+        {
+          "id": "c",
+          "text": "Tempo"
+        },
+        {
+          "id": "d",
+          "text": "Porcentagem: Cálculos e"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: O tempo é uma variável crucial em operações financeiras, pois influencia diretamente o cálculo de juros e o montante final. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Capital"
+        },
+        {
+          "id": "b",
+          "text": "Taxa"
+        },
+        {
+          "id": "c",
+          "text": "Tempo"
+        },
+        {
+          "id": "d",
+          "text": "Porcentagem: Cálculos e"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: Aplicações Práticas no Dia a Dia A porcentagem é uma ferramenta matemática fundamental que expressa um número como uma fração de 100. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Capital"
+        },
+        {
+          "id": "b",
+          "text": "Taxa"
+        },
+        {
+          "id": "c",
+          "text": "Montante"
+        },
+        {
+          "id": "d",
+          "text": "Porcentagem: Cálculos e"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

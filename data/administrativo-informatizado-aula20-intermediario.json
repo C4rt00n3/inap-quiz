@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Administrativo Informatizado Aula 20 - Intermediario",
+  "subject": "Administrativo Informatizado",
+  "lesson": "Aula 20 - Noções Básicas de Nota Fiscal",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou Notas Fiscais Notas fiscais são documentos fiscais. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "obrigatórios que registram a transação de compra e venda de produtos ou serviços"
+        },
+        {
+          "id": "b",
+          "text": "É um documento digital que substitui a nota fiscal em papel"
+        },
+        {
+          "id": "c",
+          "text": "Utilizada por prestadores de serviço, como advogados e consultores"
+        },
+        {
+          "id": "d",
+          "text": "Utilizada para vendas no varejo, especialmente para o consumidor final"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou Nota Fiscal Eletrônica (NF-e). Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "É um documento digital que substitui a nota fiscal em papel"
+        },
+        {
+          "id": "b",
+          "text": "Utilizada por prestadores de serviço, como advogados e consultores"
+        },
+        {
+          "id": "c",
+          "text": "Utilizada para vendas no varejo, especialmente para o consumidor final"
+        },
+        {
+          "id": "d",
+          "text": "É feita pelo transportador e inclui informações sobre a carga, veículo e motorista"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou Nota Fiscal de Serviço Eletrônica (NFS-e) Focada na prestação de serviços.. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "obrigatórios que registram a transação de compra e venda de produtos ou serviços"
+        },
+        {
+          "id": "b",
+          "text": "Utilizada por prestadores de serviço, como advogados e consultores"
+        },
+        {
+          "id": "c",
+          "text": "Utilizada para vendas no varejo, especialmente para o consumidor final"
+        },
+        {
+          "id": "d",
+          "text": "É feita pelo transportador e inclui informações sobre a carga, veículo e motorista"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou Nota Fiscal do Consumidor Eletrônica (NFC-e). Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "obrigatórios que registram a transação de compra e venda de produtos ou serviços"
+        },
+        {
+          "id": "b",
+          "text": "É um documento digital que substitui a nota fiscal em papel"
+        },
+        {
+          "id": "c",
+          "text": "Utilizada para vendas no varejo, especialmente para o consumidor final"
+        },
+        {
+          "id": "d",
+          "text": "É feita pelo transportador e inclui informações sobre a carga, veículo e motorista"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou Conhecimento de Transporte Eletrônico (CT-e). Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "obrigatórios que registram a transação de compra e venda de produtos ou serviços"
+        },
+        {
+          "id": "b",
+          "text": "É um documento digital que substitui a nota fiscal em papel"
+        },
+        {
+          "id": "c",
+          "text": "Utilizada por prestadores de serviço, como advogados e consultores"
+        },
+        {
+          "id": "d",
+          "text": "É feita pelo transportador e inclui informações sobre a carga, veículo e motorista"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Em um caso pratico, observou-se: obrigatórios que registram a transação de compra e venda de produtos ou serviços. Qual conceito deve ser identificado?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Notas Fiscais Notas fiscais são documentos fiscais"
+        },
+        {
+          "id": "b",
+          "text": "Nota Fiscal Eletrônica (NF-e)"
+        },
+        {
+          "id": "c",
+          "text": "Nota Fiscal de Serviço Eletrônica (NFS-e) Focada na prestação de serviços."
+        },
+        {
+          "id": "d",
+          "text": "Nota Fiscal do Consumidor Eletrônica (NFC-e)"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: É um documento digital que substitui a nota fiscal em papel. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nota Fiscal Eletrônica (NF-e)"
+        },
+        {
+          "id": "b",
+          "text": "Nota Fiscal de Serviço Eletrônica (NFS-e) Focada na prestação de serviços."
+        },
+        {
+          "id": "c",
+          "text": "Nota Fiscal do Consumidor Eletrônica (NFC-e)"
+        },
+        {
+          "id": "d",
+          "text": "Conhecimento de Transporte Eletrônico (CT-e)"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: Utilizada por prestadores de serviço, como advogados e consultores. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Notas Fiscais Notas fiscais são documentos fiscais"
+        },
+        {
+          "id": "b",
+          "text": "Nota Fiscal de Serviço Eletrônica (NFS-e) Focada na prestação de serviços."
+        },
+        {
+          "id": "c",
+          "text": "Nota Fiscal do Consumidor Eletrônica (NFC-e)"
+        },
+        {
+          "id": "d",
+          "text": "Conhecimento de Transporte Eletrônico (CT-e)"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: Utilizada para vendas no varejo, especialmente para o consumidor final. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Notas Fiscais Notas fiscais são documentos fiscais"
+        },
+        {
+          "id": "b",
+          "text": "Nota Fiscal Eletrônica (NF-e)"
+        },
+        {
+          "id": "c",
+          "text": "Nota Fiscal do Consumidor Eletrônica (NFC-e)"
+        },
+        {
+          "id": "d",
+          "text": "Conhecimento de Transporte Eletrônico (CT-e)"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: É feita pelo transportador e inclui informações sobre a carga, veículo e motorista. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Notas Fiscais Notas fiscais são documentos fiscais"
+        },
+        {
+          "id": "b",
+          "text": "Nota Fiscal Eletrônica (NF-e)"
+        },
+        {
+          "id": "c",
+          "text": "Nota Fiscal de Serviço Eletrônica (NFS-e) Focada na prestação de serviços."
+        },
+        {
+          "id": "d",
+          "text": "Conhecimento de Transporte Eletrônico (CT-e)"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

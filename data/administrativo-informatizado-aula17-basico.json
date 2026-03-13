@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Administrativo Informatizado Aula 17 - Basico",
+  "subject": "Administrativo Informatizado",
+  "lesson": "Aula 17 - Conceitos da Matemática Financeira",
+  "level": "Basico",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Qual alternativa define corretamente Capital?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "capital é o valor inicial que uma pessoa ou empresa possui para investir ou aplicar em alguma operação financeira"
+        },
+        {
+          "id": "b",
+          "text": "A taxa, em termos financeiros, refere-se à porcentagem aplicada sobre o capital em uma operação financeira"
+        },
+        {
+          "id": "c",
+          "text": "O montante é o valor total acumulado ao final de uma operação financeira, que inclui tanto o capital inicial quanto os juros ou rendimentos obtidos ao longo do tempo"
+        },
+        {
+          "id": "d",
+          "text": "O tempo é uma variável crucial em operações financeiras, pois influencia diretamente o cálculo de juros e o montante final"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Qual alternativa define corretamente Taxa?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "A taxa, em termos financeiros, refere-se à porcentagem aplicada sobre o capital em uma operação financeira"
+        },
+        {
+          "id": "b",
+          "text": "O montante é o valor total acumulado ao final de uma operação financeira, que inclui tanto o capital inicial quanto os juros ou rendimentos obtidos ao longo do tempo"
+        },
+        {
+          "id": "c",
+          "text": "O tempo é uma variável crucial em operações financeiras, pois influencia diretamente o cálculo de juros e o montante final"
+        },
+        {
+          "id": "d",
+          "text": "Aplicações Práticas no Dia a Dia A porcentagem é uma ferramenta matemática fundamental que expressa um número como uma fração de 100"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Qual alternativa define corretamente Montante?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "capital é o valor inicial que uma pessoa ou empresa possui para investir ou aplicar em alguma operação financeira"
+        },
+        {
+          "id": "b",
+          "text": "O montante é o valor total acumulado ao final de uma operação financeira, que inclui tanto o capital inicial quanto os juros ou rendimentos obtidos ao longo do tempo"
+        },
+        {
+          "id": "c",
+          "text": "O tempo é uma variável crucial em operações financeiras, pois influencia diretamente o cálculo de juros e o montante final"
+        },
+        {
+          "id": "d",
+          "text": "Aplicações Práticas no Dia a Dia A porcentagem é uma ferramenta matemática fundamental que expressa um número como uma fração de 100"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Qual alternativa define corretamente Tempo?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "capital é o valor inicial que uma pessoa ou empresa possui para investir ou aplicar em alguma operação financeira"
+        },
+        {
+          "id": "b",
+          "text": "A taxa, em termos financeiros, refere-se à porcentagem aplicada sobre o capital em uma operação financeira"
+        },
+        {
+          "id": "c",
+          "text": "O tempo é uma variável crucial em operações financeiras, pois influencia diretamente o cálculo de juros e o montante final"
+        },
+        {
+          "id": "d",
+          "text": "Aplicações Práticas no Dia a Dia A porcentagem é uma ferramenta matemática fundamental que expressa um número como uma fração de 100"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Qual alternativa define corretamente Porcentagem: Cálculos e?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "capital é o valor inicial que uma pessoa ou empresa possui para investir ou aplicar em alguma operação financeira"
+        },
+        {
+          "id": "b",
+          "text": "A taxa, em termos financeiros, refere-se à porcentagem aplicada sobre o capital em uma operação financeira"
+        },
+        {
+          "id": "c",
+          "text": "O montante é o valor total acumulado ao final de uma operação financeira, que inclui tanto o capital inicial quanto os juros ou rendimentos obtidos ao longo do tempo"
+        },
+        {
+          "id": "d",
+          "text": "Aplicações Práticas no Dia a Dia A porcentagem é uma ferramenta matemática fundamental que expressa um número como uma fração de 100"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Qual conceito corresponde a descricao: capital é o valor inicial que uma pessoa ou empresa possui para investir ou aplicar em alguma operação financeira?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Capital"
+        },
+        {
+          "id": "b",
+          "text": "Taxa"
+        },
+        {
+          "id": "c",
+          "text": "Montante"
+        },
+        {
+          "id": "d",
+          "text": "Tempo"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Qual conceito corresponde a descricao: A taxa, em termos financeiros, refere-se à porcentagem aplicada sobre o capital em uma operação financeira?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Taxa"
+        },
+        {
+          "id": "b",
+          "text": "Montante"
+        },
+        {
+          "id": "c",
+          "text": "Tempo"
+        },
+        {
+          "id": "d",
+          "text": "Porcentagem: Cálculos e"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Qual conceito corresponde a descricao: O montante é o valor total acumulado ao final de uma operação financeira, que inclui tanto o capital inicial quanto os juros ou rendimentos obtidos ao longo do tempo?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Capital"
+        },
+        {
+          "id": "b",
+          "text": "Montante"
+        },
+        {
+          "id": "c",
+          "text": "Tempo"
+        },
+        {
+          "id": "d",
+          "text": "Porcentagem: Cálculos e"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Qual conceito corresponde a descricao: O tempo é uma variável crucial em operações financeiras, pois influencia diretamente o cálculo de juros e o montante final?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Capital"
+        },
+        {
+          "id": "b",
+          "text": "Taxa"
+        },
+        {
+          "id": "c",
+          "text": "Tempo"
+        },
+        {
+          "id": "d",
+          "text": "Porcentagem: Cálculos e"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Qual conceito corresponde a descricao: Aplicações Práticas no Dia a Dia A porcentagem é uma ferramenta matemática fundamental que expressa um número como uma fração de 100?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Capital"
+        },
+        {
+          "id": "b",
+          "text": "Taxa"
+        },
+        {
+          "id": "c",
+          "text": "Montante"
+        },
+        {
+          "id": "d",
+          "text": "Porcentagem: Cálculos e"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

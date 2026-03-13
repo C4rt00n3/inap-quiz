@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Redes de Computadores Aula 4 - Basico",
+  "subject": "Redes de Computadores",
+  "lesson": "Aula 4 - Normas ABNT e TIA 568",
+  "level": "Basico",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Qual alternativa define corretamente Normas ABNT e TIA 568?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Normas ABNT e TIA 568 Aula 4 A"
+        },
+        {
+          "id": "b",
+          "text": "s normas são um conjunto de regras e diretrizes estabelecidas para padronizar processos, equipamentos e métodos de trabalho"
+        },
+        {
+          "id": "c",
+          "text": "O cabeamento estruturado é um sistema organizado de cabeamento utilizado para conectar dispositivos em redes de computadores, telefonia e outros sistemas de comunicação"
+        },
+        {
+          "id": "d",
+          "text": "Crimpar um cabo de rede significa montar um cabo Ethernet conectando corretamente os fios ao conector RJ-45"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Qual alternativa define corretamente Introdução às Normas?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "s normas são um conjunto de regras e diretrizes estabelecidas para padronizar processos, equipamentos e métodos de trabalho"
+        },
+        {
+          "id": "b",
+          "text": "O cabeamento estruturado é um sistema organizado de cabeamento utilizado para conectar dispositivos em redes de computadores, telefonia e outros sistemas de comunicação"
+        },
+        {
+          "id": "c",
+          "text": "Crimpar um cabo de rede significa montar um cabo Ethernet conectando corretamente os fios ao conector RJ-45"
+        },
+        {
+          "id": "d",
+          "text": "Cabo de rede (CAT5e, CAT6, etc.) Conectores RJ-45 Alicate de crimpagem Decapador de cabo ou estilete Testador de cabo (opcional, mas recomendado)"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Qual alternativa define corretamente Cabeamento Estruturado e Padrões TIA 568?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Normas ABNT e TIA 568 Aula 4 A"
+        },
+        {
+          "id": "b",
+          "text": "O cabeamento estruturado é um sistema organizado de cabeamento utilizado para conectar dispositivos em redes de computadores, telefonia e outros sistemas de comunicação"
+        },
+        {
+          "id": "c",
+          "text": "Crimpar um cabo de rede significa montar um cabo Ethernet conectando corretamente os fios ao conector RJ-45"
+        },
+        {
+          "id": "d",
+          "text": "Cabo de rede (CAT5e, CAT6, etc.) Conectores RJ-45 Alicate de crimpagem Decapador de cabo ou estilete Testador de cabo (opcional, mas recomendado)"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Qual alternativa define corretamente Como crimpar um cabo de rede?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Normas ABNT e TIA 568 Aula 4 A"
+        },
+        {
+          "id": "b",
+          "text": "s normas são um conjunto de regras e diretrizes estabelecidas para padronizar processos, equipamentos e métodos de trabalho"
+        },
+        {
+          "id": "c",
+          "text": "Crimpar um cabo de rede significa montar um cabo Ethernet conectando corretamente os fios ao conector RJ-45"
+        },
+        {
+          "id": "d",
+          "text": "Cabo de rede (CAT5e, CAT6, etc.) Conectores RJ-45 Alicate de crimpagem Decapador de cabo ou estilete Testador de cabo (opcional, mas recomendado)"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Qual alternativa define corretamente Materiais necessários:?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Normas ABNT e TIA 568 Aula 4 A"
+        },
+        {
+          "id": "b",
+          "text": "s normas são um conjunto de regras e diretrizes estabelecidas para padronizar processos, equipamentos e métodos de trabalho"
+        },
+        {
+          "id": "c",
+          "text": "O cabeamento estruturado é um sistema organizado de cabeamento utilizado para conectar dispositivos em redes de computadores, telefonia e outros sistemas de comunicação"
+        },
+        {
+          "id": "d",
+          "text": "Cabo de rede (CAT5e, CAT6, etc.) Conectores RJ-45 Alicate de crimpagem Decapador de cabo ou estilete Testador de cabo (opcional, mas recomendado)"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Qual conceito corresponde a descricao: Normas ABNT e TIA 568 Aula 4 A?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Normas ABNT e TIA 568"
+        },
+        {
+          "id": "b",
+          "text": "Introdução às Normas"
+        },
+        {
+          "id": "c",
+          "text": "Cabeamento Estruturado e Padrões TIA 568"
+        },
+        {
+          "id": "d",
+          "text": "Como crimpar um cabo de rede"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Qual conceito corresponde a descricao: s normas são um conjunto de regras e diretrizes estabelecidas para padronizar processos, equipamentos e métodos de trabalho?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Introdução às Normas"
+        },
+        {
+          "id": "b",
+          "text": "Cabeamento Estruturado e Padrões TIA 568"
+        },
+        {
+          "id": "c",
+          "text": "Como crimpar um cabo de rede"
+        },
+        {
+          "id": "d",
+          "text": "Materiais necessários:"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Qual conceito corresponde a descricao: O cabeamento estruturado é um sistema organizado de cabeamento utilizado para conectar dispositivos em redes de computadores, telefonia e outros sistemas de comunicação?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Normas ABNT e TIA 568"
+        },
+        {
+          "id": "b",
+          "text": "Cabeamento Estruturado e Padrões TIA 568"
+        },
+        {
+          "id": "c",
+          "text": "Como crimpar um cabo de rede"
+        },
+        {
+          "id": "d",
+          "text": "Materiais necessários:"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Qual conceito corresponde a descricao: Crimpar um cabo de rede significa montar um cabo Ethernet conectando corretamente os fios ao conector RJ-45?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Normas ABNT e TIA 568"
+        },
+        {
+          "id": "b",
+          "text": "Introdução às Normas"
+        },
+        {
+          "id": "c",
+          "text": "Como crimpar um cabo de rede"
+        },
+        {
+          "id": "d",
+          "text": "Materiais necessários:"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Qual conceito corresponde a descricao: Cabo de rede (CAT5e, CAT6, etc.) Conectores RJ-45 Alicate de crimpagem Decapador de cabo ou estilete Testador de cabo (opcional, mas recomendado)?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Normas ABNT e TIA 568"
+        },
+        {
+          "id": "b",
+          "text": "Introdução às Normas"
+        },
+        {
+          "id": "c",
+          "text": "Cabeamento Estruturado e Padrões TIA 568"
+        },
+        {
+          "id": "d",
+          "text": "Materiais necessários:"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

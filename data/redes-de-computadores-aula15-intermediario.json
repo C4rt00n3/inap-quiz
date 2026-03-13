@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Redes de Computadores Aula 15 - Intermediario",
+  "subject": "Redes de Computadores",
+  "lesson": "Aula 15 - Planejamento e Projeto de Redes I",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou Planejamento e Projeto de Redes I. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "esta aula, demos início ao nosso primeiro projeto de rede corporativa no Packet Tracer"
+        },
+        {
+          "id": "b",
+          "text": "Uma rede em uma empresa é dividida em setores"
+        },
+        {
+          "id": "c",
+          "text": "Cada setor recebe uma faixa de endereços IP própria (sub-rede)"
+        },
+        {
+          "id": "d",
+          "text": "Para que diferentes setores se comuniquem entre si, os roteadores precisam “saber o caminho” até as outras redes"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou Estrutura de uma rede corporativa. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Uma rede em uma empresa é dividida em setores"
+        },
+        {
+          "id": "b",
+          "text": "Cada setor recebe uma faixa de endereços IP própria (sub-rede)"
+        },
+        {
+          "id": "c",
+          "text": "Para que diferentes setores se comuniquem entre si, os roteadores precisam “saber o caminho” até as outras redes"
+        },
+        {
+          "id": "d",
+          "text": "No Packet Tracer, iniciamos a montagem do nosso projeto"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou Endereçamento IP e gateways. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "esta aula, demos início ao nosso primeiro projeto de rede corporativa no Packet Tracer"
+        },
+        {
+          "id": "b",
+          "text": "Cada setor recebe uma faixa de endereços IP própria (sub-rede)"
+        },
+        {
+          "id": "c",
+          "text": "Para que diferentes setores se comuniquem entre si, os roteadores precisam “saber o caminho” até as outras redes"
+        },
+        {
+          "id": "d",
+          "text": "No Packet Tracer, iniciamos a montagem do nosso projeto"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou Rotas estáticas. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "esta aula, demos início ao nosso primeiro projeto de rede corporativa no Packet Tracer"
+        },
+        {
+          "id": "b",
+          "text": "Uma rede em uma empresa é dividida em setores"
+        },
+        {
+          "id": "c",
+          "text": "Para que diferentes setores se comuniquem entre si, os roteadores precisam “saber o caminho” até as outras redes"
+        },
+        {
+          "id": "d",
+          "text": "No Packet Tracer, iniciamos a montagem do nosso projeto"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou Preparação da topologia. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "esta aula, demos início ao nosso primeiro projeto de rede corporativa no Packet Tracer"
+        },
+        {
+          "id": "b",
+          "text": "Uma rede em uma empresa é dividida em setores"
+        },
+        {
+          "id": "c",
+          "text": "Cada setor recebe uma faixa de endereços IP própria (sub-rede)"
+        },
+        {
+          "id": "d",
+          "text": "No Packet Tracer, iniciamos a montagem do nosso projeto"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Em um caso pratico, observou-se: esta aula, demos início ao nosso primeiro projeto de rede corporativa no Packet Tracer. Qual conceito deve ser identificado?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Planejamento e Projeto de Redes I"
+        },
+        {
+          "id": "b",
+          "text": "Estrutura de uma rede corporativa"
+        },
+        {
+          "id": "c",
+          "text": "Endereçamento IP e gateways"
+        },
+        {
+          "id": "d",
+          "text": "Rotas estáticas"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: Uma rede em uma empresa é dividida em setores. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Estrutura de uma rede corporativa"
+        },
+        {
+          "id": "b",
+          "text": "Endereçamento IP e gateways"
+        },
+        {
+          "id": "c",
+          "text": "Rotas estáticas"
+        },
+        {
+          "id": "d",
+          "text": "Preparação da topologia"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: Cada setor recebe uma faixa de endereços IP própria (sub-rede). Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Planejamento e Projeto de Redes I"
+        },
+        {
+          "id": "b",
+          "text": "Endereçamento IP e gateways"
+        },
+        {
+          "id": "c",
+          "text": "Rotas estáticas"
+        },
+        {
+          "id": "d",
+          "text": "Preparação da topologia"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: Para que diferentes setores se comuniquem entre si, os roteadores precisam “saber o caminho” até as outras redes. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Planejamento e Projeto de Redes I"
+        },
+        {
+          "id": "b",
+          "text": "Estrutura de uma rede corporativa"
+        },
+        {
+          "id": "c",
+          "text": "Rotas estáticas"
+        },
+        {
+          "id": "d",
+          "text": "Preparação da topologia"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: No Packet Tracer, iniciamos a montagem do nosso projeto. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Planejamento e Projeto de Redes I"
+        },
+        {
+          "id": "b",
+          "text": "Estrutura de uma rede corporativa"
+        },
+        {
+          "id": "c",
+          "text": "Endereçamento IP e gateways"
+        },
+        {
+          "id": "d",
+          "text": "Preparação da topologia"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

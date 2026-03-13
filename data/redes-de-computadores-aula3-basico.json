@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Redes de Computadores Aula 3 - Basico",
+  "subject": "Redes de Computadores",
+  "lesson": "Aula 3 - Protocolos de Comunicação",
+  "level": "Basico",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Qual alternativa define corretamente Roteadores, Switches, Hubs, Cabos e Conexões?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "as redes de computadores, diversos dispositivos e meios físicos trabalham juntos para garantir a comunicação entre equipamentos"
+        },
+        {
+          "id": "b",
+          "text": "Roteador é um dispositivo que conecta diferentes redes, encaminhando os pacotes de dados de uma rede para outra"
+        },
+        {
+          "id": "c",
+          "text": "Pacote de Dados: Uma unidade de informação que contém parte dos dados que serão enviados pela rede"
+        },
+        {
+          "id": "d",
+          "text": "Modem é o dispositivo responsável por conectar a rede local à internet"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Qual alternativa define corretamente Definição e Função?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Roteador é um dispositivo que conecta diferentes redes, encaminhando os pacotes de dados de uma rede para outra"
+        },
+        {
+          "id": "b",
+          "text": "Pacote de Dados: Uma unidade de informação que contém parte dos dados que serão enviados pela rede"
+        },
+        {
+          "id": "c",
+          "text": "Modem é o dispositivo responsável por conectar a rede local à internet"
+        },
+        {
+          "id": "d",
+          "text": "Switch é um dispositivo que conecta vários dispositivos dentro da mesma rede local (LAN)"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Qual alternativa define corretamente Termos Importantes?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "as redes de computadores, diversos dispositivos e meios físicos trabalham juntos para garantir a comunicação entre equipamentos"
+        },
+        {
+          "id": "b",
+          "text": "Pacote de Dados: Uma unidade de informação que contém parte dos dados que serão enviados pela rede"
+        },
+        {
+          "id": "c",
+          "text": "Modem é o dispositivo responsável por conectar a rede local à internet"
+        },
+        {
+          "id": "d",
+          "text": "Switch é um dispositivo que conecta vários dispositivos dentro da mesma rede local (LAN)"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Qual alternativa define corretamente Modem?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "as redes de computadores, diversos dispositivos e meios físicos trabalham juntos para garantir a comunicação entre equipamentos"
+        },
+        {
+          "id": "b",
+          "text": "Roteador é um dispositivo que conecta diferentes redes, encaminhando os pacotes de dados de uma rede para outra"
+        },
+        {
+          "id": "c",
+          "text": "Modem é o dispositivo responsável por conectar a rede local à internet"
+        },
+        {
+          "id": "d",
+          "text": "Switch é um dispositivo que conecta vários dispositivos dentro da mesma rede local (LAN)"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Qual alternativa define corretamente Switch?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "as redes de computadores, diversos dispositivos e meios físicos trabalham juntos para garantir a comunicação entre equipamentos"
+        },
+        {
+          "id": "b",
+          "text": "Roteador é um dispositivo que conecta diferentes redes, encaminhando os pacotes de dados de uma rede para outra"
+        },
+        {
+          "id": "c",
+          "text": "Pacote de Dados: Uma unidade de informação que contém parte dos dados que serão enviados pela rede"
+        },
+        {
+          "id": "d",
+          "text": "Switch é um dispositivo que conecta vários dispositivos dentro da mesma rede local (LAN)"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Qual conceito corresponde a descricao: as redes de computadores, diversos dispositivos e meios físicos trabalham juntos para garantir a comunicação entre equipamentos?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Roteadores, Switches, Hubs, Cabos e Conexões"
+        },
+        {
+          "id": "b",
+          "text": "Definição e Função"
+        },
+        {
+          "id": "c",
+          "text": "Termos Importantes"
+        },
+        {
+          "id": "d",
+          "text": "Modem"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Qual conceito corresponde a descricao: Roteador é um dispositivo que conecta diferentes redes, encaminhando os pacotes de dados de uma rede para outra?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Definição e Função"
+        },
+        {
+          "id": "b",
+          "text": "Termos Importantes"
+        },
+        {
+          "id": "c",
+          "text": "Modem"
+        },
+        {
+          "id": "d",
+          "text": "Switch"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Qual conceito corresponde a descricao: Pacote de Dados: Uma unidade de informação que contém parte dos dados que serão enviados pela rede?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Roteadores, Switches, Hubs, Cabos e Conexões"
+        },
+        {
+          "id": "b",
+          "text": "Termos Importantes"
+        },
+        {
+          "id": "c",
+          "text": "Modem"
+        },
+        {
+          "id": "d",
+          "text": "Switch"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Qual conceito corresponde a descricao: Modem é o dispositivo responsável por conectar a rede local à internet?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Roteadores, Switches, Hubs, Cabos e Conexões"
+        },
+        {
+          "id": "b",
+          "text": "Definição e Função"
+        },
+        {
+          "id": "c",
+          "text": "Modem"
+        },
+        {
+          "id": "d",
+          "text": "Switch"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Qual conceito corresponde a descricao: Switch é um dispositivo que conecta vários dispositivos dentro da mesma rede local (LAN)?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Roteadores, Switches, Hubs, Cabos e Conexões"
+        },
+        {
+          "id": "b",
+          "text": "Definição e Função"
+        },
+        {
+          "id": "c",
+          "text": "Termos Importantes"
+        },
+        {
+          "id": "d",
+          "text": "Switch"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

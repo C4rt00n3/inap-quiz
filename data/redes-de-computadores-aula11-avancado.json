@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Redes de Computadores Aula 11 - Avancado",
+  "subject": "Redes de Computadores",
+  "lesson": "Aula 11 - Cabeamento Estruturado em Redes LAN",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Introdução ao Cabeamento Estruturado de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "cabeamento estruturado é a base de qualquer rede local eficiente"
+        },
+        {
+          "id": "b",
+          "text": "Você já estudou as normas ABNT e TIA/EIA- 568 em aulas anteriores"
+        },
+        {
+          "id": "c",
+          "text": "Dentro de uma instalação real, não utilizamos apenas cabos e conectores"
+        },
+        {
+          "id": "d",
+          "text": "O Patch Panel é um equipamento que funciona como um painel organizador de cabos"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Normas e Padrões de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Você já estudou as normas ABNT e TIA/EIA- 568 em aulas anteriores"
+        },
+        {
+          "id": "b",
+          "text": "Dentro de uma instalação real, não utilizamos apenas cabos e conectores"
+        },
+        {
+          "id": "c",
+          "text": "O Patch Panel é um equipamento que funciona como um painel organizador de cabos"
+        },
+        {
+          "id": "d",
+          "text": "O Wall Mount é a representação das tomadas de rede que ficam instaladas nas paredes dos ambientes"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Tipos de Dispositivos e Componentes no Cabeamento de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "cabeamento estruturado é a base de qualquer rede local eficiente"
+        },
+        {
+          "id": "b",
+          "text": "Dentro de uma instalação real, não utilizamos apenas cabos e conectores"
+        },
+        {
+          "id": "c",
+          "text": "O Patch Panel é um equipamento que funciona como um painel organizador de cabos"
+        },
+        {
+          "id": "d",
+          "text": "O Wall Mount é a representação das tomadas de rede que ficam instaladas nas paredes dos ambientes"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Patch Panel de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "cabeamento estruturado é a base de qualquer rede local eficiente"
+        },
+        {
+          "id": "b",
+          "text": "Você já estudou as normas ABNT e TIA/EIA- 568 em aulas anteriores"
+        },
+        {
+          "id": "c",
+          "text": "O Patch Panel é um equipamento que funciona como um painel organizador de cabos"
+        },
+        {
+          "id": "d",
+          "text": "O Wall Mount é a representação das tomadas de rede que ficam instaladas nas paredes dos ambientes"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Wall Mount de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "cabeamento estruturado é a base de qualquer rede local eficiente"
+        },
+        {
+          "id": "b",
+          "text": "Você já estudou as normas ABNT e TIA/EIA- 568 em aulas anteriores"
+        },
+        {
+          "id": "c",
+          "text": "Dentro de uma instalação real, não utilizamos apenas cabos e conectores"
+        },
+        {
+          "id": "d",
+          "text": "O Wall Mount é a representação das tomadas de rede que ficam instaladas nas paredes dos ambientes"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Para tomada de decisao, considere a descricao: cabeamento estruturado é a base de qualquer rede local eficiente. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Introdução ao Cabeamento Estruturado"
+        },
+        {
+          "id": "b",
+          "text": "Normas e Padrões"
+        },
+        {
+          "id": "c",
+          "text": "Tipos de Dispositivos e Componentes no Cabeamento"
+        },
+        {
+          "id": "d",
+          "text": "Patch Panel"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Para tomada de decisao, considere a descricao: Você já estudou as normas ABNT e TIA/EIA- 568 em aulas anteriores. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Normas e Padrões"
+        },
+        {
+          "id": "b",
+          "text": "Tipos de Dispositivos e Componentes no Cabeamento"
+        },
+        {
+          "id": "c",
+          "text": "Patch Panel"
+        },
+        {
+          "id": "d",
+          "text": "Wall Mount"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Para tomada de decisao, considere a descricao: Dentro de uma instalação real, não utilizamos apenas cabos e conectores. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Introdução ao Cabeamento Estruturado"
+        },
+        {
+          "id": "b",
+          "text": "Tipos de Dispositivos e Componentes no Cabeamento"
+        },
+        {
+          "id": "c",
+          "text": "Patch Panel"
+        },
+        {
+          "id": "d",
+          "text": "Wall Mount"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Para tomada de decisao, considere a descricao: O Patch Panel é um equipamento que funciona como um painel organizador de cabos. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Introdução ao Cabeamento Estruturado"
+        },
+        {
+          "id": "b",
+          "text": "Normas e Padrões"
+        },
+        {
+          "id": "c",
+          "text": "Patch Panel"
+        },
+        {
+          "id": "d",
+          "text": "Wall Mount"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Para tomada de decisao, considere a descricao: O Wall Mount é a representação das tomadas de rede que ficam instaladas nas paredes dos ambientes. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Introdução ao Cabeamento Estruturado"
+        },
+        {
+          "id": "b",
+          "text": "Normas e Padrões"
+        },
+        {
+          "id": "c",
+          "text": "Tipos de Dispositivos e Componentes no Cabeamento"
+        },
+        {
+          "id": "d",
+          "text": "Wall Mount"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Redes de Computadores Aula 5 - Intermediario",
+  "subject": "Redes de Computadores",
+  "lesson": "Aula 5 - Modelo OSI e TCP/IP",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou Modelo OSI e TCP/IP. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Redes de Computadores 5. Modelo OSI e TCP/IP. Aula 5 N"
+        },
+        {
+          "id": "b",
+          "text": "a comunicação de dados em redes de computadores, os modelos de referência são fundamentais para entender como as informações trafegam entre dispositivos"
+        },
+        {
+          "id": "c",
+          "text": "O Modelo OSI foi criado pela ISO (International Organization for Standardization) e define uma arquitetura de rede dividida em sete camadas, da mais física à mais abstrata"
+        },
+        {
+          "id": "d",
+          "text": "O Modelo TCP/IP é o modelo prático usado na Internet"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou Modelos de Referência. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "a comunicação de dados em redes de computadores, os modelos de referência são fundamentais para entender como as informações trafegam entre dispositivos"
+        },
+        {
+          "id": "b",
+          "text": "O Modelo OSI foi criado pela ISO (International Organization for Standardization) e define uma arquitetura de rede dividida em sete camadas, da mais física à mais abstrata"
+        },
+        {
+          "id": "c",
+          "text": "O Modelo TCP/IP é o modelo prático usado na Internet"
+        },
+        {
+          "id": "d",
+          "text": "O modelo OSI é mais detalhado, sendo ótimo para estudos e diagnósticos"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou Modelo OSI - As 7 Camadas. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Redes de Computadores 5. Modelo OSI e TCP/IP. Aula 5 N"
+        },
+        {
+          "id": "b",
+          "text": "O Modelo OSI foi criado pela ISO (International Organization for Standardization) e define uma arquitetura de rede dividida em sete camadas, da mais física à mais abstrata"
+        },
+        {
+          "id": "c",
+          "text": "O Modelo TCP/IP é o modelo prático usado na Internet"
+        },
+        {
+          "id": "d",
+          "text": "O modelo OSI é mais detalhado, sendo ótimo para estudos e diagnósticos"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou Modelo TCP/IP - As 4 Camadas. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Redes de Computadores 5. Modelo OSI e TCP/IP. Aula 5 N"
+        },
+        {
+          "id": "b",
+          "text": "a comunicação de dados em redes de computadores, os modelos de referência são fundamentais para entender como as informações trafegam entre dispositivos"
+        },
+        {
+          "id": "c",
+          "text": "O Modelo TCP/IP é o modelo prático usado na Internet"
+        },
+        {
+          "id": "d",
+          "text": "O modelo OSI é mais detalhado, sendo ótimo para estudos e diagnósticos"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou Comparando OSI e TCP/IP. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Redes de Computadores 5. Modelo OSI e TCP/IP. Aula 5 N"
+        },
+        {
+          "id": "b",
+          "text": "a comunicação de dados em redes de computadores, os modelos de referência são fundamentais para entender como as informações trafegam entre dispositivos"
+        },
+        {
+          "id": "c",
+          "text": "O Modelo OSI foi criado pela ISO (International Organization for Standardization) e define uma arquitetura de rede dividida em sete camadas, da mais física à mais abstrata"
+        },
+        {
+          "id": "d",
+          "text": "O modelo OSI é mais detalhado, sendo ótimo para estudos e diagnósticos"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Em um caso pratico, observou-se: Redes de Computadores 5. Modelo OSI e TCP/IP. Aula 5 N. Qual conceito deve ser identificado?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Modelo OSI e TCP/IP"
+        },
+        {
+          "id": "b",
+          "text": "Modelos de Referência"
+        },
+        {
+          "id": "c",
+          "text": "Modelo OSI - As 7 Camadas"
+        },
+        {
+          "id": "d",
+          "text": "Modelo TCP/IP - As 4 Camadas"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: a comunicação de dados em redes de computadores, os modelos de referência são fundamentais para entender como as informações trafegam entre dispositivos. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Modelos de Referência"
+        },
+        {
+          "id": "b",
+          "text": "Modelo OSI - As 7 Camadas"
+        },
+        {
+          "id": "c",
+          "text": "Modelo TCP/IP - As 4 Camadas"
+        },
+        {
+          "id": "d",
+          "text": "Comparando OSI e TCP/IP"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: O Modelo OSI foi criado pela ISO (International Organization for Standardization) e define uma arquitetura de rede dividida em sete camadas, da mais física à mais abstrata. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Modelo OSI e TCP/IP"
+        },
+        {
+          "id": "b",
+          "text": "Modelo OSI - As 7 Camadas"
+        },
+        {
+          "id": "c",
+          "text": "Modelo TCP/IP - As 4 Camadas"
+        },
+        {
+          "id": "d",
+          "text": "Comparando OSI e TCP/IP"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: O Modelo TCP/IP é o modelo prático usado na Internet. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Modelo OSI e TCP/IP"
+        },
+        {
+          "id": "b",
+          "text": "Modelos de Referência"
+        },
+        {
+          "id": "c",
+          "text": "Modelo TCP/IP - As 4 Camadas"
+        },
+        {
+          "id": "d",
+          "text": "Comparando OSI e TCP/IP"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: O modelo OSI é mais detalhado, sendo ótimo para estudos e diagnósticos. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Modelo OSI e TCP/IP"
+        },
+        {
+          "id": "b",
+          "text": "Modelos de Referência"
+        },
+        {
+          "id": "c",
+          "text": "Modelo OSI - As 7 Camadas"
+        },
+        {
+          "id": "d",
+          "text": "Comparando OSI e TCP/IP"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Administrativo Informatizado Aula 4 - Avancado",
+  "subject": "Administrativo Informatizado",
+  "lesson": "Aula 4 - Fundamentos da Internet e Ferramentas Básicas II",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Como criar uma assinatura de e-mail: de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vá até as configurações do seu provedor de e-mail, no Gmail em específico, acesse as configurações rápidas e clique em \"Mostrar todas as configurações\""
+        },
+        {
+          "id": "b",
+          "text": "Marcadores são etiquetas ou tags que podem ser usadas para organizar e categorizar e- mails dentro de um serviço de e-mail"
+        },
+        {
+          "id": "c",
+          "text": "Vá até as configurações ou opções do seu serviço de e-mail (também pode-se encontrar ao lado esquerdo da tela, caso esteja utilizando o Gmail)"
+        },
+        {
+          "id": "d",
+          "text": "Anexos são arquivos que podem ser enviados junto com um e-mail"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Marcadores de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Marcadores são etiquetas ou tags que podem ser usadas para organizar e categorizar e- mails dentro de um serviço de e-mail"
+        },
+        {
+          "id": "b",
+          "text": "Vá até as configurações ou opções do seu serviço de e-mail (também pode-se encontrar ao lado esquerdo da tela, caso esteja utilizando o Gmail)"
+        },
+        {
+          "id": "c",
+          "text": "Anexos são arquivos que podem ser enviados junto com um e-mail"
+        },
+        {
+          "id": "d",
+          "text": "Para anexar um arquivo a um e-mail: 2"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Para criar um marcador: de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vá até as configurações do seu provedor de e-mail, no Gmail em específico, acesse as configurações rápidas e clique em \"Mostrar todas as configurações\""
+        },
+        {
+          "id": "b",
+          "text": "Vá até as configurações ou opções do seu serviço de e-mail (também pode-se encontrar ao lado esquerdo da tela, caso esteja utilizando o Gmail)"
+        },
+        {
+          "id": "c",
+          "text": "Anexos são arquivos que podem ser enviados junto com um e-mail"
+        },
+        {
+          "id": "d",
+          "text": "Para anexar um arquivo a um e-mail: 2"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Anexos no E-mail de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vá até as configurações do seu provedor de e-mail, no Gmail em específico, acesse as configurações rápidas e clique em \"Mostrar todas as configurações\""
+        },
+        {
+          "id": "b",
+          "text": "Marcadores são etiquetas ou tags que podem ser usadas para organizar e categorizar e- mails dentro de um serviço de e-mail"
+        },
+        {
+          "id": "c",
+          "text": "Anexos são arquivos que podem ser enviados junto com um e-mail"
+        },
+        {
+          "id": "d",
+          "text": "Para anexar um arquivo a um e-mail: 2"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Como anexar de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vá até as configurações do seu provedor de e-mail, no Gmail em específico, acesse as configurações rápidas e clique em \"Mostrar todas as configurações\""
+        },
+        {
+          "id": "b",
+          "text": "Marcadores são etiquetas ou tags que podem ser usadas para organizar e categorizar e- mails dentro de um serviço de e-mail"
+        },
+        {
+          "id": "c",
+          "text": "Vá até as configurações ou opções do seu serviço de e-mail (também pode-se encontrar ao lado esquerdo da tela, caso esteja utilizando o Gmail)"
+        },
+        {
+          "id": "d",
+          "text": "Para anexar um arquivo a um e-mail: 2"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Para tomada de decisao, considere a descricao: Vá até as configurações do seu provedor de e-mail, no Gmail em específico, acesse as configurações rápidas e clique em \"Mostrar todas as configurações\". Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Como criar uma assinatura de e-mail:"
+        },
+        {
+          "id": "b",
+          "text": "Marcadores"
+        },
+        {
+          "id": "c",
+          "text": "Para criar um marcador:"
+        },
+        {
+          "id": "d",
+          "text": "Anexos no E-mail"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Para tomada de decisao, considere a descricao: Marcadores são etiquetas ou tags que podem ser usadas para organizar e categorizar e- mails dentro de um serviço de e-mail. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Marcadores"
+        },
+        {
+          "id": "b",
+          "text": "Para criar um marcador:"
+        },
+        {
+          "id": "c",
+          "text": "Anexos no E-mail"
+        },
+        {
+          "id": "d",
+          "text": "Como anexar"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Para tomada de decisao, considere a descricao: Vá até as configurações ou opções do seu serviço de e-mail (também pode-se encontrar ao lado esquerdo da tela, caso esteja utilizando o Gmail). Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Como criar uma assinatura de e-mail:"
+        },
+        {
+          "id": "b",
+          "text": "Para criar um marcador:"
+        },
+        {
+          "id": "c",
+          "text": "Anexos no E-mail"
+        },
+        {
+          "id": "d",
+          "text": "Como anexar"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Para tomada de decisao, considere a descricao: Anexos são arquivos que podem ser enviados junto com um e-mail. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Como criar uma assinatura de e-mail:"
+        },
+        {
+          "id": "b",
+          "text": "Marcadores"
+        },
+        {
+          "id": "c",
+          "text": "Anexos no E-mail"
+        },
+        {
+          "id": "d",
+          "text": "Como anexar"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Para tomada de decisao, considere a descricao: Para anexar um arquivo a um e-mail: 2. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Como criar uma assinatura de e-mail:"
+        },
+        {
+          "id": "b",
+          "text": "Marcadores"
+        },
+        {
+          "id": "c",
+          "text": "Para criar um marcador:"
+        },
+        {
+          "id": "d",
+          "text": "Como anexar"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

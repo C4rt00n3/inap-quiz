@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Redes de Computadores Aula 7 - Basico",
+  "subject": "Redes de Computadores",
+  "lesson": "Aula 7 - Endereçamento IP e Sub-redes",
+  "level": "Basico",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Qual alternativa define corretamente Endereçamento IP?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "m redes de computadores, cada dispositivo conectado precisa de um identificador único para poder se comunicar com outros dispositivos"
+        },
+        {
+          "id": "b",
+          "text": "O formato mais comum do IP é o IPv4, que é composto por quatro grupos de números separados por pontos, como por exemplo: 192.168.1.10 Cada grupo de números é chamado de octeto e pode variar de 0 a 255"
+        },
+        {
+          "id": "c",
+          "text": "A separação entre a parte de rede e a parte de host é feita através da máscara de sub-rede"
+        },
+        {
+          "id": "d",
+          "text": "Em muitas situações, uma empresa ou organização precisa dividir sua rede em várias sub-redes menores para organizar melhor os setores, melhorar a segurança ou reduzir o tráfego de dados"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Qual alternativa define corretamente Estrutura de um Endereço IP?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "O formato mais comum do IP é o IPv4, que é composto por quatro grupos de números separados por pontos, como por exemplo: 192.168.1.10 Cada grupo de números é chamado de octeto e pode variar de 0 a 255"
+        },
+        {
+          "id": "b",
+          "text": "A separação entre a parte de rede e a parte de host é feita através da máscara de sub-rede"
+        },
+        {
+          "id": "c",
+          "text": "Em muitas situações, uma empresa ou organização precisa dividir sua rede em várias sub-redes menores para organizar melhor os setores, melhorar a segurança ou reduzir o tráfego de dados"
+        },
+        {
+          "id": "d",
+          "text": "Os endereços IPv4 foram divididos em classes, que determinam o tamanho da rede e a quantidade de dispositivos que ela comporta"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Qual alternativa define corretamente Máscara de Sub-rede?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "m redes de computadores, cada dispositivo conectado precisa de um identificador único para poder se comunicar com outros dispositivos"
+        },
+        {
+          "id": "b",
+          "text": "A separação entre a parte de rede e a parte de host é feita através da máscara de sub-rede"
+        },
+        {
+          "id": "c",
+          "text": "Em muitas situações, uma empresa ou organização precisa dividir sua rede em várias sub-redes menores para organizar melhor os setores, melhorar a segurança ou reduzir o tráfego de dados"
+        },
+        {
+          "id": "d",
+          "text": "Os endereços IPv4 foram divididos em classes, que determinam o tamanho da rede e a quantidade de dispositivos que ela comporta"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Qual alternativa define corretamente Sub-redes (Subnetting)?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "m redes de computadores, cada dispositivo conectado precisa de um identificador único para poder se comunicar com outros dispositivos"
+        },
+        {
+          "id": "b",
+          "text": "O formato mais comum do IP é o IPv4, que é composto por quatro grupos de números separados por pontos, como por exemplo: 192.168.1.10 Cada grupo de números é chamado de octeto e pode variar de 0 a 255"
+        },
+        {
+          "id": "c",
+          "text": "Em muitas situações, uma empresa ou organização precisa dividir sua rede em várias sub-redes menores para organizar melhor os setores, melhorar a segurança ou reduzir o tráfego de dados"
+        },
+        {
+          "id": "d",
+          "text": "Os endereços IPv4 foram divididos em classes, que determinam o tamanho da rede e a quantidade de dispositivos que ela comporta"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Qual alternativa define corretamente Classes de Endereços IP?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "m redes de computadores, cada dispositivo conectado precisa de um identificador único para poder se comunicar com outros dispositivos"
+        },
+        {
+          "id": "b",
+          "text": "O formato mais comum do IP é o IPv4, que é composto por quatro grupos de números separados por pontos, como por exemplo: 192.168.1.10 Cada grupo de números é chamado de octeto e pode variar de 0 a 255"
+        },
+        {
+          "id": "c",
+          "text": "A separação entre a parte de rede e a parte de host é feita através da máscara de sub-rede"
+        },
+        {
+          "id": "d",
+          "text": "Os endereços IPv4 foram divididos em classes, que determinam o tamanho da rede e a quantidade de dispositivos que ela comporta"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Qual conceito corresponde a descricao: m redes de computadores, cada dispositivo conectado precisa de um identificador único para poder se comunicar com outros dispositivos?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Endereçamento IP"
+        },
+        {
+          "id": "b",
+          "text": "Estrutura de um Endereço IP"
+        },
+        {
+          "id": "c",
+          "text": "Máscara de Sub-rede"
+        },
+        {
+          "id": "d",
+          "text": "Sub-redes (Subnetting)"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Qual conceito corresponde a descricao: O formato mais comum do IP é o IPv4, que é composto por quatro grupos de números separados por pontos, como por exemplo: 192.168.1.10 Cada grupo de números é chamado de octeto e pode variar de 0 a 255?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Estrutura de um Endereço IP"
+        },
+        {
+          "id": "b",
+          "text": "Máscara de Sub-rede"
+        },
+        {
+          "id": "c",
+          "text": "Sub-redes (Subnetting)"
+        },
+        {
+          "id": "d",
+          "text": "Classes de Endereços IP"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Qual conceito corresponde a descricao: A separação entre a parte de rede e a parte de host é feita através da máscara de sub-rede?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Endereçamento IP"
+        },
+        {
+          "id": "b",
+          "text": "Máscara de Sub-rede"
+        },
+        {
+          "id": "c",
+          "text": "Sub-redes (Subnetting)"
+        },
+        {
+          "id": "d",
+          "text": "Classes de Endereços IP"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Qual conceito corresponde a descricao: Em muitas situações, uma empresa ou organização precisa dividir sua rede em várias sub-redes menores para organizar melhor os setores, melhorar a segurança ou reduzir o tráfego de dados?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Endereçamento IP"
+        },
+        {
+          "id": "b",
+          "text": "Estrutura de um Endereço IP"
+        },
+        {
+          "id": "c",
+          "text": "Sub-redes (Subnetting)"
+        },
+        {
+          "id": "d",
+          "text": "Classes de Endereços IP"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Qual conceito corresponde a descricao: Os endereços IPv4 foram divididos em classes, que determinam o tamanho da rede e a quantidade de dispositivos que ela comporta?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Endereçamento IP"
+        },
+        {
+          "id": "b",
+          "text": "Estrutura de um Endereço IP"
+        },
+        {
+          "id": "c",
+          "text": "Máscara de Sub-rede"
+        },
+        {
+          "id": "d",
+          "text": "Classes de Endereços IP"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

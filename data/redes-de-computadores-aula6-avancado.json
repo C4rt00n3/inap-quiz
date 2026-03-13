@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Redes de Computadores Aula 6 - Avancado",
+  "subject": "Redes de Computadores",
+  "lesson": "Aula 6 - Protocolos de Comunicação na Web",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Protocolos de Comunicação a internet, a comunicação entre de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ela segue um conjunto de regras bem definidas chamadas protocolos de comunicação"
+        },
+        {
+          "id": "b",
+          "text": "O HTTP é o protocolo utilizado para o carregamento de sites e páginas na web"
+        },
+        {
+          "id": "c",
+          "text": "O HTTPS é uma versão segura do HTTP"
+        },
+        {
+          "id": "d",
+          "text": "O FTP é um protocolo usado para a transferência de arquivos entre dois computadores conectados em rede: geralmente, um cliente FTP e um servidor FTP"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Protocolo HTTP (Hypertext Transfer Protocol) de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "O HTTP é o protocolo utilizado para o carregamento de sites e páginas na web"
+        },
+        {
+          "id": "b",
+          "text": "O HTTPS é uma versão segura do HTTP"
+        },
+        {
+          "id": "c",
+          "text": "O FTP é um protocolo usado para a transferência de arquivos entre dois computadores conectados em rede: geralmente, um cliente FTP e um servidor FTP"
+        },
+        {
+          "id": "d",
+          "text": "O DNS (Domain Name System) é como uma “agenda telefônica da internet”"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Protocolo HTTPS (HTTP Secure) de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ela segue um conjunto de regras bem definidas chamadas protocolos de comunicação"
+        },
+        {
+          "id": "b",
+          "text": "O HTTPS é uma versão segura do HTTP"
+        },
+        {
+          "id": "c",
+          "text": "O FTP é um protocolo usado para a transferência de arquivos entre dois computadores conectados em rede: geralmente, um cliente FTP e um servidor FTP"
+        },
+        {
+          "id": "d",
+          "text": "O DNS (Domain Name System) é como uma “agenda telefônica da internet”"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar FTP (File Transfer Protocol) de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ela segue um conjunto de regras bem definidas chamadas protocolos de comunicação"
+        },
+        {
+          "id": "b",
+          "text": "O HTTP é o protocolo utilizado para o carregamento de sites e páginas na web"
+        },
+        {
+          "id": "c",
+          "text": "O FTP é um protocolo usado para a transferência de arquivos entre dois computadores conectados em rede: geralmente, um cliente FTP e um servidor FTP"
+        },
+        {
+          "id": "d",
+          "text": "O DNS (Domain Name System) é como uma “agenda telefônica da internet”"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar DNS – Traduzindo Nomes para Endereços IP de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ela segue um conjunto de regras bem definidas chamadas protocolos de comunicação"
+        },
+        {
+          "id": "b",
+          "text": "O HTTP é o protocolo utilizado para o carregamento de sites e páginas na web"
+        },
+        {
+          "id": "c",
+          "text": "O HTTPS é uma versão segura do HTTP"
+        },
+        {
+          "id": "d",
+          "text": "O DNS (Domain Name System) é como uma “agenda telefônica da internet”"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Para tomada de decisao, considere a descricao: Ela segue um conjunto de regras bem definidas chamadas protocolos de comunicação. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Protocolos de Comunicação a internet, a comunicação entre"
+        },
+        {
+          "id": "b",
+          "text": "Protocolo HTTP (Hypertext Transfer Protocol)"
+        },
+        {
+          "id": "c",
+          "text": "Protocolo HTTPS (HTTP Secure)"
+        },
+        {
+          "id": "d",
+          "text": "FTP (File Transfer Protocol)"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Para tomada de decisao, considere a descricao: O HTTP é o protocolo utilizado para o carregamento de sites e páginas na web. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Protocolo HTTP (Hypertext Transfer Protocol)"
+        },
+        {
+          "id": "b",
+          "text": "Protocolo HTTPS (HTTP Secure)"
+        },
+        {
+          "id": "c",
+          "text": "FTP (File Transfer Protocol)"
+        },
+        {
+          "id": "d",
+          "text": "DNS – Traduzindo Nomes para Endereços IP"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Para tomada de decisao, considere a descricao: O HTTPS é uma versão segura do HTTP. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Protocolos de Comunicação a internet, a comunicação entre"
+        },
+        {
+          "id": "b",
+          "text": "Protocolo HTTPS (HTTP Secure)"
+        },
+        {
+          "id": "c",
+          "text": "FTP (File Transfer Protocol)"
+        },
+        {
+          "id": "d",
+          "text": "DNS – Traduzindo Nomes para Endereços IP"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Para tomada de decisao, considere a descricao: O FTP é um protocolo usado para a transferência de arquivos entre dois computadores conectados em rede: geralmente, um cliente FTP e um servidor FTP. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Protocolos de Comunicação a internet, a comunicação entre"
+        },
+        {
+          "id": "b",
+          "text": "Protocolo HTTP (Hypertext Transfer Protocol)"
+        },
+        {
+          "id": "c",
+          "text": "FTP (File Transfer Protocol)"
+        },
+        {
+          "id": "d",
+          "text": "DNS – Traduzindo Nomes para Endereços IP"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Para tomada de decisao, considere a descricao: O DNS (Domain Name System) é como uma “agenda telefônica da internet”. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Protocolos de Comunicação a internet, a comunicação entre"
+        },
+        {
+          "id": "b",
+          "text": "Protocolo HTTP (Hypertext Transfer Protocol)"
+        },
+        {
+          "id": "c",
+          "text": "Protocolo HTTPS (HTTP Secure)"
+        },
+        {
+          "id": "d",
+          "text": "DNS – Traduzindo Nomes para Endereços IP"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

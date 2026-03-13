@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Redes de Computadores Aula 6 - Basico",
+  "subject": "Redes de Computadores",
+  "lesson": "Aula 6 - Protocolos de Comunicação na Web",
+  "level": "Basico",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Qual alternativa define corretamente Protocolos de Comunicação a internet, a comunicação entre?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ela segue um conjunto de regras bem definidas chamadas protocolos de comunicação"
+        },
+        {
+          "id": "b",
+          "text": "O HTTP é o protocolo utilizado para o carregamento de sites e páginas na web"
+        },
+        {
+          "id": "c",
+          "text": "O HTTPS é uma versão segura do HTTP"
+        },
+        {
+          "id": "d",
+          "text": "O FTP é um protocolo usado para a transferência de arquivos entre dois computadores conectados em rede: geralmente, um cliente FTP e um servidor FTP"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Qual alternativa define corretamente Protocolo HTTP (Hypertext Transfer Protocol)?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "O HTTP é o protocolo utilizado para o carregamento de sites e páginas na web"
+        },
+        {
+          "id": "b",
+          "text": "O HTTPS é uma versão segura do HTTP"
+        },
+        {
+          "id": "c",
+          "text": "O FTP é um protocolo usado para a transferência de arquivos entre dois computadores conectados em rede: geralmente, um cliente FTP e um servidor FTP"
+        },
+        {
+          "id": "d",
+          "text": "O DNS (Domain Name System) é como uma “agenda telefônica da internet”"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Qual alternativa define corretamente Protocolo HTTPS (HTTP Secure)?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ela segue um conjunto de regras bem definidas chamadas protocolos de comunicação"
+        },
+        {
+          "id": "b",
+          "text": "O HTTPS é uma versão segura do HTTP"
+        },
+        {
+          "id": "c",
+          "text": "O FTP é um protocolo usado para a transferência de arquivos entre dois computadores conectados em rede: geralmente, um cliente FTP e um servidor FTP"
+        },
+        {
+          "id": "d",
+          "text": "O DNS (Domain Name System) é como uma “agenda telefônica da internet”"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Qual alternativa define corretamente FTP (File Transfer Protocol)?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ela segue um conjunto de regras bem definidas chamadas protocolos de comunicação"
+        },
+        {
+          "id": "b",
+          "text": "O HTTP é o protocolo utilizado para o carregamento de sites e páginas na web"
+        },
+        {
+          "id": "c",
+          "text": "O FTP é um protocolo usado para a transferência de arquivos entre dois computadores conectados em rede: geralmente, um cliente FTP e um servidor FTP"
+        },
+        {
+          "id": "d",
+          "text": "O DNS (Domain Name System) é como uma “agenda telefônica da internet”"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Qual alternativa define corretamente DNS – Traduzindo Nomes para Endereços IP?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ela segue um conjunto de regras bem definidas chamadas protocolos de comunicação"
+        },
+        {
+          "id": "b",
+          "text": "O HTTP é o protocolo utilizado para o carregamento de sites e páginas na web"
+        },
+        {
+          "id": "c",
+          "text": "O HTTPS é uma versão segura do HTTP"
+        },
+        {
+          "id": "d",
+          "text": "O DNS (Domain Name System) é como uma “agenda telefônica da internet”"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Qual conceito corresponde a descricao: Ela segue um conjunto de regras bem definidas chamadas protocolos de comunicação?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Protocolos de Comunicação a internet, a comunicação entre"
+        },
+        {
+          "id": "b",
+          "text": "Protocolo HTTP (Hypertext Transfer Protocol)"
+        },
+        {
+          "id": "c",
+          "text": "Protocolo HTTPS (HTTP Secure)"
+        },
+        {
+          "id": "d",
+          "text": "FTP (File Transfer Protocol)"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Qual conceito corresponde a descricao: O HTTP é o protocolo utilizado para o carregamento de sites e páginas na web?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Protocolo HTTP (Hypertext Transfer Protocol)"
+        },
+        {
+          "id": "b",
+          "text": "Protocolo HTTPS (HTTP Secure)"
+        },
+        {
+          "id": "c",
+          "text": "FTP (File Transfer Protocol)"
+        },
+        {
+          "id": "d",
+          "text": "DNS – Traduzindo Nomes para Endereços IP"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Qual conceito corresponde a descricao: O HTTPS é uma versão segura do HTTP?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Protocolos de Comunicação a internet, a comunicação entre"
+        },
+        {
+          "id": "b",
+          "text": "Protocolo HTTPS (HTTP Secure)"
+        },
+        {
+          "id": "c",
+          "text": "FTP (File Transfer Protocol)"
+        },
+        {
+          "id": "d",
+          "text": "DNS – Traduzindo Nomes para Endereços IP"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Qual conceito corresponde a descricao: O FTP é um protocolo usado para a transferência de arquivos entre dois computadores conectados em rede: geralmente, um cliente FTP e um servidor FTP?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Protocolos de Comunicação a internet, a comunicação entre"
+        },
+        {
+          "id": "b",
+          "text": "Protocolo HTTP (Hypertext Transfer Protocol)"
+        },
+        {
+          "id": "c",
+          "text": "FTP (File Transfer Protocol)"
+        },
+        {
+          "id": "d",
+          "text": "DNS – Traduzindo Nomes para Endereços IP"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Qual conceito corresponde a descricao: O DNS (Domain Name System) é como uma “agenda telefônica da internet”?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Protocolos de Comunicação a internet, a comunicação entre"
+        },
+        {
+          "id": "b",
+          "text": "Protocolo HTTP (Hypertext Transfer Protocol)"
+        },
+        {
+          "id": "c",
+          "text": "Protocolo HTTPS (HTTP Secure)"
+        },
+        {
+          "id": "d",
+          "text": "DNS – Traduzindo Nomes para Endereços IP"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

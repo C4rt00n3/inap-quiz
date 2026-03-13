@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Administrativo Informatizado Aula 13 - Basico",
+  "subject": "Administrativo Informatizado",
+  "lesson": "Aula 13 - Comunicação Diversificada",
+  "level": "Basico",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Qual alternativa define corretamente Comunicação Verbal?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "comunicação verbal é o uso da linguagem falada ou escrita para transmitir informações, pensamentos e emoções"
+        },
+        {
+          "id": "b",
+          "text": "O atendimento telefônico é uma forma de comunicação verbal que ocorre por meio do telefone"
+        },
+        {
+          "id": "c",
+          "text": "O atendimento pessoal é o contato cara a cara entre um atendente e um cliente"
+        },
+        {
+          "id": "d",
+          "text": "para discutir ideias, tomar decisões e alinhar equipes"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Qual alternativa define corretamente Atendimento Telefônico?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "O atendimento telefônico é uma forma de comunicação verbal que ocorre por meio do telefone"
+        },
+        {
+          "id": "b",
+          "text": "O atendimento pessoal é o contato cara a cara entre um atendente e um cliente"
+        },
+        {
+          "id": "c",
+          "text": "para discutir ideias, tomar decisões e alinhar equipes"
+        },
+        {
+          "id": "d",
+          "text": "A comunicação não-verbal refere-se a todos os sinais e expressões que acompanhamos ao falar, como gestos, postura, expressões faciais e até o tom de voz"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Qual alternativa define corretamente Atendimento Pessoal?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "comunicação verbal é o uso da linguagem falada ou escrita para transmitir informações, pensamentos e emoções"
+        },
+        {
+          "id": "b",
+          "text": "O atendimento pessoal é o contato cara a cara entre um atendente e um cliente"
+        },
+        {
+          "id": "c",
+          "text": "para discutir ideias, tomar decisões e alinhar equipes"
+        },
+        {
+          "id": "d",
+          "text": "A comunicação não-verbal refere-se a todos os sinais e expressões que acompanhamos ao falar, como gestos, postura, expressões faciais e até o tom de voz"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Qual alternativa define corretamente Reuniões As reuniões são oportunidades importantes?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "comunicação verbal é o uso da linguagem falada ou escrita para transmitir informações, pensamentos e emoções"
+        },
+        {
+          "id": "b",
+          "text": "O atendimento telefônico é uma forma de comunicação verbal que ocorre por meio do telefone"
+        },
+        {
+          "id": "c",
+          "text": "para discutir ideias, tomar decisões e alinhar equipes"
+        },
+        {
+          "id": "d",
+          "text": "A comunicação não-verbal refere-se a todos os sinais e expressões que acompanhamos ao falar, como gestos, postura, expressões faciais e até o tom de voz"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Qual alternativa define corretamente Comunicação Não-Verbal?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "comunicação verbal é o uso da linguagem falada ou escrita para transmitir informações, pensamentos e emoções"
+        },
+        {
+          "id": "b",
+          "text": "O atendimento telefônico é uma forma de comunicação verbal que ocorre por meio do telefone"
+        },
+        {
+          "id": "c",
+          "text": "O atendimento pessoal é o contato cara a cara entre um atendente e um cliente"
+        },
+        {
+          "id": "d",
+          "text": "A comunicação não-verbal refere-se a todos os sinais e expressões que acompanhamos ao falar, como gestos, postura, expressões faciais e até o tom de voz"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Qual conceito corresponde a descricao: comunicação verbal é o uso da linguagem falada ou escrita para transmitir informações, pensamentos e emoções?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Comunicação Verbal"
+        },
+        {
+          "id": "b",
+          "text": "Atendimento Telefônico"
+        },
+        {
+          "id": "c",
+          "text": "Atendimento Pessoal"
+        },
+        {
+          "id": "d",
+          "text": "Reuniões As reuniões são oportunidades importantes"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Qual conceito corresponde a descricao: O atendimento telefônico é uma forma de comunicação verbal que ocorre por meio do telefone?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Atendimento Telefônico"
+        },
+        {
+          "id": "b",
+          "text": "Atendimento Pessoal"
+        },
+        {
+          "id": "c",
+          "text": "Reuniões As reuniões são oportunidades importantes"
+        },
+        {
+          "id": "d",
+          "text": "Comunicação Não-Verbal"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Qual conceito corresponde a descricao: O atendimento pessoal é o contato cara a cara entre um atendente e um cliente?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Comunicação Verbal"
+        },
+        {
+          "id": "b",
+          "text": "Atendimento Pessoal"
+        },
+        {
+          "id": "c",
+          "text": "Reuniões As reuniões são oportunidades importantes"
+        },
+        {
+          "id": "d",
+          "text": "Comunicação Não-Verbal"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Qual conceito corresponde a descricao: para discutir ideias, tomar decisões e alinhar equipes?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Comunicação Verbal"
+        },
+        {
+          "id": "b",
+          "text": "Atendimento Telefônico"
+        },
+        {
+          "id": "c",
+          "text": "Reuniões As reuniões são oportunidades importantes"
+        },
+        {
+          "id": "d",
+          "text": "Comunicação Não-Verbal"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Qual conceito corresponde a descricao: A comunicação não-verbal refere-se a todos os sinais e expressões que acompanhamos ao falar, como gestos, postura, expressões faciais e até o tom de voz?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Comunicação Verbal"
+        },
+        {
+          "id": "b",
+          "text": "Atendimento Telefônico"
+        },
+        {
+          "id": "c",
+          "text": "Atendimento Pessoal"
+        },
+        {
+          "id": "d",
+          "text": "Comunicação Não-Verbal"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Administrativo Informatizado Aula 1 - Intermediario",
+  "subject": "Administrativo Informatizado",
+  "lesson": "Aula 1 - Introdução ao Windows 11",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou Windows Linha do Tempo. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Início nos Anos 80: 1985: O Windows 1.0 é lançado como uma interface gráfica para o MS-DOS, apresentando janelas sobrepostas, ícones e menus"
+        },
+        {
+          "id": "b",
+          "text": "O Menu Iniciar é uma parte fundamental da interface do usuário nos sistemas operacionais Windows"
+        },
+        {
+          "id": "c",
+          "text": "A barra de tarefas no Windows 11 é uma parte essencial da interface do usuário, proporcionando acesso rápido a aplicativos e funções essenciais"
+        },
+        {
+          "id": "d",
+          "text": "O mouse desempenha um papel crucial na navegação e interação com o Windows 11, proporcionando uma experiência intuitiva e eficiente"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou Menu Iniciar. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "O Menu Iniciar é uma parte fundamental da interface do usuário nos sistemas operacionais Windows"
+        },
+        {
+          "id": "b",
+          "text": "A barra de tarefas no Windows 11 é uma parte essencial da interface do usuário, proporcionando acesso rápido a aplicativos e funções essenciais"
+        },
+        {
+          "id": "c",
+          "text": "O mouse desempenha um papel crucial na navegação e interação com o Windows 11, proporcionando uma experiência intuitiva e eficiente"
+        },
+        {
+          "id": "d",
+          "text": "poderosos de organização de janelas chamados Snap Layouts e Snap Groups, proporcionando aos usuários uma maneira intuitiva de gerenciar e otimizar o espaço de trabalho"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou Barra de Tarefas. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Início nos Anos 80: 1985: O Windows 1.0 é lançado como uma interface gráfica para o MS-DOS, apresentando janelas sobrepostas, ícones e menus"
+        },
+        {
+          "id": "b",
+          "text": "A barra de tarefas no Windows 11 é uma parte essencial da interface do usuário, proporcionando acesso rápido a aplicativos e funções essenciais"
+        },
+        {
+          "id": "c",
+          "text": "O mouse desempenha um papel crucial na navegação e interação com o Windows 11, proporcionando uma experiência intuitiva e eficiente"
+        },
+        {
+          "id": "d",
+          "text": "poderosos de organização de janelas chamados Snap Layouts e Snap Groups, proporcionando aos usuários uma maneira intuitiva de gerenciar e otimizar o espaço de trabalho"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou Mouse. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Início nos Anos 80: 1985: O Windows 1.0 é lançado como uma interface gráfica para o MS-DOS, apresentando janelas sobrepostas, ícones e menus"
+        },
+        {
+          "id": "b",
+          "text": "O Menu Iniciar é uma parte fundamental da interface do usuário nos sistemas operacionais Windows"
+        },
+        {
+          "id": "c",
+          "text": "O mouse desempenha um papel crucial na navegação e interação com o Windows 11, proporcionando uma experiência intuitiva e eficiente"
+        },
+        {
+          "id": "d",
+          "text": "poderosos de organização de janelas chamados Snap Layouts e Snap Groups, proporcionando aos usuários uma maneira intuitiva de gerenciar e otimizar o espaço de trabalho"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou Snap Layout e Snap Group O Windows 11 introduziu recursos. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Início nos Anos 80: 1985: O Windows 1.0 é lançado como uma interface gráfica para o MS-DOS, apresentando janelas sobrepostas, ícones e menus"
+        },
+        {
+          "id": "b",
+          "text": "O Menu Iniciar é uma parte fundamental da interface do usuário nos sistemas operacionais Windows"
+        },
+        {
+          "id": "c",
+          "text": "A barra de tarefas no Windows 11 é uma parte essencial da interface do usuário, proporcionando acesso rápido a aplicativos e funções essenciais"
+        },
+        {
+          "id": "d",
+          "text": "poderosos de organização de janelas chamados Snap Layouts e Snap Groups, proporcionando aos usuários uma maneira intuitiva de gerenciar e otimizar o espaço de trabalho"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Em um caso pratico, observou-se: Início nos Anos 80: 1985: O Windows 1.0 é lançado como uma interface gráfica para o MS-DOS, apresentando janelas sobrepostas, ícones e menus. Qual conceito deve ser identificado?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Windows Linha do Tempo"
+        },
+        {
+          "id": "b",
+          "text": "Menu Iniciar"
+        },
+        {
+          "id": "c",
+          "text": "Barra de Tarefas"
+        },
+        {
+          "id": "d",
+          "text": "Mouse"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: O Menu Iniciar é uma parte fundamental da interface do usuário nos sistemas operacionais Windows. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Menu Iniciar"
+        },
+        {
+          "id": "b",
+          "text": "Barra de Tarefas"
+        },
+        {
+          "id": "c",
+          "text": "Mouse"
+        },
+        {
+          "id": "d",
+          "text": "Snap Layout e Snap Group O Windows 11 introduziu recursos"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: A barra de tarefas no Windows 11 é uma parte essencial da interface do usuário, proporcionando acesso rápido a aplicativos e funções essenciais. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Windows Linha do Tempo"
+        },
+        {
+          "id": "b",
+          "text": "Barra de Tarefas"
+        },
+        {
+          "id": "c",
+          "text": "Mouse"
+        },
+        {
+          "id": "d",
+          "text": "Snap Layout e Snap Group O Windows 11 introduziu recursos"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: O mouse desempenha um papel crucial na navegação e interação com o Windows 11, proporcionando uma experiência intuitiva e eficiente. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Windows Linha do Tempo"
+        },
+        {
+          "id": "b",
+          "text": "Menu Iniciar"
+        },
+        {
+          "id": "c",
+          "text": "Mouse"
+        },
+        {
+          "id": "d",
+          "text": "Snap Layout e Snap Group O Windows 11 introduziu recursos"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: poderosos de organização de janelas chamados Snap Layouts e Snap Groups, proporcionando aos usuários uma maneira intuitiva de gerenciar e otimizar o espaço de trabalho. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Windows Linha do Tempo"
+        },
+        {
+          "id": "b",
+          "text": "Menu Iniciar"
+        },
+        {
+          "id": "c",
+          "text": "Barra de Tarefas"
+        },
+        {
+          "id": "d",
+          "text": "Snap Layout e Snap Group O Windows 11 introduziu recursos"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

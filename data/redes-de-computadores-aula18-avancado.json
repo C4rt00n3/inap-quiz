@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Redes de Computadores Aula 18 - Avancado",
+  "subject": "Redes de Computadores",
+  "lesson": "Aula 18 - Redes Privadas Virtuais (VPN)",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar O que é uma VPN? de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "ma VPN (Virtual Private Network) é uma rede privada criada sobre uma rede pública, como a Internet"
+        },
+        {
+          "id": "b",
+          "text": "Acesso remoto: permite conectar-se à rede da empresa de qualquer lugar"
+        },
+        {
+          "id": "c",
+          "text": "A VPN desempenha um papel crucial na proteção de dados e na preservação da privacidade online"
+        },
+        {
+          "id": "d",
+          "text": "A VPN Site-to-Site é utilizada para conectar redes inteiras entre si"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Benefícios de uma VPN: de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Acesso remoto: permite conectar-se à rede da empresa de qualquer lugar"
+        },
+        {
+          "id": "b",
+          "text": "A VPN desempenha um papel crucial na proteção de dados e na preservação da privacidade online"
+        },
+        {
+          "id": "c",
+          "text": "A VPN Site-to-Site é utilizada para conectar redes inteiras entre si"
+        },
+        {
+          "id": "d",
+          "text": "A VPN Client-to-Site é utilizada para conectar dispositivos individuais a uma rede corporativa ou privada"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Importância da VPN para Segurança e Privacidade de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "ma VPN (Virtual Private Network) é uma rede privada criada sobre uma rede pública, como a Internet"
+        },
+        {
+          "id": "b",
+          "text": "A VPN desempenha um papel crucial na proteção de dados e na preservação da privacidade online"
+        },
+        {
+          "id": "c",
+          "text": "A VPN Site-to-Site é utilizada para conectar redes inteiras entre si"
+        },
+        {
+          "id": "d",
+          "text": "A VPN Client-to-Site é utilizada para conectar dispositivos individuais a uma rede corporativa ou privada"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar VPN Site-to-Site de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "ma VPN (Virtual Private Network) é uma rede privada criada sobre uma rede pública, como a Internet"
+        },
+        {
+          "id": "b",
+          "text": "Acesso remoto: permite conectar-se à rede da empresa de qualquer lugar"
+        },
+        {
+          "id": "c",
+          "text": "A VPN Site-to-Site é utilizada para conectar redes inteiras entre si"
+        },
+        {
+          "id": "d",
+          "text": "A VPN Client-to-Site é utilizada para conectar dispositivos individuais a uma rede corporativa ou privada"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar VPN Client-to-Site de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "ma VPN (Virtual Private Network) é uma rede privada criada sobre uma rede pública, como a Internet"
+        },
+        {
+          "id": "b",
+          "text": "Acesso remoto: permite conectar-se à rede da empresa de qualquer lugar"
+        },
+        {
+          "id": "c",
+          "text": "A VPN desempenha um papel crucial na proteção de dados e na preservação da privacidade online"
+        },
+        {
+          "id": "d",
+          "text": "A VPN Client-to-Site é utilizada para conectar dispositivos individuais a uma rede corporativa ou privada"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Para tomada de decisao, considere a descricao: ma VPN (Virtual Private Network) é uma rede privada criada sobre uma rede pública, como a Internet. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "O que é uma VPN?"
+        },
+        {
+          "id": "b",
+          "text": "Benefícios de uma VPN:"
+        },
+        {
+          "id": "c",
+          "text": "Importância da VPN para Segurança e Privacidade"
+        },
+        {
+          "id": "d",
+          "text": "VPN Site-to-Site"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Para tomada de decisao, considere a descricao: Acesso remoto: permite conectar-se à rede da empresa de qualquer lugar. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Benefícios de uma VPN:"
+        },
+        {
+          "id": "b",
+          "text": "Importância da VPN para Segurança e Privacidade"
+        },
+        {
+          "id": "c",
+          "text": "VPN Site-to-Site"
+        },
+        {
+          "id": "d",
+          "text": "VPN Client-to-Site"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Para tomada de decisao, considere a descricao: A VPN desempenha um papel crucial na proteção de dados e na preservação da privacidade online. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "O que é uma VPN?"
+        },
+        {
+          "id": "b",
+          "text": "Importância da VPN para Segurança e Privacidade"
+        },
+        {
+          "id": "c",
+          "text": "VPN Site-to-Site"
+        },
+        {
+          "id": "d",
+          "text": "VPN Client-to-Site"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Para tomada de decisao, considere a descricao: A VPN Site-to-Site é utilizada para conectar redes inteiras entre si. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "O que é uma VPN?"
+        },
+        {
+          "id": "b",
+          "text": "Benefícios de uma VPN:"
+        },
+        {
+          "id": "c",
+          "text": "VPN Site-to-Site"
+        },
+        {
+          "id": "d",
+          "text": "VPN Client-to-Site"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Para tomada de decisao, considere a descricao: A VPN Client-to-Site é utilizada para conectar dispositivos individuais a uma rede corporativa ou privada. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "O que é uma VPN?"
+        },
+        {
+          "id": "b",
+          "text": "Benefícios de uma VPN:"
+        },
+        {
+          "id": "c",
+          "text": "Importância da VPN para Segurança e Privacidade"
+        },
+        {
+          "id": "d",
+          "text": "VPN Client-to-Site"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Administrativo Informatizado Aula 20 - Basico",
+  "subject": "Administrativo Informatizado",
+  "lesson": "Aula 20 - Noções Básicas de Nota Fiscal",
+  "level": "Basico",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Qual alternativa define corretamente Notas Fiscais Notas fiscais são documentos fiscais?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "obrigatórios que registram a transação de compra e venda de produtos ou serviços"
+        },
+        {
+          "id": "b",
+          "text": "É um documento digital que substitui a nota fiscal em papel"
+        },
+        {
+          "id": "c",
+          "text": "Utilizada por prestadores de serviço, como advogados e consultores"
+        },
+        {
+          "id": "d",
+          "text": "Utilizada para vendas no varejo, especialmente para o consumidor final"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Qual alternativa define corretamente Nota Fiscal Eletrônica (NF-e)?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "É um documento digital que substitui a nota fiscal em papel"
+        },
+        {
+          "id": "b",
+          "text": "Utilizada por prestadores de serviço, como advogados e consultores"
+        },
+        {
+          "id": "c",
+          "text": "Utilizada para vendas no varejo, especialmente para o consumidor final"
+        },
+        {
+          "id": "d",
+          "text": "É feita pelo transportador e inclui informações sobre a carga, veículo e motorista"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Qual alternativa define corretamente Nota Fiscal de Serviço Eletrônica (NFS-e) Focada na prestação de serviços.?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "obrigatórios que registram a transação de compra e venda de produtos ou serviços"
+        },
+        {
+          "id": "b",
+          "text": "Utilizada por prestadores de serviço, como advogados e consultores"
+        },
+        {
+          "id": "c",
+          "text": "Utilizada para vendas no varejo, especialmente para o consumidor final"
+        },
+        {
+          "id": "d",
+          "text": "É feita pelo transportador e inclui informações sobre a carga, veículo e motorista"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Qual alternativa define corretamente Nota Fiscal do Consumidor Eletrônica (NFC-e)?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "obrigatórios que registram a transação de compra e venda de produtos ou serviços"
+        },
+        {
+          "id": "b",
+          "text": "É um documento digital que substitui a nota fiscal em papel"
+        },
+        {
+          "id": "c",
+          "text": "Utilizada para vendas no varejo, especialmente para o consumidor final"
+        },
+        {
+          "id": "d",
+          "text": "É feita pelo transportador e inclui informações sobre a carga, veículo e motorista"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Qual alternativa define corretamente Conhecimento de Transporte Eletrônico (CT-e)?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "obrigatórios que registram a transação de compra e venda de produtos ou serviços"
+        },
+        {
+          "id": "b",
+          "text": "É um documento digital que substitui a nota fiscal em papel"
+        },
+        {
+          "id": "c",
+          "text": "Utilizada por prestadores de serviço, como advogados e consultores"
+        },
+        {
+          "id": "d",
+          "text": "É feita pelo transportador e inclui informações sobre a carga, veículo e motorista"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Qual conceito corresponde a descricao: obrigatórios que registram a transação de compra e venda de produtos ou serviços?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Notas Fiscais Notas fiscais são documentos fiscais"
+        },
+        {
+          "id": "b",
+          "text": "Nota Fiscal Eletrônica (NF-e)"
+        },
+        {
+          "id": "c",
+          "text": "Nota Fiscal de Serviço Eletrônica (NFS-e) Focada na prestação de serviços."
+        },
+        {
+          "id": "d",
+          "text": "Nota Fiscal do Consumidor Eletrônica (NFC-e)"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Qual conceito corresponde a descricao: É um documento digital que substitui a nota fiscal em papel?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nota Fiscal Eletrônica (NF-e)"
+        },
+        {
+          "id": "b",
+          "text": "Nota Fiscal de Serviço Eletrônica (NFS-e) Focada na prestação de serviços."
+        },
+        {
+          "id": "c",
+          "text": "Nota Fiscal do Consumidor Eletrônica (NFC-e)"
+        },
+        {
+          "id": "d",
+          "text": "Conhecimento de Transporte Eletrônico (CT-e)"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Qual conceito corresponde a descricao: Utilizada por prestadores de serviço, como advogados e consultores?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Notas Fiscais Notas fiscais são documentos fiscais"
+        },
+        {
+          "id": "b",
+          "text": "Nota Fiscal de Serviço Eletrônica (NFS-e) Focada na prestação de serviços."
+        },
+        {
+          "id": "c",
+          "text": "Nota Fiscal do Consumidor Eletrônica (NFC-e)"
+        },
+        {
+          "id": "d",
+          "text": "Conhecimento de Transporte Eletrônico (CT-e)"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Qual conceito corresponde a descricao: Utilizada para vendas no varejo, especialmente para o consumidor final?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Notas Fiscais Notas fiscais são documentos fiscais"
+        },
+        {
+          "id": "b",
+          "text": "Nota Fiscal Eletrônica (NF-e)"
+        },
+        {
+          "id": "c",
+          "text": "Nota Fiscal do Consumidor Eletrônica (NFC-e)"
+        },
+        {
+          "id": "d",
+          "text": "Conhecimento de Transporte Eletrônico (CT-e)"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Qual conceito corresponde a descricao: É feita pelo transportador e inclui informações sobre a carga, veículo e motorista?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Notas Fiscais Notas fiscais são documentos fiscais"
+        },
+        {
+          "id": "b",
+          "text": "Nota Fiscal Eletrônica (NF-e)"
+        },
+        {
+          "id": "c",
+          "text": "Nota Fiscal de Serviço Eletrônica (NFS-e) Focada na prestação de serviços."
+        },
+        {
+          "id": "d",
+          "text": "Conhecimento de Transporte Eletrônico (CT-e)"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

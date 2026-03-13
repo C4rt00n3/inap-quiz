@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Redes de Computadores Aula 2 - Avancado",
+  "subject": "Redes de Computadores",
+  "lesson": "Aula 2 - Tipos de Redes de Computadores e Suas Funções",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Tipos de Redes de Computadores e Suas Funções de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "esta aula, aprofundamos o estudo sobre os tipos de redes e suas funções, a classificação das redes e as diferentes topologias utilizadas"
+        },
+        {
+          "id": "b",
+          "text": "As redes de computadores podem ser classificadas em três principais categorias de acordo com o alcance e a escala:"
+        },
+        {
+          "id": "c",
+          "text": "LAN é um tipo de rede que cobre uma área geográfica pequena, como uma casa, um escritório, ou uma escola"
+        },
+        {
+          "id": "d",
+          "text": "MAN é um tipo de rede que cobre uma área maior do que a LAN, mas menor do que uma WAN"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Classificação das Redes de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "As redes de computadores podem ser classificadas em três principais categorias de acordo com o alcance e a escala:"
+        },
+        {
+          "id": "b",
+          "text": "LAN é um tipo de rede que cobre uma área geográfica pequena, como uma casa, um escritório, ou uma escola"
+        },
+        {
+          "id": "c",
+          "text": "MAN é um tipo de rede que cobre uma área maior do que a LAN, mas menor do que uma WAN"
+        },
+        {
+          "id": "d",
+          "text": "WAN é uma rede que cobre grandes distâncias geográficas, como estados, países ou até continentes"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar O que é uma LAN? de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "esta aula, aprofundamos o estudo sobre os tipos de redes e suas funções, a classificação das redes e as diferentes topologias utilizadas"
+        },
+        {
+          "id": "b",
+          "text": "LAN é um tipo de rede que cobre uma área geográfica pequena, como uma casa, um escritório, ou uma escola"
+        },
+        {
+          "id": "c",
+          "text": "MAN é um tipo de rede que cobre uma área maior do que a LAN, mas menor do que uma WAN"
+        },
+        {
+          "id": "d",
+          "text": "WAN é uma rede que cobre grandes distâncias geográficas, como estados, países ou até continentes"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar O que é uma MAN? de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "esta aula, aprofundamos o estudo sobre os tipos de redes e suas funções, a classificação das redes e as diferentes topologias utilizadas"
+        },
+        {
+          "id": "b",
+          "text": "As redes de computadores podem ser classificadas em três principais categorias de acordo com o alcance e a escala:"
+        },
+        {
+          "id": "c",
+          "text": "MAN é um tipo de rede que cobre uma área maior do que a LAN, mas menor do que uma WAN"
+        },
+        {
+          "id": "d",
+          "text": "WAN é uma rede que cobre grandes distâncias geográficas, como estados, países ou até continentes"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar O que é uma WAN? de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "esta aula, aprofundamos o estudo sobre os tipos de redes e suas funções, a classificação das redes e as diferentes topologias utilizadas"
+        },
+        {
+          "id": "b",
+          "text": "As redes de computadores podem ser classificadas em três principais categorias de acordo com o alcance e a escala:"
+        },
+        {
+          "id": "c",
+          "text": "LAN é um tipo de rede que cobre uma área geográfica pequena, como uma casa, um escritório, ou uma escola"
+        },
+        {
+          "id": "d",
+          "text": "WAN é uma rede que cobre grandes distâncias geográficas, como estados, países ou até continentes"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Para tomada de decisao, considere a descricao: esta aula, aprofundamos o estudo sobre os tipos de redes e suas funções, a classificação das redes e as diferentes topologias utilizadas. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tipos de Redes de Computadores e Suas Funções"
+        },
+        {
+          "id": "b",
+          "text": "Classificação das Redes"
+        },
+        {
+          "id": "c",
+          "text": "O que é uma LAN?"
+        },
+        {
+          "id": "d",
+          "text": "O que é uma MAN?"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Para tomada de decisao, considere a descricao: As redes de computadores podem ser classificadas em três principais categorias de acordo com o alcance e a escala:. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Classificação das Redes"
+        },
+        {
+          "id": "b",
+          "text": "O que é uma LAN?"
+        },
+        {
+          "id": "c",
+          "text": "O que é uma MAN?"
+        },
+        {
+          "id": "d",
+          "text": "O que é uma WAN?"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Para tomada de decisao, considere a descricao: LAN é um tipo de rede que cobre uma área geográfica pequena, como uma casa, um escritório, ou uma escola. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tipos de Redes de Computadores e Suas Funções"
+        },
+        {
+          "id": "b",
+          "text": "O que é uma LAN?"
+        },
+        {
+          "id": "c",
+          "text": "O que é uma MAN?"
+        },
+        {
+          "id": "d",
+          "text": "O que é uma WAN?"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Para tomada de decisao, considere a descricao: MAN é um tipo de rede que cobre uma área maior do que a LAN, mas menor do que uma WAN. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tipos de Redes de Computadores e Suas Funções"
+        },
+        {
+          "id": "b",
+          "text": "Classificação das Redes"
+        },
+        {
+          "id": "c",
+          "text": "O que é uma MAN?"
+        },
+        {
+          "id": "d",
+          "text": "O que é uma WAN?"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Para tomada de decisao, considere a descricao: WAN é uma rede que cobre grandes distâncias geográficas, como estados, países ou até continentes. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tipos de Redes de Computadores e Suas Funções"
+        },
+        {
+          "id": "b",
+          "text": "Classificação das Redes"
+        },
+        {
+          "id": "c",
+          "text": "O que é uma LAN?"
+        },
+        {
+          "id": "d",
+          "text": "O que é uma WAN?"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

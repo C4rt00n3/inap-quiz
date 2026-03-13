@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Administrativo Informatizado Aula 8 - Basico",
+  "subject": "Administrativo Informatizado",
+  "lesson": "Aula 8 - Introdução ao Excel no Ambiente Administrativo",
+  "level": "Basico",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Qual alternativa define corretamente Barra de Ferramentas de Acesso Rápido?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "A Barra de Ferramentas de Acesso Rápido está localizada no canto superior esquerdo da janela do Excel"
+        },
+        {
+          "id": "b",
+          "text": "A Faixa de Opções é uma das características mais proeminentes do Excel, localizada logo abaixo da Barra de Ferramentas de Acesso Rápido"
+        },
+        {
+          "id": "c",
+          "text": "Dentro de cada guia, os comandos são organizados em grupos relacionados"
+        },
+        {
+          "id": "d",
+          "text": "A Barra de Fórmulas está localizada acima da área da planilha e abaixo da Faixa de Opções"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Qual alternativa define corretamente Guias da Faixa de Opções?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "A Faixa de Opções é uma das características mais proeminentes do Excel, localizada logo abaixo da Barra de Ferramentas de Acesso Rápido"
+        },
+        {
+          "id": "b",
+          "text": "Dentro de cada guia, os comandos são organizados em grupos relacionados"
+        },
+        {
+          "id": "c",
+          "text": "A Barra de Fórmulas está localizada acima da área da planilha e abaixo da Faixa de Opções"
+        },
+        {
+          "id": "d",
+          "text": "No Excel, a estrutura básica de uma planilha é composta por células organizadas em linhas e colunas"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Qual alternativa define corretamente Grupos de Comandos?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "A Barra de Ferramentas de Acesso Rápido está localizada no canto superior esquerdo da janela do Excel"
+        },
+        {
+          "id": "b",
+          "text": "Dentro de cada guia, os comandos são organizados em grupos relacionados"
+        },
+        {
+          "id": "c",
+          "text": "A Barra de Fórmulas está localizada acima da área da planilha e abaixo da Faixa de Opções"
+        },
+        {
+          "id": "d",
+          "text": "No Excel, a estrutura básica de uma planilha é composta por células organizadas em linhas e colunas"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Qual alternativa define corretamente Barra de Fórmulas?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "A Barra de Ferramentas de Acesso Rápido está localizada no canto superior esquerdo da janela do Excel"
+        },
+        {
+          "id": "b",
+          "text": "A Faixa de Opções é uma das características mais proeminentes do Excel, localizada logo abaixo da Barra de Ferramentas de Acesso Rápido"
+        },
+        {
+          "id": "c",
+          "text": "A Barra de Fórmulas está localizada acima da área da planilha e abaixo da Faixa de Opções"
+        },
+        {
+          "id": "d",
+          "text": "No Excel, a estrutura básica de uma planilha é composta por células organizadas em linhas e colunas"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Qual alternativa define corretamente Células, Linhas e Colunas?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "A Barra de Ferramentas de Acesso Rápido está localizada no canto superior esquerdo da janela do Excel"
+        },
+        {
+          "id": "b",
+          "text": "A Faixa de Opções é uma das características mais proeminentes do Excel, localizada logo abaixo da Barra de Ferramentas de Acesso Rápido"
+        },
+        {
+          "id": "c",
+          "text": "Dentro de cada guia, os comandos são organizados em grupos relacionados"
+        },
+        {
+          "id": "d",
+          "text": "No Excel, a estrutura básica de uma planilha é composta por células organizadas em linhas e colunas"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Qual conceito corresponde a descricao: A Barra de Ferramentas de Acesso Rápido está localizada no canto superior esquerdo da janela do Excel?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Barra de Ferramentas de Acesso Rápido"
+        },
+        {
+          "id": "b",
+          "text": "Guias da Faixa de Opções"
+        },
+        {
+          "id": "c",
+          "text": "Grupos de Comandos"
+        },
+        {
+          "id": "d",
+          "text": "Barra de Fórmulas"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Qual conceito corresponde a descricao: A Faixa de Opções é uma das características mais proeminentes do Excel, localizada logo abaixo da Barra de Ferramentas de Acesso Rápido?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Guias da Faixa de Opções"
+        },
+        {
+          "id": "b",
+          "text": "Grupos de Comandos"
+        },
+        {
+          "id": "c",
+          "text": "Barra de Fórmulas"
+        },
+        {
+          "id": "d",
+          "text": "Células, Linhas e Colunas"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Qual conceito corresponde a descricao: Dentro de cada guia, os comandos são organizados em grupos relacionados?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Barra de Ferramentas de Acesso Rápido"
+        },
+        {
+          "id": "b",
+          "text": "Grupos de Comandos"
+        },
+        {
+          "id": "c",
+          "text": "Barra de Fórmulas"
+        },
+        {
+          "id": "d",
+          "text": "Células, Linhas e Colunas"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Qual conceito corresponde a descricao: A Barra de Fórmulas está localizada acima da área da planilha e abaixo da Faixa de Opções?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Barra de Ferramentas de Acesso Rápido"
+        },
+        {
+          "id": "b",
+          "text": "Guias da Faixa de Opções"
+        },
+        {
+          "id": "c",
+          "text": "Barra de Fórmulas"
+        },
+        {
+          "id": "d",
+          "text": "Células, Linhas e Colunas"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Qual conceito corresponde a descricao: No Excel, a estrutura básica de uma planilha é composta por células organizadas em linhas e colunas?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Barra de Ferramentas de Acesso Rápido"
+        },
+        {
+          "id": "b",
+          "text": "Guias da Faixa de Opções"
+        },
+        {
+          "id": "c",
+          "text": "Grupos de Comandos"
+        },
+        {
+          "id": "d",
+          "text": "Células, Linhas e Colunas"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

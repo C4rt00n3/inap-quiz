@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Redes de Computadores Aula 13 - Intermediario",
+  "subject": "Redes de Computadores",
+  "lesson": "Aula 13 - Internet das Coisas (IoT)",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou Redes Domésticas e Dispositivos IoT. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "esta aula aprendemos como funcionam as redes domésticas modernas e de que forma os dispositivos inteligentes (IoT – Internet of Things) se conectam para oferecer automação e praticidade no dia a dia"
+        },
+        {
+          "id": "b",
+          "text": "O Home Gateway é o equipamento central de uma rede doméstica"
+        },
+        {
+          "id": "c",
+          "text": "Os dispositivos IoT são equipamentos que se conectam à internet ou à rede local para realizar funções inteligentes"
+        },
+        {
+          "id": "d",
+          "text": "O IoT Monitor é uma ferramenta presente no Home Gateway dentro do Packet Tracer que permite visualizar e gerenciar todos os dispositivos IoT conectados à rede"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou O que é o Home Gateway. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "O Home Gateway é o equipamento central de uma rede doméstica"
+        },
+        {
+          "id": "b",
+          "text": "Os dispositivos IoT são equipamentos que se conectam à internet ou à rede local para realizar funções inteligentes"
+        },
+        {
+          "id": "c",
+          "text": "O IoT Monitor é uma ferramenta presente no Home Gateway dentro do Packet Tracer que permite visualizar e gerenciar todos os dispositivos IoT conectados à rede"
+        },
+        {
+          "id": "d",
+          "text": "Em uma rede mais avançada, é possível configurar um servidor para oferecer serviços adicionais, como hospedagem de páginas, controle de usuários ou autenticação da rede"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou Dispositivos IoT e seu papel na rede. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "esta aula aprendemos como funcionam as redes domésticas modernas e de que forma os dispositivos inteligentes (IoT – Internet of Things) se conectam para oferecer automação e praticidade no dia a dia"
+        },
+        {
+          "id": "b",
+          "text": "Os dispositivos IoT são equipamentos que se conectam à internet ou à rede local para realizar funções inteligentes"
+        },
+        {
+          "id": "c",
+          "text": "O IoT Monitor é uma ferramenta presente no Home Gateway dentro do Packet Tracer que permite visualizar e gerenciar todos os dispositivos IoT conectados à rede"
+        },
+        {
+          "id": "d",
+          "text": "Em uma rede mais avançada, é possível configurar um servidor para oferecer serviços adicionais, como hospedagem de páginas, controle de usuários ou autenticação da rede"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou O botão IoT Monitor. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "esta aula aprendemos como funcionam as redes domésticas modernas e de que forma os dispositivos inteligentes (IoT – Internet of Things) se conectam para oferecer automação e praticidade no dia a dia"
+        },
+        {
+          "id": "b",
+          "text": "O Home Gateway é o equipamento central de uma rede doméstica"
+        },
+        {
+          "id": "c",
+          "text": "O IoT Monitor é uma ferramenta presente no Home Gateway dentro do Packet Tracer que permite visualizar e gerenciar todos os dispositivos IoT conectados à rede"
+        },
+        {
+          "id": "d",
+          "text": "Em uma rede mais avançada, é possível configurar um servidor para oferecer serviços adicionais, como hospedagem de páginas, controle de usuários ou autenticação da rede"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou Preparação do Servidor. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "esta aula aprendemos como funcionam as redes domésticas modernas e de que forma os dispositivos inteligentes (IoT – Internet of Things) se conectam para oferecer automação e praticidade no dia a dia"
+        },
+        {
+          "id": "b",
+          "text": "O Home Gateway é o equipamento central de uma rede doméstica"
+        },
+        {
+          "id": "c",
+          "text": "Os dispositivos IoT são equipamentos que se conectam à internet ou à rede local para realizar funções inteligentes"
+        },
+        {
+          "id": "d",
+          "text": "Em uma rede mais avançada, é possível configurar um servidor para oferecer serviços adicionais, como hospedagem de páginas, controle de usuários ou autenticação da rede"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Em um caso pratico, observou-se: esta aula aprendemos como funcionam as redes domésticas modernas e de que forma os dispositivos inteligentes (IoT – Internet of Things) se conectam para oferecer automação e praticidade no dia a dia. Qual conceito deve ser identificado?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Redes Domésticas e Dispositivos IoT"
+        },
+        {
+          "id": "b",
+          "text": "O que é o Home Gateway"
+        },
+        {
+          "id": "c",
+          "text": "Dispositivos IoT e seu papel na rede"
+        },
+        {
+          "id": "d",
+          "text": "O botão IoT Monitor"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: O Home Gateway é o equipamento central de uma rede doméstica. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "O que é o Home Gateway"
+        },
+        {
+          "id": "b",
+          "text": "Dispositivos IoT e seu papel na rede"
+        },
+        {
+          "id": "c",
+          "text": "O botão IoT Monitor"
+        },
+        {
+          "id": "d",
+          "text": "Preparação do Servidor"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: Os dispositivos IoT são equipamentos que se conectam à internet ou à rede local para realizar funções inteligentes. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Redes Domésticas e Dispositivos IoT"
+        },
+        {
+          "id": "b",
+          "text": "Dispositivos IoT e seu papel na rede"
+        },
+        {
+          "id": "c",
+          "text": "O botão IoT Monitor"
+        },
+        {
+          "id": "d",
+          "text": "Preparação do Servidor"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: O IoT Monitor é uma ferramenta presente no Home Gateway dentro do Packet Tracer que permite visualizar e gerenciar todos os dispositivos IoT conectados à rede. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Redes Domésticas e Dispositivos IoT"
+        },
+        {
+          "id": "b",
+          "text": "O que é o Home Gateway"
+        },
+        {
+          "id": "c",
+          "text": "O botão IoT Monitor"
+        },
+        {
+          "id": "d",
+          "text": "Preparação do Servidor"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: Em uma rede mais avançada, é possível configurar um servidor para oferecer serviços adicionais, como hospedagem de páginas, controle de usuários ou autenticação da rede. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Redes Domésticas e Dispositivos IoT"
+        },
+        {
+          "id": "b",
+          "text": "O que é o Home Gateway"
+        },
+        {
+          "id": "c",
+          "text": "Dispositivos IoT e seu papel na rede"
+        },
+        {
+          "id": "d",
+          "text": "Preparação do Servidor"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

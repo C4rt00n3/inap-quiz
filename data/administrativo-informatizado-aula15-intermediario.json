@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Administrativo Informatizado Aula 15 - Intermediario",
+  "subject": "Administrativo Informatizado",
+  "lesson": "Aula 15 - Gerenciamento do Tempo",
+  "level": "Intermediario",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Durante uma rotina de estudo, a equipe citou Técnicas de Gerenciamento do Tempo. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Existem diversas ferramentas e técnicas que podem ajudar a otimizar o gerenciamento do tempo"
+        },
+        {
+          "id": "b",
+          "text": "A priorização de tarefas é fundamental para uma gestão eficaz do tempo"
+        },
+        {
+          "id": "c",
+          "text": "Melhorar a concentração é essencial para aumentar a produtividade e garantir que as tarefas sejam concluídas com eficiência"
+        },
+        {
+          "id": "d",
+          "text": "Aumentar a produtividade é um objetivo comum para muitas pessoas e pode ser alcançado através de várias estratégias"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Durante uma rotina de estudo, a equipe citou Priorização de Tarefas. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "A priorização de tarefas é fundamental para uma gestão eficaz do tempo"
+        },
+        {
+          "id": "b",
+          "text": "Melhorar a concentração é essencial para aumentar a produtividade e garantir que as tarefas sejam concluídas com eficiência"
+        },
+        {
+          "id": "c",
+          "text": "Aumentar a produtividade é um objetivo comum para muitas pessoas e pode ser alcançado através de várias estratégias"
+        },
+        {
+          "id": "d",
+          "text": "O Trello é uma ferramenta digital popular para gerenciamento de projetos e tarefas"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Durante uma rotina de estudo, a equipe citou Melhoria da Concentração. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Existem diversas ferramentas e técnicas que podem ajudar a otimizar o gerenciamento do tempo"
+        },
+        {
+          "id": "b",
+          "text": "Melhorar a concentração é essencial para aumentar a produtividade e garantir que as tarefas sejam concluídas com eficiência"
+        },
+        {
+          "id": "c",
+          "text": "Aumentar a produtividade é um objetivo comum para muitas pessoas e pode ser alcançado através de várias estratégias"
+        },
+        {
+          "id": "d",
+          "text": "O Trello é uma ferramenta digital popular para gerenciamento de projetos e tarefas"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Durante uma rotina de estudo, a equipe citou Aumento da Produtividade. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Existem diversas ferramentas e técnicas que podem ajudar a otimizar o gerenciamento do tempo"
+        },
+        {
+          "id": "b",
+          "text": "A priorização de tarefas é fundamental para uma gestão eficaz do tempo"
+        },
+        {
+          "id": "c",
+          "text": "Aumentar a produtividade é um objetivo comum para muitas pessoas e pode ser alcançado através de várias estratégias"
+        },
+        {
+          "id": "d",
+          "text": "O Trello é uma ferramenta digital popular para gerenciamento de projetos e tarefas"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Durante uma rotina de estudo, a equipe citou Ferramentas de Produtividade Digital. Qual descricao esta correta para aplicar o conceito?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Existem diversas ferramentas e técnicas que podem ajudar a otimizar o gerenciamento do tempo"
+        },
+        {
+          "id": "b",
+          "text": "A priorização de tarefas é fundamental para uma gestão eficaz do tempo"
+        },
+        {
+          "id": "c",
+          "text": "Melhorar a concentração é essencial para aumentar a produtividade e garantir que as tarefas sejam concluídas com eficiência"
+        },
+        {
+          "id": "d",
+          "text": "O Trello é uma ferramenta digital popular para gerenciamento de projetos e tarefas"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Em um caso pratico, observou-se: Existem diversas ferramentas e técnicas que podem ajudar a otimizar o gerenciamento do tempo. Qual conceito deve ser identificado?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Técnicas de Gerenciamento do Tempo"
+        },
+        {
+          "id": "b",
+          "text": "Priorização de Tarefas"
+        },
+        {
+          "id": "c",
+          "text": "Melhoria da Concentração"
+        },
+        {
+          "id": "d",
+          "text": "Aumento da Produtividade"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Em um caso pratico, observou-se: A priorização de tarefas é fundamental para uma gestão eficaz do tempo. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Priorização de Tarefas"
+        },
+        {
+          "id": "b",
+          "text": "Melhoria da Concentração"
+        },
+        {
+          "id": "c",
+          "text": "Aumento da Produtividade"
+        },
+        {
+          "id": "d",
+          "text": "Ferramentas de Produtividade Digital"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Em um caso pratico, observou-se: Melhorar a concentração é essencial para aumentar a produtividade e garantir que as tarefas sejam concluídas com eficiência. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Técnicas de Gerenciamento do Tempo"
+        },
+        {
+          "id": "b",
+          "text": "Melhoria da Concentração"
+        },
+        {
+          "id": "c",
+          "text": "Aumento da Produtividade"
+        },
+        {
+          "id": "d",
+          "text": "Ferramentas de Produtividade Digital"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Em um caso pratico, observou-se: Aumentar a produtividade é um objetivo comum para muitas pessoas e pode ser alcançado através de várias estratégias. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Técnicas de Gerenciamento do Tempo"
+        },
+        {
+          "id": "b",
+          "text": "Priorização de Tarefas"
+        },
+        {
+          "id": "c",
+          "text": "Aumento da Produtividade"
+        },
+        {
+          "id": "d",
+          "text": "Ferramentas de Produtividade Digital"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Em um caso pratico, observou-se: O Trello é uma ferramenta digital popular para gerenciamento de projetos e tarefas. Qual conceito deve ser identificado?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Técnicas de Gerenciamento do Tempo"
+        },
+        {
+          "id": "b",
+          "text": "Priorização de Tarefas"
+        },
+        {
+          "id": "c",
+          "text": "Melhoria da Concentração"
+        },
+        {
+          "id": "d",
+          "text": "Ferramentas de Produtividade Digital"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

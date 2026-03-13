@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Redes de Computadores Aula 1 - Basico",
+  "subject": "Redes de Computadores",
+  "lesson": "Aula 1 - Introdução às Redes de Computadores",
+  "level": "Basico",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Qual alternativa define corretamente Bem-vindo ao Mundo das Redes de Computadores!?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "esta primeira aula, exploramos os fundamentos das redes de computadores, desde sua história até conceitos básicos, ferramentas e aplicações"
+        },
+        {
+          "id": "b",
+          "text": "As redes de computadores surgiram em um contexto histórico marcado pela Guerra Fria, um período de tensão política e avanços tecnológicos"
+        },
+        {
+          "id": "c",
+          "text": "A ARPANET trouxe avanços como a comutação de pacotes, uma tecnologia que divide os dados em pequenos blocos para transmissão, aumentando a eficiência e confiabilidade"
+        },
+        {
+          "id": "d",
+          "text": "No Brasil, as redes de computadores começaram a ser desenvolvidas nos anos 1980, com iniciativas como a Rede Nacional de Ensino e Pesquisa (RNP)"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Qual alternativa define corretamente A Origem?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "As redes de computadores surgiram em um contexto histórico marcado pela Guerra Fria, um período de tensão política e avanços tecnológicos"
+        },
+        {
+          "id": "b",
+          "text": "A ARPANET trouxe avanços como a comutação de pacotes, uma tecnologia que divide os dados em pequenos blocos para transmissão, aumentando a eficiência e confiabilidade"
+        },
+        {
+          "id": "c",
+          "text": "No Brasil, as redes de computadores começaram a ser desenvolvidas nos anos 1980, com iniciativas como a Rede Nacional de Ensino e Pesquisa (RNP)"
+        },
+        {
+          "id": "d",
+          "text": "Uma rede de computadores consiste em dois ou mais dispositivos interconectados que compartilham dados e recursos"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Qual alternativa define corretamente Tecnologias Pioneiras?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "esta primeira aula, exploramos os fundamentos das redes de computadores, desde sua história até conceitos básicos, ferramentas e aplicações"
+        },
+        {
+          "id": "b",
+          "text": "A ARPANET trouxe avanços como a comutação de pacotes, uma tecnologia que divide os dados em pequenos blocos para transmissão, aumentando a eficiência e confiabilidade"
+        },
+        {
+          "id": "c",
+          "text": "No Brasil, as redes de computadores começaram a ser desenvolvidas nos anos 1980, com iniciativas como a Rede Nacional de Ensino e Pesquisa (RNP)"
+        },
+        {
+          "id": "d",
+          "text": "Uma rede de computadores consiste em dois ou mais dispositivos interconectados que compartilham dados e recursos"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Qual alternativa define corretamente Redes no Brasil?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "esta primeira aula, exploramos os fundamentos das redes de computadores, desde sua história até conceitos básicos, ferramentas e aplicações"
+        },
+        {
+          "id": "b",
+          "text": "As redes de computadores surgiram em um contexto histórico marcado pela Guerra Fria, um período de tensão política e avanços tecnológicos"
+        },
+        {
+          "id": "c",
+          "text": "No Brasil, as redes de computadores começaram a ser desenvolvidas nos anos 1980, com iniciativas como a Rede Nacional de Ensino e Pesquisa (RNP)"
+        },
+        {
+          "id": "d",
+          "text": "Uma rede de computadores consiste em dois ou mais dispositivos interconectados que compartilham dados e recursos"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Qual alternativa define corretamente O Que É Uma Rede de Computadores??",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "esta primeira aula, exploramos os fundamentos das redes de computadores, desde sua história até conceitos básicos, ferramentas e aplicações"
+        },
+        {
+          "id": "b",
+          "text": "As redes de computadores surgiram em um contexto histórico marcado pela Guerra Fria, um período de tensão política e avanços tecnológicos"
+        },
+        {
+          "id": "c",
+          "text": "A ARPANET trouxe avanços como a comutação de pacotes, uma tecnologia que divide os dados em pequenos blocos para transmissão, aumentando a eficiência e confiabilidade"
+        },
+        {
+          "id": "d",
+          "text": "Uma rede de computadores consiste em dois ou mais dispositivos interconectados que compartilham dados e recursos"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Qual conceito corresponde a descricao: esta primeira aula, exploramos os fundamentos das redes de computadores, desde sua história até conceitos básicos, ferramentas e aplicações?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bem-vindo ao Mundo das Redes de Computadores!"
+        },
+        {
+          "id": "b",
+          "text": "A Origem"
+        },
+        {
+          "id": "c",
+          "text": "Tecnologias Pioneiras"
+        },
+        {
+          "id": "d",
+          "text": "Redes no Brasil"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Qual conceito corresponde a descricao: As redes de computadores surgiram em um contexto histórico marcado pela Guerra Fria, um período de tensão política e avanços tecnológicos?",
+      "difficulty": "Facil",
+      "options": [
+        {
+          "id": "a",
+          "text": "A Origem"
+        },
+        {
+          "id": "b",
+          "text": "Tecnologias Pioneiras"
+        },
+        {
+          "id": "c",
+          "text": "Redes no Brasil"
+        },
+        {
+          "id": "d",
+          "text": "O Que É Uma Rede de Computadores?"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Qual conceito corresponde a descricao: A ARPANET trouxe avanços como a comutação de pacotes, uma tecnologia que divide os dados em pequenos blocos para transmissão, aumentando a eficiência e confiabilidade?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bem-vindo ao Mundo das Redes de Computadores!"
+        },
+        {
+          "id": "b",
+          "text": "Tecnologias Pioneiras"
+        },
+        {
+          "id": "c",
+          "text": "Redes no Brasil"
+        },
+        {
+          "id": "d",
+          "text": "O Que É Uma Rede de Computadores?"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Qual conceito corresponde a descricao: No Brasil, as redes de computadores começaram a ser desenvolvidas nos anos 1980, com iniciativas como a Rede Nacional de Ensino e Pesquisa (RNP)?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bem-vindo ao Mundo das Redes de Computadores!"
+        },
+        {
+          "id": "b",
+          "text": "A Origem"
+        },
+        {
+          "id": "c",
+          "text": "Redes no Brasil"
+        },
+        {
+          "id": "d",
+          "text": "O Que É Uma Rede de Computadores?"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Qual conceito corresponde a descricao: Uma rede de computadores consiste em dois ou mais dispositivos interconectados que compartilham dados e recursos?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bem-vindo ao Mundo das Redes de Computadores!"
+        },
+        {
+          "id": "b",
+          "text": "A Origem"
+        },
+        {
+          "id": "c",
+          "text": "Tecnologias Pioneiras"
+        },
+        {
+          "id": "d",
+          "text": "O Que É Uma Rede de Computadores?"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}

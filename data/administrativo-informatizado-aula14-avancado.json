@@ -1,0 +1,248 @@
+{
+  "title": "Quiz - Administrativo Informatizado Aula 14 - Avancado",
+  "subject": "Administrativo Informatizado",
+  "lesson": "Aula 14 - Organização do Ambiente de Trabalho",
+  "level": "Avancado",
+  "questions": [
+    {
+      "id": "q1",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Organização de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "A organização no ambiente de trabalho não é apenas sobre manter o espaço físico em ordem"
+        },
+        {
+          "id": "b",
+          "text": "A desorganização pode ter efeitos negativos profundos em sua capacidade de trabalho e bem- estar"
+        },
+        {
+          "id": "c",
+          "text": "Acabamos de ver como a desorganização pode influenciar negativamente em nosso ambiente de trabalho"
+        },
+        {
+          "id": "d",
+          "text": "Um planejamento eficaz do espaço físico é crucial para criar um ambiente de trabalho produtivo e confortável"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q2",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Impacto da Desorganização de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "A desorganização pode ter efeitos negativos profundos em sua capacidade de trabalho e bem- estar"
+        },
+        {
+          "id": "b",
+          "text": "Acabamos de ver como a desorganização pode influenciar negativamente em nosso ambiente de trabalho"
+        },
+        {
+          "id": "c",
+          "text": "Um planejamento eficaz do espaço físico é crucial para criar um ambiente de trabalho produtivo e confortável"
+        },
+        {
+          "id": "d",
+          "text": "A gestão de tempo é essencial para maximizar a produtividade e alcançar objetivos"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q3",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Ferramentas e Técnicas de Organização de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Medio",
+      "options": [
+        {
+          "id": "a",
+          "text": "A organização no ambiente de trabalho não é apenas sobre manter o espaço físico em ordem"
+        },
+        {
+          "id": "b",
+          "text": "Acabamos de ver como a desorganização pode influenciar negativamente em nosso ambiente de trabalho"
+        },
+        {
+          "id": "c",
+          "text": "Um planejamento eficaz do espaço físico é crucial para criar um ambiente de trabalho produtivo e confortável"
+        },
+        {
+          "id": "d",
+          "text": "A gestão de tempo é essencial para maximizar a produtividade e alcançar objetivos"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q4",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Planejamento do Espaço Físico de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "A organização no ambiente de trabalho não é apenas sobre manter o espaço físico em ordem"
+        },
+        {
+          "id": "b",
+          "text": "A desorganização pode ter efeitos negativos profundos em sua capacidade de trabalho e bem- estar"
+        },
+        {
+          "id": "c",
+          "text": "Um planejamento eficaz do espaço físico é crucial para criar um ambiente de trabalho produtivo e confortável"
+        },
+        {
+          "id": "d",
+          "text": "A gestão de tempo é essencial para maximizar a produtividade e alcançar objetivos"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q5",
+      "statement": "Em uma analise tecnica, foi necessario diferenciar Gestão de Tempo e Prioridades de conceitos proximos. Qual descricao e mais precisa?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "A organização no ambiente de trabalho não é apenas sobre manter o espaço físico em ordem"
+        },
+        {
+          "id": "b",
+          "text": "A desorganização pode ter efeitos negativos profundos em sua capacidade de trabalho e bem- estar"
+        },
+        {
+          "id": "c",
+          "text": "Acabamos de ver como a desorganização pode influenciar negativamente em nosso ambiente de trabalho"
+        },
+        {
+          "id": "d",
+          "text": "A gestão de tempo é essencial para maximizar a produtividade e alcançar objetivos"
+        }
+      ],
+      "correctOptionId": "d"
+    },
+    {
+      "id": "q6",
+      "statement": "Para tomada de decisao, considere a descricao: A organização no ambiente de trabalho não é apenas sobre manter o espaço físico em ordem. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Organização"
+        },
+        {
+          "id": "b",
+          "text": "Impacto da Desorganização"
+        },
+        {
+          "id": "c",
+          "text": "Ferramentas e Técnicas de Organização"
+        },
+        {
+          "id": "d",
+          "text": "Planejamento do Espaço Físico"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q7",
+      "statement": "Para tomada de decisao, considere a descricao: A desorganização pode ter efeitos negativos profundos em sua capacidade de trabalho e bem- estar. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Impacto da Desorganização"
+        },
+        {
+          "id": "b",
+          "text": "Ferramentas e Técnicas de Organização"
+        },
+        {
+          "id": "c",
+          "text": "Planejamento do Espaço Físico"
+        },
+        {
+          "id": "d",
+          "text": "Gestão de Tempo e Prioridades"
+        }
+      ],
+      "correctOptionId": "a"
+    },
+    {
+      "id": "q8",
+      "statement": "Para tomada de decisao, considere a descricao: Acabamos de ver como a desorganização pode influenciar negativamente em nosso ambiente de trabalho. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Organização"
+        },
+        {
+          "id": "b",
+          "text": "Ferramentas e Técnicas de Organização"
+        },
+        {
+          "id": "c",
+          "text": "Planejamento do Espaço Físico"
+        },
+        {
+          "id": "d",
+          "text": "Gestão de Tempo e Prioridades"
+        }
+      ],
+      "correctOptionId": "b"
+    },
+    {
+      "id": "q9",
+      "statement": "Para tomada de decisao, considere a descricao: Um planejamento eficaz do espaço físico é crucial para criar um ambiente de trabalho produtivo e confortável. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Organização"
+        },
+        {
+          "id": "b",
+          "text": "Impacto da Desorganização"
+        },
+        {
+          "id": "c",
+          "text": "Planejamento do Espaço Físico"
+        },
+        {
+          "id": "d",
+          "text": "Gestão de Tempo e Prioridades"
+        }
+      ],
+      "correctOptionId": "c"
+    },
+    {
+      "id": "q10",
+      "statement": "Para tomada de decisao, considere a descricao: A gestão de tempo é essencial para maximizar a produtividade e alcançar objetivos. Qual conceito representa melhor essa condicao?",
+      "difficulty": "Dificil",
+      "options": [
+        {
+          "id": "a",
+          "text": "Organização"
+        },
+        {
+          "id": "b",
+          "text": "Impacto da Desorganização"
+        },
+        {
+          "id": "c",
+          "text": "Ferramentas e Técnicas de Organização"
+        },
+        {
+          "id": "d",
+          "text": "Gestão de Tempo e Prioridades"
+        }
+      ],
+      "correctOptionId": "d"
+    }
+  ]
+}
